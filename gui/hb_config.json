@@ -1,0 +1,11 @@
+{
+    "hb_preloaded_fonts_path" : "gui/dist/hbui/fonts/",
+    "hb_entry_point" : "detailed_test_screen/dist/index.html",
+    "hb_default_font" : "Noto Sans",
+    "hb_use_dedicated_layout_thread" : true,
+    "hb_num_worker_threads" : 2,
+    "hb_worker_pool_name" : "Hummingbird Worker Pool",
+    "hb_worker_thread_name" :  "Hummingbird Worker Thread",
+    "hb_scheduler_name" : "Hummingbird Scheduler",
+    "hb_task_group_name" : "Hummingbird Task Group"
+}

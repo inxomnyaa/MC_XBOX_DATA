@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Fuse",
+      "dest": "Fuse",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "custom_transformation": "TNTDefinition",
+      "dest": "definitions"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "piece_id": "2bb1473b-9a5c-4eae-9fd5-82302a6aa3da",
+  "piece_name": "steve_hair",
+  "piece_type": "persona_hair",
+  "texture_sources": [
+    {
+      "texture": "steve_hair_head.png",
+      "tint_map": "steve_hair_head_tintmap.tga",
+      "use_face_uv": true
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#8e340f"
+  },
+  "tint_color": {
+    "r_color": "#6d3923"
+  }
+}

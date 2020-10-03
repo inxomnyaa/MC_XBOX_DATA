@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ExplosionPower",
+      "dest": "ExplosionPower",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "custom_transformation": "GhastDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

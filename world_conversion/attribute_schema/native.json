@@ -1,0 +1,10 @@
+{
+    "minecraft:health": "minecraft:health",
+    "minecraft:follow_range": "minecraft:follow_range",
+    "minecraft:knockback_resistance": "minecraft:knockback_resistance",
+    "minecraft:movement": "minecraft:movement_speed",
+    "minecraft:attack_damage": "minecraft:attack_damage",
+    "minecraft:luck": "minecraft:luck",
+    "minecraft:horse.jump_strength": "minecraft:horse.jump_strength",
+    "minecraft:player.hunger": "minecraft:player.hunger"
+} 

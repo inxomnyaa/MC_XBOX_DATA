@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Xbox Live에 로그인하려면 헤드셋에서 전화를 제거하십시오.	#
+xblLogin.AddFriendMessageGearVR=Xbox Live 친구를 추가하려면 헤드셋에서 전화를 제거하십시오.	#
+xblLogin.LoginMessageRift=Xbox Live에 로그인하려면 헤드셋을 제거하십시오.	#
+xblLogin.AddFriendMessageRift=Xbox Live 친구를 추가하려면 헤드셋을 제거하십시오.	#
+xblLogin.ShowGamerCardMessageRift=게이머 카드를 보려면 헤드셋을 제거하십시오.	#
+
+LostFocus.Rift=마우스가 사라졌습니다! 마우스를 사용하려면 바탕화면에서 Minecraft를 선택하세요.	#
+
+vr.controls.HandControllerTracked=Oculus 터치 트래킹 감지됨	#
+vr.controls.HandControllerTrackingLost=Oculus 터치 트래킹 사라짐	#
+
+FileBrowser.Rift.Skin=사용자 지정 스킨을 선택하려면 헤드셋을 제거하십시오.	#
+FileBrowser.Rift.TemplateResource=템플릿 리소스를 선택하려면 헤드셋을 제거하세요.	#
+FileBrowser.Rift.Export=레벨을 내보내려면 헤드셋을 제거하십시오.	#
+FileBrowser.Rift.Import=레벨을 가져오려면 헤드셋을 제거하십시오.	#
+FileBrowser.Rift.ExportBook=책을 내보내려면 헤드셋을 제거하세요.	#
+FileBrowser.Rift.ExportPortfolio=포트폴리오를 내보내려면 헤드셋을 제거하십시오.	#
+FileBrowser.Rift.FileChooser=파일 선택	#
+FileBrowser.Rift.FolderChooser=폴더 선택	#
+FileBrowser.Rift.ExportWorld=월드 내보내기	#
+FileBrowser.Rift.ExportResourcesPrompt=리소스를 내보내기하려면 헤드셋을 제거하세요.	#
+FileBrowser.Rift.ExportResources=리소스 내보내기	#
+FileBrowser.Rift.SkinChooser=스킨 선택	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR 설정	#
+options.vrHideHud=HUD 숨기기	#
+options.vrHideHand=손 숨기기	#
+options.vrHideGUI=VR에서 GUI 숨기기	#
+options.vrGamma=VR 밝기	#
+options.vrMsaa=VR 안티앨리어싱	#
+options.vrRenderDistance=VR 렌더링 거리	#
+options.vrParticleRenderDistance=VR 입자 렌더링 거리	#
+options.vrResetPlayerAlignment=VR 정렬 초기화	#
+options.vrHMDdisplacement=HMD를 움직여 이동하십시오	#
+options.vrHeadSteering=VR 헤드 스티어링	#
+options.vrTurningOptions=터닝 옵션	#
+options.StutterTurn=VR 터닝	#
+options.StutterTurnSound=VR 터닝 사운드	#
+options.StutterConstantAngleOrTime=VR 턴 지속 시간 모드	#
+options.3DRendering=3D 렌더링	#
+options.vrHudAtTop=HUD 상단 배치	#
+options.vrAutojump=VR 자동 점프	#
+options.vrLinearJump=VR 선형 점프	#
+options.vrLinearMotion=VR 선형 모션	#
+options.stickyMining=고정 채굴	#
+options.stickyMiningHand=핸드 컨트롤러에서 고정 채굴	#
+options.vrMovingBackwardsHardStop=후진 시 정지	#
+options.comfortControls=VR 컨트롤	#
+options.ShowComfortSelectScreen=컨트롤 선택 화면 표시	#
+options.vrHudDrifts=HUD 드리프트	#
+options.vrLivingRoomCursorCentered=VR 거실 커서 중앙 이동	#
+options.vrTapTurn=탭 회전	#
+options.vrTapTurnSensitivity=탭 회전 감도	#
+options.vrRollTurning=원형 회전	#
+options.vrRollTurnSensitivity=원형 회전 감도	#
+options.vrHandControlsItem=핸드 컨트롤러가 아이템 컨트롤	#
+options.vrHandControlsHUD=핸드 컨트롤러가 HUD 컨트롤	#
+options.vrHandPointer=핸드 컨트롤러 포인터 표시	#
+options.vrHandsVisible=손 표시	#
+options.vr180Turning=스틱 180도 반전	#
+options.vrMirrorTexture=미러 텍스처 사용	#
+options.vrSensitivity=VR 민감도	#
+options.vrUIMouseSensitivity=VR UI 감도	#
+
+## VR control Scheme Strings
+vr.controls.title=VR 컨트롤	#
+
+vr.controls.title.classic=기본 컨트롤 - 강한 세기	#
+vr.controls.title.experimental=VR 컨트롤 - 중간 세기	#
+vr.controls.classicDescription=VR에 최적화되지 않은 기본 점프와 터닝입니다. 대부분의 사용자들이 편안하게 느끼는 정도의 강도입니다.	#
+vr.controls.experimentalDescription=터닝이 세그먼트 단위로 이루어집니다. 점프와 커서 이동 시 대부분의 사용자가 편안함을 느낄 수 있도록 VR에 최적화된 컨트롤입니다(실험적인 기능).	#
+vr.controls.sharedDescription=게임 내 옵션 메뉴에서 컨트롤을 변경할 수 있습니다.	#
+vr.moreOptions=추가 옵션...	#
+vr.moreInformation=추가 정보...	#
+vr.detailedInformation=더 편안한 VR 경험을 위해 일부 게임 기능이 조정되었습니다. 예를 들어, VR 터닝 기능은 어지러움을 최소화하기 위해 터닝 모션이 세그먼트 단위로 이루어집니다.	#
+vr.detailedInformationLink=VR 컨트롤 추가 정보와 뒷 이야기는 minecraft.net/vr에서 확인하실 수 있습니다.	#
+
+vr.pausescreen.recenterDevice=기기 중앙 재조정	#
+vr.pausescreen.recenterDeviceKeyboard=N을 눌러 기기를 다시 중앙에 맞춤	#
+vr.warning.controllerRequired=게임 컨트롤러 필요	#
+vr.warning.controllerRecommended=VR에 권장되는 게임 컨트롤러입니다	#
+vr.warning.controllerOrMouseRecommended=VR 사용 시 게임 컨트롤러나 마우스를 권장합니다.	#
+vr.warning.exitGameWarning=Minecraft를 종료하시겠습니까?	#
+vr.alignscreen.pressButtonX=계속하려면 컨트롤러의 'X' 버튼을 누르십시오	#
+vr.alignscreen.pressButtonXOrMouse=계속하려면 클릭하거나 컨트롤러의 아무 버튼이나 누르십시오.	#
+vr.alignscreen.pressButtonAOrSelectTrigger=게임 컨트롤러의 'A' 버튼을 누르거나 Windows Mixed Reality 컨트롤러에서 트리거를 선택하여 계속하세요.	#
+vr.alignscreen.pressAnyButton=중립 위치에 머리를 맞추고 아무 버튼이나 누르십시오	#
+vr.alignscreen.info=주의 사항: 이 기능은 실험적인 기능입니다. 일부 사용자들은 VR 사용 시 불편함을 느낄 수 있습니다. 필요한 경우 자주 휴식을 취하고 터치패드를 탭해서 덜 자극적인 거실 모드를 활용하는 것을 잊지 마십시오.	#
+vr.alignscreen.info_viewbutton=주의 사항: 이 기능은 실험적인 기능입니다. 일부 사용자들은 VR 사용 시 불편함을 느낄 수 있습니다. 필요한 경우 자주 휴식을 취하고 방향 패드 위쪽을 눌러서 덜 자극적인 거실 모드를 활용하는 것을 잊지 마십시오.	#
+
+accessibility.gamepad.button.systemLeft=버튼 선택	#
+accessibility.gamepad.button.systemRight=버튼 시작	#
+
+## Oculus Rift Installer
+ori.confirm.exit=게임을 종료하시겠습니까?	#
+ori.confirm.update=Minecraft를 업데이트하시겠습니까?	#
+ori.pending=Windows 업데이트 완료를 기다리고 있습니다.	#
+ori.installing=설치 중...	#
+ori.updating=업데이트 중...	#
+ori.launching=실행 중!	#
+ori.check_for_update=업데이트 확인 중...	#
+ori.error.unavailable=Minecraft를 이용할 수 없습니다. 인터넷에 연결되었으며 스토어에 로그인했는지 확인하십시오.	#
+ori.error.unknown=알 수 없는 오류가 발생했습니다. 나중에 다시 시도하십시오.	#
+ori.error.not_supported=이 시스템은 Minecraft를 지원하지 않습니다.	#
+ori.error.launch_failure=Minecraft를 실행하지 못했습니다.	#
+ori.error.version=Minecraft 버전이 오래되었습니다. 플레이하려면 업데이트하십시오.	#
+ori.error.win10=Windows 10 버전 1607 이상이 필요합니다.	#
+ori.error.install_error=오류가 발생했습니다. 오류 코드: 0x	#
+ori.error.low_storage=설치할 수 없습니다. 사용 가능한 용량이 부족합니다.	#
+ori.error.no_internet=연결할 수 없습니다. 인터넷 연결을 확인하십시오.	#
+ori.error.winUpdateDisabled=Windows 업데이트 사용 설정이 필요합니다.	#
+ori.confirm.controls.controller.confirm=확인	#
+ori.confirm.controls.controller.cancel=취소	#
+ori.confirm.controls.keyboard.confirm=확인: [Enter]	#
+ori.confirm.controls.keyboard.cancel=취소: [Esc]	#
+ori.exit.controls.controller=나가기	#
+ori.exit.controls.keyboard=종료: [Enter]	#
+ori.cancelling=취소 중...	#
+

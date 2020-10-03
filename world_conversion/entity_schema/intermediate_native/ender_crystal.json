@@ -1,0 +1,26 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "BlockTargetX",
+      "dest": "BlockTargetX",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "BlockTargetY",
+      "dest": "BlockTargetY",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "BlockTargetZ",
+      "dest": "BlockTargetZ",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    }
+  ]
+}

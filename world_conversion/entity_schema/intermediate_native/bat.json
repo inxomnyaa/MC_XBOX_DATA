@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "BatFlags",
+      "dest": "BatFlags",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "custom_transformation": "BatDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

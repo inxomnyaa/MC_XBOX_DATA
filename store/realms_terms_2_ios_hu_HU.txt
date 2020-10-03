@@ -1,0 +1,1 @@
+Az előfizetés összegét az iTunes-egyenlegedre terheljük a vásárlás megerősítésekor, és az előfizetés automatikusan megújul, hacsak az aktuális időszak lejárta előtt legalább 24 órával ki nem kapcsolod az automatikus megújítást. Az előfizetés összegét az aktuális időszak lejárta előtti 24 órán belül vonjuk le. A levont összeg a korábban kiválasztott előfizetés ára lesz.

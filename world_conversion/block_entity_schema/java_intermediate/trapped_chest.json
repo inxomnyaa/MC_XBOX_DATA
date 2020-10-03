@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "JavaInventoryToIntermediate"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    }
+  ]
+}

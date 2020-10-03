@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Fuse",
+      "dest": "Fuse",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "IsFuseLit",
+      "dest": "IsFuseLit",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "custom_transformation": "CreeperDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

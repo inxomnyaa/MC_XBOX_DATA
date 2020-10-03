@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=бутон „минус“	#
+accessibility.gamepad.button.systemRight=бутон „плюс“	#
+accessibility.gamepad.dpad.down=Бутон надолу	#
+accessibility.gamepad.dpad.up=Бутон нагоре	#
+accessibility.gamepad.dpad.left=Бутон наляво	#
+accessibility.gamepad.dpad.right=Бутон надясно	#
+accessibility.gamepad.trigger.right=бутон ZR	#
+accessibility.gamepad.trigger.left=бутон ZL	#
+accessibility.gamepad.bumper.right=бутон R	#
+accessibility.gamepad.bumper.left=бутон L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Настройки на акаунта в Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Настройки на акаунта в Microsoft	#
+
+patchNotice.title=Добре дошли в Minecraft – не пропускайте страхотното съдържание!	#
+patchNotice.description.onlineFeatures=Свържете Nintendo Switch към интернет, за да откриете нови начини за игра!	#
+patchNotice.description.onlineFeatures.item1=* Изтеглете безплатните пакети със съдържание за изтегляне, които получавате при покупката на играта.	#
+patchNotice.description.onlineFeatures.item2=* Открийте творби на общността на пазара, за да промените начина, по който играете.	#
+patchNotice.description.onlineFeatures.item3=* Играйте онлайн с приятели (дори на други устройства)!	#
+patchNotice.description.onlineFeatures.item4=* Актуализирайте играта с нови функции, съдържание и подобрения, които може да включват...	#
+patchNotice.description.freeUpdates.item1=* Нови блокове!	#
+patchNotice.description.freeUpdates.item2=* Нови предмети!	#
+patchNotice.description.freeUpdates.item3=* Нови мобове!	#
+patchNotice.description.freeUpdates.item4=* Нови генерирани структури!	#
+patchNotice.description.freeUpdates.item5=* Нови варианти на биоми!	#
+patchNotice.description.onlineFeatures.item5=Има налична актуализация в момента! Свържете Nintendo Switch към интернет, за да получите тази безплатна актуализация!	#
+
+thirdPartyConsole.network.networkName=Акаунт в Nintendo	#
+thirdPartyConsole.adhoc.title=Избор на мрежов режим	#
+thirdPartyConsole.adhoc.desc=Изберете „Локална мрежа“, за да се свържете с други системи Nintendo Switch наблизо, или „Онлайн мрежа“, за да се свържете с приятели по целия свят!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Свързване с	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Онлайн мрежа	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Свързване с	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Локална мрежа	#
+thirdPartyConsole.adhoc.onlineNetwork=Онлайн мрежа	#
+thirdPartyConsole.adhoc.localNetwork=Локална мрежа	#
+thirdPartyConsole.adhoc.enableOnline=Разрешаване на онлайн мрежа	#
+thirdPartyConsole.adhoc.enableLocal=Разрешаване на локална мрежа	#
+thirdPartyConsole.adhoc.inprogress=Извършваме някои бързи промени. Трябва ни само момент...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Свързани са твърде много контролери.	#
+thirdPartyConsole.adhoc.controllerwarning=Режимът на локална мрежа поддържа максимум 2 безжични свързани контролера (2 контролера Joy-Con или 2 контролера Pro). Връзката на другите контролери, които превишават това ограничение, се прекъсва.	#
+thirdPartyConsole.adhoc.store=Функциите на магазина са забранени в режим „Локална мрежа“	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Влизане в акаунт в Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Трябва да се свържете с онлайн мрежата, за да влезете в акаунт в Microsoft.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Свързване	#
+thirdPartyConsole.startmenuscreen.xblsignin=Влизане с акаунт в Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Влизане в акаунт в Microsoft	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Влизане с акаунт в Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Влизане с акаунт в Nintendo	#
+thirdPartyConsole.notsignedin=Не сте влезли в своя акаунт в Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Не сте влезли и не можете да печелите постижения.	#
+thirdPartyConsole.notsignedin.store=Ще ви е необходим акаунт в Nintendo, за да разгледате магазина.	#
+thirdPartyConsole.notsignedin.serversTab=Преминете онлайн, за да пробвате сървърите на Minecraft, гигантски светове, управлявани от общността, които ви позволяват да се конкурирате или да си сътрудничите с приятели (и противници), да се разхождате в огромни лобита с други играчи и да изследвате огромни персонализирани светове.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Влезте в своя акаунт в Nintendo, за да играете с приятели.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Този акаунт няма разрешения за присъединяване към групови игри в Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Трябва да сте приятел на играч в тази игра, за да се присъедините.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Вашата връзка с Nintendo Switch Online беше прекъсната. Влезте в акаунта си от главното меню и рестартирайте света си, за да го направите видим за приятелите си от Nintendo.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Вашият свят вече не се вижда в локалната мрежа. Рестартирайте локалния режим от главното меню и рестартирайте света си, за да го направите видим за локалните играчи.	#
+networkWorld.add_friend=Открийте приятели на различни платформи	#
+networkWorld.find_cross_platform_friends=Открийте приятели на различни платформи	#
+networkWorld.joinable_nintendo_friends_label=Приятели в Nintendo Switch, към които можете да се присъедините	#
+networkWorld.joinable_cross_platform_friends_label=Приятели в различни платформи, към които можете да се присъедините	#
+networkWorld.no_xbl_label=Не можете да се присъедините към игри в различни платформи без акаунт в Microsoft. Влезте в акаунт в Microsoft, за да се присъедините към световете на вашите приятели.	#
+networkWorld.no_thirdParty_label.no_subscription=Не сте свързани с услугите на Nintendo Switch Online. Ще ви е необходим абонамент за услугата Nintendo Switch Online, за да използвате онлайн функции. Такъв може да се закупи от Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Не сте свързани към услугите на Nintendo Switch Online. Няма да можете да се присъединявате към груповите игри на вашите приятели. Влезте в Nintendo Switch Online, за да се присъедините към световете на вашите приятели.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Не можете да играете онлайн групови игри поради ограничение в „Родителски контрол“. Можете да прегледате и управлявате настройките за групови игри чрез „Комуникация с други“ в „Родителски контрол“.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Не можете да играете локална групова игра поради ограничение в „Родителски контрол“. Можете да прегледате и управлявате настройките за групови игри чрез „Комуникация с други“ в „Родителски контрол“.	#
+permissions.AddFriendsThirdParty=Не можете да добавяте приятели поради ограничение в „Родителски контрол“. Можете да прегледате и управлявате настройките за групови игри чрез „Комуникация с други“ в „Родителски контрол“.	#
+permissions.MultiplayerSessionsThirdParty=Не можете да играете в Realms поради ограничение в „Родителски контрол“. Можете да прегледате и управлявате настройките за групови игри чрез „Комуникация с други“ в „Родителски контрол“.	#
+options.dev_switch_coin_debug=Разрешаване на функцията за отстраняване на грешки при закупуване от eShop, когато добавяте монети	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Не сте свързани с услугите на Nintendo Switch Online. Ще ви е необходим абонамент за услугата Nintendo Switch Online, за да използвате онлайн функции. Такъв може да се закупи от Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Не сте свързани към услугите на Nintendo Switch Online. Вашите приятели с Nintendo няма да могат да се присъединяват към вашия свят в групова игра. Влезте в Nintendo Switch Online, за да играете с приятели.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Имаше проблем с преминаването на устройството в режим за локална мрежа. За да бъде видимо за играчи в локалната мрежа, уверете се, че не е включен самолетен режим, и след това рестартирайте локалния режим.	#
+createWorldScreen.check_internet_connection=Nintendo Switch няма връзка с интернет. Приятелите ви няма да могат да се свързват към вашите групови светове. Свържете Nintendo Switch с интернет, за да използвате онлайн функциите.	#
+invite.notification.description=%s ви покани да играете Minecraft. Натиснете -, за да отговорите.	#
+network.thirdparty.connect.benefit=Влизане във вашия акаунт в Nintendo? Необходим е акаунт в Nintendo, за да използвате онлайн услугите.	#
+networkWorld.check_internet_connection=Nintendo Switch няма връзка с интернет. Няма да можете да се свързвате към груповите игри на приятели. Свържете Nintendo Switch с интернет, за да използвате онлайн функциите.	#
+networkWorld.check_internet_connection.no_subscription=Не сте свързани с услугите на Nintendo Switch Online. Ще ви е необходим абонамент за услугата Nintendo Switch Online, за да използвате онлайн функции. Такъв може да се закупи от Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Не сте свързани към услугите на Nintendo Switch Online. Няма да можете да се присъединявате към груповите игри на вашите приятели. Влезте в Nintendo Switch Online, за да се присъедините към световете на вашите приятели.	#
+disconnectionScreen.realmsDisabled=Обителите са недостъпни за Switch.	#
+disconnectionScreen.noNSO.title=Изисква се Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=За да играете в групова игра на разделен екран без абонамент за Nintendo Switch Online, превключете полето за групова игра на изключена позиция в настройките на играта. За да играете групова игра на разделен екран онлайн, ще ви е нужен абонамент за услугата Nintendo Switch Online, който може да бъде закупен от Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Не сте свързани с услугата Nintendo Switch Online. Нужен ви е абонамент за Nintendo Switch Online, за да участвате в групова игра. Може да закупите тази услуга от Nintendo eShop.	#
+options.xboxlivevisible=Видимо за играчи в различни платформи	#
+options.achievementsDisabled=В този свят не могат да се печелят постижения.	#
+permissions.RealmsAddFriends=Няма да можете да добавяте нови приятели за игра във вашата обител поради начина, по който е настроен акаунтът ви в Microsoft. Можете да промените това от настройките за поверителност и онлайн защита на адрес aka.ms/accountsettings. Искате ли да продължите?	#
+permissions.CloudSave=Не можете да записвате световете си в акаунта в Microsoft поради начина, по който е настроен акаунтът ви. Можете да промените това от настройките за поверителност и онлайн защита на адрес aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Вашите настройки на акаунта ви в Microsoft не позволяват групови игри. Проверете настройките ви за „Поверителност и онлайн защита“ на адрес aka.ms/accountsettings и вижте дали настройките ви позволяват групови игри. 	#
+store.purchase.syncInProgress=Синхронизиране на покупки в Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Необходими са ви още %s монети, за да отключите този пакет.	#
+xbox.signin.newaccount.welcome=Добре дошли!	#
+xbox.signin.legalinfo=Вие се свързахте към Minecraft с профил в Xbox Live. Можете да промените настройките си в Xbox Live и да научите повече на адрес http://aka.ms/accountsettings. Прилагат се правилата и условията на споразумението за услуги и декларацията за поверителност на Microsoft.	#
+xbox.failedsignin.line2=Ако играете, без да сте влезли, няма да можете да печелите постижения, да се присъединявате към обители или сървъри.	#
+xbox.failedautosignin.message=Опа! Автоматичното влизане беше неуспешно. Ще трябва да влезете отново ръчно, за да получите достъп до вашия акаунт в Microsoft.	#
+xbox.signInLong=Влезте безплатно!	#
+xbox.signOutLong=Излизане от вашия акаунт в Microsoft	#
+xbox.thirdpartysignin.line2=Необходимо е да влезете с акаунт в Microsoft, за да се свържете!	#
+xbox.profile.realName=Можете да управлявате настройките за поверителност за споделяне на истинското ви име на адрес http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Премахване на приятел	#
+autosave.info.xbox=Когато видите тази икона, значи записваме играта ви. Не изключвайте вашата конзола Nintendo Switch, когато тази икона е на екрана.	#
+progressScreen.message.leaveLevel=Играта ви е в процес на записване. Не изключвайте вашата конзола Nintendo Switch.	#
+feed.report_xbox=Докладване на отдела за прилагане на правилата	#
+
+howtoplay.multiplayer.text.1=Най-забавната част от Minecraft е изработването с приятели! По подразбиране всички ваши настройки на световете позволяват на приятелите ви да се присъединяват. На Nintendo Switch можете да играете в групова игра както с вашите приятели от Nintendo, така и с вашите приятели на други устройства. Тук можете да намерите всички начини, по които настройки да играете в групова игра.	#
+howtoplay.multiplayer.text.2.splitscreen=По всяко време във вашата игра може да се присъединят до трима допълнителни играчи! Стартирайте вашия свят и приятелите ви могат да включат контролерите си и да натиснат произволен бутон, за да се присъединят. Уверете се, че всеки играч разполага с два контролера Joy-Con. Трябва да разполагате с левия и десния или с който и да е друг цялостен контролер, който работи с Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft ви предлага три основни начина, по които можете да играете групова игра онлайн. Можете да играете в обител, сървър или в свой собствен свят. Когато имате абонамент за Nintendo Switch Online и сте влезли с акаунта си в Microsoft, вашите приятели на други устройства могат да се присъединяват към вашия свят! Обителите и сървърите изискват акаунт в Microsoft.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft ви предлага три основни начина, по които можете да играете групова игра онлайн. Може да играете в обител, сървър или в свой собствен свят! Когато сте влезли с вашия акаунт в Nintendo и с акаунта си в Microsoft, вашите приятели на други устройства могат да се присъединяват към вашия свят! Обителите и сървърите изискват акаунт в Microsoft.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Когато имате абонамент за Nintendo Switch Online и сте влезли с акаунта си в Microsoft, вашите приятели на други устройства могат да се включат към вашия свят!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Когато сте влезли с акаунта си в Nintendo и акаунта си в Microsoft, вашите приятели на други устройства могат да се включат към вашия свят!	#
+howtoplay.multiplayer.text.4=За да се присъедините към групова игра, отидете на раздела „Приятели“! Всички светове и обители на вашите приятели, към които можете да се присъедините, ще бъдат видими, когато сте в режим „Онлайн“! Всички Ad-hoc игри на вашите приятели ще се появяват в този списък, когато сте в режим „Ad-hoc“.	#
+howtoplay.multiplayer.text.4.norealms=За да се присъедините към групова игра, отидете на раздела „Приятели“! Всички светове на вашите приятели, към които можете да се присъедините, ще бъдат видими, когато сте в режим „Онлайн“! Всички Ad-hoc игри на вашите приятели ще се появяват в този списък, когато сте в режим „Ad-hoc“.	#
+howtoplay.multiplayer.text.5=Когато стартирате или се присъедините към онлайн игра, тя ще бъде видима за всички ваши приятели и приятелите от вашия акаунт в Microsoft. Можете да проверите настройките за групова игра за различни платформи във вашия свят, като натиснете бутона „Редактиране“ във вашия свят и щракнете върху „Групова игра“. 	#
+howtoplay.multiplayer.text.7=Дайте на вашите приятели специални умения във вашия свят или им забранете да докосват каквото и да е. По подразбиране всички ваши приятели влизат във вашия свят като членове. Отворете менюто за пауза, за да видите списък с приятелите във вашия свят, и щракнете върху иконата отдясно на името им, за да редактирате техните разрешения във вашия свят.	#
+howtoplay.multiplayer.header.adhoc=Режим „Ad-hoc“	#
+howtoplay.multiplayer.text.adhoc=Искате да играете с приятели, но не на същото устройство? Превключете вашия Nintendo Switch на режим „Ad-hoc“ от главното меню чрез натискане на :_gamepad_face_button_left:. Отидете на раздела „Приятели“ в менюто „Игра“, за да видите игрите на вашите приятели наблизо, или стартирайте сами нова игра и вашите приятели наблизо могат да се присъединят!	#
+howtoplay.theStore.text.4.norealms=Придайте нов изглед на старата си игра с пакети с текстури, които ще се приложат върху настоящите ви светове!	#
+howtoplay.theStore.text.5.norealms=Или ги изпробвайте с пакети с гости от други игри, които са избрани колекции от скинове, светове и текстури, които, когато се комбинират, ще трансформират световете ви!	#
+
+trial.tabbed_upsell.xbl.title=Има и още!	#
+
+connect_gamepad.pressButtonToContinue=Изисква се чифт контролер Joy-Con (L)/(R) или контролер Pro, за да продължите.	#
+connect_gamepad.adhocMaxControllers=В локална безжична игра не може да се използва повече от един контролер Pro или един чифт Joy-Con (L)/(R). Изключете всички допълнителни контролери.	#
+connect_gamepad.requireControllerReconfiguration=На всеки играч му е необходим контролер Pro или чифт конролер Joy-Con (L)/(R). Изключете всички допълнителни контролери Joy-Con, които не са част от чифт.	#
+connect_gamepad.handheldModeNoSplitscreen=Открит е допълнителен контролер, но груповата игра на разделен екран не е достъпна в режим на джобно устройство. Прекъснете връзката на контролерите Joy-Con за излизане от режим на джобно устройство или изключете всички допълнителни контролери.	#
+connect_gamepad.promptHandheldMode=Контролерите Joy-Con са свързани с конзолата. Искате ли да влезете в режим на джобно устройство? Това ще излезе от режима на групова игра на разделен екран. Натиснете OK, за да спрете груповата игра на разделен екран и да влезете в режим на джобно устройство, или изберете „Отказ“, за да прекъснете връзката на свързаните контролери Joy-Con от играта за зареждане.	#

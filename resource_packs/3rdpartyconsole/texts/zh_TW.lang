@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=減號按鈕	#
+accessibility.gamepad.button.systemRight=加號按鈕	#
+accessibility.gamepad.dpad.down=向下鍵	#
+accessibility.gamepad.dpad.up=向上鍵	#
+accessibility.gamepad.dpad.left=向左鍵	#
+accessibility.gamepad.dpad.right=向右鍵	#
+accessibility.gamepad.trigger.right=ZR 按鈕	#
+accessibility.gamepad.trigger.left=ZL 按鈕	#
+accessibility.gamepad.bumper.right=R 按鈕	#
+accessibility.gamepad.bumper.left=L 按鈕	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo 帳號設定	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft 帳戶設定	#
+
+patchNotice.title=歡迎來到 Minecraft – 千萬別錯過精彩內容！	#
+patchNotice.description.onlineFeatures=讓您的 Nintendo Switch 連線上網以感受全新的遊戲體驗！	#
+patchNotice.description.onlineFeatures.item1=* 下載您購買遊戲後收到的免費 DLC 包。	#
+patchNotice.description.onlineFeatures.item2=* 在市集中探索社群創作內容以改變遊戲方式。	#
+patchNotice.description.onlineFeatures.item3=* 與好友線上玩遊戲 (甚至也可在其他裝置上玩)！	#
+patchNotice.description.onlineFeatures.item4=* 使用新功能、內容和改善遊戲更新，包括…	#
+patchNotice.description.freeUpdates.item1=* 新方塊！	#
+patchNotice.description.freeUpdates.item2=* 新物品！	#
+patchNotice.description.freeUpdates.item3=* 新生物！	#
+patchNotice.description.freeUpdates.item4=* 新生成建築物！	#
+patchNotice.description.freeUpdates.item5=* 新生態域！	#
+patchNotice.description.onlineFeatures.item5=現在有可用的更新！請讓您的 Nintendo Switch 連線上網以獲得此免費更新！	#
+
+thirdPartyConsole.network.networkName=Nintendo 帳號	#
+thirdPartyConsole.adhoc.title=選擇網路模式	#
+thirdPartyConsole.adhoc.desc=選擇 [區域網路] 與附近的其他 Nintendo Switch 主機連線，或選擇 [線上網路] 與全球各地的好友連線！	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=連接至	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=線上網路	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=連接至	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=區域網路	#
+thirdPartyConsole.adhoc.onlineNetwork=線上網路	#
+thirdPartyConsole.adhoc.localNetwork=區域網路	#
+thirdPartyConsole.adhoc.enableOnline=啟用線上網路	#
+thirdPartyConsole.adhoc.enableLocal=啟用區域網路	#
+thirdPartyConsole.adhoc.inprogress=我們正進行一些快速變更。請稍候…	#
+thirdPartyConsole.adhoc.controllerwarningtitle=連接的控制器過多。	#
+thirdPartyConsole.adhoc.controllerwarning=區域網路模式支援連接最多 2 個無線控制器。(2 個 Joy-Con 控制器或 2 個專用控制器) 任何超過此上限的控制器都將中斷連線。	#
+thirdPartyConsole.adhoc.store=在區域網路模式中商店功能會停用。	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=是否登入 Microsoft 帳戶？	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=您必須連接至線上網路才能登入 Microsoft 帳戶。	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=連接	#
+thirdPartyConsole.startmenuscreen.xblsignin=使用 Microsoft 帳戶登入	#
+thirdPartyConsole.startmenuscreen.xblsigningin=登入 Microsoft 帳戶	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=使用 Nintendo 帳號登入	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=登入 Nintendo 帳號	#
+thirdPartyConsole.notsignedin=您尚未登入您的 Nintendo 帳號。	#
+thirdPartyConsole.notsignedin.achievements=您尚未登入且無法贏得成就。	#
+thirdPartyConsole.notsignedin.store=您將需要 Nintendo 帳號才能瀏覽商店。	#
+thirdPartyConsole.notsignedin.serversTab=連線上網以嘗試 Minecraft 伺服器，這些規模龐大的社群創造世界可讓您與好友 (及對手) 一較高下或相互合作，您也可以在大型的大廳內與其他玩家交流互動，並探索廣大的特製世界。	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=請以您的 Nintendo 帳號登入來和朋友一起玩。	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=這個帳戶沒有加入 Nintendo 多人遊戲的使用權。	#
+thirdPartyConsole.disconnectionscreen.accessDenied=您必須是遊戲成員的好友才能加入此遊戲。	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=您已中斷與 Nintendo Switch Online 的連線。請在主選單登入，然後重新啟用您的世界以讓您的 Nintendo 好友可以查看。	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=您的世界已不再於本機網路顯示。請在主選單重新啟用本機模式，並重新啟用您的世界以讓本機玩家可以查看。	#
+networkWorld.add_friend=尋找跨平台好友	#
+networkWorld.find_cross_platform_friends=尋找跨平台好友	#
+networkWorld.joinable_nintendo_friends_label=可加入的 Nintendo Switch 好友	#
+networkWorld.joinable_cross_platform_friends_label=可加入的跨平台好友	#
+networkWorld.no_xbl_label=如果沒有 Microsoft 帳戶，您就無法加入跨平台遊戲。請登入 Microsoft 帳戶以加入您好友的世界。	#
+networkWorld.no_thirdParty_label.no_subscription=您未連線至 Nintendo Switch Online 服務。您將需要訂閱 Nintendo Switch Online 服務才能使用線上功能。可在 Nintendo eShop 中購買。	#
+networkWorld.no_thirdParty_label.has_subscription=您未連線至 Nintendo Switch Online 服務。您將無法加入好友的多人遊戲。請登入 Nintendo Switch Online 以加入您好友的世界。	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=由於有「家長監護功能」的限制，因此您無法玩線上多人遊戲。請在「家長監護功能」的「可與他人通訊」中檢視和管理您的多人遊戲設定。	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=由於有「家長監護功能」的限制，因此您無法玩本機多人遊戲。請在「家長監護功能」的「可與他人通訊」中檢視和管理您的多人遊戲設定。	#
+permissions.AddFriendsThirdParty=由於有「家長監護功能」的限制，因此您無法加入好友。請在「家長監護功能」的「可與他人通訊」中檢視和管理您的多人遊戲設定。	#
+permissions.MultiplayerSessionsThirdParty=由於有「家長監護功能」的限制，因此您無法在 Realms 上遊戲。請在「家長監護功能」的「可與他人通訊」中檢視和管理您的多人遊戲設定。	#
+options.dev_switch_coin_debug=新增錢幣時啟用偵錯 eShop 購買	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=您未連線至 Nintendo Switch Online 服務。您將需要訂閱 Nintendo Switch Online 服務才能使用線上功能。可在 Nintendo eShop 中購買。	#
+createWorldScreen.disconnectedThirdParty.has_subscription=您未連線至 Nintendo Switch Online 服務。您的 Nintendo 好友將無法加入您的多人遊戲世界。請登入 Nintendo Switch Online 以與好友一起玩遊戲。	#
+createWorldScreen.disconnectedThirdParty.Adhoc=變更您的裝置至本機網路模式時發生問題。請確認飛航模式已經關閉，然後重新啟用本機模式以讓本機玩家可以查看。	#
+createWorldScreen.check_internet_connection=您的 Nintendo Switch 尚未連接至網際網路。您的好友將無法加入您的多人遊戲世界。請連接您的 Nintendo Switch 至網際網路以使用線上功能。	#
+invite.notification.description=%s 已邀請您玩 Minecraft。按「-」以回應。	#
+network.thirdparty.connect.benefit=是否登入您的 Nintendo 帳號？需有 Nintendo 帳號才能使用線上服務。	#
+networkWorld.check_internet_connection=您的 Nintendo Switch 尚未連接至網際網路。您將無法加入您好友的多人遊戲。請連接您的 Nintendo Switch 至網際網路以使用線上功能。	#
+networkWorld.check_internet_connection.no_subscription=您未連線至 Nintendo Switch Online 服務。您將需要訂閱 Nintendo Switch Online 服務才能使用線上功能。可在 Nintendo eShop 中購買。	#
+networkWorld.check_internet_connection.has_subscription=您未連線至 Nintendo Switch Online 服務。您將無法加入好友的多人遊戲。請登入 Nintendo Switch Online 以加入您好友的世界。	#
+disconnectionScreen.realmsDisabled=Realm 在 Switch 中無法使用。	#
+disconnectionScreen.noNSO.title=需有 Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=若要在沒有訂閱 Nintendo Switch Online 的情況下以畫面分割模式進行遊戲，請在「遊戲設定」中切換「多人遊戲」方塊至「關」的位置。若要在線上以畫面分割模式玩多人遊戲，您將需要訂閱 Nintendo Switch Online 服務，而您可於 Nintendo eShop 付費訂閱。	#
+disconnectionScreen.noNSO.joinRealm=您未連接至 Nintendo Switch Online 服務。您將需要訂閱 Nintendo Switch Online 服務才能玩多人遊戲。可在 Nintendo eShop 中購買。	#
+options.xboxlivevisible=跨平台玩家可見	#
+options.achievementsDisabled=在此世界無法獲得成就。	#
+permissions.RealmsAddFriends=您無法新增好友以在您 Realm 上玩遊戲的原因在於您的 Microsoft 帳戶設定方式。您可於 aka.ms/accountsettings 的隱私與線上安全設定中變更。您是否要繼續？	#
+permissions.CloudSave=您無法在自己的 Microsoft 帳戶中儲存世界的原因在於您的帳戶設定方式。您可於 aka.ms/accountsettings 的隱私與線上安全設定中變更。	#
+permissions.MultiplayerSessionsOnConsole=您的 Microsoft 帳戶設定不允許進行多人遊戲。請至 aka.ms/accountsettings 確認您的「隱私和線上安全」允許多人遊戲。	#
+store.purchase.syncInProgress=正在同步 Nintendo eShop 購買...	#
+store.purchase.coinsLeftToBuy=您還需要 %s 個錢幣才能解鎖此套件。	#
+xbox.signin.newaccount.welcome=歡迎！	#
+xbox.signin.legalinfo=您已使用 Xbox Live 設定檔連接至《Minecraft》。請變更您的 Xbox Live 設定，並在 http://aka.ms/accountsettings 進一步了解。此項目受到 Microsoft 服務協議和隱私權聲明規範。 	#
+xbox.failedsignin.line2=若您未登入即玩遊戲，您將無法贏得成就、加入 Realm 或加入伺服器。	#
+xbox.failedautosignin.message=糟糕！自動登入失敗。您將必須再次手動登入，才能存取您的 Microsoft 帳戶。	#
+xbox.signInLong=免費登入！	#
+xbox.signOutLong=登出您的 Microsoft 帳戶	#
+xbox.thirdpartysignin.line2=您必須使用 Microsoft 帳戶登入才能連線！	#
+xbox.profile.realName=在 http://aka.ms/accountsettings 管理您的隱私權設定以分享您的真實姓名。	#
+xbox.profile.removeFriend=移除好友	#
+autosave.info.xbox=畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在畫面上出現此圖示時關閉您的 Nintendo Switch 主機電源。	#
+progressScreen.message.leaveLevel=您的遊戲正在儲存中，請勿關閉您的 Nintendo Switch 主機電源。	#
+feed.report_xbox=向 Enforcement 回報	#
+
+howtoplay.multiplayer.text.1=《Minecraft》最好玩得地方，就是能與好友一起設計世界！根據預設，您所有的是界設定都允許您的好友加入。在 Nintendo Switch 上，您可與 Nintendo 好友及其他裝置的好友一起玩多人遊戲。在這裡看看所有多人遊戲的方式！	#
+howtoplay.multiplayer.text.2.splitscreen=遊戲進行期間，您最多可以有三名其他玩家加入您的遊戲！開始您的世界，並請您的好友開啟他們的控制器，然後按下任意按鈕即可加入。請確認每位玩家都有兩個 Joy-Con 控制器。您必須同時有左右控制器，或任何其他與 Nintendo Switch 相容的完整控制器。	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft 有三種可以讓您在線上玩多人遊戲的主要方式。您可以在 Realm、伺服器或您自己的世界中玩遊戲。當您有 Nintendo Switch Online 訂閱，且已經使用自己的 Microsoft 帳戶登入時，您使用其他裝置的好友就可以加入您的世界！Realm 和伺服器需有 Microsoft 帳戶。	#
+howtoplay.multiplayer.text.3.has_subscription=《Minecraft》主要有三種線上多人遊戲方式。您可以在 Realm、伺服器或您自己的世界中玩遊戲。當您使用自己的 Nintendo 帳號和 Microsoft 帳戶登入後，您使用其他裝置的好友就可以加入您的世界！Realm 和伺服器需有 Microsoft 帳戶。	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=當您有 Nintendo Switch Online 訂閱，且已經使用自己的 Microsoft 帳戶登入時，您使用其他裝置的好友就可以加入您的世界！	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=當您使用自己的 Nintendo 帳號和 Microsoft 帳戶登入後，您使用其他裝置的好友就可以加入您的世界！	#
+howtoplay.multiplayer.text.4=若要加入多人遊戲，請前往 [好友] 標籤！所有您好友可加入的世界和 Realm 都會在您處於「線上」模式中的時候顯示。您好友的特別指定遊戲也會在您處於「特別指定」模式中的時候於此清單中顯示。	#
+howtoplay.multiplayer.text.4.norealms=若要加入多人遊戲，請前往 [好友] 標籤！所有您好友可加入的世界都會在您處於「線上」模式中的時候顯示。您好友的特別指定遊戲也會在您處於「特別指定」模式中的時候於此清單中顯示。	#
+howtoplay.multiplayer.text.5=當您開始或加入線上遊戲時，您的所有好友以及您 Microsoft 帳戶好友的好友都可以看到您的狀態。在您的世界中按下 [編輯] 按鈕，然後按一下 [多人遊戲]，就可以查看自己世界中的「跨平台多人遊戲設定」。	#
+howtoplay.multiplayer.text.7=在您的世界中賦予好友特殊能力，或禁止他們觸碰任何東西。根據預設，您的所有好友都會以成員的身分進入您的世界。開啟遊戲選單即可查看在您世界中的好友清單，然後按一下他們名稱右邊的圖示即可編輯他們在您世界中可擁有的權限。	#
+howtoplay.multiplayer.header.adhoc=特別指定模式	#
+howtoplay.multiplayer.text.adhoc=想要與好友一起玩遊戲，但使用的裝置卻不一樣？按下 :_gamepad_face_button_left:，在主選單中將您的 Nintendo Switch 切換至 [特別指定模式]。在遊戲選單中前往 [好友] 標籤，即可查看您附近好友的遊戲，或自己開始新遊戲，並讓您附近的好友可以加入您的遊戲！	#
+howtoplay.theStore.text.4.norealms=利用可覆蓋目前世界的材質套件，為您的舊遊戲帶來新的外觀！	#
+howtoplay.theStore.text.5.norealms=您也可以購買混合收錄多種外觀、世界和材質的混搭套件，讓您的世界徹底改頭換面！	#
+
+trial.tabbed_upsell.xbl.title=還有更多！	#
+
+connect_gamepad.pressButtonToContinue=需要配對一個專用控制器或 Joy-Con (L)/(R) 控制器才能繼續。	#
+connect_gamepad.adhocMaxControllers=使用本機無線進行遊戲時，只能使用一個專用控制器或 Joy-Con (L)/(R) 控制器配對。請關閉所有額外的控制器	#
+connect_gamepad.requireControllerReconfiguration=每個玩家都需要一個專用控制器或 Joy-Con (L)/(R) 控制器配對。請關閉任何沒有配對的額外 Joy-Con 控制器。	#
+connect_gamepad.handheldModeNoSplitscreen=已經偵測到一個額外的控制器，但手持模式並不支援分割畫面多人遊戲。請中斷連接 Joy-Con 控制器以離開手持模式，或關閉所有額外的控制器。	#
+connect_gamepad.promptHandheldMode=Joy-Con 控制器已離接至遊戲主機。您是否要進入手持模式？此操作將退出分割畫面多人遊戲模式。按 [確定] 即可停止分割畫面多人遊戲並進入手持模式，或選擇 [取消] 以中斷連接 Joy-Con 控制器與遊戲，以便進行充電。	#

@@ -1,0 +1,89 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Willing",
+      "dest": "Willing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "SkinId",
+      "dest": "SkinId",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Riches",
+      "dest": "Riches",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "TradeXp",
+      "dest": "TradeXp",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "TradeTierLevel",
+      "dest": "TradeTierLevel",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "BiomeId",
+      "dest": "BiomeId",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "r11Profession",
+      "dest": "r11Profession",
+      "custom_transformation": "JavaProfessionToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Inventory",
+      "dest": "Inventory",
+      "custom_transformation": "JavaInventoryToIntermediate"
+    },
+    {
+      "src": "Offers.Recipes",
+      "dest": "Offers.Recipes",
+      "custom_transformation": "JavaOfferRecipesToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Offers.TierXpRequirements",
+      "dest": "Offers.TierXpRequirements",
+      "custom_transformation": "JavaOfferTierXpRequirementsToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Profession",
+      "dest": "Profession",
+      "custom_transformation": "JavaProfessionToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Career",
+      "dest": "Career",
+      "custom_transformation": "JavaCareerToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "CareerLevel",
+      "dest": "CareerLevel",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "LastDimensionId",
+      "dest": "LastDimensionId",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": false
+    },
+    {
+      "src": "DragonPhase",
+      "dest": "DragonPhase",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+	{
+      "src": "DragonState",
+      "dest": "DragonPhase",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

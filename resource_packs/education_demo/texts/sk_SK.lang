@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Ďakujeme za hranie. Toto je ukážková lekcia, takže váš postup sa neuloží.	#
+
+edu_demo.tip.1=Dažďové pralesy sú domovom pre viac ako polovicu suchozemských živočíšnych druhov našej planéty.	#
+edu_demo.tip.2=Živobytie viac ako 25 % svetovej populácie je závislé od lesov.	#
+edu_demo.tip.3=Požiar vyžaduje tri veci: palivo, kyslík a zdroj tepla.	#
+edu_demo.tip.4=Pri požiaroch, najmä v rašeliniskách a hustých lesoch, sa uvoľňujú obrovské emisie uhlíka.	#
+edu_demo.tip.5=Počítače musíte naučiť, ako sa majú učiť. Podobne ako študentov.	#
+edu_demo.tip.6=Umelá inteligencia sa používa na zhromažďovanie a analyzovanie údajov o lesoch, čo je rýchlejšie ako ručné počítanie stromov.	#
+
+menu.quit.edu=UKONČIŤ LEKCIU	#
+menu.quit.edu.title=Ukončiť ukážkovú lekciu	#
+
+start_screen.start_demo=Spustiť lekciu	#
+
+upsell.tab.1.title=Minecraft pre školy!	#
+upsell.tab.1.body=Zapojte študentov do rôznych predmetov pomocou bezplatných lekcií a kurzov, hodnotiacich nástrojov, hry pre viacerých hráčov v triede, zabezpečeného prihlásenia a technickej podpory. Spustite bezplatnú skúšobnú verziu hry Minecraft: Education Edition už dnes.	#
+upsell.tab.1.button=Ďalšie informácie	#
+
+upsell.tab.2.title=Výučba programovania s Minecraftom	#
+upsell.tab.2.body=Pomocou Minecraftu môžete svojich študentov naučiť, ako programovať. Využite pôsobivé lekcie a viac ako 50 hodín bezplatných osnov. Písaním kódu založeného na blokoch a skriptu JavaScript môžu študenti vidieť, ako ich kód ožíva v hre.	#
+upsell.tab.2.button=Začať programovať	#
+
+upsell.tab.3.title=Množstvo bezplatných lekcií	#
+upsell.tab.3.body=Preskúmajte stovky svetov a lekcií v Minecrafte, od histórie a chémie až po počítačovú vedu a matematiku. Použite tieto lekcie ako východiskový bod alebo si vytvorte vlastný.	#
+upsell.tab.3.button=Prejsť na lekcie	#
+
+upsell.tab.4.title=Vytvárajte sociálno-emocionálne zručnosti	#
+upsell.tab.4.body=Študenti sa učia spolupracovať, riešiť problémy a komunikovať s empatiou. Minecraft: Education Edition obsahuje funkcie, napríklad imerznú čítačku, ktoré pomáhajú učiteľom osloviť všetky typy študentov.	#
+upsell.tab.4.button=Ďalšie informácie	#
+
+upsell.tab.5.title=Pripojte sa ku komunite	#
+upsell.tab.5.body=Zúčastňujte sa školení učiteľov, buďte v spojení pomocou sociálnych médií a pripojte sa k našej globálnej komunite, kde sa môžete učiť od iných pedagógov. Pedagógovia vo viac ako 115 krajinách používajú vo svojich triedach Minecraft – a vy môžete byť ďalší.	#
+upsell.tab.5.button=Pripojiť sa	#
+
+lesson.finished=HOTOVO	#
+
+lesson.end.dialog.title=Lekcia dokončená.	#
+lesson.end.dialog.body.title=BLAHOŽELÁME	#
+lesson.end.dialog.body.wimages=Získali ste certifikát dokončenia. Pozrite si fotografie z tejto lekcie a uložte si kópiu.	#
+lesson.end.dialog.body.checkport=Pozrite si fotografie z tejto lekcie a uložte si kópiu.	#
+lesson.end.dialog.body.noimages=Získali ste certifikát dokončenia.	#
+lesson.end.dialog.button.morecoding=Viac programovania	#
+lesson.end.dialog.button.getcert=Získať certifikát	#
+lesson.end.dialog.button.exit=Ukončiť lekciu	#
+lesson.end.dialog.button.export=Uložiť	#
+
+lesson.end.access.imagespreview=Fotografia z lekcie %1 z %2	#
+lesson.end.access.export=Exportovať fotografie z lekcie	#

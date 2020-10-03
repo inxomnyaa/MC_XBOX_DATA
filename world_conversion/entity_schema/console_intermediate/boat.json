@@ -1,0 +1,21 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Type",
+      "dest": "Type",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "custom_transformation": "BoatTypeConsoleToIntermediate",
+      "src": "Type",
+      "dest": "Type"
+    },
+	{
+      "custom_transformation": "BoatRotationConsoleToIntermediate",
+      "src": "Rotation",
+      "dest": "Rotation"
+    }
+  ]
+}

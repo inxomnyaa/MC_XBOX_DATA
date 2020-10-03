@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Задава състояние на Code Builder за играч.	#
+commands.codebuilder.invalidurl=URL адресът е невалиден или сочи към неподдържан уеб сайт.	#
+commands.takepicture.description=Прави снимка на играч или от гледната точка на играча.	#
+commands.takepicture.cameranotfound=Камерата не беше открита.	#
+commands.takepicture.cameranotspawned=Камерата бе неуспешно включена.	#
+
+library.connection.failed.body=Не можем да се свържем с библиотеката. Това може да се случи, ако компютърът ви е офлайн или ако достъпът до каталога на библиотеката е блокиран.	#
+library.connection.failed.help=Получаване на помощ	#
+library.connection.noWorldFound.title=Няма намерен свят	#
+library.connection.noWorldFound.body=Изглежда, че няма свят в тази категория.	#
+library.findMoreWorlds=Открийте още светове	#
+library.leaveFeedback=Оставете обратна връзка	#
+library.title=Библиотека	#
+library.searchResults=Резултати за: „%1“	#
+library.item.createdBy=От %s	#
+library.item.age=Възраст: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Продължителност: %1	#
+library.item.duration.minute=%1 Минута	#
+library.item.duration.multipleMinutes=%1 минути	#
+library.item.duration.hour=%1 Час	#
+library.item.duration.multipleHours=%1 часа	#
+
+library.item.difficulty=Трудност: %1	#
+library.item.difficulty.beginner=Начинаещ	#
+library.item.difficulty.intermediate=Средно ниво	#
+library.item.difficulty.advanced=Напреднал	#
+
+library.item.tags=Етикети:	#
+library.item.tagsAll=ВСИЧКИ ЕТИКЕТИ:	#
+library.item.tagsAll.tts=Показване на още етикети	#
+library.item.button.create=СЪЗДАВАНЕ НА СВЯТ	#
+library.item.button.share=СПОДЕЛЯНЕ НА ВРЪЗКА	#
+library.item.button.plan=ПЛАН НА УРОКА	#
+library.item.button.resources=РЕСУРСИ	#
+library.item.progress.body=Подготвя се импортиране на нов свят. Може да отнеме няколко минути.	#
+library.item.description=ОПИСАНИЕ	#
+library.item.overview=ОБЩ ПРЕГЛЕД	#
+library.item.expandable.readLess=Прочетете по-малко	#
+library.item.expandable.readMore=Прочитане на повече	#
+
+library.item.section.languages=ПОДДЪРЖАНИ ЕЗИЦИ	#
+library.item.section.languages.tip=Ако този урок не е на разположение в предпочитания от Вас език, Концентрираният четец може да бъде използван, за да преведете текстовете в играта, включително книги, знаци, табели и диалози.	#
+library.item.section.questions=ОСНОВНИ ВЪПРОСИ	#
+library.item.section.generic_objectives=ЦЕЛИ	#
+library.item.section.objectives=ЦЕЛИ НА УРОКА	#
+library.item.section.prep=ПОДГОТОВКА И БЕЛЕЖКИ НА ПРЕПОДАВАТЕЛЯ	#
+library.item.section.activities=УЧЕНИЧЕСКИ ДЕЙНОСТИ	#
+library.item.section.assessment=ОЦЕНКИ	#
+library.item.section.extensions=РАЗШИРЕНИЯ	#
+
+library.category.label.biomes=БИОМИ И СВЕТОВЕ	#
+library.category.title.biomes=Биоми и светове	#
+library.category.description.biomes=Използвайте тази колекция от светове и биоми, за да си помогнете при оформянето на уроци в Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=БИОМИ	#
+library.category.title.biomes.biome=Биоми	#
+library.category.description.biomes.biome=В Minecraft, биомите са региони, които се разделят според уникалните им географски особености, растения и животни.	#
+
+library.category.label.biomes.featured=ВКЛЮЧЕНИ СВЕТОВЕ	#
+library.category.title.biomes.featured=Включени светове	#
+
+library.category.label.buildChallenges=ЕЖЕМЕСЕЧНИ СЪСТЕЗАНИЯ	#
+library.category.title.buildChallenges=Ежемесечни състезания	#
+library.category.description.buildChallenges=Разпалете креативността на своите ученици и подобрете типичните за 21-и век умения с тези лесни за имплементация дейности за Вашата класна стая.	#
+
+library.category.label.howToPlay=КАК СЕ ИГРАЕ	#
+library.category.description.howToPlay=Тези светове и дейности са създадени като въведение с цел научаването на това как да се ползва Minecraft: Education Edition във Вашата класна стая.	#
+
+library.category.label.howToPlay.startHere=ЗАПОЧНЕТЕ ТУК	#
+library.category.title.howToPlay.startHere=Започнете тук	#
+library.category.description.howToPlay.startHere=Всеки от тези упътващи светове е създаден, за да Ви помогне да научите различни умения, с които да си подпомогнете работата с Minecraft: Education Edition във Вашата класна стая.	#
+
+library.category.label.howToPlay.additional=ДОПЪЛНИТЕЛНИ УПЪТВАНИЯ	#
+library.category.title.howToPlay.additional=Допълнителни упътвания	#
+
+library.category.label.SEL=СОЦИАЛНО-ЕМОЦИОНАЛНИ	#
+library.category.title.SEL=Социално-емоционални	#
+library.category.description.SEL=Тези светове и дейности подкрепят социалното и емоционалното обучение. Концепциите включват емоционално благосъстояние, съчувствие и вземане на отговорни решения.	#
+
+library.category.label.digitalCitizen=ЦИФРОВО ГРАЖДАНСТВО	#
+library.category.title.digitalCitizen=Цифрово гражданство	#
+library.category.description.digitalCitizen=Тези светове и дейности са насочени към цифровото гражданство, като се подпомагат учащите, докато се ориентират към медийната грамотност, поверителността и участието в онлайн общности.	#
+
+library.category.label.lessons=УРОЦИ	#
+library.category.title.lessons=Уроци	#
+
+library.category.label.lessons.genericAdditional=ДОПЪЛНИТЕЛНИ УРОЦИ	#
+library.category.title.lessons.genericAdditional=Допълнителни уроци	#
+
+library.category.label.languageArts=ЕЗИКОВИ ИЗКУСТВА	#
+library.category.title.languageArts=Езикови изкуства	#
+
+library.category.label.languageArts.litStudies=ИЗУЧАВАНЕ НА ЛИТЕРАТУРА	#
+library.category.title.languageArts.litStudies=Изучаване на литература	#
+
+library.category.label.languageArts.litStudies.treasureIsland=ОСТРОВЪТ НА СЪКРОВИЩАТА	#
+library.category.title.languageArts.litStudies.treasureIsland=Островът на съкровищата	#
+library.category.description.languageArts.litStudies.treasureIsland=Тази поредица уроци е изработена с цел да помогне научаването на концепциите на английския език чрез изучаване на "Островът на съкровищата" на Робърт Луис Стивънсън.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=ЦАРСТВОТО НА КЕНСУКЕ	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Царството на Кенсуке	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Тази поредица уроци е изработена с цел да помогне научаването на концепциите на английския език чрез изучаване на "Царството на Кенсуке" на Морпурго.	#
+
+library.category.label.languageArts.litStudies.swissFamily=ШВЕЙЦАРСКОТО СЕМЕЙСТВО РОБИНЗОН	#
+library.category.title.languageArts.litStudies.swissFamily=Швейцарското семейство Робинзон	#
+library.category.description.languageArts.litStudies.swissFamily=Тази поредица уроци е изработена с цел да помогне научаването на концепциите на английския език чрез изучаване на "Швейцарското семейство Робинзон" на Йохан Вис.	#
+
+library.category.label.science=НАУКА	#
+library.category.title.science=Наука	#
+
+library.category.label.science.chemistry=ХИМИЯ	#
+library.category.title.science.chemistry=Химия	#
+
+library.category.label.science.biology=БИОЛОГИЯ	#
+library.category.title.science.biology=Биология	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Тези пет урока и уникални Minecraft светове са разпределени из теми и възрасти. Чрез учебната програма, която Ви предоставяме, учениците могат да обходят африканските равнини, да разследват работещо пристанище, сиропиталище за носорози или станция на рейнджъри, да решават различни проблеми и да научат нови умения през това време.	#
+
+library.category.label.science.extinction=КРИЗИСНО УНИЩОЖЕНИЕ НА БИОРАЗНООБРАЗИЕТО	#
+library.category.title.science.extinction=Кризисно унищожение на биоразнообразието	#
+library.category.description.science.extinction=За създаването на този пакет си партнираме с World Wildlife Fund, като това включва и пленителен Minecraft свят и уроци, базирани върху установени стандарти. Разгледайте тези ресурси, за да разучите лично екосистеми, консервиране и биоразнообразие.	#
+
+library.category.label.history=ИСТОРИЯ И КУЛТУРА	#
+library.category.title.history=История и култура	#
+
+library.category.label.history.oregonTrail=ОРЕГОНСКАТА ПЪТЕКА	#
+library.category.title.history.oregonTrail=Орегонската пътека	#
+library.category.description.history.oregonTrail=В партньорство с Houghton Mifflin Harcourt, Minecraft: Education Edition Ви предоставя Изживяването Орегонска Пътека. Използвайте тези обучителни дейности в учебната си програма и започнете едно велико приключение, пътувайки по Орегонската пътека през грубите терени на Северна Америка.	#
+
+library.category.label.computerScience=КОМПЮТЪРНИ НАУКИ	#
+library.category.title.computerScience=Компютърни науки	#
+
+library.category.label.computerScience.hourOfCode=ЧАС НА КОДИРАНЕТО	#
+library.category.title.computerScience.hourOfCode=Час на кодирането	#
+library.category.description.computerScience.hourOfCode=Това е едночасов урок, въведение в компютърните науки, който е създаден с цел разясняване на изкуствения интелект, представяне на кодовете в Minecraft и разширяване на участието в сферата на научните науки.	#
+
+library.category.label.computerScience.STEM=ТОЧНИ НАУКИ	#
+library.category.title.computerScience.STEM=ТОЧНИ НАУКИ	#
+library.category.description.computerScience.STEM=Използвайте тези стандартно-наредени уроци и светове по математика, наука и инженерство, за да включите компютърните науки през учебните дни.	#
+
+library.category.label.computerScience.agency=Агенция	#
+library.category.title.computerScience.agency=Агенция	#
+library.category.description.computerScience.agency=Постройте свой собствен град с тези уроци по компютърни науки, които са базирани на CSTA стандарта. Научете основни CS концепции включително затворени вериги, алгоритми, кондиционали, премахване на грешки, итерации и др.	#
+
+library.category.label.computerScience.codingWithMinecraft=ПРОГРАМИРАНЕ С MINECRAFT	#
+library.category.title.computerScience.codingWithMinecraft=Програмиране с Minecraft	#
+library.category.description.computerScience.codingWithMinecraft=Научете кондиционали, функции, координати, изкуствен интелект и други с тези уроци по компютърни науки, които са базирани на CSTA стандарта.	#
+
+library.category.label.computerScience.codingFun1=ОСНОВИ НА ПРОГРАМИРАНЕТО: 1	#
+library.category.title.computerScience.codingFun1=Основи на ПРОграмирането: 1	#
+library.category.description.computerScience.codingFun1=Научете за различните животни, предизвикателствата, пред които са изправени, и начините, по които да им помогнете чрез писане на код! Използвайте алгоритми, последователност и цикли, за да решите забавни загадки по програмиране.	#
+
+library.category.label.computerScience.codingFun2=ОСНОВИ НА ПРОГРАМИРАНЕТО: 2	#
+library.category.title.computerScience.codingFun2=Основи на ПРОграмирането: 2	#
+library.category.description.computerScience.codingFun2=Посетете Луната, Меркурий, Венера, Марс, Юпитер и Нептун! Научете как да отстранявате грешки в кода си и да използвате условия, оператори и цикли, като същевременно помагате на Agent да събира материали в Слънчевата система.	#
+
+library.category.label.computerScience.codingFun3=ОСНОВИ НА ПРОГРАМИРАНЕТО 3	#
+library.category.title.computerScience.codingFun3=Основи на ПРОграмирането 3	#
+
+library.category.label.computerScience.blockBased=ПРОГРАМИРАНЕ, БАЗИРАНО НА БЛОКОВЕ	#
+library.category.title.computerScience.blockBased=Програмиране, базирано на блокове	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=Започнете да програмирате с Python в Minecraft! Научете основите на Python, включително синтаксис, типове данни, променливи, условия, цикли „for“, условни цикли, списъци и функции.	#
+
+library.category.label.computerScience.codingTutorials=УРОЦИ ПО ПРОГРАМИРАНЕ	#
+library.category.title.computerScience.codingTutorials=Уроци по програмиране	#
+library.category.description.computerScience.codingTutorials=Ако искате да се концентрирате върху конкретна тема по програмиране, това е мястото, от което да започнете! Научете как да използвате цикли, последователност, условия, променливи и функции. В тези уроци можете да изберете да пишете код на Blocks, Python или JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=ПРЕПОРЪЧАНИ УРОЦИ	#
+library.category.title.computerScience.featuredLessons=Препоръчани уроци	#
+library.category.description.computerScience.featuredLessons=Това са някои от любимите ни уроци по програмиране!	#
+
+library.category.label.math=МАТЕМАТИКА	#
+library.category.title.math=Математика	#
+
+library.category.label.math.fractions=ФРАКЦИИ	#
+library.category.title.math.fractions=Фракции	#
+library.category.description.math.fractions=Опитайте тези учебни ресурси, за да научите учениците на фракции.	#
+
+library.category.label.art=ИЗКУСТВО & ДИЗАЙН	#
+library.category.title.art=Изкуство & дизайн	#
+
+library.category.label.commonCore=COMMON CORE, ОЦЕНКА %1	#
+library.category.title.commonCore=Common core, оценка %1	#
+library.category.description.commonCoreMath=Тези увлекателни дейности са създадени с цел подпомагане обучението по математика и са съобразени с всеки от стандартите от програмата Common Core.	#
+
+signin.acceptTerms=Приемам условията	#
+signin.leftPanel.header=ИГРАЙ: MINECRAFT: EDUCATION EDITION	#
+signin.leftPanel.body=Трябва да влезете с учебния си акаунт, за да получите достъп до пълната версия на Minecraft: Education Edition.	#
+signin.rightPanel.header=ОПИТАЙТЕ ПРОБЕН УРОК	#
+signin.rightPanel.body=Опитайте да кодирате в Minecraft: Education Edition с този пробен урок, достъпен за всички потребители.	#
+
+structure_block.export.default_name=Моят структурен блок	#
+
+joincode.invalid.title=Неправилен код за присъединяване	#
+joincode.invalid.body=Въвели сте %1 неправилни кода за присъединяване. Обърнете се към хоста, за да се уверите, че разполагате с правилния код, или се опитайте да се присъедините чрез IP адрес.	#
+joincode.invalid.button.tryagain=Опитайте отново	#
+joincode.invalid.button.enterip=Въведете IP адрес	#
+
+joincode.invalid.abuse.body=Въвели сте %1 неправилни кода за присъединяване. Опитайте да се присъедините към света, като използвате IP адрес вместо това	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0 – 3	#	#
+tag.ages_4_5=4 – 5	#	#
+tag.ages_6_8=6 – 8	#	#
+tag.ages_9_12=9 – 12	#	#
+tag.ages_13_16=13 – 16	#	#
+tag.ages_16_18=16 – 18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Събиране	#	#
+tag.advanced=Напреднал	#	#
+tag.adventure=Приключение	#	#
+tag.all_ages=Всички възрасти	#	#
+tag.animals=Животни	#	#
+tag.aquatic=Морски	#	#
+tag.architecture=Архитектура	#	#
+tag.art_and_design=Изкуство и дизайн	#	#
+tag.beginner=Начинаещи	#	#
+tag.biodiversity=Биоразнообразие	#	#
+tag.biology=Биология	#	#
+tag.biome=Биом	#	#
+tag.biomes_and_worlds=Биоми и светове	#	#
+tag.bridges=Мостове	#referring to the structure	#
+tag.build_challenge=Предизвикателство за изграждане	#	#
+tag.character=Герой	#	#
+tag.chemistry=Химия	#	#
+tag.citizenship=Гражданство	#	#
+tag.city=Градски	#	#
+tag.climate=Климат	#	#
+tag.code_to_learn_stem=Точни науки	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Агенция	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Програмиране с Minecraft	#	#
+tag.coding_in_minecraft=Програмиране в Minecraft	#	#
+tag.collaboration=Сътрудничество	#	#
+tag.color=Цвят	#	#
+tag.common_core_math_grade_3=Основна математика, ниво 3	#	#
+tag.common_core_math_grade_4=Основна математика, ниво 4	#	#
+tag.common_core_math_grade_5=Основна математика, ниво 5	#	#
+tag.communication=Комуникация	#	#
+tag.computer_science=Компютърни науки	#	#
+tag.computing_in_minecraft=Информационни технологии в Minecraft	#	#
+tag.creative=Творчески	#	#
+tag.creative_writing=Творческо писане	#	#
+tag.creativity=Креативност	#	#
+tag.critical_thinking=Критично мислене	#	#
+tag.division=Деление	#	#
+tag.earth_day=Ден на Земята	#	#
+tag.ecology=Екология	#	#
+tag.economy=Икономика	#	#
+tag.energy=Енергия	#	#
+tag.environment=Околната среда	#	#
+tag.featured=Актуални	#	#
+tag.fractions=Дроби	#	#
+tag.game_design=Дизайн на игри	#	#
+tag.geography=География	#	#
+tag.geology=Геология	#	#
+tag.history_and_culture=История и култура	#	#
+tag.hour_of_code=Час на кодирането	#	#
+tag.how_to_play=Как да играем	#	#
+tag.intermediate=Средно ниво	#	#
+tag.kensukes_kingdom=Царството на Кенсуке	#	#
+tag.language_arts=Езикови изкуства	#	#
+tag.leadership=Лидерство	#	#
+tag.lesson=Урок	#	#
+tag.literature=Литература	#	#
+tag.math=Математика	#	#
+tag.multiplayer=Групова игра	#	#
+tag.multiplication=Умножение	#	#
+tag.museum=Музей	#	#
+tag.music=Музика	#	#
+tag.mythology=Митология	#	#
+tag.ocean=Океан	#	#
+tag.oregon_trail=Орегонската пътека	#	#
+tag.pattern=Модел	#	#
+tag.personal_narrative=Личен разказ	#	#
+tag.physics=Физика	#	#
+tag.pixel_art=Пиксел арт	#	#
+tag.pop_culture=Поп култура	#	#
+tag.probability=Вероятност	#	#
+tag.project_based_learning=Обучение, базирано на проекти	#	#
+tag.robinson_crusoe=Робинзон Крузо	#	#
+tag.science=Наука	#	#
+tag.seasonal=Сезонни	#	#
+tag.single_player=Единичен играч	#	#
+tag.social_emotional_learning=Социално-емоционално обучение	#	#
+tag.special_education=Специално образование	#	#
+tag.spelling=Правопис	#	#
+tag.story=История	#	#
+tag.subtraction=Изваждане	#	#
+tag.survival=Оцеляване	#	#
+tag.swiss_family_robinson=Швейцарското семейство Робинзон	#	#
+tag.technology=Технология	#	#
+tag.treasure_island=Островът на съкровищата	#	#
+tag.tutorial=Урок	#	#
+tag.we_are_the_rangers=Ние сме рейнджърите	#	#
+tag.world_languages=Световни езици	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Цифрово гражданство	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Блокове	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure Notebooks	#See for example: https://notebooks.azure.com/	#
+tag.loops=Цикли	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Условни изречения	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Променливи	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Функции	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Оператори	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Решаване на проблеми	#	#
+tag.artificial_intelligence=Изкуствен интелект	#	#
+tag.coding=Писане на код	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Основи на програмирането 1	#	#
+tag.coding_fundamentals_2=Основи на програмирането 2	#	#
+tag.coding_fundamentals_3=Основи на програмирането 3	#	#
+tag.coding_tutorials=Уроци по програмиране	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=Пчели	#	#
+tag.space=Космос	# refers to outer space	#
+tag.esports=Електронни спортове	#	#
+tag.toybox=Кутия за играчки	#	#
+tag.featured_coding=Препоръчано за програмиране	#	#
+## END TAG LOCALIZATION SECTION ##

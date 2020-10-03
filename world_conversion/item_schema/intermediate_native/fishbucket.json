@@ -1,0 +1,29 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "dest": "id"
+    },
+    {
+      "optional": true,
+      "dest": "Variant"
+    },
+    {
+      "optional": true,
+      "dest": "MarkVariant"
+    },
+    {
+      "optional": true,
+      "dest": "Color"
+    },
+    {
+      "optional": true,
+      "dest": "Color2"
+    },
+    {
+      "optional": false,
+      "item_transformation": "IntermediateBucketIdToNative"
+    }
+  ]
+}

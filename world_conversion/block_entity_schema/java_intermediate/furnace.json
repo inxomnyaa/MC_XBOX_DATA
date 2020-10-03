@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "JavaInventoryToIntermediate"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "BurnTime",
+      "dest": "BurnTime",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "CookTime",
+      "dest": "CookTime",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "CookTimeTotal",
+      "dest": "CookTimeTotal",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    }
+  ]
+}

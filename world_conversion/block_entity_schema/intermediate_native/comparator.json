@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "OutputSignal",
+      "dest": "OutputSignal",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    }
+  ]
+}

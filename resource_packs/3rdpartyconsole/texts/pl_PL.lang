@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=przycisk Minus	#
+accessibility.gamepad.button.systemRight=przycisk Plus	#
+accessibility.gamepad.dpad.down=Przycisk W dół	#
+accessibility.gamepad.dpad.up=Przycisk W górę	#
+accessibility.gamepad.dpad.left=Przycisk W lewo	#
+accessibility.gamepad.dpad.right=Przycisk W prawo	#
+accessibility.gamepad.trigger.right=przycisk ZR	#
+accessibility.gamepad.trigger.left=przycisk ZL	#
+accessibility.gamepad.bumper.right=przycisk R	#
+accessibility.gamepad.bumper.left=przycisk L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Ustawienia konta Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Ustawienia konta Microsoft	#
+
+patchNotice.title=Witaj w Minecrafcie – nie przegap jego wspaniałej zawartości!	#
+patchNotice.description.onlineFeatures=Podłącz swoją konsolę Nintendo Switch do Internetu, aby mieć nowe możliwości rozgrywki!	#
+patchNotice.description.onlineFeatures.item1=* Pobierz darmowe zestawy DLC otrzymane przy zakupie gry.	#
+patchNotice.description.onlineFeatures.item2=* Odkryj na rynku dzieła społeczności i zmień swoją grę.	#
+patchNotice.description.onlineFeatures.item3=* Graj online ze znajomymi (nawet na różnych urządzeniach)!	#
+patchNotice.description.onlineFeatures.item4=* Zaktualizuj grę i ciesz się nowymi funkcjami, zawartością i ulepszeniami, takimi jak...	#
+patchNotice.description.freeUpdates.item1=* Nowe bloki!	#
+patchNotice.description.freeUpdates.item2=* Nowe przedmioty!	#
+patchNotice.description.freeUpdates.item3=* Nowe moby!	#
+patchNotice.description.freeUpdates.item4=* Nowe, generowane budowle!	#
+patchNotice.description.freeUpdates.item5=* Nowe odmiany biomów!	#
+patchNotice.description.onlineFeatures.item5=Mamy dla Ciebie aktualizację! Podłącz swoją konsolę Nintendo Switch do Internetu, aby pobrać ją za darmo!	#
+
+thirdPartyConsole.network.networkName=Konto Nintendo	#
+thirdPartyConsole.adhoc.title=Wybierz tryb sieci	#
+thirdPartyConsole.adhoc.desc=Wybierz sieć lokalną, aby połączyć się z pobliskimi systemami Nintendo Switch, lub sieć online, aby połączyć się ze znajomymi z całego świata!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Połącz się z:	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Sieć online	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Połącz się z:	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Sieć lokalna	#
+thirdPartyConsole.adhoc.onlineNetwork=Sieć online	#
+thirdPartyConsole.adhoc.localNetwork=Sieć lokalna	#
+thirdPartyConsole.adhoc.enableOnline=Włączanie sieci online	#
+thirdPartyConsole.adhoc.enableLocal=Włączanie sieci lokalnej	#
+thirdPartyConsole.adhoc.inprogress=Dokonujemy szybkich zmian. Jeszcze chwila...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Zbyt wiele podłączonych kontrolerów.	#
+thirdPartyConsole.adhoc.controllerwarning=Tryb sieci lokalnej obsługuje co najwyżej 2 bezprzewodowe kontrolery (2 urządzenia typu Joy-Con lub Pro). Wszystkie kontrolery przekraczające limit zostały odłączone.	#
+thirdPartyConsole.adhoc.store=Funkcje sklepu są wyłączone podczas gry w trybie sieci lokalnej.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Zalogować się na konto Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Aby zalogować się na konto Microsoft, połącz się z siecią online.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Połącz	#
+thirdPartyConsole.startmenuscreen.xblsignin=Zaloguj się na konto Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Logowanie na konto Microsoft...	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Zaloguj się przy pomocy konta Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Logowanie na konto Nintendo	#
+thirdPartyConsole.notsignedin=Użytkownik nie jest zalogowany na swoje konto Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Użytkownik nie jest zalogowany i nie może zdobywać osiągnięć.	#
+thirdPartyConsole.notsignedin.store=Do przeglądania sklepu wymagane jest konto Nintendo.	#
+thirdPartyConsole.notsignedin.serversTab=Graj online i wypróbuj serwery Minecrafta – ogromne światy prowadzone przez społeczność gry, które pozwalają Ci rywalizować lub współpracować ze znajomymi (i kontr-znajomymi), bawić się z innymi w ogromnych poczekalniach i przemierzać przepastne niestandardowe światy.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Zaloguj się na swoje konto Nintendo, aby móc grać ze znajomymi.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=To konto nie ma pozwolenia na dołączanie do gier wieloosobowych Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Chcąc dołączyć, musisz mieć jakiegoś znajomego w tej grze.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Nastąpiło odłączenie od usługi Nintendo Switch Online. Zaloguj się z poziomu menu głównego i uruchom swój świat ponownie, aby Twoi znajomi w sieci Nintendo mogli go widzieć.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Twój świat nie jest już widoczny w lokalnej sieci. Uruchom ponownie tryb sieci lokalnej w menu głównym i otwórz swój świat jeszcze raz, aby lokalni gracze mogli go zobaczyć.	#
+networkWorld.add_friend=Znajdź znajomych na różnych platformach	#
+networkWorld.find_cross_platform_friends=Znajdź znajomych na różnych platformach	#
+networkWorld.joinable_nintendo_friends_label=Znajomi Nintendo Switch, do których możesz dołączyć	#
+networkWorld.joinable_cross_platform_friends_label=Znajomi z innych platform, do których możesz dołączyć	#
+networkWorld.no_xbl_label=Bez konta Microsoft nie ma możliwości dołączania do gier z użytkownikami innych platform. Zaloguj się na konto Microsoft, aby dołączyć do światów swoich znajomych.	#
+networkWorld.no_thirdParty_label.no_subscription=Brak połączenia z usługą Nintendo Switch Online. Do korzystania z funkcji online wymagana jest subskrypcja tej usługi. Możesz ją zakupić w Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Brak połączenia z usługą Nintendo Switch Online. Nie możesz dołączać do gier wieloosobowych swoich znajomych. Zaloguj się do Nintendo Switch Online, aby dołączyć do ich światów.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Nie możesz grać w gry wieloosobowe online z powodu ustawień kontroli rodzicielskiej. Sprawdź swoje ustawienia trybu wieloosobowego przy pomocy „Komunikacji z innymi” w ustawieniach kontroli rodzicielskiej.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Nie możesz brać udziału w rozgrywkach lokalnych w trybie dla wielu graczy z powodu ustawień kontroli rodzicielskiej. Sprawdź swoje ustawienia trybu wieloosobowego przy pomocy „Komunikacji z innymi” w ustawieniach kontroli rodzicielskiej.	#
+permissions.AddFriendsThirdParty=Nie możesz dodać znajomych z powodu ustawień kontroli rodzicielskiej. Sprawdź swoje ustawienia trybu wieloosobowego przy pomocy „Komunikacji z innymi” w ustawieniach kontroli rodzicielskiej.	#
+permissions.MultiplayerSessionsThirdParty=Nie możesz grać w światach Realms z powodu ustawień kontroli rodzicielskiej. Sprawdź swoje ustawienia trybu wieloosobowego przy pomocy „Komunikacji z innymi” w ustawieniach kontroli rodzicielskiej.	#
+options.dev_switch_coin_debug=Włącz debugowanie zakupów z platformy eShop przy dodawaniu monet	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Brak połączenia z usługą Nintendo Switch Online. Do korzystania z funkcji online wymagana jest subskrypcja tej usługi. Możesz ją zakupić w Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Brak połączenia z usługą Nintendo Switch Online. Nie możesz dołączać do gier wieloosobowych swoich znajomych. Zaloguj się do Nintendo Switch Online, aby dołączyć do ich światów.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Podczas przejścia urządzenia w tryb sieci lokalnej wystąpił problem. Upewnij się, że nie włączono trybu samolotowego, a następnie zrestartuj tryb sieci lokalnej, aby mogli go zobaczyć lokalni gracze.	#
+createWorldScreen.check_internet_connection=Twoja konsola Nintendo Switch nie jest połączona z Internetem. Twoi znajomi nie będą mogli dołączyć do twoich światów wieloosobowych. Podłącz konsolę Nintendo Switch do Internetu, aby korzystać z funkcji sieciowych.	#
+invite.notification.description=%s zaprasza cię do gry Minecrafta. Naciśnij -, aby odpowiedzieć na to zaproszenie.	#
+network.thirdparty.connect.benefit=Chcesz się zalogować na swoje konto Nintendo? Korzystanie z usług online wymaga takiego konta.	#
+networkWorld.check_internet_connection=Twoja konsola Nintendo Switch nie jest połączona z Internetem. Nie będziesz mógł dołączyć do gier wieloosobowych twoich znajomych. Podłącz konsolę Nintendo Switch do Internetu, aby korzystać z funkcji sieciowych.	#
+networkWorld.check_internet_connection.no_subscription=Brak połączenia z usługą Nintendo Switch Online. Do korzystania z funkcji online wymagana jest subskrypcja tej usługi. Możesz ją zakupić w Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Brak połączenia z usługą Nintendo Switch Online. Nie możesz dołączać do gier wieloosobowych swoich znajomych. Zaloguj się do Nintendo Switch Online, aby dołączyć do ich światów.	#
+disconnectionScreen.realmsDisabled=W wersji na Nintendo Switch wyłączono Realms.	#
+disconnectionScreen.noNSO.title=Wymagane konto Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Aby grać w trybie wieloosobowym na ekranie dzielonym bez subskrypcji Nintendo Switch Online, w ustawieniach gry wyłącz „Tryb wieloosobowy”. Aby grać w trybie wieloosobowym na ekranie dzielonym przez Internet, wymagana jest subskrypcja usługi Nintendo Switch Online, którą można zakupić w Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Brak połączenia z usługą Nintendo Switch Online. Aby grać w trybie wieloosobowym, potrzebujesz subskrypcji tej usługi, którą można nabyć w Nintendo eShop.	#
+options.xboxlivevisible=Widoczny dla graczy z różnych platform	#
+options.achievementsDisabled=W tym świecie nie można zdobywać osiągnięć.	#
+permissions.RealmsAddFriends=Obecna konfiguracja konta Microsoft nie pozwala dodawać nowych znajomych do gry w twoim świecie Realms. Możesz to zmienić w ustawieniach prywatności i zabezpieczeń online na aka.ms/accountsettings. Czy chcesz kontynuować?	#
+permissions.CloudSave=Obecna konfiguracja konta Microsoft nie pozwala zapisywać na nim twoich światów. Możesz to zmienić w ustawieniach prywatności i zabezpieczeń online na aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Twoje ustawienia konta Microsoft nie pozwalają na grę w trybie wieloosobowym. Zmień ustawienia prywatności i zabezpieczeń online na aka.ms/accountsettings, aby pozwalały na grę w trybie wieloosobowym.	#
+store.purchase.syncInProgress=Synchronizacja zakupów Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Potrzebujesz więcej monet (%s), aby odblokować ten zestaw.	#
+xbox.signin.newaccount.welcome=Witaj!	#
+xbox.signin.legalinfo=Łączysz się z Minecraftem przy pomocy profilu Xbox Live. Ustawienia Xbox Live możesz zmienić na stronie http://aka.ms/accountsettings, gdzie uzyskasz również więcej informacji. Powyższe podlega postanowieniom Umowy o świadczeniu usług firmy Microsoft oraz Oświadczenia o ochronie prywatności.	#
+xbox.failedsignin.line2=Jeśli będziesz grać bez logowania, to nie zdobędziesz osiągnięć, nie dołączysz do światów Realms ani do serwerów.	#
+xbox.failedautosignin.message=Ups! Automatyczne logowanie nie powiodło się. Aby uzyskać dostęp do swojego konta Microsoft, musisz zalogować się ponownie, wpisując dane ręcznie.	#
+xbox.signInLong=Zaloguj się za darmo!	#
+xbox.signOutLong=Wyloguj się ze swojego konta Microsoft	#
+xbox.thirdpartysignin.line2=Musisz się zalogować na konto Microsoft, aby się połączyć!	#
+xbox.profile.realName=Zarządzaj swoimi ustawieniami prywatności, określając, czy chcesz wyświetlać swoje prawdziwe imię i nazwisko, na http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Usuń znajomego	#
+autosave.info.xbox=Gdy widzisz tę ikonę, zapisujemy Twoją grę. Nie wyłączaj swojej konsoli Nintendo Switch, gdy ikona ta pojawia się na ekranie.	#
+progressScreen.message.leaveLevel=Twoja gra jest zapisywana. Nie wyłączaj swojej konsoli Nintendo Switch.	#
+feed.report_xbox=Zgłoś zespołowi ds. działań dyscyplinarnych	#
+
+howtoplay.multiplayer.text.1=Ciesz się pełnią Minecrafta, tworząc razem ze znajomymi! Domyślnie wszystkie Twoje ustawienia świata pozwalają im na dołączanie. Na Nintendo Switch możesz grać w gry wieloosobowe zarówno ze znajomymi z Nintendo, jak i z tymi korzystającymi z innych urządzeń. Tutaj możesz sprawdzić wszystkie sposoby na rozgrywki wieloosobowe!	#
+howtoplay.multiplayer.text.2.splitscreen=W trakcie gry do Twojej rozgrywki może się przyłączyć maksymalnie trzech graczy! Stwórz swój świat, a Twoi znajomi niech włączą swoje kontrolery i nacisną dowolny przycisk, aby dołączyć. Każdy z nich powinien mieć dwa kontrolery Joy-Con. Musisz posiadać zarówno prawy, jak i lewy kontroler lub dowolne inne urządzenie sterujące współpracujące z Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=W grze Minecraft są trzy podstawowe sposoby na grę wieloosobową. Możesz grać w świecie Realms, na serwerze lub we własnym świecie. Jeśli posiadasz subskrypcję Nintendo Switch Online i zalogujesz się na swoje konto Microsoft, twoi znajomi z innych urządzeń będą mogli dołączyć do twojego świata! Światy Realms i serwery wymagają konta Microsoft.	#
+howtoplay.multiplayer.text.3.has_subscription=W grze Minecraft są trzy podstawowe sposoby na grę wieloosobową. Możesz grać w świecie Realms, na serwerze lub we własnym świecie. Gdy zalogujesz się na swoje konto Nintendo lub Microsoft, twoi znajomi z innych urządzeń będą mogli dołączyć do twojego świata! Światy Realms i serwery wymagają konta Microsoft.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Jeśli posiadasz subskrypcję Nintendo Switch Online i zalogujesz się na swoje konto Microsoft, twoi znajomi będą mogli dołączyć do twojego świata z innych urządzeń!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Gdy zalogujesz się na swoje konta Nintendo i Microsoft, twoi znajomi z innych urządzeń będą mogli dołączyć do twojego świata!	#
+howtoplay.multiplayer.text.4=Aby dołączyć do gry wieloosobowej, przejdź do zakładki znajomych! W trybie online zobaczysz wszystkie światy i światy Realms swoich znajomych, do których możesz dołączyć. Gry tymczasowe Twoich znajomych również zostaną wyświetlone, jeśli będziesz w trybie tymczasowym.	#
+howtoplay.multiplayer.text.4.norealms=Aby dołączyć do gry wieloosobowej, przejdź do zakładki znajomych! W trybie online zobaczysz wszystkie ich światy, do których możesz dołączyć. Gry tymczasowe Twoich znajomych również zostaną wyświetlone, jeśli będziesz w trybie tymczasowym.	#
+howtoplay.multiplayer.text.5=Gdy tworzysz grę online lub do niej dołączasz, mogą to zobaczyć wszyscy twoi znajomi, a także znajomi twoich znajomych z konta Microsoft. Sprawdź ustawienia międzyplatformowej gry wieloosobowej swojego świata, naciskając przycisk edycji na tym świecie i klikając polecenie tryb wieloosobowy. 	#
+howtoplay.multiplayer.text.7=Przydziel swoim znajomym specjalne zdolności lub nie pozwól im niczego ruszać. Domyślnie wszyscy dołączają do Twojego świata jako członkowie. Otwórz menu pauzy, aby zobaczyć listę znajomych w Twoim świecie, a następnie kliknij ikonę po prawej stronie ich nazwy, aby edytować przyznane im uprawnienia.	#
+howtoplay.multiplayer.header.adhoc=Tryb tymczasowy	#
+howtoplay.multiplayer.text.adhoc=Chcesz zagrać ze znajomymi, ale nie na tym samym urządzeniu? Przełącz swoją konsolę Nintendo Switch do trybu tymczasowego, naciskając w menu głównym :_gamepad_face_button_left:. Przejdź do zakładki znajomych w menu gry, aby zobaczyć rozgrywki pobliskich znajomych, lub utwórz własną grę, aby mogli do niej dołączyć inni znajomi w pobliżu!	#
+howtoplay.theStore.text.4.norealms=Spraw swojej starej grze nową szatę graficzną dzięki zestawom tekstur nakładanym na Twoje obecne światy!	#
+howtoplay.theStore.text.5.norealms=Albo wypróbuj wszystko na raz dzięki pakietom łączonym, które są zbiorami skórek, światów i tekstur. Pakiety te przemienią Twoje światy!	#
+
+trial.tabbed_upsell.xbl.title=To jeszcze nie wszystko!	#
+
+connect_gamepad.pressButtonToContinue=Aby kontynuować, potrzebujesz pary kontrolerów typu Pro lub Joy-Con (L)/(R).	#
+connect_gamepad.adhocMaxControllers=Podczas lokalnej rozgrywki bezprzewodowej można używać tylko jednej pary kontrolerów typu Pro lub Joy-Con (L)/(R). Wyłącz wszystkie pozostałe kontrolery.	#
+connect_gamepad.requireControllerReconfiguration=Każdy gracz potrzebuje jednej pary kontrolerów typu Pro lub Joy-Con (L)/(R). Wyłącz wszystkie dodatkowe kontrolery typu Joy-Con, które nie stanowią części pary.	#
+connect_gamepad.handheldModeNoSplitscreen=Wykryto dodatkowy kontroler, jednak tryb wieloosobowy na ekranie dzielonym jest niedostępny w trybie przenośnym. Wyjdź z trybu przenośnego, odłączając kontrolery typu Joy-Con, lub wyłącz wszystkie dodatkowe kontrolery.	#
+connect_gamepad.promptHandheldMode=Do konsoli zostały podłączone kontrolery typu Joy-Con. Czy chcesz przejść w tryb przenośny? Spowoduje to wyłączenie trybu wieloosobowego na ekranie dzielonym. Naciśnij przycisk OK, aby wyłączyć tryb wieloosobowy na ekranie dzielonym i przejść w tryb przenośny, lub wybierz opcję Anuluj w celu odłączenia i naładowania kontrolerów typu Joy-Con.	#

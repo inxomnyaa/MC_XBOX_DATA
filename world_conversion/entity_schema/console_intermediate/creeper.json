@@ -1,0 +1,33 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "powered",
+      "dest": "Powered",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ExplosionRadius",
+      "dest": "ExplosionRadius",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Fuse",
+      "dest": "Fuse",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ignited",
+      "dest": "IsFuseLit",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

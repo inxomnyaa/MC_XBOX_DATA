@@ -1,0 +1,2432 @@
+{
+  "minecraft:spruce_boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Spruce Boat",
+    "id": 333
+  },
+  "minecraft:birch_boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Birch Boat",
+    "id": 333
+  },
+  "minecraft:jungle_boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Jungle Boat",
+    "id": 333
+  },
+  "minecraft:acacia_boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Acacia Boat",
+    "id": 333
+  },
+  "minecraft:dark_oak_boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Dark Oak Boat",
+    "id": 333
+  },
+  "minecraft:acacia_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Acacia Door",
+    "id": 430
+  },
+  "minecraft:acacia_fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Acacia Fence Gate",
+    "id": 187
+  },
+  "minecraft:acacia_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Acacia Wood Stairs",
+    "id": 163
+  },
+  "minecraft:activator_rail": {
+    "item_transformations": [ "block.json" ],
+    "description": "Activator Rails",
+    "id": 126
+  },
+  "minecraft:air": {
+    "item_transformations": [ "block.json" ],
+    "description": "Air",
+    "id": 0
+  },
+  "minecraft:anvil": {
+    "item_transformations": [ "block.json" ],
+    "description": "Anvil",
+    "id": 145
+  },
+  "minecraft:apple": {
+    "item_transformations": [ "item.json" ],
+    "description": "Apple",
+    "id": 260
+  },
+  "minecraft:arrow": {
+    "item_transformations": [ "item.json" ],
+    "description": "Arrow",
+    "id": 262
+  },
+  "minecraft:baked_potato": {
+    "item_transformations": [ "item.json" ],
+    "description": "Baked Potato",
+    "id": 393
+  },
+  "minecraft:beacon": {
+    "item_transformations": [ "block.json" ],
+    "description": "Beacon",
+    "id": 138
+  },
+  "minecraft:bed": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bed",
+    "id": 355
+  },
+  "minecraft:bedrock": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bedrock",
+    "id": 7
+  },
+  "minecraft:beef": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Beef",
+    "id": 363
+  },
+  "minecraft:beetroot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Beetroot",
+    "id": 457
+  },
+  "minecraft:beetroot_seeds": {
+    "item_transformations": [ "item.json" ],
+    "description": "Beetroot Seeds",
+    "id": 458
+  },
+  "minecraft:beetroot_soup": {
+    "item_transformations": [ "item.json" ],
+    "description": "Beetroot Soup",
+    "id": 459
+  },
+  "minecraft:birch_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Birch Door",
+    "id": 428
+  },
+  "minecraft:birch_fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Birch Fence Gate",
+    "id": 184
+  },
+  "minecraft:birch_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Birch Wood Stairs",
+    "id": 135
+  },
+  "minecraft:blaze_powder": {
+    "item_transformations": [ "item.json" ],
+    "description": "Blaze Powder",
+    "id": 377
+  },
+  "minecraft:blaze_rod": {
+    "item_transformations": [ "item.json" ],
+    "description": "Blaze Rod",
+    "id": 369
+  },
+  "minecraft:boat": {
+    "item_transformations": [ "item.json", "boat.json" ],
+    "description": "Oak Boat",
+    "id": 333
+  },
+  "minecraft:bone": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bone",
+    "id": 352
+  },
+  "minecraft:bone_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bone",
+    "id": 216
+  },
+  "minecraft:book": {
+    "item_transformations": [ "item.json" ],
+    "description": "Book",
+    "id": 340
+  },
+  "minecraft:bookshelf": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bookshelf",
+    "id": 47
+  },
+  "minecraft:bow": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bow",
+    "id": 261
+  },
+  "minecraft:bowl": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bowl",
+    "id": 281
+  },
+  "minecraft:bread": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bread",
+    "id": 297
+  },
+  "minecraft:brewing_stand": {
+    "item_transformations": [ "item.json" ],
+    "description": "Brewing Stand",
+    "id": 379
+  },
+  "minecraft:brick": {
+    "item_transformations": [ "item.json" ],
+    "description": "Brick",
+    "id": 336
+  },
+  "minecraft:brick_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bricks",
+    "id": 45
+  },
+  "minecraft:brick_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Brick Stairs",
+    "id": 108
+  },
+  "minecraft:brown_mushroom": {
+    "item_transformations": [ "item.json" ],
+    "description": "Mushroom (brown)",
+    "id": 39
+  },
+  "minecraft:brown_mushroom_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Brown Mushroom Block",
+    "id": 99
+  },
+  "minecraft:bucket": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:lava_bucket": {
+    "item_transformations": [ "item.json", "buckettypes.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:water_bucket": {
+    "item_transformations": [ "item.json", "buckettypes.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:milk_bucket": {
+    "item_transformations": [ "item.json", "buckettypes.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:fish_bucket": {
+    "item_transformations": [ "item.json", "fishbucket.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:salmon_bucket": {
+    "item_transformations": [ "item.json", "fishbucket.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:tropical_bucket": {
+    "item_transformations": [ "item.json", "fishbucket.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:puffer_bucket": {
+    "item_transformations": [ "item.json", "fishbucket.json" ],
+    "description": "Bucket",
+    "id": 325
+  },
+  "minecraft:cactus": {
+    "item_transformations": [ "block.json" ],
+    "description": "Cactus",
+    "id": 81
+  },
+  "minecraft:cake": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cake",
+    "id": 354
+  },
+  "minecraft:carpet": {
+    "item_transformations": [ "block.json" ],
+    "description": "Carpet",
+    "id": 171
+  },
+  "minecraft:carrots": {
+    "item_transformations": [ "item.json" ],
+    "description": "Carrot",
+    "id": 391
+  },
+  "minecraft:carrot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Carrot",
+    "id": 391
+  },
+  "minecraft:carrot_on_a_stick": {
+    "item_transformations": [ "item.json" ],
+    "description": "Carrot on a Stick",
+    "id": 398
+  },
+  "minecraft:cauldron": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cauldron",
+    "id": 380
+  },
+  "minecraft:chainmail_boots": {
+    "item_transformations": [ "item.json" ],
+    "description": "Chain Boots",
+    "id": 305
+  },
+  "minecraft:chainmail_chestplate": {
+    "item_transformations": [ "item.json" ],
+    "description": "Chain Chestplate",
+    "id": 303
+  },
+  "minecraft:chainmail_helmet": {
+    "item_transformations": [ "item.json" ],
+    "description": "Chain Helmet",
+    "id": 302
+  },
+  "minecraft:chainmail_leggings": {
+    "item_transformations": [ "item.json" ],
+    "description": "Chain Leggings",
+    "id": 304
+  },
+  "minecraft:chest": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Chest",
+    "id": 54
+  },
+  "minecraft:chest_minecart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Minecart with Chest",
+    "id": 342
+  },
+  "minecraft:furnace_minecart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Minecart",
+    "id": 328
+  },
+  "minecraft:chicken": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Chicken",
+    "id": 365
+  },
+  "minecraft:chorus_flower": {
+    "item_transformations": [ "block.json" ],
+    "description": "Chorus Flower",
+    "id": 200
+  },
+  "minecraft:chorus_fruit": {
+    "item_transformations": [ "item.json" ],
+    "description": "Chorus Fruit",
+    "id": 432
+  },
+  "minecraft:chorus_fruit_popped": {
+    "item_transformations": [ "item.json" ],
+    "description": "Popped Chorus Fruit",
+    "id": 433
+  },
+  "minecraft:chorus_plant": {
+    "item_transformations": [ "block.json" ],
+    "description": "Chorus Plant",
+    "id": 240
+  },
+  "minecraft:clay": {
+    "item_transformations": [ "block.json" ],
+    "description": "Clay Block",
+    "id": 82
+  },
+  "minecraft:clay_ball": {
+    "item_transformations": [ "item.json" ],
+    "description": "Clay",
+    "id": 337
+  },
+  "minecraft:clock": {
+    "item_transformations": [ "item.json" ],
+    "description": "Clock",
+    "id": 347
+  },
+  "minecraft:coal": {
+    "item_transformations": [ "item.json" ],
+    "description": "Charcoal",
+    "id": 263
+  },
+  "minecraft:coal_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coal Block",
+    "id": 173
+  },
+  "minecraft:coal_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coal Ore",
+    "id": 16
+  },
+  "minecraft:cobblestone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Cobblestone",
+    "id": 4
+  },
+  "minecraft:cobblestone_wall": {
+    "item_transformations": [ "block.json", "cobblestone_wall.json" ],
+    "description": "Mossy Cobblestone Wall",
+    "id": 139
+  },
+  "minecraft:comparator": {
+    "item_transformations": [ "item.json" ],
+    "description": "Redstone Comparator",
+    "id": 404
+  },
+  "minecraft:compass": {
+    "item_transformations": [ "item.json" ],
+    "description": "Compass",
+    "id": 345
+  },
+  "minecraft:cooked_beef": {
+    "item_transformations": [ "item.json" ],
+    "description": "Steak",
+    "id": 364
+  },
+  "minecraft:cooked_chicken": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Chicken",
+    "id": 366
+  },
+  "minecraft:cooked_fish": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Fish",
+    "id": 350
+  },
+  "minecraft:cooked_porkchop": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Porkchop",
+    "id": 320
+  },
+  "minecraft:cooked_rabbit": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Rabbit",
+    "id": 412
+  },
+  "minecraft:cooked_salmon": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Salmon",
+    "id": 350
+  },
+  "minecraft:cookie": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cookie",
+    "id": 357
+  },
+  "minecraft:crafting_table": {
+    "item_transformations": [ "block.json" ],
+    "description": "Crafting Table",
+    "id": 58
+  },
+  "minecraft:cocoa": {
+    "id": 127,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:dark_oak_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Dark Oak Door",
+    "id": 431
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Dark Oak Fence Gate",
+    "id": 186
+  },
+  "minecraft:dark_oak_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Dark Oak Wood Stairs",
+    "id": 164
+  },
+  "minecraft:daylight_detector": {
+    "item_transformations": [ "block.json" ],
+    "description": "Daylight Sensor",
+    "id": 151
+  },
+  "minecraft:deadbush": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dead Bush",
+    "id": 32
+  },
+  "minecraft:detector_rail": {
+    "item_transformations": [ "block.json" ],
+    "description": "Detector Rails",
+    "id": 28
+  },
+  "minecraft:diamond": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond",
+    "id": 264
+  },
+  "minecraft:diamond_axe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Axe",
+    "id": 279
+  },
+  "minecraft:diamond_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Diamond",
+    "id": 57
+  },
+  "minecraft:diamond_boots": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Boots",
+    "id": 313
+  },
+  "minecraft:diamond_chestplate": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Chestplate",
+    "id": 311
+  },
+  "minecraft:diamond_helmet": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Helmet",
+    "id": 310
+  },
+  "minecraft:diamond_hoe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Hoe",
+    "id": 293
+  },
+  "minecraft:diamond_leggings": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Leggings",
+    "id": 312
+  },
+  "minecraft:diamond_ore": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Ore",
+    "id": 56
+  },
+  "minecraft:diamond_pickaxe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Pickaxe",
+    "id": 278
+  },
+  "minecraft:diamond_shovel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Shovel",
+    "id": 277
+  },
+  "minecraft:diamond_sword": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Sword",
+    "id": 276
+  },
+  "minecraft:dirt": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dirt",
+    "id": 3
+  },
+  "minecraft:dispenser": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Dispenser",
+    "id": 23
+  },
+  "minecraft:double_plant": {
+    "item_transformations": [ "block.json" ],
+    "description": "double_plant",
+    "id": 175
+  },
+  "minecraft:dragon_breath": {
+    "item_transformations": [ "item.json" ],
+    "description": "Dragon's Breath",
+    "id": 437
+  },
+  "minecraft:dragon_egg": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dragon Egg",
+    "id": 122
+  },
+  "minecraft:dropper": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Dropper",
+    "id": 125
+  },
+  "minecraft:dye_black": {
+    "item_transformations": [ "item.json" ],
+    "description": "Ink Sac",
+    "id": 351
+  },
+  "minecraft:dye": {
+    "item_transformations": [ "item.json", "dye.json" ],
+    "description": "Dye",
+    "id": 351
+  },
+  "minecraft:egg": {
+    "item_transformations": [ "item.json" ],
+    "description": "Egg",
+    "id": 344
+  },
+  "minecraft:elytra": {
+    "item_transformations": [ "item.json" ],
+    "description": "Elytra",
+    "id": 444
+  },
+  "minecraft:emerald": {
+    "item_transformations": [ "item.json" ],
+    "description": "Emerald",
+    "id": 388
+  },
+  "minecraft:emerald_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Emerald",
+    "id": 133
+  },
+  "minecraft:emerald_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Emerald Ore",
+    "id": 129
+  },
+  "minecraft:map": {
+    "item_transformations": [ "item.json", "map.json" ],
+    "description": "Map",
+    "id": 395
+  },
+  "minecraft:filled_map": {
+    "item_transformations": [ "item.json", "filled_map.json" ],
+    "description": "Map",
+    "id": 358
+  },
+  "minecraft:enchanting_table": {
+    "item_transformations": [ "block.json" ],
+    "description": "Enchantment Table",
+    "id": 116
+  },
+  "minecraft:end_bricks": {
+    "item_transformations": [ "block.json" ],
+    "description": "End Stone Bricks",
+    "id": 206
+  },
+  "minecraft:end_crystal": {
+    "item_transformations": [ "item.json" ],
+    "description": "End Crystal",
+    "id": 426
+  },
+  "minecraft:end_portal_frame": {
+    "item_transformations": [ "block.json" ],
+    "description": "End Portal Frame",
+    "id": 120
+  },
+  "minecraft:end_rod": {
+    "item_transformations": [ "item.json", "blockauxfixer.json" ],
+    "description": "End Rod",
+    "id": 208
+  },
+  "minecraft:end_stone": {
+    "item_transformations": [ "block.json" ],
+    "description": "End Stone",
+    "id": 121
+  },
+  "minecraft:ender_chest": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Ender Chest",
+    "id": 130
+  },
+  "minecraft:ender_eye": {
+    "item_transformations": [ "item.json" ],
+    "description": "Eye of Ender",
+    "id": 381
+  },
+  "minecraft:ender_pearl": {
+    "item_transformations": [ "item.json" ],
+    "description": "Ender Pearl",
+    "id": 368
+  },
+  "minecraft:experience_bottle": {
+    "item_transformations": [ "item.json" ],
+    "description": "Bottle o'Enchanting",
+    "id": 384
+  },
+  "minecraft:feather": {
+    "item_transformations": [ "item.json" ],
+    "description": "Feather",
+    "id": 288
+  },
+  "minecraft:fence": {
+    "item_transformations": [ "block.json" ],
+    "description": "Wood Fence",
+    "id": 85
+  },
+  "minecraft:fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Oak Fence Gate",
+    "id": 107
+  },
+  "minecraft:fermented_spider_eye": {
+    "item_transformations": [ "item.json" ],
+    "description": "Fermented Spider Eye",
+    "id": 376
+  },
+  "minecraft:fire_charge": {
+    "item_transformations": [ "item.json" ],
+    "description": "Fire Charge",
+    "id": 385
+  },
+  "minecraft:firework_charge": {
+    "item_transformations": [ "item.json", "firework_charge.json" ],
+    "description": "Firework Charge",
+    "id": 402
+  },
+  "minecraft:fireworks": {
+    "item_transformations": [ "item.json", "firework.json" ],
+    "description": "Firework",
+    "id": 401
+  },
+  "minecraft:fish": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Fish",
+    "id": 349
+  },
+  "minecraft:fishing_rod": {
+    "item_transformations": [ "item.json" ],
+    "description": "Fishing Rod",
+    "id": 346
+  },
+  "minecraft:flint": {
+    "item_transformations": [ "item.json" ],
+    "description": "Flint",
+    "id": 318
+  },
+  "minecraft:flint_and_steel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Flint and Steel",
+    "id": 259
+  },
+  "minecraft:flower_pot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Flower Pot",
+    "id": 390
+  },
+  "minecraft:item_frame": {
+    "item_transformations": [ "item.json" ],
+    "description": "Item Frame",
+    "id": 389
+  },
+  "minecraft:furnace": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Furnace",
+    "id": 61
+  },
+  "minecraft:ghast_tear": {
+    "item_transformations": [ "item.json" ],
+    "description": "Ghast Tear",
+    "id": 370
+  },
+  "minecraft:glass": {
+    "item_transformations": [ "block.json" ],
+    "description": "Glass",
+    "id": 20
+  },
+  "minecraft:glass_bottle": {
+    "item_transformations": [ "item.json" ],
+    "description": "Glass Bottle",
+    "id": 374
+  },
+  "minecraft:glass_pane": {
+    "item_transformations": [ "block.json" ],
+    "description": "Glass Pane",
+    "id": 102
+  },
+  "minecraft:glowstone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Glowstone",
+    "id": 89
+  },
+  "minecraft:glowstone_dust": {
+    "item_transformations": [ "item.json" ],
+    "description": "Glowstone Dust",
+    "id": 348
+  },
+  "minecraft:gold_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Gold",
+    "id": 41
+  },
+  "minecraft:gold_ingot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Gold Ingot",
+    "id": 266
+  },
+  "minecraft:gold_nugget": {
+    "item_transformations": [ "item.json" ],
+    "description": "Gold Nugget",
+    "id": 371
+  },
+  "minecraft:gold_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Gold Ore",
+    "id": 14
+  },
+  "minecraft:golden_apple": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Apple",
+    "id": 322
+  },
+  "minecraft:enchanted_apple": {
+    "item_transformations": [ "item.json" ],
+    "description": "Enchanted Golden Apple",
+    "id": 466
+  },
+  "minecraft:golden_axe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Axe",
+    "id": 286
+  },
+  "minecraft:golden_boots": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Boots",
+    "id": 317
+  },
+  "minecraft:golden_carrot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Carrot",
+    "id": 396
+  },
+  "minecraft:golden_chestplate": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Chestplate",
+    "id": 315
+  },
+  "minecraft:golden_helmet": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Helmet",
+    "id": 314
+  },
+  "minecraft:golden_hoe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Hoe",
+    "id": 294
+  },
+  "minecraft:golden_leggings": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Leggings",
+    "id": 316
+  },
+  "minecraft:golden_pickaxe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Pickaxe",
+    "id": 285
+  },
+  "minecraft:golden_rail": {
+    "item_transformations": [ "block.json" ],
+    "description": "Powered Rails",
+    "id": 27
+  },
+  "minecraft:golden_shovel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Shovel",
+    "id": 284
+  },
+  "minecraft:golden_sword": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Sword",
+    "id": 283
+  },
+  "minecraft:grass": {
+    "item_transformations": [ "block.json" ],
+    "description": "Grass Block",
+    "id": 2
+  },
+  "minecraft:grass_path": {
+    "item_transformations": [ "block.json" ],
+    "description": "Grass Path",
+    "id": 198
+  },
+  "minecraft:gravel": {
+    "item_transformations": [ "block.json" ],
+    "description": "Gravel",
+    "id": 13
+  },
+  "minecraft:gunpowder": {
+    "item_transformations": [ "item.json" ],
+    "description": "Gunpowder",
+    "id": 289
+  },
+  "minecraft:hardened_clay": {
+    "item_transformations": [ "block.json" ],
+    "description": "Hardened Clay",
+    "id": 172
+  },
+  "minecraft:hay_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Hay Bale",
+    "id": 170
+  },
+  "minecraft:banner": {
+    "item_transformations": [ "item.json", "bannerpatterns.json" ],
+    "id": 446
+  },
+  "minecraft:armor_stand": {
+    "item_transformations": [ "item.json" ],
+    "description": "Armor Stand",
+    "id": 425
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Heavy Weighted Pressure Plate",
+    "id": 148
+  },
+  "minecraft:hopper": {
+    "item_transformations": [ "block.json" ],
+    "description": "Hopper",
+    "id": 410
+  },
+  "minecraft:hopper_minecart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Minecart with Hopper",
+    "id": 408
+  },
+  "minecraft:diamond_horse_armor": {
+    "item_transformations": [ "item.json" ],
+    "description": "Diamond Horse Armor",
+    "id": 419
+  },
+  "minecraft:golden_horse_armor": {
+    "item_transformations": [ "item.json" ],
+    "description": "Golden Horse Armor",
+    "id": 418
+  },
+  "minecraft:iron_horse_armor": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Horse Armor",
+    "id": 417
+  },
+  "minecraft:iron_nugget": {
+    "id": 452,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:leather_horse_armor": {
+    "item_transformations": [ "item.json", "leatherarmor.json" ],
+    "description": "Leather Horse Armor",
+    "id": 416
+  },
+  "minecraft:ice": {
+    "item_transformations": [ "block.json" ],
+    "description": "Ice",
+    "id": 79
+  },
+  "minecraft:frosted_ice": {
+    "id": 207,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:iron_axe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Axe",
+    "id": 258
+  },
+  "minecraft:iron_bars": {
+    "item_transformations": [ "block.json" ],
+    "description": "Iron Bars",
+    "id": 101
+  },
+  "minecraft:iron_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Iron",
+    "id": 42
+  },
+  "minecraft:iron_boots": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Boots",
+    "id": 309
+  },
+  "minecraft:iron_chestplate": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Chestplate",
+    "id": 307
+  },
+  "minecraft:iron_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Door",
+    "id": 330
+  },
+  "minecraft:iron_helmet": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Helmet",
+    "id": 306
+  },
+  "minecraft:iron_hoe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Hoe",
+    "id": 292
+  },
+  "minecraft:iron_ingot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Ingot",
+    "id": 265
+  },
+  "minecraft:iron_leggings": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Leggings",
+    "id": 308
+  },
+  "minecraft:iron_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Iron Ore",
+    "id": 15
+  },
+  "minecraft:iron_pickaxe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Pickaxe",
+    "id": 257
+  },
+  "minecraft:iron_shovel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Shovel",
+    "id": 256
+  },
+  "minecraft:iron_sword": {
+    "item_transformations": [ "item.json" ],
+    "description": "Iron Sword",
+    "id": 267
+  },
+  "minecraft:iron_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Iron Trapdoor",
+    "id": 167
+  },
+  "minecraft:jungle_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Jungle Door",
+    "id": 429
+  },
+  "minecraft:jungle_fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Jungle Fence Gate",
+    "id": 185
+  },
+  "minecraft:jungle_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Jungle Wood Stairs",
+    "id": 136
+  },
+  "minecraft:ladder": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Ladder",
+    "id": 65
+  },
+  "minecraft:lapis_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Lapis Lazuli Block",
+    "id": 22
+  },
+  "minecraft:lapis_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Lapis Lazuli Ore",
+    "id": 21
+  },
+  "minecraft:lead": {
+    "item_transformations": [ "item.json" ],
+    "description": "Lead",
+    "id": 420
+  },
+  "minecraft:leather": {
+    "item_transformations": [ "item.json" ],
+    "description": "Leather",
+    "id": 334
+  },
+  "minecraft:leather_boots": {
+    "item_transformations": [ "item.json", "leatherarmor.json" ],
+    "description": "Leather Boots",
+    "id": 301
+  },
+  "minecraft:leather_chestplate": {
+    "item_transformations": [ "item.json", "leatherarmor.json" ],
+    "description": "Leather Tunic",
+    "id": 299
+  },
+  "minecraft:leather_helmet": {
+    "item_transformations": [ "item.json", "leatherarmor.json" ],
+    "description": "Leather Cap",
+    "id": 298
+  },
+  "minecraft:leather_leggings": {
+    "item_transformations": [ "item.json", "leatherarmor.json" ],
+    "description": "Leather Pants",
+    "id": 300
+  },
+  "minecraft:leaves": {
+    "item_transformations": [ "block.json" ],
+    "description": "Jungle Leaves",
+    "id": 18
+  },
+  "minecraft:leaves2": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Leaves",
+    "id": 161
+  },
+  "minecraft:lever": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Lever",
+    "id": 69
+  },
+  "minecraft:light_weighted_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Light Weighted Pressure Plate",
+    "id": 147
+  },
+  "minecraft:lingering_potion": {
+    "item_transformations": [ "item.json", "potiontypes.json" ],
+    "description": "Lingering Potion",
+    "id": 441
+  },
+  "minecraft:lit_pumpkin": {
+    "item_transformations": [ "block.json" ],
+    "description": "Jack o'Lantern",
+    "id": 91
+  },
+  "minecraft:log": {
+    "item_transformations": [ "block.json" ],
+    "description": "Jungle Wood",
+    "id": 17
+  },
+  "minecraft:log2": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Wood",
+    "id": 162
+  },
+  "minecraft:magma": {
+    "item_transformations": [ "block.json" ],
+    "id": 213
+  },
+  "minecraft:magma_cream": {
+    "item_transformations": [ "item.json" ],
+    "description": "Magma Cream",
+    "id": 378
+  },
+  "minecraft:melon": {
+    "item_transformations": [ "item.json" ],
+    "description": "Melon",
+    "id": 360
+  },
+  "minecraft:melon_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Melon",
+    "id": 103
+  },
+  "minecraft:melon_seeds": {
+    "item_transformations": [ "item.json" ],
+    "description": "Melon Seeds",
+    "id": 362
+  },
+  "minecraft:minecart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Minecart",
+    "id": 328
+  },
+  "minecraft:mob_spawner": {
+    "item_transformations": [ "block.json" ],
+    "description": "Monster Spawner",
+    "id": 52
+  },
+  "minecraft:monster_egg": {
+    "item_transformations": [ "block.json" ],
+    "description": "Chiseled Stone Brick Monster Egg",
+    "id": 97
+  },
+  "minecraft:mossy_cobblestone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Moss Stone",
+    "id": 48
+  },
+  "minecraft:mushroom_stew": {
+    "item_transformations": [ "item.json" ],
+    "description": "Mushroom Stew",
+    "id": 282
+  },
+  "minecraft:cooked_mutton": {
+    "item_transformations": [ "item.json" ],
+    "description": "Cooked Mutton",
+    "id": 424
+  },
+  "minecraft:mutton": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Mutton",
+    "id": 423
+  },
+  "minecraft:mycelium": {
+    "item_transformations": [ "block.json" ],
+    "description": "Mycelium",
+    "id": 110
+  },
+  "minecraft:name_tag": {
+    "item_transformations": [ "item.json" ],
+    "description": "Name Tag",
+    "id": 421
+  },
+  "minecraft:nether_brick": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Nether Brick",
+    "id": 112
+  },
+  "minecraft:nether_brick_fence": {
+    "item_transformations": [ "block.json" ],
+    "description": "Nether Brick Fence",
+    "id": 113
+  },
+  "minecraft:nether_brick_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Nether Brick Stairs",
+    "id": 114
+  },
+  "minecraft:nether_wart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Nether Wart",
+    "id": 372
+  },
+  "minecraft:nether_wart_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Nether Wart",
+    "id": 214
+  },
+  "minecraft:netherbrick": {
+    "item_transformations": [ "item.json" ],
+    "description": "Nether Brick",
+    "id": 405
+  },
+  "minecraft:enchanted_book": {
+    "item_transformations": [ "item.json" ],
+    "description": "Enchanted Book",
+    "id": 403
+  },
+  "minecraft:netherrack": {
+    "item_transformations": [ "block.json" ],
+    "description": "Netherrack",
+    "id": 87
+  },
+  "minecraft:nether_star": {
+    "item_transformations": [ "item.json" ],
+    "description": "Nether Star",
+    "id": 399
+  },
+  "minecraft:noteblock": {
+    "item_transformations": [ "block.json" ],
+    "description": "Note Block",
+    "id": 25
+  },
+  "minecraft:oak_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Oak Wood Stairs",
+    "id": 53
+  },
+  "minecraft:observer": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Observer",
+    "id": 251
+  },
+  "minecraft:obsidian": {
+    "item_transformations": [ "block.json" ],
+    "description": "Obsidian",
+    "id": 49
+  },
+  "minecraft:packed_ice": {
+    "item_transformations": [ "block.json" ],
+    "description": "Packed Ice",
+    "id": 174
+  },
+  "minecraft:painting": {
+    "item_transformations": [ "item.json" ],
+    "description": "Painting",
+    "id": 321
+  },
+  "minecraft:paper": {
+    "item_transformations": [ "item.json" ],
+    "description": "Paper",
+    "id": 339
+  },
+  "minecraft:piston": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Piston",
+    "id": 33
+  },
+  "minecraft:planks": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Wood Plank",
+    "id": 5
+  },
+  "minecraft:podzol": {
+    "item_transformations": [ "block.json" ],
+    "description": "Podzol",
+    "id": 243
+  },
+  "minecraft:poisonous_potato": {
+    "item_transformations": [ "item.json" ],
+    "description": "Poisonous Potato",
+    "id": 394
+  },
+  "minecraft:porkchop": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Porkchop",
+    "id": 319
+  },
+  "minecraft:potatoes": {
+    "item_transformations": [ "item.json" ],
+    "description": "Potato",
+    "id": 392
+  },
+  "minecraft:potato": {
+    "item_transformations": [ "item.json" ],
+    "description": "Potato",
+    "id": 392
+  },
+  "minecraft:potion": {
+    "item_transformations": [ "item.json", "potiontypes.json" ],
+    "description": "Water Bottle",
+    "id": 373
+  },
+  "minecraft:prismarine": {
+    "item_transformations": [ "block.json", "prismarine.json" ],
+    "description": "Prismarine Bricks",
+    "id": 168
+  },
+  "minecraft:prismarine_crystals": {
+    "item_transformations": [ "item.json" ],
+    "description": "Prismarine Crystals",
+    "id": 422
+  },
+  "minecraft:prismarine_shard": {
+    "item_transformations": [ "item.json" ],
+    "description": "Prismarine Shard",
+    "id": 409
+  },
+  "minecraft:pumpkin": {
+    "item_transformations": [ "block.json" ],
+    "description": "Pumpkin",
+    "id": 86
+  },
+  "minecraft:carved_pumpkin": {
+    "item_transformations": [ "block.json" ],
+    "description": "Carved Pumpkin",
+    "id": -155
+  },
+  "minecraft:pumpkin_pie": {
+    "item_transformations": [ "item.json" ],
+    "description": "Pumpkin Pie",
+    "id": 400
+  },
+  "minecraft:pumpkin_seeds": {
+    "item_transformations": [ "item.json" ],
+    "description": "Pumpkin Seeds",
+    "id": 361
+  },
+  "minecraft:purpur_block": {
+    "item_transformations": [ "block.json", "purpurblock.json" ],
+    "description": "Purpur Block",
+    "id": 201
+  },
+  "minecraft:purpur_pillar": {
+    "item_transformations": [ "block.json", "purpurblock.json" ],
+    "description": "Purpur Pillar",
+    "id": 201
+  },
+  "minecraft:purpur_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Purpur Stairs",
+    "id": 203
+  },
+  "minecraft:stone_slab_4": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stone Slab 4",
+    "id": -166
+  },
+  "minecraft:quartz": {
+    "item_transformations": [ "item.json" ],
+    "description": "Nether Quartz",
+    "id": 406
+  },
+  "minecraft:quartz_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Pillar Quartz Block",
+    "id": 155
+  },
+  "minecraft:quartz_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Nether Quartz Ore",
+    "id": 153
+  },
+  "minecraft:quartz_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Quartz Stairs",
+    "id": 156
+  },
+  "minecraft:rabbit": {
+    "item_transformations": [ "item.json" ],
+    "description": "Raw Rabbit",
+    "id": 411
+  },
+  "minecraft:rabbit_foot": {
+    "item_transformations": [ "item.json" ],
+    "description": "Rabbit's Foot",
+    "id": 414
+  },
+  "minecraft:rabbit_hide": {
+    "item_transformations": [ "item.json" ],
+    "description": "Rabbit Hide",
+    "id": 415
+  },
+  "minecraft:rabbit_stew": {
+    "item_transformations": [ "item.json" ],
+    "description": "Rabbit Stew",
+    "id": 413
+  },
+  "minecraft:rail": {
+    "item_transformations": [ "block.json" ],
+    "description": "Rails",
+    "id": 66
+  },
+  "minecraft:record_11": {
+    "item_transformations": [ "item.json" ],
+    "id": 510
+  },
+  "minecraft:record_13": {
+    "item_transformations": [ "item.json" ],
+    "id": 500
+  },
+  "minecraft:record_blocks": {
+    "item_transformations": [ "item.json" ],
+    "id": 502
+  },
+  "minecraft:record_cat": {
+    "item_transformations": [ "item.json" ],
+    "id": 501
+  },
+  "minecraft:record_chirp": {
+    "item_transformations": [ "item.json" ],
+    "id": 503
+  },
+  "minecraft:record_far": {
+    "item_transformations": [ "item.json" ],
+    "id": 504
+  },
+  "minecraft:record_mall": {
+    "item_transformations": [ "item.json" ],
+    "id": 505
+  },
+  "minecraft:record_mellohi": {
+    "item_transformations": [ "item.json" ],
+    "id": 506
+  },
+  "minecraft:record_stal": {
+    "item_transformations": [ "item.json" ],
+    "id": 507
+  },
+  "minecraft:record_strad": {
+    "item_transformations": [ "item.json" ],
+    "id": 508
+  },
+  "minecraft:record_wait": {
+    "item_transformations": [ "item.json" ],
+    "id": 511
+  },
+  "minecraft:record_ward": {
+    "item_transformations": [ "item.json" ],
+    "id": 509
+  },
+  "minecraft:red_flower": {
+    "item_transformations": [ "block.json" ],
+    "description": "Oxeye Daisy",
+    "id": 38
+  },
+  "minecraft:red_mushroom": {
+    "item_transformations": [ "item.json" ],
+    "description": "Mushroom (red with white spots)",
+    "id": 40
+  },
+  "minecraft:red_mushroom_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Red Mushroom Block",
+    "id": 100
+  },
+  "minecraft:red_nether_brick": {
+    "item_transformations": [ "block.json" ],
+    "description": "Observer",
+    "id": 215
+  },
+  "minecraft:purple_glazed_terracotta": {
+    "id": 219,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:white_glazed_terracotta": {
+    "id": 220,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:orange_glazed_terracotta": {
+    "id": 221,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:magenta_glazed_terracotta": {
+    "id": 222,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:light_blue_glazed_terracotta": {
+    "id": 223,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:yellow_glazed_terracotta": {
+    "id": 224,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:lime_glazed_terracotta": {
+    "id": 225,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:pink_glazed_terracotta": {
+    "id": 226,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:gray_glazed_terracotta": {
+    "id": 227,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:silver_glazed_terracotta": {
+    "id": 228,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:shulker_shell": {
+    "id": 445,
+    "item_transformations": [ "item.json" ]
+  },
+  "minecraft:cyan_glazed_terracotta": {
+    "id": 229,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:blue_glazed_terracotta": {
+    "id": 231,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:brown_glazed_terracotta": {
+    "id": 232,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:green_glazed_terracotta": {
+    "id": 233,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:red_glazed_terracotta": {
+    "id": 234,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:black_glazed_terracotta": {
+    "id": 235,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:concrete": {
+    "id": 236,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:concrete_powder": {
+    "id": 237,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:red_sandstone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Red Sandstone",
+    "id": 179
+  },
+  "minecraft:red_sandstone_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Red Sandstone Stairs",
+    "id": 180
+  },
+  "minecraft:undyed_shulker_box": {
+    "id": 205,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:purple_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:white_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:orange_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:magenta_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:light_blue_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:yellow_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:lime_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:pink_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:gray_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:silver_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:cyan_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:blue_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:black_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:brown_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:green_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:red_shulker_box": {
+    "id": 218,
+    "item_transformations": [ "block.json", "shulker_box.json" ]
+  },
+  "minecraft:redstone": {
+    "item_transformations": [ "item.json" ],
+    "description": "Redstone",
+    "id": 331
+  },
+  "minecraft:redstone_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Block of Redstone",
+    "id": 152
+  },
+  "minecraft:redstone_lamp": {
+    "item_transformations": [ "block.json" ],
+    "description": "Redstone Lamp",
+    "id": 123
+  },
+  "minecraft:redstone_ore": {
+    "item_transformations": [ "block.json" ],
+    "description": "Redstone Ore",
+    "id": 73
+  },
+  "minecraft:redstone_torch": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Redstone Torch",
+    "id": 76
+  },
+  "minecraft:reeds": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sugar Canes",
+    "id": 338
+  },
+  "minecraft:repeater": {
+    "item_transformations": [ "item.json" ],
+    "description": "Redstone Repeater",
+    "id": 356
+  },
+  "minecraft:rotten_flesh": {
+    "item_transformations": [ "item.json" ],
+    "description": "Rotten Flesh",
+    "id": 367
+  },
+  "minecraft:saddle": {
+    "item_transformations": [ "item.json" ],
+    "description": "Saddle",
+    "id": 329
+  },
+  "minecraft:sand": {
+    "item_transformations": [ "block.json" ],
+    "description": "Red Sand",
+    "id": 12
+  },
+  "minecraft:sandstone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Sandstone",
+    "id": 24
+  },
+  "minecraft:sandstone_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Sandstone Stairs",
+    "id": 128
+  },
+  "minecraft:sapling": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Sapling",
+    "id": 6
+  },
+  "minecraft:sea_lantern": {
+    "item_transformations": [ "block.json" ],
+    "description": "Sea Lantern",
+    "id": 169
+  },
+  "minecraft:shears": {
+    "item_transformations": [ "item.json" ],
+    "description": "Shears",
+    "id": 359
+  },
+  "minecraft:totem_of_undying": {
+    "item_transformations": [ "item.json" ],
+    "description": "Totem of Undying",
+    "id": 450
+  },
+  "minecraft:sign": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign",
+    "id": 323
+  },
+  "minecraft:skull": {
+    "item_transformations": [ "item.json" ],
+    "description": "Dragon Head",
+    "id": 397
+  },
+  "minecraft:slime": {
+    "item_transformations": [ "block.json" ],
+    "description": "Slime Block",
+    "id": 165
+  },
+  "minecraft:slime_ball": {
+    "item_transformations": [ "item.json" ],
+    "description": "Slimeball",
+    "id": 341
+  },
+  "minecraft:snow": {
+    "item_transformations": [ "block.json" ],
+    "description": "Snow",
+    "id": 80
+  },
+  "minecraft:snow_layer": {
+    "item_transformations": [ "block.json" ],
+    "description": "Snow",
+    "id": 78
+  },
+  "minecraft:snowball": {
+    "item_transformations": [ "item.json" ],
+    "description": "Snowball",
+    "id": 332
+  },
+  "minecraft:soul_sand": {
+    "item_transformations": [ "block.json" ],
+    "description": "Soul Sand",
+    "id": 88
+  },
+  "minecraft:spawn_egg": {
+    "item_transformations": [ "item.json", "spawnegg.json" ],
+    "description": "Spawn Egg",
+    "id": 383
+  },
+  "minecraft:speckled_melon": {
+    "item_transformations": [ "item.json" ],
+    "description": "Glistering Melon",
+    "id": 382
+  },
+  "minecraft:spider_eye": {
+    "item_transformations": [ "item.json" ],
+    "description": "Spider Eye",
+    "id": 375
+  },
+  "minecraft:splash_potion": {
+    "item_transformations": [ "item.json", "potiontypes.json" ],
+    "description": "Splash Potion",
+    "id": 438
+  },
+  "minecraft:sponge": {
+    "item_transformations": [ "block.json" ],
+    "description": "Wet Sponge",
+    "id": 19
+  },
+  "minecraft:spruce_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Spruce Door",
+    "id": 427
+  },
+  "minecraft:spruce_fence_gate": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Spruce Fence Gate",
+    "id": 183
+  },
+  "minecraft:spruce_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Spruce Wood Stairs",
+    "id": 134
+  },
+  "minecraft:stained_hardened_clay": {
+    "item_transformations": [ "block.json" ],
+    "description": "Black Stained Clay",
+    "id": 159
+  },
+  "minecraft:stained_glass": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stained Glass",
+    "id": 241
+  },
+  "minecraft:stained_glass_pane": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stained Glass Pane",
+    "id": 160
+  },
+  "minecraft:stick": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stick",
+    "id": 280
+  },
+  "minecraft:sticky_piston": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Sticky Piston",
+    "id": 29
+  },
+  "minecraft:stone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Polished Andesite",
+    "id": 1
+  },
+  "minecraft:stone_axe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stone Axe",
+    "id": 275
+  },
+  "minecraft:stone_brick_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Stone Brick Stairs",
+    "id": 109
+  },
+  "minecraft:stone_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Stone Button",
+    "id": 77
+  },
+  "minecraft:stone_hoe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stone Hoe",
+    "id": 291
+  },
+  "minecraft:stone_pickaxe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stone Pickaxe",
+    "id": 274
+  },
+  "minecraft:stone_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stone Pressure Plate",
+    "id": 70
+  },
+  "minecraft:stone_shovel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stone Shovel",
+    "id": 273
+  },
+  "minecraft:stone_slab": {
+    "item_transformations": [ "block.json", "stone_slab.json" ],
+    "description": "Stone Slab",
+    "id": 44
+  },
+  "minecraft:stone_slab_2": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stone Slab 2",
+    "id": 182
+  },
+  "minecraft:stone_stairs": {
+    "item_transformations": [ "block.json", "stairs.json" ],
+    "description": "Stone Stairs",
+    "id": -180
+  },
+  "minecraft:stone_sword": {
+    "item_transformations": [ "item.json" ],
+    "description": "Stone Sword",
+    "id": 272
+  },
+  "minecraft:stonebrick": {
+    "item_transformations": [ "block.json" ],
+    "description": "Chiseled Stone Bricks",
+    "id": 98
+  },
+  "minecraft:string": {
+    "item_transformations": [ "item.json" ],
+    "description": "String",
+    "id": 287
+  },
+  "minecraft:sugar": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sugar",
+    "id": 353
+  },
+  "minecraft:tallgrass": {
+    "item_transformations": [ "block.json" ],
+    "description": "Fern",
+    "id": 31
+  },
+  "minecraft:tipped_arrow": {
+    "item_transformations": [ "item.json", "tippedarrowtypes.json" ],
+    "id": 262
+  },
+  "minecraft:tnt": {
+    "item_transformations": [ "block.json" ],
+    "description": "TNT",
+    "id": 46
+  },
+  "minecraft:tnt_minecart": {
+    "item_transformations": [ "item.json" ],
+    "description": "Minecart with TNT",
+    "id": 407
+  },
+  "minecraft:torch": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Torch",
+    "id": 50
+  },
+  "minecraft:trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Wooden Trapdoor",
+    "id": 96
+  },
+  "minecraft:trapped_chest": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Trapped Chest",
+    "id": 146
+  },
+  "minecraft:tripwire_hook": {
+    "item_transformations": [ "block.json", "blockauxfixer.json" ],
+    "description": "Tripwire Hook",
+    "id": 131
+  },
+  "minecraft:vine": {
+    "item_transformations": [ "block.json" ],
+    "description": "Vines",
+    "id": 106
+  },
+  "minecraft:waterlily": {
+    "item_transformations": [ "block.json" ],
+    "description": "Lily Pad",
+    "id": 111
+  },
+  "minecraft:web": {
+    "item_transformations": [ "block.json" ],
+    "description": "Cobweb",
+    "id": 30
+  },
+  "minecraft:wheat": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wheat",
+    "id": 296
+  },
+  "minecraft:wheat_seeds": {
+    "item_transformations": [ "item.json" ],
+    "description": "Seeds",
+    "id": 295
+  },
+  "minecraft:wooden_axe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wooden Axe",
+    "id": 271
+  },
+  "minecraft:wooden_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Wooden Button",
+    "id": 143
+  },
+  "minecraft:wooden_door": {
+    "item_transformations": [ "item.json" ],
+    "description": "Oak Door",
+    "id": 324
+  },
+  "minecraft:wooden_hoe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wooden Hoe",
+    "id": 290
+  },
+  "minecraft:wooden_pickaxe": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wooden Pickaxe",
+    "id": 270
+  },
+  "minecraft:wooden_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Wooden Pressure Plate",
+    "id": 72
+  },
+  "minecraft:wooden_shovel": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wooden Shovel",
+    "id": 269
+  },
+  "minecraft:wooden_slab": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Wood Slab",
+    "id": 158
+  },
+  "minecraft:wooden_sword": {
+    "item_transformations": [ "item.json" ],
+    "description": "Wooden Sword",
+    "id": 268
+  },
+  "minecraft:wool": {
+    "item_transformations": [ "block.json" ],
+    "description": "Black Wool",
+    "id": 35
+  },
+  "minecraft:yellow_flower": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dandelion",
+    "id": 37
+  },
+  "minecraft:jukebox": {
+    "id": 84,
+    "item_transformations": [ "block.json" ]
+  },
+  "minecraft:writable_book": {
+    "item_transformations": [ "item.json", "writable_book.json" ],
+    "description": "Book and Quill",
+    "id": 386
+  },
+  "minecraft:written_book": {
+    "item_transformations": [ "item.json", "written_book.json" ],
+    "description": "Written Book",
+    "id": 387
+  },
+  "minecraft:conduit": {
+    "item_transformations": [ "block.json" ],
+    "description": "Conduit",
+    "id": -157
+  },
+  "minecraft:coral_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -132
+  },
+  "minecraft:coral": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -131
+  },
+  "minecraft:coral_fan": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -133
+  },
+  "minecraft:coral_fan_dead": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -134
+  },
+  "minecraft:coral_fan_hang": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -135
+  },
+  "minecraft:coral_fan_hang2": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -136
+  },
+  "minecraft:coral_fan_hang3": {
+    "item_transformations": [ "block.json" ],
+    "description": "Coral",
+    "id": -137
+  },
+  "minecraft:dried_kelp_block": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dried Kelp Block",
+    "id": -139
+  },
+  "minecraft:sea_grass": {
+    "item_transformations": [ "block.json" ],
+    "description": "Seagrass",
+    "id": -130
+  },
+  "minecraft:sea_pickle": {
+    "item_transformations": [ "block.json" ],
+    "description": "Sea Pickle",
+    "id": -156
+  },
+  "minecraft:blue_ice": {
+    "item_transformations": [ "block.json" ],
+    "description": "Blue Ice",
+    "id": -11
+  },
+  "minecraft:acacia_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Acacia Trapdoor",
+    "id": -145
+  },
+  "minecraft:birch_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Birch Trapdoor",
+    "id": -146
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Trapdoor",
+    "id": -147
+  },
+  "minecraft:jungle_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Jungle Trapdoor",
+    "id": -148
+  },
+  "minecraft:spruce_trapdoor": {
+    "item_transformations": [ "block.json" ],
+    "description": "Spruce Trapdoor",
+    "id": -149
+  },
+  "minecraft:turtle_egg": {
+    "item_transformations": [ "block.json" ],
+    "description": "Turtle Egg",
+    "id": -159
+  },
+  "minecraft:prismarine_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Prismarine Stairs",
+    "id": -2
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Prismarine Stairs",
+    "id": -3
+  },
+  "minecraft:prismarine_bricks_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Prismarine Brick Stairs",
+    "id": -4
+  },
+  "minecraft:stripped_log_spruce": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Spruce Wood",
+    "id": -5
+  },
+  "minecraft:stripped_log_birch": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Birch Wood",
+    "id": -6
+  },
+  "minecraft:stripped_log_jungle": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Jungle Wood",
+    "id": -7
+  },
+  "minecraft:stripped_log_acacia": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Acacia Wood",
+    "id": -8
+  },
+  "minecraft:stripped_log_dark_oak": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Dark Oak Wood",
+    "id": -9
+  },
+  "minecraft:stripped_log_oak": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stripped Oak Wood",
+    "id": -10
+  },
+  "minecraft:acacia_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Acacia Pressure Plate",
+    "id": -150
+  },
+  "minecraft:birch_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Birch Pressure Plate",
+    "id": -151
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Dark Oak Pressure Plate",
+    "id": -152
+  },
+  "minecraft:jungle_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Jungle Pressure Plate",
+    "id": -153
+  },
+  "minecraft:spruce_pressure_plate": {
+    "item_transformations": [ "block.json" ],
+    "description": "Spruce Pressure Plate",
+    "id": -154
+  },
+  "minecraft:acacia_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Acacia Button",
+    "id": -140
+  },
+  "minecraft:birch_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Birch Button",
+    "id": -141
+  },
+  "minecraft:dark_oak_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Dark Oak Button",
+    "id": -142
+  },
+  "minecraft:jungle_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Jungle Button",
+    "id": -143
+  },
+  "minecraft:spruce_button": {
+    "item_transformations": [ "block.json", "button.json" ],
+    "description": "Spruce Button",
+    "id": -144
+  },
+  "minecraft:stone_slab_3": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stone Slab 3",
+    "id": -162
+  },
+  "minecraft:trident": {
+    "item_transformations": [ "item.json" ],
+    "description": "Trident",
+    "id": 455
+  },
+  "minecraft:turtle_shell_piece": {
+    "item_transformations": [ "item.json" ],
+    "description": "Turtle Shell Piece",
+    "id": 468
+  },
+  "minecraft:turtle_helmet": {
+    "item_transformations": [ "item.json" ],
+    "description": "Turtle Helmet",
+    "id": 469
+  },
+  "minecraft:kelp": {
+    "item_transformations": [ "item.json" ],
+    "description": "Kelp",
+    "id": 335
+  },
+  "minecraft:dried_kelp": {
+    "item_transformations": [ "item.json" ],
+    "description": "Dried Kelp",
+    "id": 464
+  },
+  "minecraft:nautilus_core": {
+    "item_transformations": [ "item.json" ],
+    "description": "Heart Of The Sea",
+    "id": 467
+  },
+  "minecraft:nautilus": {
+    "item_transformations": [ "item.json" ],
+    "description": "Nautilus Shell",
+    "id": 465
+  },
+  "minecraft:phantom_membrane": {
+    "item_transformations": [ "item.json" ],
+    "description": "Phantom Membrane",
+    "id": 470
+  },
+  "minecraft:bamboo": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bamboo",
+    "id": -163
+  },
+  "minecraft:scaffolding": {
+    "item_transformations": [ "block.json" ],
+    "description": "Scaffolding",
+    "id": -165
+  },
+  "minecraft:bamboo_sapling": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bamboo Sapling",
+    "id": -164
+  },
+  "minecraft:sign_spruce": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign Spruce",
+    "id": 472
+  },
+  "minecraft:sign_birch": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign Birch",
+    "id": 473
+  },
+  "minecraft:sign_jungle": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign Jungle",
+    "id": 474
+  },
+  "minecraft:sign_acacia": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign Acacia",
+    "id": 475
+  },
+  "minecraft:sign_dark_oak": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sign Dark Oak",
+    "id": 476
+  },
+  "minecraft:andesite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Andesite Stairs",
+    "id": -171
+  },
+  "minecraft:cobblestone_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Cobblestone Stairs",
+    "id": 67
+  },
+  "minecraft:diorite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Diorite Stairs",
+    "id": -170
+  },
+  "minecraft:end_brick_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "End Brick Stairs",
+    "id": -178
+  },
+  "minecraft:granite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Granite Stairs",
+    "id": -169
+  },
+  "minecraft:mossy_cobblestone_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Mossy Cobblestone Stairs",
+    "id": -179
+  },
+  "minecraft:mossy_stone_brick_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Mossy Stone Brick Stairs",
+    "id": -175
+  },
+  "minecraft:red_nether_brick_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Red Nether Brick Stairs",
+    "id": -184
+  },
+  "minecraft:smooth_andesite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Andesite Stairs",
+    "id": -174
+  },
+  "minecraft:smooth_diorite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Diorite Stairs",
+    "id": -173
+  },
+  "minecraft:smooth_granite_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Granite Stairs",
+    "id": -172
+  },
+  "minecraft:smooth_quartz_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Quartz Stairs",
+    "id": -185
+  },
+  "minecraft:smooth_red_sandstone_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Red Sandstone Stairs",
+    "id": -176
+  },
+  "minecraft:smooth_sandstone_stairs": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smooth Sandstone Stairs",
+    "id": -177
+  },
+  "minecraft:wood": {
+    "item_transformations": [ "block.json" ],
+    "description": "Wood",
+    "id": -212
+  },
+  "minecraft:lectern": {
+    "item_transformations": [ "block.json" ],
+    "description": "Lectern",
+    "id": -194
+  },
+  "minecraft:lantern": {
+    "item_transformations": [ "block.json" ],
+    "description": "Lantern",
+    "id": -208
+  },
+  "minecraft:loom": {
+    "item_transformations": [ "block.json" ],
+    "description": "Loom",
+    "id": -204
+  },
+  "minecraft:banner_pattern": {
+    "item_transformations": [ "item.json" ],
+    "description": "Banner Pattern",
+    "id": 434
+  },
+  "minecraft:shield": {
+    "item_transformations": [ "item.json" ],
+    "description": "Shield",
+    "id": 513
+  },
+  "minecraft:crossbow": {
+    "item_transformations": [ "item.json", "crossbow.json" ],
+    "description": "Crossbow",
+    "id": 471
+  },
+  "minecraft:cartography_table": {
+    "item_transformations": [ "block.json" ],
+    "description": "Cartography Table",
+    "id": -200
+  },
+  "minecraft:fletching_table": {
+    "item_transformations": [ "block.json" ],
+    "description": "Fletching Table",
+    "id": -201
+  },
+  "minecraft:smithing_table": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smithing Table",
+    "id": -202
+  },
+  "minecraft:blastfurnace": {
+    "item_transformations": [ "block.json" ],
+    "description": "Blast Furnace",
+    "id": -196
+  },
+  "minecraft:smoker": {
+    "item_transformations": [ "block.json" ],
+    "description": "Smoker",
+    "id": -198
+  },
+  "minecraft:grindstone": {
+    "item_transformations": [ "block.json" ],
+    "description": "Grindstone",
+    "id": -195
+  },
+  "minecraft:stonecutter2": {
+    "item_transformations": [ "block.json" ],
+    "description": "Stonecutter",
+    "id": -197
+  },
+  "minecraft:composter": {
+    "item_transformations": [ "block.json" ],
+    "description": "Composter",
+    "id": -213
+  },
+  "minecraft:campfire": {
+    "item_transformations": [ "item.json", "blockauxfixer.json" ],
+    "description": "Campfire",
+    "id": 720
+  },
+  "minecraft:bell": {
+    "item_transformations": [ "block.json" ],
+    "description": "Bell",
+    "id": -206
+  },
+  "minecraft:barrel": {
+    "item_transformations": [ "block.json" ],
+    "description": "Barrel",
+    "id": -203
+  },
+  "minecraft:sweet_berries": {
+    "item_transformations": [ "item.json" ],
+    "description": "Sweet Berries",
+    "id": 477
+  }
+}

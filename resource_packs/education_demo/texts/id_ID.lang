@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Terima kasih sudah bermain! Ini adalah pelajaran demo, jadi kemajuanmu tidak akan disimpan.	#
+
+edu_demo.tip.1=Hutan hujan menaungi lebih dari setengah spesies hewan darat di planet kita.	#
+edu_demo.tip.2=Lebih dari 25% populasi dunia bergantung pada hutan untuk kelangsungan hidupnya.	#
+edu_demo.tip.3=Ada tiga hal yang diperlukan agar api tetap menyala: bahan bakar, oksigen, dan sumber panas.	#
+edu_demo.tip.4=Api, terutama di lahan gambut dan hutan yang lebat, menghasilkan emisi karbon yang sangat tinggi.	#
+edu_demo.tip.5=Komputer harus diajari agar bisa belajar, mirip dengan siswa!	#
+edu_demo.tip.6=AI digunakan untuk mengumpulkan dan menganalisis data hutan, yang lebih cepat daripada menghitung pohon dengan jari!	#
+
+menu.quit.edu=TUTUP PELAJARAN	#
+menu.quit.edu.title=Keluar dari Pelajaran Demo	#
+
+start_screen.start_demo=Mulai Pelajaran	#
+
+upsell.tab.1.title=Minecraft untuk sekolah!	#
+upsell.tab.1.body=Dorong partisipasi aktif siswa dalam berbagai mata pelajaran, dengan pelajaran dan tutorial gratis, alat penilaian, multipemain di kelas, proses masuk aman, dan dukungan teknologi. Mulai uji coba gratis Minecraft: Education Edition sekarang juga!	#
+upsell.tab.1.button=Selengkapnya	#
+
+upsell.tab.2.title=Mengajarkan Penulisan Kode dengan Minecraft	#
+upsell.tab.2.body=Gunakan Minecraft untuk mengajarkan penulisan kode kepada siswa dengan pelajaran yang imersif dan lebih dari 50 jam kurikulum gratis. Siswa bisa menulis kode berbasis blok dan JavaScript serta melihat kode mereka terwujud dalam permainan!	#
+upsell.tab.2.button=Mulai Menulis Kode	#
+
+upsell.tab.3.title=Segudang Pelajaran Gratis	#
+upsell.tab.3.body=Jelajahi ratusan dunia dan pelajaran Minecraft, mulai dari sejarah dan kimia hingga ilmu komputer dan matematika. Gunakan pelajaran ini sebagai titik awal atau buat pelajaran sendiri!	#
+upsell.tab.3.button=Buka Pelajaran	#
+
+upsell.tab.4.title=Tumbuhkan Keahlian Sosial-Emosi	#
+upsell.tab.4.body=Siswa belajar berkolaborasi, menyelesaikan masalah, dan berkomunikasi dengan empati. Minecraft: Education Edition mencakup sejumlah fitur seperti Pembaca Imersif yang membantu pengajar terhubung dengan berbagai macam pelajar.	#
+upsell.tab.4.button=Selengkapnya	#
+
+upsell.tab.5.title=Bergabung dengan Komunitas	#
+upsell.tab.5.body=Ikuti pelatihan pengajar, terhubung di media sosial, dan bergabunglah dengan komunitas global kami untuk belajar dari pendidik lainnya. Pendidik di lebih dari 115 negara menggunakan Minecraft dalam kelas mereka, dan Anda bisa jadi yang berikutnya!	#
+upsell.tab.5.button=Terhubung	#
+
+lesson.finished=SAYA SUDAH SELESAI	#
+
+lesson.end.dialog.title=Pelajaran Selesai!	#
+lesson.end.dialog.body.title=SELAMAT	#
+lesson.end.dialog.body.wimages=Kamu mendapatkan sertifikat penyelesaian. Lihat foto-foto dari pelajaran ini dan simpanlah salinannya.	#
+lesson.end.dialog.body.checkport=Lihat foto-foto dari pelajaran ini dan simpanlah salinannya.	#
+lesson.end.dialog.body.noimages=Kamu mendapatkan sertifikat penyelesaian.	#
+lesson.end.dialog.button.morecoding=Koding Lebih Lanjut	#
+lesson.end.dialog.button.getcert=Dapatkan Sertifikat	#
+lesson.end.dialog.button.exit=Tutup Pelajaran	#
+lesson.end.dialog.button.export=Simpan	#
+
+lesson.end.access.imagespreview=Foto pelajaran %1 dari %2	#
+lesson.end.access.export=Ekspor foto pelajaran	#

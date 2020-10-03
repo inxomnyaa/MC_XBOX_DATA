@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Explosion",
+      "dest": "tag.Explosion",
+      "item_transformation": "ConsoleFireworkChargeToIntermediate"
+    }
+  ]
+}

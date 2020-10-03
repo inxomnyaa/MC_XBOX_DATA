@@ -1,0 +1,33 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "dest": "Block",
+      "custom_transformation": "JavaPistonExtensionBlockToIntermediate"
+    },
+    {
+      "src": "facing",
+      "dest": "Facing",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "progress",
+      "dest": "Progress",
+      "src_members": "TAG_Float",
+      "dest_members": "floatValue"
+    },
+    {
+      "src": "extending",
+      "dest": "Extending",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "source",
+      "dest": "Source",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    }
+  ]
+}

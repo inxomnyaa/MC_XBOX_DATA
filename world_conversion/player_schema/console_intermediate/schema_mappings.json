@@ -1,0 +1,6 @@
+{
+  "version": 0,
+  "schemaMappings": {
+    "Player": [ "entity.json", "mob.json", "player.json" ]
+  }
+}

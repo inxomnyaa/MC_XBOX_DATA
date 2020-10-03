@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Sitting",
+      "dest": "Sitting",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "OwnerNew",
+      "dest": "OwnerNew",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int64",
+      "optional": true
+    },
+    {
+      "custom_transformation": "CatDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

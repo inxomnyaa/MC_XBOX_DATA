@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=- ボタン	#
+accessibility.gamepad.button.systemRight=+ ボタン	#
+accessibility.gamepad.dpad.down=下ボタン	#
+accessibility.gamepad.dpad.up=上ボタン	#
+accessibility.gamepad.dpad.left=左ボタン	#
+accessibility.gamepad.dpad.right=右ボタン	#
+accessibility.gamepad.trigger.right=ZR ボタン	#
+accessibility.gamepad.trigger.left=ZL ボタン	#
+accessibility.gamepad.bumper.right=R ボタン	#
+accessibility.gamepad.bumper.left=L ボタン	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=ニンテンドーアカウント設定	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft アカウント設定	#
+
+patchNotice.title=Minecraft へようこそ。魅力的なコンテンツをぜひお楽しみください。	#
+patchNotice.description.onlineFeatures=Nintendo Switch をインターネットに接続して、まったく新しい遊び方を楽しみましょう!	#
+patchNotice.description.onlineFeatures.item1=* Minecraft の購入時に入手した無料 DLC パックのダウンロード。	#
+patchNotice.description.onlineFeatures.item2=* マーケットプレイスから、Minecraft に新しい楽しみ方をもたらすコミュニティー作コンテンツを入手	#
+patchNotice.description.onlineFeatures.item3=* フレンドとのオンライン プレイ (デバイスが違っても大丈夫)!	#
+patchNotice.description.onlineFeatures.item4=* 新機能、コンテンツ、機能改善などを含むゲームのアップデート。たとえば...	#
+patchNotice.description.freeUpdates.item1=* 新しいブロック!	#
+patchNotice.description.freeUpdates.item2=* 新しいアイテム!	#
+patchNotice.description.freeUpdates.item3=* 新しいモブ!	#
+patchNotice.description.freeUpdates.item4=* 新しい構造物の生成!	#
+patchNotice.description.freeUpdates.item5=* 新種のバイオーム!	#
+patchNotice.description.onlineFeatures.item5=更新データが利用可能になりました! 無料の更新データをダウンロードするには、お使いの Nintendo Switch をインターネットに接続してください。	#
+
+thirdPartyConsole.network.networkName=ニンテンドーアカウント	#
+thirdPartyConsole.adhoc.title=ネットワーク モードの選択	#
+thirdPartyConsole.adhoc.desc=ローカル ネットワークを選択して近くにある他の Nintendo Switch と接続したり、オンライン ネットワークを選択して世界中の友人とつながることができます。	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=接続先変更:	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=オンライン ネットワーク	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=接続先変更:	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=ローカル ネットワーク	#
+thirdPartyConsole.adhoc.onlineNetwork=オンライン ネットワーク	#
+thirdPartyConsole.adhoc.localNetwork=ローカル ネットワーク	#
+thirdPartyConsole.adhoc.enableOnline=オンライン ネットワークの有効化	#
+thirdPartyConsole.adhoc.enableLocal=ローカル ネットワークの有効化	#
+thirdPartyConsole.adhoc.inprogress=簡単な変更を行っています。少々お待ちください...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=接続されているコントローラーが多すぎます。	#
+thirdPartyConsole.adhoc.controllerwarning=ローカル ネットワーク モードで接続できるワイヤレス接続コントローラーは 2 台までです (2 台の Joy-Con または 2 台の プロ仕様コントローラー) 。3 台目以降のコントローラーは接続解除されます。	#
+thirdPartyConsole.adhoc.store=ローカル ネットワーク モードでは、ストア機能は無効になります。	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Microsoft アカウントにサインインしますか?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=接続するには Microsoft アカウントにサインインする必要があります。	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=接続	#
+thirdPartyConsole.startmenuscreen.xblsignin=Microsoft アカウントでサインイン	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Microsoft アカウントにサインイン中	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=ニンテンドーアカウントでログイン	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=ニンテンドーアカウントにログイン	#
+thirdPartyConsole.notsignedin=ニンテンドーアカウントにログインしていません。	#
+thirdPartyConsole.notsignedin.achievements=ログインしていないと、実績を獲得できません。	#
+thirdPartyConsole.notsignedin.store=ストアを見るにはニンテンドーアカウントが必要です。	#
+thirdPartyConsole.notsignedin.serversTab=オンラインに移行して、大規模なコミュニティによって運営される Minecraft Server の世界でフレンドと対戦または協力し、巨大なロビーで他のプレイヤーとつながり、広大なカスタムメイドの世界を探検しましょう。	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=フレンドとプレイするには、ニンテンドーアカウントでログインしてください。	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=このアカウントでのニンテンドー マルチプレイヤープレイヤーゲームへの参加は許可されていません。	#
+thirdPartyConsole.disconnectionscreen.accessDenied=参加するにはこのゲーム内の誰かとフレンドである必要があります。	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Nintendo Switch Online サービスから切断されました。世界をフレンドに表示するには、メイン メニューからログインして、もう一度世界を読み込んでください。	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=あなたの世界がローカル ネットワークに表示されなくなりました。ローカル プレイヤーに世界が表示されるようにするには、メイン メニューでローカル モードを再起動して、もう一度世界を読み込んでください。	#
+networkWorld.add_friend=クロスプラットフォームでフレンドを探す	#
+networkWorld.find_cross_platform_friends=クロスプラットフォームでフレンドを探す	#
+networkWorld.joinable_nintendo_friends_label=参加可能な Nintendo Switch のフレンド	#
+networkWorld.joinable_cross_platform_friends_label=参加可能なクロスプラットフォームのフレンド	#
+networkWorld.no_xbl_label=クロスプラットフォーム ゲームに参加するには Microsoft アカウントが必要です。フレンドの世界に参加するには、Microsoft アカウントにサインインしてください。	#
+networkWorld.no_thirdParty_label.no_subscription=Nintendo Switch Online サービスに接続していません。オンライン機能を利用するには、Nintendo Switch Online サービスへの加入が必要です。本サービスは、ニンテンドーeショップから加入できます。	#
+networkWorld.no_thirdParty_label.has_subscription=Nintendo Switch Online サービスに接続していないため、フレンドのマルチプレイヤー ゲームに参加できません。フレンドの世界に参加するには、 Nintendo Switch Online にログインしてください。	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=保護者による使用制限により、オンラインでのマルチプレイヤーが禁止されています。「保護者による使用制限」、「ほかの人との自由なコミュニケーション」の順に選択して、マルチプレイヤーの設定を確認および変更してください。	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=保護者による使用制限により、ローカルでのマルチプレイヤーが禁止されています。「保護者による使用制限」、「ほかの人との自由なコミュニケーション」の順に選択して、マルチプレイヤーの設定を確認および変更してください。	#
+permissions.AddFriendsThirdParty=保護者による使用制限により、フレンドの追加が禁止されています。「保護者による使用制限」、「ほかの人との自由なコミュニケーション」の順に選択して、マルチプレイヤーの設定を確認および変更してください。	#
+permissions.MultiplayerSessionsThirdParty=保護者による使用制限により、Realms でのプレイが禁止されています。「保護者による使用制限」、「ほかの人との自由なコミュニケーション」の順に選択して、マルチプレイヤーの設定を確認および変更してください。	#
+options.dev_switch_coin_debug=ニンテンドーeショップでコインを購入して追加する際のデバッグを有効にする	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Nintendo Switch Online サービスに接続していません。オンライン機能を利用するには、Nintendo Switch Online サービスへの加入が必要です。本サービスは、ニンテンドーeショップから加入できます。	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Nintendo Switch Online サービスに接続されていないため、Nintendo フレンドはあなたの世界に参加してマルチプレイヤーをプレイすることはできません。フレンドとプレイするには、Nintendo Online にサインインしてください。	#
+createWorldScreen.disconnectedThirdParty.Adhoc=デバイスをローカル ネットワーク モードに切り替える際、問題が発生しました。機内モードがオフになっていることを確認し、ローカル モードを再度オンにして、デバイスがローカル プレイヤーに表示されるようにしてください。	#
+createWorldScreen.check_internet_connection=お使いの Nintendo Switch がインターネットに接続されていないため、フレンドはあなたの世界に参加してマルチプレイヤーをプレイすることはできません。オンライン機能を利用するには、Nintendo Switch をインターネットに接続してください。	#
+invite.notification.description=%s があなたを Minecraft のゲームに招待しています。参加するには - を押してください。	#
+network.thirdparty.connect.benefit=ニンテンドーアカウントにログインしていますか? オンラインサービスを利用するには、ニンテンドーアカウントが必要です。	#
+networkWorld.check_internet_connection=お使いの Nintendo Switch がインターネットに接続されていないため、フレンドとのマルチプレイヤーをプレイすることはできません。オンライン機能を利用するには、Nintendo Switch をインターネットに接続してください。	#
+networkWorld.check_internet_connection.no_subscription=Nintendo Switch Online サービスに接続していません。オンライン機能を利用するには、Nintendo Switch Online サービスへの加入が必要です。本サービスは、ニンテンドーeショップから加入できます。	#
+networkWorld.check_internet_connection.has_subscription=Nintendo Switch Online サービスに接続していないため、フレンドのマルチプレイヤー ゲームに参加できません。フレンドの世界に参加するには、 Nintendo Switch Online にログインしてください。	#
+disconnectionScreen.realmsDisabled=Switch では Realms を利用できません。	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online が必要です	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Nintendo Switch Online に加入せずに分割画面のマルチプレイヤーをプレイするには、ゲーム設定の「マルチプレイヤー」ボックスをオフにしてください。オンラインで分割画面のマルチプレイヤーをプレイするには、Nintendo Switch Online サービスへの加入が必要です。本サービスは、ニンテンドーeショップから加入できます。	#
+disconnectionScreen.noNSO.joinRealm=Nintendo Switch Online サービスに接続していません。マルチプレイヤーをプレイするには、Nintendo Switch Online サービスへの加入が必要です。本サービスは、ニンテンドーeショップから加入できます。	#
+options.xboxlivevisible=クロスプラットフォーム プレイヤーに表示	#
+options.achievementsDisabled=この世界では実績を獲得できません。	#
+permissions.RealmsAddFriends=あなたの Microsoft アカウントの設定では、新たなフレンドを追加して Realm で一緒にプレイすることができません。これは aka.ms/accountsettings のプライバシーとオンラインの安心設定から変更できます。このまま続けますか？	#
+permissions.CloudSave=お使いの Microsoft アカウントの設定が原因でアカウントに世界を保存することができません。これは aka.ms/accountsettings のプライバシーとオンラインの安心設定から変更できます。	#
+permissions.MultiplayerSessionsOnConsole=お使いの Microsoft アカウントの設定では、マルチプレイヤー ゲームが許可されていません。aka.ms/accountsettings の "プライバシーとオンラインの安心" 設定から、設定でマルチプレイヤー が許可されていることを確認してください。 	#
+store.purchase.syncInProgress=ニンテンドーeショップでの購入を同期中...	#
+store.purchase.coinsLeftToBuy=このパックを購入するにはあと %s コイン必要です。	#
+xbox.signin.newaccount.welcome=ようこそ!	#
+xbox.signin.legalinfo=Xbox Live プロフィールで Minecraft に接続しました。Xbox Live の設定の変更や詳細な情報については、http://aka.ms/accountsettings をご覧ください。Microsoft サービス規約とプライバシー ステートメントが適用されます。	#
+xbox.failedsignin.line2=サインインせずにプレイすると実績を獲得できず、Realms などのサーバーに参加できません。	#
+xbox.failedautosignin.message=自動サインインに失敗しました。お使いの Microsoft アカウントにアクセスするには、もう一度手動でサインインしてください。	#
+xbox.signInLong=無料でサインイン!	#
+xbox.signOutLong=Microsoft アカウントからのサインアウト	#
+xbox.thirdpartysignin.line2=接続するには Microsoft アカウントにサインインする必要があります。	#
+xbox.profile.realName=名前の公開に関する設定を http://aka.ms/accountsettings のプライバシーの設定から変更してください。	#
+xbox.profile.removeFriend=フレンドを削除	#
+autosave.info.xbox=このアイコンの表示中はゲームをオートセーブしています。アイコンが表示されている間は Nintendo Switch 本体の電源をオフにしないでください。	#
+progressScreen.message.leaveLevel=ゲームを保存中です。Nintendo Switch 本体の電源を切らないでください。	#
+feed.report_xbox=エンフォースメント チームに報告	#
+
+howtoplay.multiplayer.text.1=Minecraft は友達とものづくりを楽しむのにぴったりなゲームです! デフォルトでは、あなたのすべての世界はフレンドの参加を許可する設定になっています。Nintendo Switch では、ニンテンドーのフレンドや他のデバイスを使っている友達の両方とマルチプレイヤーを楽しめます。マルチプレイヤーの遊び方についてはこちらをご覧ください!	#
+howtoplay.multiplayer.text.2.splitscreen=プレイ中は、最大 3 人までのプレイヤーをいつでもゲームに招待できます。世界をプレイしている状態でコントローラーの電源を入れ、いずれかのボタンを押すとゲームに参加できます。各プレイヤーには 2 台の Joy-Con コントローラーが必要です。招待元のプレイヤーは、左右の両方のコントローラー、または Nintendo Switch で動作するその他のフル コントローラーが必要です。	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft のオンライン マルチプレイヤーの主な楽しみ方には、Realm、サーバー、または自分の世界の 3 つがあります。Nintendo Switch Online に加入し、Microsoft アカウントでログインすると、他のデバイスを使用している友達もあなたの世界に参加できるようになります! Realm およびサーバーを遊ぶには Microsoft アカウントが必要です。	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft のオンライン マルチプレイヤーの主な楽しみ方には、Realm、サーバー、または自分の世界の 3 つがあります。お使いのニンテンドーアカウントまたは Microsoft アカウントでサインインすると、他のデバイスを使用している友達もあなたの世界に参加できるようになります! Realm およびサーバーを遊ぶには Microsoft アカウントが必要です。	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Nintendo Switch Online に加入し、Microsoft アカウントでログインすると、他のデバイスを使用しているフレンドもあなたの世界に参加できるようになります!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=お使いのニンテンドーアカウントまたは Microsoft アカウントでサインインすると、他のデバイスを使用しているフレンドもあなたの世界に参加できるようになります!	#
+howtoplay.multiplayer.text.4=マルチプレイヤー ゲームには「フレンド」タブから参加できます! オンライン モードの場合、すべての参加可能なフレンドの世界および Realms がタブに表示されます。アドホック モードの場合、フレンドのアドホック ゲームも一覧に表示されます。	#
+howtoplay.multiplayer.text.4.norealms=マルチプレイヤー ゲームには「フレンド」タブから参加できます! オンライン モードの場合、すべての参加可能なフレンドの世界がタブに表示されます。アドホック モードの場合、フレンドのアドホック ゲームも一覧に表示されます。	#
+howtoplay.multiplayer.text.5=オンライン ゲームを開始または参加すると、そのゲームが、Microsoft アカウントのフレンドを含むあなたのフレンド全員に表示されます。世界で「編集」ボタンを押した後、「マルチプレイヤー」をクリックして、世界のクロスプラットフォーム マルチプレイヤー 設定を確認してください。 	#
+howtoplay.multiplayer.text.7=あなたの世界では、フレンドに特別な能力を与えたり、何も手を加えさせないようにしたりすることができます。デフォルトでは、すべてのフレンドはあなたの世界にメンバーとして参加します。ポーズ メニューから確認できるフレンドの一覧で、名前の右側にあるアイコンをクリックすると、あなたの世界限定でフレンドの権限を編集できます。	#
+howtoplay.multiplayer.header.adhoc=アドホック モード	#
+howtoplay.multiplayer.text.adhoc=友達とデバイスを持ち寄ってプレイしたい場合は、Nintendo Switch のメイン メニューで :_gamepad_face_button_left: を押して、アドホック モードをオンにします。オンにすると、プレイ メニューの「フレンド」タブに近くでプレイしているフレンドのゲームが表示されるようになり、また、自分で新しいゲームを始めて近くのフレンドが参加できるようになります!	#
+howtoplay.theStore.text.4.norealms=あなたの世界に新しいレイヤーを追加するテクスチャパックを使って、古い世界に新しい外観を付け加えよう!	#
+howtoplay.theStore.text.5.norealms=もしくは、スキン、世界、テクスチャが丸ごと手に入るマッシュアップ パックをお試しください。3 つの要素がまとめて変わると、あなたの世界の景色はまるで別のものになります!	#
+
+trial.tabbed_upsell.xbl.title=他にもまだあります!	#
+
+connect_gamepad.pressButtonToContinue=続けるには、Proコントローラーまたは Joy-Con (L)/(R) コントローラーのペアが必要です。	#
+connect_gamepad.adhocMaxControllers=ローカル通信プレイ中は、Proコントローラー 1 台または Joy-Con (L)/(R) コントローラーのペア 1 組以外は使用できません。他のコントローラーはすべてオフにしてください。	#
+connect_gamepad.requireControllerReconfiguration=各プレイヤーに Proコントローラーまたは Joy-Con (L)/(R) コントローラーのペアが必要です。ペアに含まれない Joy-Con コントローラーはすべてオフにしてください。	#
+connect_gamepad.handheldModeNoSplitscreen=追加のコントローラーが検出されましたが、画面分割によるマルチプレイヤーを携帯モードでプレイすることはできません。Joy-Con コントローラーを取り外して携帯モードを終了するか、余分なコントローラーはすべてオフにするかのいずれかを行ってください。	#
+connect_gamepad.promptHandheldMode=Joy-Con コントローラーが本体に取り付けられました。携帯モードに移行しますか? 移行すると、画面分割によるマルチプレイヤー モードは終了します。[OK] を押すと画面分割によるマルチプレイヤーを終了し、携帯モードに移行します。[キャンセル] を選択すると、ゲームから取り付けられた Joy-Con の接続を解除して充電します。	#

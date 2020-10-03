@@ -1,0 +1,349 @@
+{
+  "global_settings" : {
+    "hb_gfx_supports_msaa_textures" : false,
+    "hb_gfx_requires_msaa_resolve" : true,
+    "hb_gfx_supports_a8_render_target" : true,
+    "hb_gfx_requires_rb_swap_for_images" : false,
+    "hb_gfx_requires_draw_fences" : false,
+    "hb_gfx_requires_shader_type_in_shader" : true,
+    "hb_gfx_supports_npot_texture_ops": true,
+    "hb_gfx_shader_change_requires_resources_rebind": false,
+    "hb_gfx_supports_only_16_bit_indices": true,
+    "hb_gfx_constant_buffer_block_alignment" : 256,
+    "hb_gfx_requires_y_flip_for_layers" : true
+  },
+  "shaders": [
+    {
+      "name": "ST_Standard",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard.fragment"
+    },
+    {
+      "name": "ST_StandardCircle",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_circle.fragment"
+    },
+    {
+      "name": "ST_StandardStrokeCircle",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_stroke_circle.fragment"
+    },
+    {
+      "name": "ST_StandardRRect",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_circle.fragment"
+    },
+    {
+      "name": "ST_StandardStrokeRRect",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_stroke_circle.fragment"
+    },
+    {
+      "name": "ST_StandardEllipse",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_ellipse.fragment"
+    },
+    {
+      "name": "ST_StandardStrokeEllipse",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_stroke_ellipse.fragment"
+    },
+    {
+      "name": "ST_StandardTexture",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_texture.fragment"
+    },
+    {
+      "name": "ST_StandardTextureWithColorMatrix",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_standard_texture_with_color_matrix.fragment"
+    },
+    {
+      "name": "ST_Stencil",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_stencil.fragment"
+    },
+    {
+      "name": "ST_StencilRRect",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_stencil_circle.fragment"
+    },
+    {
+      "name": "ST_StencilCircle",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_stencil_circle.fragment"
+    },
+    {
+      "name": "ST_StencilTexture",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_stencil_texture.fragment"
+    },
+    {
+      "name": "ST_StencilPath",
+      "vertexShader": "hb_path.vertex",
+      "fragmentShader": "hb_stencil_path.fragment"
+    },
+    {
+      "name": "ST_Text",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_text.fragment"
+    },
+    {
+      "name": "ST_TextSDF",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_text_sdf.fragment"
+    },
+    {
+      "name": "ST_TextStrokeSDF",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_text_stroke_sdf.fragment"
+    },
+    {
+      "name": "ST_Blur_1",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 1" ]
+    },
+    {
+      "name": "ST_Blur_2",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 2" ]
+    },
+    {
+      "name": "ST_Blur_3",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 3" ]
+    },
+    {
+      "name": "ST_Blur_4",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 4" ]
+    },
+    {
+      "name": "ST_Blur_5",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 5" ]
+    },
+    {
+      "name": "ST_Blur_6",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 6" ]
+    },
+    {
+      "name": "ST_Blur_7",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 7" ]
+    },
+    {
+      "name": "ST_Blur_8",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 8" ]
+    },
+    {
+      "name": "ST_Blur_9",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 9" ]
+    },
+    {
+      "name": "ST_Blur_10",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 10" ]
+    },
+    {
+      "name": "ST_Blur_11",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 11" ]
+    },
+    {
+      "name": "ST_Blur_12",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_blur.fragment",
+      "defines": [ "BLUR_STEPS 12" ]
+    },
+    {
+      "name": "ST_Path",
+      "vertexShader": "hb_path.vertex",
+      "fragmentShader": "hb_path.fragment"
+    },
+    {
+      "name": "ST_HairlinePath",
+      "vertexShader": "hb_path.vertex",
+      "fragmentShader": "hb_path_hairline.fragment"
+    },
+    {
+      "name": "ST_YUV2RGB",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_yuv_2_rgb.fragment"
+    },
+    {
+      "name": "ST_Hairline",
+      "vertexShader": "hb_standard.vertex",
+      "fragmentShader": "hb_hairline.fragment"
+    },
+    {
+      "name": "ST_LinearGradient2Point",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_LINEAR", "GRADIENT_2PT" ]
+    },
+    {
+      "name": "ST_LinearGradient3PointSymmetrical",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_LINEAR", "GRADIENT_3PTSYMM" ]
+    },
+    {
+      "name": "ST_LinearGradientFromTexture",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_LINEAR", "GRADIENT_FROMTEX" ]
+    },
+    {
+      "name": "ST_RadialGradient2Point",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_2PT" ]
+    },
+    {
+      "name": "ST_RadialGradient3PointSymmetrical",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_3PTSYMM" ]
+    },
+    {
+      "name": "ST_RadialGradientFromTexture",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_FROMTEX" ]
+    },
+    {
+      "name": "ST_LinearGradientMasked2Point",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_2PT", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_LinearGradientMasked3PointSymmetrical",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_LINEAR", "GRADIENT_3PTSYMM", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_LinearGradientMaskedFromTexture",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_LINEAR", "GRADIENT_FROMTEX", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_RadialGradientMasked2Point",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_2PT", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_RadialGradientMasked3PointSymmetrical",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_3PTSYMM", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_RadialGradientMaskedFromTexture",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "GRADIENT_RADIAL", "GRADIENT_FROMTEX", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_SimpleTexture",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "COLOR_FROMTEX" ]
+    },
+    {
+      "name": "ST_SimpleTextureMasked",
+      "vertexShader": "hb_renoir.vertex",
+      "fragmentShader": "hb_renoir.fragment",
+      "defines": [ "COLOR_FROMTEX", "HAS_MASK" ]
+    },
+    {
+      "name": "ST_BatchedStandard",
+      "vertexShader": "hb_batched.vertex",
+      "fragmentShader": "hb_batched.fragment"
+    }
+  ],
+  "mappings" : [
+    ["ST_Standard", "ST_Standard"],
+    ["ST_StandardCircle", "ST_StandardCircle"],
+    ["ST_StandardStrokeCircle", "ST_StandardStrokeCircle"],
+    ["ST_StandardRRect", "ST_StandardRRect"],
+    ["ST_StandardStrokeRRect", "ST_StandardStrokeRRect"],
+    ["ST_StandardEllipse", "ST_StandardEllipse"],
+    ["ST_StandardStrokeEllipse", "ST_StandardStrokeEllipse"],
+    ["ST_StandardTexture", "ST_StandardTexture"],
+    ["ST_StandardTextureWithColorMatrix", "ST_StandardTextureWithColorMatrix"],
+    ["ST_Stencil", "ST_Stencil"],
+    ["ST_StencilRRect", "ST_StencilRRect"],
+    ["ST_StencilCircle", "ST_StencilCircle"],
+    ["ST_StencilTexture", "ST_StencilTexture"],
+    ["ST_StencilPath", "ST_StencilPath"],
+    ["ST_Text", "ST_Text"],
+    ["ST_TextSDF", "ST_TextSDF"],
+    ["ST_TextStrokeSDF", "ST_TextStrokeSDF"],
+    ["ST_Blur_1", "ST_Blur_1"],
+    ["ST_Blur_2", "ST_Blur_2"],
+    ["ST_Blur_3", "ST_Blur_3"],
+    ["ST_Blur_4", "ST_Blur_4"],
+    ["ST_Blur_5", "ST_Blur_5"],
+    ["ST_Blur_6", "ST_Blur_6"],
+    ["ST_Blur_7", "ST_Blur_7"],
+    ["ST_Blur_8", "ST_Blur_8"],
+    ["ST_Blur_9", "ST_Blur_9"],
+    ["ST_Blur_10", "ST_Blur_10"],
+    ["ST_Blur_11", "ST_Blur_11"],
+    ["ST_Blur_12", "ST_Blur_12"],
+    ["ST_BatchedStandard", "ST_BatchedStandard"],
+    ["ST_BatchedStandardTexture", "ST_BatchedStandard"],
+    ["ST_BatchedText", "ST_BatchedStandard"],
+    ["ST_BatchedTextSDF", "ST_BatchedStandard"],
+    ["ST_StandardRare", null],
+    ["ST_StencilRare", null],
+
+    ["ST_RenoirShader", null],
+    ["ST_LinearGradient2Point", "ST_LinearGradient2Point"],
+    ["ST_LinearGradient3PointSymmetrical", "ST_LinearGradient3PointSymmetrical"],
+    ["ST_LinearGradientFromTexture", "ST_LinearGradientFromTexture"],
+    ["ST_RadialGradient2Point", "ST_RadialGradient2Point"],
+    ["ST_RadialGradient3PointSymmetrical", "ST_RadialGradient3PointSymmetrical"],
+    ["ST_RadialGradientFromTexture", "ST_RadialGradientFromTexture"],
+
+    ["ST_LinearGradientMasked2Point", "ST_LinearGradientMasked2Point"],
+    ["ST_LinearGradientMasked3PointSymmetrical", "ST_LinearGradientMasked3PointSymmetrical"],
+    ["ST_LinearGradientMaskedFromTexture", "ST_LinearGradientMaskedFromTexture"],
+    ["ST_RadialGradientMasked2Point", "ST_RadialGradientMasked2Point"],
+    ["ST_RadialGradientMasked3PointSymmetrical", "ST_RadialGradientMasked3PointSymmetrical"],
+    ["ST_RadialGradientMaskedFromTexture", "ST_RadialGradientMaskedFromTexture"],
+
+    ["ST_SimpleTexture", "ST_SimpleTexture"],
+    ["ST_SimpleTextureMasked", "ST_SimpleTextureMasked"],
+
+    ["ST_Path", "ST_Path"],
+    ["ST_HairlinePath", "ST_HairlinePath"],
+    ["ST_StencilAnimatedPathBezier", null],
+    ["ST_StencilAnimatedPathTriangle", null],
+
+    ["ST_YUV2RGB", "ST_YUV2RGB"],
+    ["ST_YUVA2RGB", null],
+    ["ST_Hairline", "ST_Hairline"],
+    ["ST_TexturesWithColorMix", null],
+    ["ST_ClearQuad", null]
+  ]
+}

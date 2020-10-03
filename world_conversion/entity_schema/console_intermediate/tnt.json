@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Fuse",
+      "dest": "Fuse",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "custom_transformation": "ConsoleIntermediateTNTIDConversion",
+      "dest": "definitions"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Retira o telemóvel do capacete para iniciares sessão no Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Retira o telemóvel do capacete para adicionares amigos Xbox Live.	#
+xblLogin.LoginMessageRift=Retira o capacete para iniciares sessão no Xbox Live.	#
+xblLogin.AddFriendMessageRift=Retira o capacete para adicionares amigos Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Remove o capacete para veres o cartão de jogador.	#
+
+LostFocus.Rift=Perdeste o rato! Seleciona Minecraft no ambiente de trabalho, para voltar.	#
+
+vr.controls.HandControllerTracked=Deteção de Oculus Touch Obtida	#
+vr.controls.HandControllerTrackingLost=Deteção de Oculus Touch Perdida	#
+
+FileBrowser.Rift.Skin=Remove o capacete para escolheres uma skin personalizada.	#
+FileBrowser.Rift.TemplateResource=Remove os auscultadores com microfone para selecionares o recurso de modelo.	#
+FileBrowser.Rift.Export=Remove o capacete para exportares o teu mundo.	#
+FileBrowser.Rift.Import=Remove o capacete para importares o teu mundo.	#
+FileBrowser.Rift.ExportBook=Remove o capacete para exportares o teu livro.	#
+FileBrowser.Rift.ExportPortfolio=Remove o capacete para exportares o teu portefólio.	#
+FileBrowser.Rift.FileChooser=Escolher Ficheiro	#
+FileBrowser.Rift.FolderChooser=Escolher Pasta	#
+FileBrowser.Rift.ExportWorld=Exportar Mundo	#
+FileBrowser.Rift.ExportResourcesPrompt=Remove o capacete para exportares estes recursos.	#
+FileBrowser.Rift.ExportResources=Exportar Recursos	#
+FileBrowser.Rift.SkinChooser=Escolher Skin	#
+
+
+options.group.vr=RV	#
+options.group.vrTitle=Definições de RV	#
+options.vrHideHud=Ocultar HUD	#
+options.vrHideHand=Ocultar Mão	#
+options.vrHideGUI=Ocultar GUI em RV	#
+options.vrGamma=Brilho em RV	#
+options.vrMsaa=Anti-aliasing de RV	#
+options.vrRenderDistance=Distância de Composição em RV	#
+options.vrParticleRenderDistance=Distância de Processamento de Partículas em RV	#
+options.vrResetPlayerAlignment=Repor Alinhamento em RV	#
+options.vrHMDdisplacement=Utilizar deslocamento do monitor do capacete para Mover	#
+options.vrHeadSteering=Condução com a Cabeça em RV	#
+options.vrTurningOptions=Opções de Viragem	#
+options.StutterTurn=Viragem em RV	#
+options.StutterTurnSound=Som de Viragem em RV	#
+options.StutterConstantAngleOrTime=Modo RV de Viragem em Tempo Constante	#
+options.3DRendering=Composição 3D	#
+options.vrHudAtTop=HUD no cimo	#
+options.vrAutojump=Salto Automático em RV	#
+options.vrLinearJump=Salto Linear em RV	#
+options.vrLinearMotion=Movimento Linear em RV	#
+options.stickyMining=Fixar Escavação	#
+options.stickyMiningHand=Fixar escavação para Comando Manual	#
+options.vrMovingBackwardsHardStop=Paragem Brusca em Marcha-atrás	#
+options.comfortControls=Controlos de RV	#
+options.ShowComfortSelectScreen=Mostrar Ecrã de Seleção de Controlos	#
+options.vrHudDrifts=Desvio de HUD	#
+options.vrLivingRoomCursorCentered=Cursor Centrado no Modo de Sala de Estar em RV	#
+options.vrTapTurn=Virar por Toque	#
+options.vrTapTurnSensitivity=Sensibilidade de Virar por Toque	#
+options.vrRollTurning=Virar em Movimento de Volante	#
+options.vrRollTurnSensitivity=Sensibilidade ao Virar em Movimento de Volante	#
+options.vrHandControlsItem=Item de Controlos de Comando Manual	#
+options.vrHandControlsHUD=HUD de Controlos de Comando Manual	#
+options.vrHandPointer=Ponteiro de Comando Manual Visível	#
+options.vrHandsVisible=Mãos Visíveis	#
+options.vr180Turning=Inverter manípulo a 180 graus	#
+options.vrMirrorTexture=Ativar Textura de Espelho	#
+options.vrSensitivity=Sensibilidade em RV	#
+options.vrUIMouseSensitivity=Sensibilidade de IU em RV	#
+
+## VR control Scheme Strings
+vr.controls.title=Controlos de RV	#
+
+vr.controls.title.classic=Controlos Clássicos - Intenso	#
+vr.controls.title.experimental=Controlos de RV - Moderado	#
+vr.controls.classicDescription=Os saltos e as viragens clássicos, não afinados para RV. A maioria das pessoas define o nível de conforto como "intenso".	#
+vr.controls.experimentalDescription=As viragens ocorrem em segmentos. O cursor e os saltos foram afinados para RV para melhorar o nível de conforto durante o movimento para a maioria das pessoas (trabalho em desenvolvimento).	#
+vr.controls.sharedDescription=Os controlos podem ser também mudados no jogo através do menu de opções.	#
+vr.moreOptions=Mais Opções...	#
+vr.moreInformation=Mais Informações...	#
+vr.detailedInformation=Várias funcionalidades do jogo foram ajustadas para proporcionar uma experiência de RV mais confortável. Por exemplo: a Viragem em RV é uma funcionalidade que segmenta o movimento de viragem, para reduzir a sensação de desorientação.	#
+vr.detailedInformationLink=Para obteres mais informações sobre os controlos de RV e sobre os bastidores acede a minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Recentrar Dispositivo	#
+vr.pausescreen.recenterDeviceKeyboard=Prime N para Recentrar Dispositivo	#
+vr.warning.controllerRequired=É necessário um comando de jogo	#
+vr.warning.controllerRecommended=Para jogar em RV, é recomendado um comando de jogo	#
+vr.warning.controllerOrMouseRecommended=Para jogar em RV, é recomendado um comando de jogo ou um rato	#
+vr.warning.exitGameWarning=Queres sair de Minecraft?	#
+vr.alignscreen.pressButtonX=Prime o botão "X" no teu comando para continuares	#
+vr.alignscreen.pressButtonXOrMouse=Clica ou prime qualquer botão no teu comando para continuares	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Prime o botão A no comando de jogo ou seleciona acionar no comando do Windows Mixed Reality para continuar	#
+vr.alignscreen.pressAnyButton=Coloca a tua cabeça numa posição neutra e prime um botão	#
+vr.alignscreen.info=Aviso: Isto é um trabalho que ainda está em desenvolvimento. A RV pode causar desconforto a algumas pessoas. Não te esqueças de fazer tantas pausas quantas precisares e de utilizar o modo Sala de Estar, tocando no touchpad para uma visualização menos intensa.	#
+vr.alignscreen.info_viewbutton=Aviso: Isto é um trabalho que ainda está em desenvolvimento. A RV pode causar desconforto a algumas pessoas. Não te esqueças de fazer tantas pausas quantas precisares e de utilizar o modo Sala de Estar, premindo o botão direcional para cima para uma visualização menos intensa.	#
+
+accessibility.gamepad.button.systemLeft=button select	#
+accessibility.gamepad.button.systemRight=button start	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Tens a certeza de que queres sair?	#
+ori.confirm.update=Atualizar Minecraft?	#
+ori.pending=A aguardar a conclusão do Windows Update.	#
+ori.installing=A instalar...	#
+ori.updating=A atualizar...	#
+ori.launching=A iniciar!	#
+ori.check_for_update=À procura de atualizações...	#
+ori.error.unavailable=Minecraft não estava disponível. Certifica-te de que estás ligado à Internet e de que iniciaste sessão na loja.	#
+ori.error.unknown=Ocorreu um erro desconhecido. Tenta de novo mais tarde.	#
+ori.error.not_supported=Minecraft não é compatível com este sistema.	#
+ori.error.launch_failure=Não foi possível iniciar Minecraft.	#
+ori.error.version=A tua versão de Minecraft está desatualizada. Atualiza-a para poderes jogar.	#
+ori.error.win10=É necessário ter o Windows 10 (versão 1607 ou superior).	#
+ori.error.install_error=Encontrámos um erro. Código de erro: 0x	#
+ori.error.low_storage=Não foi possível instalar. O espaço de armazenamento disponível é insuficiente.	#
+ori.error.no_internet=Não foi possível estabelecer ligação. Verifica a tua ligação à internet.	#
+ori.error.winUpdateDisabled=O Windows Update tem de estar ativado.	#
+ori.confirm.controls.controller.confirm=Confirmar	#
+ori.confirm.controls.controller.cancel=Cancelar	#
+ori.confirm.controls.keyboard.confirm=Confirmar: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Cancelar: [Esc]	#
+ori.exit.controls.controller=Sair	#
+ori.exit.controls.keyboard=Sair: [Enter]	#
+ori.cancelling=A cancelar...	#
+

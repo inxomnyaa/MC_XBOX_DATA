@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "color",
+      "dest": "color",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

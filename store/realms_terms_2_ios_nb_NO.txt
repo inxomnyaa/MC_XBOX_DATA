@@ -1,0 +1,1 @@
+Betalingen trekkes fra iTunes-kontoen din når kjøpet er bekreftet, og abonnementet fornyes automatisk med mindre automatisk fornying slås av minst 24 timer før inneværende periode er over. Kontoen din blir belastet for en ny periode i løpet av de siste 24 timene før den inneværende perioden er over, til abonnementsprisen du har valgt tidligere.

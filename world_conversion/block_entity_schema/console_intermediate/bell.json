@@ -1,0 +1,26 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Ringing",
+      "dest": "Ringing",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue",
+      "optional": true
+    },
+    {
+      "src": "Ticks",
+      "dest": "Ticks",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Direction",
+      "dest": "Direction",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

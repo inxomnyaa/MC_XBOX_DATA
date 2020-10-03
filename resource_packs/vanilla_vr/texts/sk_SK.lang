@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Ak sa chcete prihlásiť do služby Xbox Live, odpojte od náhlavnej súpravy telefón.	#
+xblLogin.AddFriendMessageGearVR=Ak chcete pridávať priateľov v službe Xbox Live, odpojte od náhlavnej súpravy telefón.	#
+xblLogin.LoginMessageRift=Ak sa chcete prihlásiť do služby Xbox Live, odpojte náhlavnú súpravu.	#
+xblLogin.AddFriendMessageRift=Ak chcete pridávať priateľov v službe Xbox Live, odpojte náhlavnú súpravu.	#
+xblLogin.ShowGamerCardMessageRift=Ak chcete zobraziť kartu hráča, odpojte náhlavnú súpravu.	#
+
+LostFocus.Rift=Myš sa stratila! Ak ju chcete používať, vyberte na pracovnej ploche ikonu Minecraft.	#
+
+vr.controls.HandControllerTracked=Spustilo sa sledovanie zariadenia Oculus Touch	#
+vr.controls.HandControllerTrackingLost=Sledovanie zariadenia Oculus Touch sa prerušilo	#
+
+FileBrowser.Rift.Skin=Ak chcete vybrať vlastný vzhľad, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.TemplateResource=Odpojte náhlavnú súpravu, aby ste mohli vybrať zdroj šablóny.	#
+FileBrowser.Rift.Export=Ak chcete exportovať svet, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.Import=Ak chcete importovať svet, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.ExportBook=Ak chcete exportovať knihu, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.ExportPortfolio=Ak chcete exportovať portfólio, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.FileChooser=Vybrať súbor	#
+FileBrowser.Rift.FolderChooser=Vybrať priečinok	#
+FileBrowser.Rift.ExportWorld=Exportovať svet	#
+FileBrowser.Rift.ExportResourcesPrompt=Ak chcete exportovať tieto zdroje, snímte si náhlavnú súpravu.	#
+FileBrowser.Rift.ExportResources=Exportovať zdroje	#
+FileBrowser.Rift.SkinChooser=Výber vzhľadu	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=Nastavenia VR	#
+options.vrHideHud=Skryť priehľadový displej	#
+options.vrHideHand=Skryť ruku	#
+options.vrHideGUI=Skryť grafické používateľské rozhranie vo VR	#
+options.vrGamma=Jas VR	#
+options.vrMsaa=Vyhladzovanie VR	#
+options.vrRenderDistance=Vzdialenosť vykresľovania vo VR	#
+options.vrParticleRenderDistance=Vzdialenosť vykresľovania častíc vo VR	#
+options.vrResetPlayerAlignment=Obnoviť zosúladenie VR	#
+options.vrHMDdisplacement=Pohybovať sa podľa pohybu náhlavného displeja	#
+options.vrHeadSteering=Riadenie VR hlavou	#
+options.vrTurningOptions=Možnosti otáčania	#
+options.StutterTurn=Otáčanie vo VR	#
+options.StutterTurnSound=Zvuk otáčania vo VR	#
+options.StutterConstantAngleOrTime=Režim konštantného času pri otáčaní vo VR	#
+options.3DRendering=3D vykresľovanie	#
+options.vrHudAtTop=Priehľadový displej navrchu	#
+options.vrAutojump=Automatické skákanie vo VR	#
+options.vrLinearJump=Lineárne skákanie vo VR	#
+options.vrLinearMotion=Lineárny pohyb vo VR	#
+options.stickyMining=Lepkavá ťažba	#
+options.stickyMiningHand=Lepkavá ťažba pre ručný ovládač	#
+options.vrMovingBackwardsHardStop=Tvrdé zastavenie pri obracaní	#
+options.comfortControls=Ovládacie prvky VR	#
+options.ShowComfortSelectScreen=Zobraziť obrazovku výberu ovládacích prvkov	#
+options.vrHudDrifts=Posun priehľadového displeja	#
+options.vrLivingRoomCursorCentered=Kurzor obývacej izby VR v strede	#
+options.vrTapTurn=Otočenie ťuknutím	#
+options.vrTapTurnSensitivity=Citlivosť otočenia ťuknutím	#
+options.vrRollTurning=Otočenie kolieskom	#
+options.vrRollTurnSensitivity=Citlivosť otočenia kolieskom	#
+options.vrHandControlsItem=Položka ovládaná ručným ovládačom	#
+options.vrHandControlsHUD=Priehľadový displej ovládaný ručným ovládačom	#
+options.vrHandPointer=Viditeľný ukazovateľ ručného ovládača	#
+options.vrHandsVisible=Viditeľné ruky	#
+options.vr180Turning=Obrátiť páčku o 180°	#
+options.vrMirrorTexture=Povoliť zrkadlovú textúru	#
+options.vrSensitivity=Citlivosť VR	#
+options.vrUIMouseSensitivity=Citlivosť používateľského rozhrania VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Ovládacie prvky VR	#
+
+vr.controls.title.classic=Klasické ovládacie prvky – intenzívne	#
+vr.controls.title.experimental=Ovládacie prvky VR – mierne	#
+vr.controls.classicDescription=Klasické skákanie a otáčanie, ktoré nie je vyladené pre VR. Pre väčšinu ľudí predstavuje intenzívnu úroveň pohodlia.	#
+vr.controls.experimentalDescription=Otáčanie sa vykonáva po častiach. Kurzor a skákanie boli vyladené pre VR na zlepšenie pohodlia počas pohybu pre väčšinu ľudí (funkcia sa naďalej vyvíja).	#
+vr.controls.sharedDescription=Ovládacie prvky možno zmeniť aj v hre prostredníctvom ponuky možností.	#
+vr.moreOptions=Ďalšie možnosti...	#
+vr.moreInformation=Ďalšie informácie...	#
+vr.detailedInformation=Niekoľko herných funkcií bolo upravených tak, aby bol zážitok vo VR pohodlnejší. Napríklad: Funkcia otáčania vo VR rozdelí pohyb pri otáčaní na segmenty, a tým obmedzí dezorientáciu.	#
+vr.detailedInformationLink=Ďalšie informácie o ovládacích prvkoch VR a pohľad do zákulisia nájdete na lokalite minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Vycentrovať zariadenie znova	#
+vr.pausescreen.recenterDeviceKeyboard=Stlačením tlačidla N vycentrujte zariadenie znova	#
+vr.warning.controllerRequired=Požaduje sa hracie zariadenie	#
+vr.warning.controllerRecommended=Pre VR sa odporúča hracie zariadenie	#
+vr.warning.controllerOrMouseRecommended=Pre VR sa odporúča hracie zariadenie alebo myš	#
+vr.warning.exitGameWarning=Chcete ukončiť hru Minecraft?	#
+vr.alignscreen.pressButtonX=Ak chcete pokračovať, stlačte tlačidlo X na ovládači	#
+vr.alignscreen.pressButtonXOrMouse=Ak chcete pokračovať, kliknite alebo stlačte ľubovoľné tlačidlo na ovládači	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Ak chcete pokračovať, stlačte tlačidlo A na hracom zariadení alebo spúšť Vybrať na ovládači funkcie Windows Mixed Reality	#
+vr.alignscreen.pressAnyButton=Vyrovnajte si hlavu do neutrálnej polohy a stlačte ľubovoľné tlačidlo	#
+vr.alignscreen.info=Upozornenie: Táto funkcia sa naďalej vyvíja. Virtuálna realita (VR) môže niektorým ľuďom spôsobovať ťažkosti. Nezabudnite si robiť prestávky tak často, ako to potrebujete. Využívajte aj režim obývacej izby – ťuknutím na dotykové zariadenie prepnete na menej intenzívne zobrazenie.	#
+vr.alignscreen.info_viewbutton=Upozornenie: Táto funkcia sa naďalej vyvíja. Virtuálna realita (VR) môže niektorým ľuďom spôsobovať ťažkosti. Nezabudnite si robiť prestávky tak často, ako to potrebujete. Využívajte aj režim obývacej izby – potlačením smerového ovládača nahor prepnete na menej intenzívne zobrazenie.	#
+
+accessibility.gamepad.button.systemLeft=tlačidlo vybrať	#
+accessibility.gamepad.button.systemRight=tlačidlo spustiť	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Naozaj chcete skončiť?	#
+ori.confirm.update=Aktualizovať hru Minecraft?	#
+ori.pending=Čaká sa na dokončenie aktualizácie systému Windows.	#
+ori.installing=Inštaluje sa...	#
+ori.updating=Aktualizuje sa...	#
+ori.launching=Spúšťa sa.	#
+ori.check_for_update=Vyhľadávajú sa aktualizácie...	#
+ori.error.unavailable=Hra Minecraft bola nedostupná. Uistite sa, že ste pripojení na internet a prihlásení do obchodu.	#
+ori.error.unknown=Vyskytla sa neznáma chyba. Skúste to znova neskôr.	#
+ori.error.not_supported=Hra Minecraft nie je v tomto systéme podporovaná.	#
+ori.error.launch_failure=Hru Minecraft sa nepodarilo spustiť.	#
+ori.error.version=Vaša verzia hry Minecraft je neaktuálna. Ak chcete hrať, aktualizujte ju.	#
+ori.error.win10=Požaduje sa systém Windows 10 verzie 1607 alebo novšej.	#
+ori.error.install_error=Vyskytla sa chyba. Kód chyby: 0x	#
+ori.error.low_storage=Nepodarilo sa nainštalovať. Voľný ukladací priestor je nedostatočný.	#
+ori.error.no_internet=Nepodarilo sa pripojiť. Skontrolujte pripojenie na internet.	#
+ori.error.winUpdateDisabled=Musí byť povolená služba Windows Update.	#
+ori.confirm.controls.controller.confirm=Potvrdiť	#
+ori.confirm.controls.controller.cancel=Zrušiť	#
+ori.confirm.controls.keyboard.confirm=Potvrdiť: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Zrušiť: [Esc]	#
+ori.exit.controls.controller=Skončiť	#
+ori.exit.controls.keyboard=Skončiť: [Enter]	#
+ori.cancelling=Ruší sa...	#
+

@@ -1,0 +1,274 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "animations/dressing_room_idle_arm_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_idle_back_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_idle_bottom_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_idle_torso_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_arm_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_arm_2.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_back_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_back_2.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_arm_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_back_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_bottom_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_head_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bored_torso_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bottom_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bottom_2.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_bottom_3.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_confirm_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_confirm_2.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_head_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_head_2.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_idle.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_arm_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_arm_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_back_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_back_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_bottom_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_bottom_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_head_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_head_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_torso_1.json"
+        },
+        {
+            "path": "animations/dressing_room_react_offer_torso_2.json"
+        },
+        {
+            "path": "animations/dressing_room_react_torso_1.anim.json"
+        },
+        {
+            "path": "animations/dressing_room_react_torso_2.anim.json"
+        },
+        {
+            "path": "animations/iron_golem.animation.json"
+        },
+        {
+            "path": "animation_controllers/iron_golem.animation_controllers.json"
+        },
+        {
+            "path": "animation_controllers/player.animation_controllers.json"
+        },
+        {
+            "path": "entity/bee.entity.json"
+        },
+        {
+            "path": "entity/iron_golem.entity.json"
+        },
+        {
+            "path": "models/entity/ghast.geo.json"
+        },
+        {
+            "path": "particles/explosion_eyeofender_death.json"
+        },
+        {
+            "path": "particles/mobspell.json"
+        },
+        {
+            "path": "particles/splashpotionspell.json"
+        },
+        {
+            "path": "sounds/sound_definitions.json"
+        },
+        {
+            "path": "textures/item_texture.json"
+        },
+        {
+            "path": "textures/textures_list.json"
+        },
+        {
+            "path": "textures/entity/banner/banner_base.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_border.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_bricks.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_circle.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_creeper.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_cross.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_curly_border.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_diagonal_left.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_diagonal_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_diagonal_up_left.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_diagonal_up_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_flower.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_gradient.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_gradient_up.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_half_horizontal.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_half_horizontal_bottom.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_half_vertical.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_half_vertical_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_illager.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_mojang.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_rhombus.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_skull.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_small_stripes.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_square_bottom_left.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_square_bottom_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_square_top_left.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_square_top_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_straight_cross.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_bottom.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_center.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_downleft.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_downright.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_left.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_middle.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_right.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_stripe_top.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_triangles_bottom.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_triangles_top.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_triangle_bottom.tga"
+        },
+        {
+            "path": "textures/entity/banner/banner_triangle_top.tga"
+        },
+        {
+            "path": "textures/items/egg_bee.png"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+   "materials" : [
+      {
+         "name" : "BlockOutlineSelection/Base",
+         "path" : "BlockOutlineSelection"
+      },
+      {
+         "name" : "BlockSelectionOverlayBlockEntity",
+         "path" : "BlockSelectionOverlayBlockEntity"
+      },
+      {
+         "name" : "UI/GamefaceRenoir",
+         "path" : "UIGamefaceRenoir"
+      },
+      {
+         "name" : "BlockSelectionOutline",
+         "path" : "BlockSelectionOutline"
+      },
+      {
+         "name" : "MeshFallbackPosUVNormalColor",
+         "path" : "MeshFallbackPosUVNormalColor"
+      },
+      {
+         "name" : "Core/Builtins",
+         "path" : "Builtins"
+      },
+      {
+         "name" : "EndSky",
+         "path" : "EndSky"
+      },
+      {
+         "name" : "ShadowVolume",
+         "path" : "ShadowVolume"
+      },
+      {
+         "name" : "FlameBillboard",
+         "path" : "FlameBillboard"
+      },
+      {
+         "name" : "Core/Screen/Blit",
+         "path" : "ScreenBlit"
+      },
+      {
+         "name" : "BlitColor",
+         "path" : "BlitColor"
+      },
+      {
+         "name" : "BlockSelectionOverlay",
+         "path" : "BlockSelectionOverlay"
+      },
+      {
+         "name" : "SunMoon",
+         "path" : "SunMoon"
+      },
+      {
+         "name" : "Cubemap",
+         "path" : "Cubemap"
+      },
+      {
+         "name" : "Debug/ScreenUV",
+         "path" : "ScreenUV"
+      },
+      {
+         "name" : "Cracks",
+         "path" : "Cracks"
+      },
+      {
+         "name" : "Sky",
+         "path" : "Sky"
+      },
+      {
+         "name" : "Blit",
+         "path" : "Blit"
+      },
+      {
+         "name" : "ItemInHandTextured",
+         "path" : "ItemInHandTextured"
+      },
+      {
+         "name" : "DisplayMap",
+         "path" : "displaymap"
+      },
+      {
+         "name" : "CracksBlockEntity",
+         "path" : "CracksBlockEntity"
+      },
+      {
+         "name" : "Clouds",
+         "path" : "Clouds"
+      },
+      {
+         "name" : "ShadowOverlay",
+         "path" : "ShadowOverlay"
+      },
+      {
+         "name" : "Core/Color",
+         "path" : "Color"
+      },
+      {
+         "name" : "ItemInHandColor",
+         "path" : "ItemInHandColor"
+      },
+      {
+         "name" : "Flipbook",
+         "path" : "Flipbook"
+      },
+      {
+         "name" : "LegacyCubemap",
+         "path" : "LegacyCubemap"
+      },
+      {
+         "name" : "BeaconBeam",
+         "path" : "BeaconBeam"
+      },
+      {
+         "name" : "Debug/ImGui",
+         "path" : "ImGui"
+      },
+      {
+         "name" : "Minecraft/Color",
+         "path" : "MinecraftColor"
+      },
+      {
+         "name" : "UI/Base",
+         "path" : "UIBase"
+      },
+      {
+         "name" : "UI/Sprite",
+         "path" : "UISprite"
+      },
+      {
+         "name" : "UI/Fill",
+         "path" : "UIFill"
+      },
+      {
+         "name" : "EndPortal",
+         "path" : "EndPortal"
+      },
+      {
+         "name" : "Stars",
+         "path" : "Stars"
+      },
+      {
+         "name" : "UI/Gameface",
+         "path" : "UIGamefaceStandard"
+      },
+      {
+         "name" : "Particle",
+         "path" : "Particle"
+      },
+      {
+         "name" : "UI/Blit",
+         "path" : "UIBlit"
+      },
+      {
+         "name" : "ActorTint",
+         "path" : "ActorTint"
+      },
+      {
+         "name" : "Weather",
+         "path" : "Weather"
+      },
+      {
+         "name" : "UI/Glint",
+         "path" : "UIGlint"
+      },
+      {
+         "name" : "UI/Text",
+         "path" : "UIText"
+      },
+      {
+         "name" : "StandardRed",
+         "path" : "StandardRed"
+      },
+      {
+         "name" : "PBR/Opaque",
+         "path" : "Basic"
+      },
+      {
+         "name" : "ItemInHandColorGlint",
+         "path" : "ItemInHandColorGlint"
+      },
+      {
+         "name" : "ActorMultiTexture",
+         "path" : "ActorMultiTexture"
+      },
+      {
+         "name" : "RenderChunk",
+         "path" : "RenderChunk"
+      },
+      {
+         "name" : "ActorGlint",
+         "path" : "ActorGlint"
+      },
+      {
+         "name" : "ActorBanner",
+         "path" : "ActorBanner"
+      },
+      {
+         "name" : "Actor",
+         "path" : "Actor"
+      }
+   ]
+}

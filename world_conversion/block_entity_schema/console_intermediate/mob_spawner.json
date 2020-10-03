@@ -1,0 +1,59 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Delay",
+      "dest": "Delay",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "MinSpawnDelay",
+      "dest": "MinSpawnDelay",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "MaxSpawnDelay",
+      "dest": "MaxSpawnDelay",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "SpawnCount",
+      "dest": "SpawnCount",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "MaxNearbyEntities",
+      "dest": "MaxNearbyEntities",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "SpawnRange",
+      "dest": "SpawnRange",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "RequiredPlayerRange",
+      "dest": "RequiredPlayerRange",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "SpawnPotentials",
+      "dest": "SpawnPotentials",
+      "custom_transformation": "ConsoleMobSpawnPotentialsToIntermediate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"blockSchemaFile" : "block_schema/console.json",
+	"biomeSchemaFile" : "biome_schema/java.json",
+	"entitySchemaFile" : "entity_schema/console_intermediate/schema_mappings.json",
+	"itemSchemaFile" : "item_schema/console_intermediate/item_schema.json",
+	"blockEntitySchemaFile" : "block_entity_schema/console_intermediate/schema_mappings.json",
+	"playerSchemaFile" : "player_schema/console_intermediate/schema_mappings.json",
+	"enchantmentSchemaFile" : "enchantment_schema/java_1.json",
+	"potionEffectSchemaFile" : "potion_effect_schema/java_native_1.json",
+	"particleSchemaFile" : "particle_schema/java_native_1.json",
+	"attributeSchemaFile" : "attribute_schema/console.json",
+	"resourceSchemaFile" : "resource_schema/console.json"
+}

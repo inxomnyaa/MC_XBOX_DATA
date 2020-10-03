@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Xbox Live oturumu açmak için lütfen kulaklığı telefonunuzdan çıkarın.	#
+xblLogin.AddFriendMessageGearVR=Xbox Live arkadaşları eklemek için lütfen kulaklığınızı telefonunuzdan çıkarın.	#
+xblLogin.LoginMessageRift=Xbox Live oturumu açmak için lütfen kulaklığı çıkarın.	#
+xblLogin.AddFriendMessageRift=Xbox Live arkadaşları eklemek için lütfen kulaklığı çıkarın.	#
+xblLogin.ShowGamerCardMessageRift=Oyuncu kartını görmek için lütfen kulaklığı çıkarın.	#
+
+LostFocus.Rift=Fare kayboldu! Kullanmak isterseniz masaüstünden Minecraft'ı seçin.	#
+
+vr.controls.HandControllerTracked=Oculus Dokunmatik İzleme Yapıldı	#
+vr.controls.HandControllerTrackingLost=Oculus Dokunmatik İzleme Kaybedildi	#
+
+FileBrowser.Rift.Skin=Özel bir Dış Görünüş seçmek için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.TemplateResource=Şablon kaynağını seçmek için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.Export=Dünyanızı dışarı aktarmak için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.Import=Dünyanızı içeri aktarmak için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.ExportBook=Kitabınızı dışarı aktarmak için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.ExportPortfolio=Portfolyonuzu dışarı aktarmak için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.FileChooser=Dosya Seç	#
+FileBrowser.Rift.FolderChooser=Klasör Seç	#
+FileBrowser.Rift.ExportWorld=Dün. Dışa Aktar	#
+FileBrowser.Rift.ExportResourcesPrompt=Bu kaynakları dışarı aktarmak için lütfen kulaklığı çıkarın.	#
+FileBrowser.Rift.ExportResources=Kaynakları Dışarı Aktar	#
+FileBrowser.Rift.SkinChooser=Dış Görünüş Seç	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR Ayarları	#
+options.vrHideHud=Baş Üstü Ekranını Gizle	#
+options.vrHideHand=Eli Gizle	#
+options.vrHideGUI=VR'de GUI'yı Gizle	#
+options.vrGamma=VR Parlaklığı	#
+options.vrMsaa=VR Kenar Yumuşatma	#
+options.vrRenderDistance=VR Gitme Mesafesi	#
+options.vrParticleRenderDistance=VR Cisim Gitme Mesafesi	#
+options.vrResetPlayerAlignment=VR Hizalamayı Sıfırlayın	#
+options.vrHMDdisplacement=Hareket etmek için HMD kaydırmayı kullanın	#
+options.vrHeadSteering=VR Kafa Yönlendirme	#
+options.vrTurningOptions=Döndürme Seçenekleri	#
+options.StutterTurn=VR Döndürme	#
+options.StutterTurnSound=VR Dönme Sesi	#
+options.StutterConstantAngleOrTime=VR Dönme Sabit Zaman Modu	#
+options.3DRendering=3B Oluşturma	#
+options.vrHudAtTop=En Üstteki HUD	#
+options.vrAutojump=VR Otomatik Zıplama	#
+options.vrLinearJump=VR Doğrusal Atlama	#
+options.vrLinearMotion=VR Doğrusal Hareket	#
+options.stickyMining=Yapışkan Madencilik	#
+options.stickyMiningHand=El Kumandası için yapışkan madencilik	#
+options.vrMovingBackwardsHardStop=Tersten Sabit Duruş	#
+options.comfortControls=VR Kontrolleri	#
+options.ShowComfortSelectScreen=Kontrol Seçim Ekranını Göster	#
+options.vrHudDrifts=HUD Kayması	#
+options.vrLivingRoomCursorCentered=VR Oturma Odası İmleç Ortalanmış	#
+options.vrTapTurn=Dokunarak Döndürme	#
+options.vrTapTurnSensitivity=Dokunarak Döndürme Hassaslığı	#
+options.vrRollTurning=Tekerlek Döndürme	#
+options.vrRollTurnSensitivity=Tekerlek Döndürme Hassaslığı	#
+options.vrHandControlsItem=El Kumandası Eşyayı Kontrol Eder	#
+options.vrHandControlsHUD=El Kumandası HUD'yi Kontrol Eder	#
+options.vrHandPointer=El Kumandası Göstergesi Görünür Durumda	#
+options.vrHandsVisible=Eller Görünür Durumda	#
+options.vr180Turning=Sopayı 180 Derece Döndür	#
+options.vrMirrorTexture=Ayna Dokusunu Etkinleştir	#
+options.vrSensitivity=VR Hassaslığı	#
+options.vrUIMouseSensitivity=VR UI Hassaslığı	#
+
+## VR control Scheme Strings
+vr.controls.title=VR Kontrolleri	#
+
+vr.controls.title.classic=Klasik Kontroller - Yoğun	#
+vr.controls.title.experimental=VR Kontrolleri - Orta	#
+vr.controls.classicDescription=Klasik atlama ve döndürme, VR için uygun değil. Çoğu insan için zorlu bir rahatlık düzeyine sahip.	#
+vr.controls.experimentalDescription=Dönüş bölümler halinde gerçekleşir. Birçok kişi için hareket sırasında rahatlığı arttırmak amacıyla imleç ve atlama VR'ye göre ayarlanmıştır (üzerinde çalışılıyor).	#
+vr.controls.sharedDescription=Kontroller, seçenekler menüsünden oyun içinde de değiştirilebilir.	#
+vr.moreOptions=Daha Fazla Seçenek...	#
+vr.moreInformation=Daha Fazla Bilgi...	#
+vr.detailedInformation=Daha rahat bir VR deneyimi için birçok oyun özelliği getirildi. Örneğin; VR döndürme, rota dışı hareketi azaltmak için dönme hareketini ayıran bir özelliktir.	#
+vr.detailedInformationLink=VR kontrolleri hakkında daha fazla bilgi ve detaylı inceleme için minecraft.net/vr adresine gidin	#
+
+vr.pausescreen.recenterDevice=Cihazı Yeniden Ortala	#
+vr.pausescreen.recenterDeviceKeyboard=Cihazı Yeniden Ortalamak için N tuşuna basın	#
+vr.warning.controllerRequired=Oyun kumandası gerekli	#
+vr.warning.controllerRecommended=VR için oyun kumandası kullanmanız önerilir	#
+vr.warning.controllerOrMouseRecommended=VR için oyun kumandası veya fare kullanmanız önerilir	#
+vr.warning.exitGameWarning=Minecraft'tan çıkmak istiyor musunuz?	#
+vr.alignscreen.pressButtonX=Lütfen devam etmek için kumandanızdaki 'X' düğmesine basın	#
+vr.alignscreen.pressButtonXOrMouse=Devam etmek için kumandanız üzerindeki herhangi bir düğmeye tıklayın veya basın	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Devam etmek için oyun kumandanızdaki 'A' düğmesine veya Windows Mixed Reality kumandanızdaki Seç tetiğine basın	#
+vr.alignscreen.pressAnyButton=Kafanızı normal bir konuma getirin ve bir düğmeye basın	#
+vr.alignscreen.info=Dikkat: Bu işlem hala sürmektedir. VR, bazı kişilere rahatsızlık verebilir. İhtiyaç duyduğunuz her zaman mola vermeyi ve daha az yoğun bir görünüm için dokunmatik farenize vurarak Oturma Odası modunu kullanmayı unutmayın.	#
+vr.alignscreen.info_viewbutton=Dikkat: Bu işlem hala sürmektedir. VR, bazı kişilere rahatsızlık verebilir. İhtiyaç duyduğunuz her zaman mola vermeyi ve daha az yoğun bir görünüm için D-Pad Up seçeneğine basarak Oturma Odası modunu kullanmayı unutmayın.	#
+
+accessibility.gamepad.button.systemLeft=seç düğmesi	#
+accessibility.gamepad.button.systemRight=başlat düğmesi	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Çıkmak istediğinizden emin misiniz?	#
+ori.confirm.update=Minecraft güncellensin mi?	#
+ori.pending=Windows Güncelleştirmesinin tamamlanması bekleniyor.	#
+ori.installing=Yükleniyor...	#
+ori.updating=Güncelleniyor...	#
+ori.launching=Başlatılıyor!	#
+ori.check_for_update=Güncellemeler kontrol ediliyor...	#
+ori.error.unavailable=Minecraft kullanılamadı. İnternete bağlı olduğunuzdan ve mağazaya giriş yaptığınızdan emin olun.	#
+ori.error.unknown=Bilinmeyen bir hata oluştu. Daha sonra yeniden deneyin.	#
+ori.error.not_supported=Minecraft bu sistemde desteklenmiyor.	#
+ori.error.launch_failure=Minecraft başlatılamadı.	#
+ori.error.version=Minecraft sürümünüz güncel değil. Lütfen oynamak için güncelleyin.	#
+ori.error.win10=Windows 10 sürüm 1607 veya daha yüksek bir sürüm gerekli.	#
+ori.error.install_error=Bir hatayla karşılaştık. Hata kodu: 0x	#
+ori.error.low_storage=Yüklenemedi. Kullanılabilir depolama alanı yetersiz.	#
+ori.error.no_internet=Bağlanılamıyor. Lütfen internet bağlantınızı kontrol edin.	#
+ori.error.winUpdateDisabled=Windows Update etkinleştirilmiş olmalıdır.	#
+ori.confirm.controls.controller.confirm=Kabul et	#
+ori.confirm.controls.controller.cancel=İptal	#
+ori.confirm.controls.keyboard.confirm=Kabul et: [Enter]	#
+ori.confirm.controls.keyboard.cancel=İptal: [Esc]	#
+ori.exit.controls.controller=Çıkış yap	#
+ori.exit.controls.keyboard=Çıkış yap: [Enter]	#
+ori.cancelling=İptal ediliyor...	#
+

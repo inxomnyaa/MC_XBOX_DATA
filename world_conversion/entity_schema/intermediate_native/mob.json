@@ -1,0 +1,57 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Health",
+      "dest": "Health",
+      "dest_members": "TAG_Short",
+      "src_members": "realValue",
+      "optional": true
+    },
+    {
+      "src": "LeashedTo",
+      "dest": "LeasherID",
+      "dest_members": "TAG_Int64",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Attributes",
+      "dest": "Attributes",
+      "custom_transformation": "IntermediateAttributeToNative"
+    },
+    {
+      "src": "ActiveEffects",
+      "dest": "ActiveEffects",
+      "custom_transformation": "IntermediatePotionEffectToNative"
+    },
+    {
+      "src": "DwellingUniqueID",
+      "dest": "DwellingUniqueID",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    },
+    {
+      "src": "DwellingType",
+      "dest": "DwellingType",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "DwellerRole",
+      "dest": "DwellerRole",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "PreferredProfession",
+      "dest": "PreferredProfession",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    }
+  ]
+}

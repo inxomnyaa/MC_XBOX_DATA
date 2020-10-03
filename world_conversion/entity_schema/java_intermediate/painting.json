@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "TileX",
+      "dest": "TileX",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileY",
+      "dest": "TileY",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileZ",
+      "dest": "TileZ",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Facing",
+      "dest": "Facing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Motive",
+      "dest": "Motive",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    }
+  ]
+}

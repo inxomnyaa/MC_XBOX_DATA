@@ -1,0 +1,16 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "textures/textures_list.json"
+        },
+        {
+            "path": "textures/colormap/grass.png"
+        },
+        {
+            "path": "textures/colormap/swamp_grass.png"
+        }
+    ]
+}

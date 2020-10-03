@@ -1,0 +1,44 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "src": "tag.FishBucket.CustomName",
+      "dest": "tag.FishBucket.CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "optional": true,
+      "src": "tag.FishBucket.OwnerUUID",
+      "dest": "tag.FishBucket.OwnerUUID",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "optional": true,
+      "src": "tag.FishBucket.Variant",
+      "dest": "tag.FishBucket.Variant",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "optional": true,
+      "src": "tag.FishBucket.Color",
+      "dest": "tag.FishBucket.Color",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "optional": true,
+      "src": "tag.FishBucket.SalmonScale",
+      "dest": "tag.FishBucket.SalmonScale",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "optional": false,
+      "item_transformation": "IntermediateBucketIdToNative"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "dest": "Item",
+      "custom_transformation": "FlowerPotItemConsoleToIntermediate"
+    }
+  ]
+}

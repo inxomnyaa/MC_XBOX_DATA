@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.pages",
+      "dest": "tag.Pages",
+      "item_transformation": "JavaBookPagesToIntermediate",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "minecraft:max_health": "generic.maxHealth",
+    "minecraft:follow_range": "generic.followRange",
+    "minecraft:knockback_resistance": "generic.knockbackResistance",
+    "minecraft:movement_speed": "generic.movementSpeed",
+    "minecraft:attack_damage": "generic.attackDamage",
+    "minecraft:armor": "generic.armor",
+    "minecraft:armor_toughness": "generic.armorToughness",
+    "minecraft:attack_speed": "generic.attackSpeed",
+    "minecraft:luck": "generic.luck",
+    "minecraft:horse.jump_strength": "horse.jumpStrength",
+    "minecraft:zombie.spawn_reinforcements": "zombie.spawnReinforcements"
+}

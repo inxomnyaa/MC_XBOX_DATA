@@ -1,0 +1,26 @@
+{
+  "piece_id": "a0f263b3-e093-4c85-aadb-3759417898ff",
+  "piece_name": "plain",
+  "piece_type": "persona_eyes",
+  "texture_sources": [
+    {
+      "texture": "plain_blink_head.png",
+      "tint_map": "plain_blink_head_tintmap.tga",
+      "use_face_uv": true,
+      "animated": true,
+      "frames": 2
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#0000FF",
+    "g_color": "#000000",
+    "b_color": "#f7f7eb",
+    "a_color": "#FF7F4A"
+  },
+  "tint_color": {
+    "r_color": "#0000FF",
+    "g_color": "#000000",
+    "b_color": "#f7f7eb",
+    "a_color": "#FF7F4A"
+  }
+}

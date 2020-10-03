@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Target",
+      "dest": "Target",
+      "src_members": "TAG_Long",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Active",
+      "dest": "Active",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue"
+    }
+  ]
+}

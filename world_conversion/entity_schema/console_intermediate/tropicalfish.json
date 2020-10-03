@@ -1,0 +1,13 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Variant",
+      "custom_transformation": "UnpackTropicalFishVariant"
+    },
+    {
+      "src": "Color",
+      "custom_transformation": "UnpackTropicalFishColor"
+    }
+  ]
+}

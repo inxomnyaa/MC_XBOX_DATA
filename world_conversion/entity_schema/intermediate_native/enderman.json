@@ -1,0 +1,14 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "CarriedItem",
+      "dest": "carried",
+      "custom_transformation": "IntermediateEndermanCarriedItemToNative"
+    },
+    {
+      "custom_transformation": "EndermanDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

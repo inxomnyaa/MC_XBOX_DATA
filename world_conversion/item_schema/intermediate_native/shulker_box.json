@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": false,
+      "dest": "Damage",
+      "item_transformation": "IntermediateShulkerBoxIDToNative"
+    },
+    {
+      "optional": true,
+      "src": "Items",
+      "dest": "tag.Items",
+      "item_transformation": "IntermediateInventoryToNative"
+    }
+  ]
+}

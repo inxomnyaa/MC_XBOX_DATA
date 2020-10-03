@@ -1,0 +1,19 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "src": "tag.display.Name",
+      "dest": "tag.display.Name",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "optional": true,
+      "src": "tag.Potion",
+      "dest": "tag.Potion",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    }
+  ]
+}

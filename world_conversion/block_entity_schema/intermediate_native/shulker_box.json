@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "IntermediateInventoryToNative"
+    },
+    {
+      "src": "facing",
+      "dest": "facing",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    }
+  ]
+}

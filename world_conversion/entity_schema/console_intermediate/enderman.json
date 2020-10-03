@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "carried",
+      "dest": "CarriedItem",
+      "custom_transformation": "JavaEndermanCarriedItemToIntermediate"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Item",
+      "dest": "Item",
+      "custom_transformation": "JavaItemIDToIntermediate"
+    },
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "PickupDelay",
+      "dest": "PickupDelay",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

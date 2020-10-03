@@ -1,0 +1,8 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "item_transformation": "ConsoleAnvilDamageToInt"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=請將您的手機從耳機移除以登入 Xbox Live。	#
+xblLogin.AddFriendMessageGearVR=請移除耳機以登入 Xbox Live。	#
+xblLogin.LoginMessageRift=請移除耳機以登入 Xbox Live。	#
+xblLogin.AddFriendMessageRift=請移除耳機以新增 Xbox Live 好友。	#
+xblLogin.ShowGamerCardMessageRift=請移除耳機以檢視玩家卡。	#
+
+LostFocus.Rift=遺失滑鼠連線！若要使用，請在桌面上選取 Minecraft。	#
+
+vr.controls.HandControllerTracked=取得 Oculus Touch 追蹤	#
+vr.controls.HandControllerTrackingLost=失去 Oculus Touch 追蹤	#
+
+FileBrowser.Rift.Skin=請移除耳機以選取自訂外觀。	#
+FileBrowser.Rift.TemplateResource=請移除耳機以選取範本資源。	#
+FileBrowser.Rift.Export=請移除耳機以匯出您的世界。	#
+FileBrowser.Rift.Import=請移除耳機以匯入您的世界。	#
+FileBrowser.Rift.ExportBook=請移除頭戴顯示器以匯出您的書本。	#
+FileBrowser.Rift.ExportPortfolio=請移除耳機以匯出您的個人資料。	#
+FileBrowser.Rift.FileChooser=選擇檔案	#
+FileBrowser.Rift.FolderChooser=選擇資料夾	#
+FileBrowser.Rift.ExportWorld=匯出世界	#
+FileBrowser.Rift.ExportResourcesPrompt=請移除耳機以匯出這些資源。	#
+FileBrowser.Rift.ExportResources=匯出資源	#
+FileBrowser.Rift.SkinChooser=選擇外觀	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR 設定	#
+options.vrHideHud=隱藏 HUD	#
+options.vrHideHand=隱藏指針	#
+options.vrHideGUI=VR 中隱藏 GUI	#
+options.vrGamma=VR 亮度	#
+options.vrMsaa=VR 消除鋸齒	#
+options.vrRenderDistance=VR 呈現距離	#
+options.vrParticleRenderDistance=VR 粒子呈現距離	#
+options.vrResetPlayerAlignment=重設 VR 對齊	#
+options.vrHMDdisplacement=利用 HMD 位移移動	#
+options.vrHeadSteering=VR 頭部轉向	#
+options.vrTurningOptions=迴轉選項	#
+options.StutterTurn=VR 迴轉	#
+options.StutterTurnSound=VR 迴轉聲音	#
+options.StutterConstantAngleOrTime=VR 常時迴轉模式	#
+options.3DRendering=3D 呈現	#
+options.vrHudAtTop=HUD 置頂	#
+options.vrAutojump=VR 自動跳躍	#
+options.vrLinearJump=VR 線性跳躍	#
+options.vrLinearMotion=VR 線性動作	#
+options.stickyMining=黏性挖掘	#
+options.stickyMiningHand=手部控制器的黏性挖掘	#
+options.vrMovingBackwardsHardStop=逆向硬性停止	#
+options.comfortControls=VR 控制	#
+options.ShowComfortSelectScreen=顯示控制項選擇畫面	#
+options.vrHudDrifts=HUD 漂移	#
+options.vrLivingRoomCursorCentered=VR 客廳游標置中	#
+options.vrTapTurn=輕觸迴轉	#
+options.vrTapTurnSensitivity=輕觸迴轉靈敏度	#
+options.vrRollTurning=滾輪迴轉	#
+options.vrRollTurnSensitivity=滾輪迴轉靈敏度	#
+options.vrHandControlsItem=手部控制器的控制項	#
+options.vrHandControlsHUD=手部控制器的控制 HUD	#
+options.vrHandPointer=手部控制器的指標可見	#
+options.vrHandsVisible=手部可見	#
+options.vr180Turning=逆向反轉 180	#
+options.vrMirrorTexture=啟用鏡子質地	#
+options.vrSensitivity=VR 靈敏度	#
+options.vrUIMouseSensitivity=VR UI 靈敏度	#
+
+## VR control Scheme Strings
+vr.controls.title=VR 控制	#
+
+vr.controls.title.classic=傳統控制 - 激烈	#
+vr.controls.title.experimental=VR 控制 - 適中	#
+vr.controls.classicDescription=傳統跳躍和迴轉，未針對 VR 微調。對大多數人而言為舒適的激烈程度。	#
+vr.controls.experimentalDescription=迴轉分段進行，游標與跳躍已針對 VR 微調，以提升於移動過程中對大多數人而言的舒適程度（工作進行中）。	#
+vr.controls.sharedDescription=控制也可在遊戲中經由 [選項] 選單加以變更。	#
+vr.moreOptions=更多選項...	#
+vr.moreInformation=更多資訊...	#
+vr.detailedInformation=數種遊戲特色已經過調整，以提供更舒適的 VR 體驗。例如：VR 迴轉此特色能將迴轉動作分段，以降低失去方向感。	#
+vr.detailedInformationLink=如需 VR 控制的更多資訊和欣賞幕後花絮，請至 minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=重設裝置中心點	#
+vr.pausescreen.recenterDeviceKeyboard=按 N 重新置中裝置	#
+vr.warning.controllerRequired=需要遊戲控制器	#
+vr.warning.controllerRecommended=建議為 VR 使用遊戲控制器	#
+vr.warning.controllerOrMouseRecommended=建議為 VR 使用遊戲控制器或滑鼠	#
+vr.warning.exitGameWarning=確定要離開 Minecraft？	#
+vr.alignscreen.pressButtonX=請按您控制器上的 [X] 按鈕以繼續	#
+vr.alignscreen.pressButtonXOrMouse=請點按控制器上的任意按鈕以繼續	#
+vr.alignscreen.pressButtonAOrSelectTrigger=請按遊戲控制器的「A」按鈕或 Windows Mixed Reality 控制器的「選擇觸發」(Select Trigger) 以繼續	#
+vr.alignscreen.pressAnyButton=請將頭部對齊不偏不倚的位置，再按任意按鈕	#
+vr.alignscreen.info=注意：這是進行中的工作。VR 可能對某些人造成不適。請記得依照您的需要經常休息，並可輕點觸控板使用 [客廳] 模式以採取較為輕緩的視角。	#
+vr.alignscreen.info_viewbutton=注意：這是進行中的工作。VR 可能對某些人造成不適。請記得依照您的需要經常休息，並可按上方向鍵使用 [客廳] 模式以採取較為輕緩的視角。	#
+
+accessibility.gamepad.button.systemLeft=選擇按鈕	#
+accessibility.gamepad.button.systemRight=開始按鈕	#
+
+## Oculus Rift Installer
+ori.confirm.exit=確定要離開嗎？	#
+ori.confirm.update=要更新 Minecraft？	#
+ori.pending=正在等候 Windows 更新完成。	#
+ori.installing=安裝中...	#
+ori.updating=更新中...	#
+ori.launching=正在啟動！	#
+ori.check_for_update=正在檢查更新...	#
+ori.error.unavailable=Minecraft 無法使用。請確定您已連線到網際網路，並已登入商店。	#
+ori.error.unknown=發生未知錯誤，請稍後再試一次。	#
+ori.error.not_supported=Minecraft 不適用於此系統。	#
+ori.error.launch_failure=啟動 Minecraft 失敗。	#
+ori.error.version=您的 Minecraft 版本已過時，請更新以玩遊戲。	#
+ori.error.win10=必須具備 Windows 10 版本 1607 或更新版。	#
+ori.error.install_error=遇到錯誤。錯誤碼：0x	#
+ori.error.low_storage=無法安裝。可用儲存空間不足。	#
+ori.error.no_internet=無法連線。請檢查您的網際網路連線。	#
+ori.error.winUpdateDisabled=需啟用 Windows 更新	#
+ori.confirm.controls.controller.confirm=確認	#
+ori.confirm.controls.controller.cancel=取消	#
+ori.confirm.controls.keyboard.confirm=確認：[Enter]	#
+ori.confirm.controls.keyboard.cancel=取消：[Esc]	#
+ori.exit.controls.controller=離開	#
+ori.exit.controls.keyboard=離開：[Enter]	#
+ori.cancelling=取消中...	#
+

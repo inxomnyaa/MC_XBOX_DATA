@@ -1,0 +1,100 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Color",
+      "dest": "ParticleColor",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Duration",
+      "dest": "Duration",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "ReapplicationDelay",
+      "dest": "ReapplicationDelay",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "WaitTime",
+      "dest": "WaitTime",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "OwnerUUIDMost",
+      "dest": "OwnerUUIDMost",
+      "src_members": "TAG_Long",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "OwnerUUIDLeast",
+      "dest": "OwnerUUIDLeast",
+      "src_members": "TAG_Long",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "DurationOnUse",
+      "dest": "DurationOnUse",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "Radius",
+      "dest": "Radius",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "RadiusOnUse",
+      "dest": "RadiusOnUse",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "RadiusPerTick",
+      "dest": "RadiusPerTick",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "Particle",
+      "dest": "Particle",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "src": "ParticleParam1",
+      "dest": "ParticleParam1",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "ParticleParam2",
+      "dest": "ParticleParam2",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Potion",
+      "dest": "Potion",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "custom_transformation": "JavaPotionEffectToIntermediate",
+      "src": "Effects",
+      "dest": "MobEffects"
+    }
+  ]
+}

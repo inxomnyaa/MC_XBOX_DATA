@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Maak je telefoon los van de headset om je aan te melden bij Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Maak je telefoon los van de headset om Xbox Live-vrienden toe te voegen.	#
+xblLogin.LoginMessageRift=Verwijder je headset om je aan te melden bij Xbox Live.	#
+xblLogin.AddFriendMessageRift=Verwijder je headset om Xbox Live-vrienden toe te voegen.	#
+xblLogin.ShowGamerCardMessageRift=Verwijder de headset om gamercard te bekijken.	#
+
+LostFocus.Rift=Muis kwijt! Selecteer Minecraft op het bureaublad als je deze wilt gebruiken.	#
+
+vr.controls.HandControllerTracked=Oculus Touch Tracking verkregen	#
+vr.controls.HandControllerTrackingLost=Oculus Touch Tracking verloren	#
+
+FileBrowser.Rift.Skin=Verwijder de headset om een aangepaste skin te selecteren.	#
+FileBrowser.Rift.TemplateResource=Verwijder de headset om de sjabloonbron te selecteren.	#
+FileBrowser.Rift.Export=Verwijder de headset om je wereld te exporteren.	#
+FileBrowser.Rift.Import=Verwijder de headset om je wereld te importeren.	#
+FileBrowser.Rift.ExportBook=Verwijder de headset om je boek te exporteren.	#
+FileBrowser.Rift.ExportPortfolio=Verwijder de headset om je portfolio te exporteren.	#
+FileBrowser.Rift.FileChooser=Bestand kiezen	#
+FileBrowser.Rift.FolderChooser=Map kiezen	#
+FileBrowser.Rift.ExportWorld=Wereld exporteren	#
+FileBrowser.Rift.ExportResourcesPrompt=Verwijder de headset om deze hulpbronnen te exporteren.	#
+FileBrowser.Rift.ExportResources=Hulpbronnen exporteren	#
+FileBrowser.Rift.SkinChooser=Skin kiezen	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR-instellingen	#
+options.vrHideHud=HUD verbergen	#
+options.vrHideHand=Hand verbergen	#
+options.vrHideGUI=GUI verbergen in VR	#
+options.vrGamma=VR-helderheid	#
+options.vrMsaa=VR-antialiasing	#
+options.vrRenderDistance=VR-renderafstand	#
+options.vrParticleRenderDistance=Renderafstand VR-deeltje	#
+options.vrResetPlayerAlignment=VR-uitlijning opnieuw instellen	#
+options.vrHMDdisplacement=HMD-verplaatsing gebruiken om te verplaatsen	#
+options.vrHeadSteering=VR-hoofdbesturing	#
+options.vrTurningOptions=Stuuropties	#
+options.StutterTurn=VR-draaien	#
+options.StutterTurnSound=VR-draaigeluid	#
+options.StutterConstantAngleOrTime=Constante tijdmodus VR-draaien	#
+options.3DRendering=3D-rendering	#
+options.vrHudAtTop=HUD bovenaan	#
+options.vrAutojump=Automatisch springen VR	#
+options.vrLinearJump=Lineair springen VR	#
+options.vrLinearMotion=Lineaire beweging VR	#
+options.stickyMining=Plakkend delven	#
+options.stickyMiningHand=Plakkend delven voor handcontroller	#
+options.vrMovingBackwardsHardStop=Hard remmen in zijn achteruit	#
+options.comfortControls=VR-besturing	#
+options.ShowComfortSelectScreen=Scherm voor selectie knoppen weergeven	#
+options.vrHudDrifts=HUD-drift	#
+options.vrLivingRoomCursorCentered=Gecentreerde VR-woonkamercursor	#
+options.vrTapTurn=Draaien door tikken	#
+options.vrTapTurnSensitivity=Draaigevoeligheid tikken	#
+options.vrRollTurning=Draaien met wiel	#
+options.vrRollTurnSensitivity=Draaigevoeligheid wiel	#
+options.vrHandControlsItem=Handcontrollerbesturingsitem	#
+options.vrHandControlsHUD=Handcontrollerbesturings-HUD	#
+options.vrHandPointer=Handcontrollerpunt zichtbaar	#
+options.vrHandsVisible=Handen zichtbaar	#
+options.vr180Turning=180 achteruit-stick	#
+options.vrMirrorTexture=Spiegelstructuur inschakelen	#
+options.vrSensitivity=VR-gevoeligheid	#
+options.vrUIMouseSensitivity=UI-gevoeligheid VR	#
+
+## VR control Scheme Strings
+vr.controls.title=VR-besturing	#
+
+vr.controls.title.classic=Klassieke besturing - Intens	#
+vr.controls.title.experimental=VR-besturing - Gemiddeld	#
+vr.controls.classicDescription=Het klassieke springen en draaien, niet afgestemd op VR. De meeste mensen ervaren dit comfortniveau als intens.	#
+vr.controls.experimentalDescription=Draaien gebeurt in segmenten. De cursor en springen zijn afgestemd op VR zodat het comfort tijdens bewegingen voor de meeste mensen beter wordt (werk in uitvoering).	#
+vr.controls.sharedDescription=Besturing kan ook in het spel worden gewijzigd via Opties.	#
+vr.moreOptions=Meer opties...	#
+vr.moreInformation=Meer info...	#
+vr.detailedInformation=Verschillende spelfuncties zijn aangepast om het comfort van de VR-ervaring te verbeteren. VR-draaien is bijvoorbeeld een functie waarin de draaibeweging wordt gesegmenteerd om desoriëntatie te voorkomen.	#
+vr.detailedInformationLink=Ga naar minecraft.net/vr voor meer informatie over VR-besturing en een kijkje achter de schermen	#
+
+vr.pausescreen.recenterDevice=Apparaat opnieuw centreren	#
+vr.pausescreen.recenterDeviceKeyboard=Druk op N om het apparaat opnieuw te centreren	#
+vr.warning.controllerRequired=Spelcontroller vereist	#
+vr.warning.controllerRecommended=Een spelcontroller wordt aanbevolen voor VR	#
+vr.warning.controllerOrMouseRecommended=Een spelcontroller of muis wordt aanbevolen voor VR	#
+vr.warning.exitGameWarning=Wil je Minecraft afsluiten?	#
+vr.alignscreen.pressButtonX=Druk op de knop X op je controller om door te gaan	#
+vr.alignscreen.pressButtonXOrMouse=Klik of druk op een knop op je controller om door te gaan	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Druk op de A-knop op je gamecontroller of de selectietrigger op je Windows Mixed Reality-controller om door te gaan.	#
+vr.alignscreen.pressAnyButton=Houd je hoofd in een neutrale positie en druk op een knop	#
+vr.alignscreen.info=Opmerking: dit is werk in uitvoering. Sommige mensen kunnen VR als onprettig ervaren. Vergeet niet om zo nodig regelmatig te pauzeren en gebruik de woonkamermodus voor een minder intense weergave door op het touchpad te tikken.	#
+vr.alignscreen.info_viewbutton=Opmerking: dit is werk in uitvoering. Sommige mensen kunnen VR als onprettig ervaren. Vergeet niet om zo nodig regelmatig te pauzeren en gebruik de woonkamermodus voor een minder intense weergave door op het navigatiepad omhoog te drukken	#
+
+accessibility.gamepad.button.systemLeft=select-knop	#
+accessibility.gamepad.button.systemRight=start-button	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Weet je zeker dat je wilt afsluiten?	#
+ori.confirm.update=Minecraft bijwerken?	#
+ori.pending=Wachten tot Windows Update klaar is.	#
+ori.installing=Installeren...	#
+ori.updating=Bijwerken...	#
+ori.launching=Start!	#
+ori.check_for_update=Controleren op updates...	#
+ori.error.unavailable=Minecraft is niet beschikbaar. Zorg dat je internetverbinding hebt en je bent aangemeld bij de store	#
+ori.error.unknown=Er is een onbekende fout opgetreden. Probeer het later opnieuw.	#
+ori.error.not_supported=Minecraft wordt niet ondersteund op dit systeem.	#
+ori.error.launch_failure=Kan Minecraft niet starten.	#
+ori.error.version=Je versie van Minecraft is verouderd. Voer een update uit om te kunnen spelen.	#
+ori.error.win10=Windows 10 versie 1607 of hoger is vereist.	#
+ori.error.install_error=Er is een fout opgetreden. Foutcode: 0x	#
+ori.error.low_storage=Kan niet installeren. Er is onvoldoende opslagruimte beschikbaar.	#
+ori.error.no_internet=Kan geen verbinding maken. Controleer je internetverbinding.	#
+ori.error.winUpdateDisabled=Windows Update moet zijn ingeschakeld.	#
+ori.confirm.controls.controller.confirm=Bevestigen	#
+ori.confirm.controls.controller.cancel=Annuleren	#
+ori.confirm.controls.keyboard.confirm=Bevestigen: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Annuleren: [Esc]	#
+ori.exit.controls.controller=Afsluiten	#
+ori.exit.controls.keyboard=Afsluiten: [Enter]	#
+ori.cancelling=Annuleren...	#
+

@@ -1,0 +1,23 @@
+{
+  "piece_id": "68bfe60d-f30a-422f-b32c-72374ebdd057",
+  "piece_name": "steve_shoes",
+  "piece_type": "persona_feet",
+  "texture_sources": [
+    {
+      "texture": "steve_shoes.png",
+      "tint_map": "steve_shoes_tintmap.tga"
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#6B6B6B",
+    "g_color": "#000000",
+    "b_color": "#000000",
+    "a_color": "#000000"
+  },
+  "tint_color": {
+    "r_color": "#6B6B6B",
+    "g_color": "#000000",
+    "b_color": "#000000",
+    "a_color": "#000000"
+  }
+}

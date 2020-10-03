@@ -1,0 +1,12 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ExplosionPower",
+      "dest": "ExplosionPower",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

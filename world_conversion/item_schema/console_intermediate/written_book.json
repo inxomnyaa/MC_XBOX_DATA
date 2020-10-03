@@ -1,0 +1,39 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.resolved",
+      "dest": "tag.Resolved",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "tag.generation",
+      "dest": "tag.Generation",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "tag.author",
+      "dest": "tag.Author",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "tag.title",
+      "dest": "tag.Title",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "tag.pages",
+      "dest": "tag.Pages",
+      "item_transformation": "JavaBookPagesToIntermediate",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+﻿commands.codebuilder.description=Define o estado do Criador de Código para um jogador.	#
+commands.codebuilder.invalidurl=O URL é Inválido ou aponta para um website não suportado.	#
+commands.takepicture.description=Tira uma foto de um jogador ou do ponto de vista de um jogador.	#
+commands.takepicture.cameranotfound=Falha ao encontrar uma câmara.	#
+commands.takepicture.cameranotspawned=Falha ao gerar uma câmara.	#
+
+library.connection.failed.body=Não foi possível ligar à Biblioteca. Isto pode ocorrer se o teu computador estiver offline ou se o acesso ao catálogo da Biblioteca estiver bloqueado.	#
+library.connection.failed.help=Obter Ajuda	#
+library.connection.noWorldFound.title=Nenhum Mundo Encontrado	#
+library.connection.noWorldFound.body=Parece que não há qualquer mundo nesta categoria.	#
+library.findMoreWorlds=Encontrar Mais Mundos	#
+library.leaveFeedback=Deixar Comentário	#
+library.title=Biblioteca	#
+library.item.createdBy=Por %s	#
+library.item.age=Idades: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Duração: %1	#
+library.item.duration.minute=%1 minuto	#
+library.item.duration.multipleMinutes=%1 minutos	#
+library.item.duration.hour=%1 hora	#
+library.item.duration.multipleHours=%1 horas	#
+
+library.item.difficulty=Dificuldade: %1	#
+library.item.difficulty.beginner=Principiante	#
+library.item.difficulty.intermediate=Intermédio	#
+library.item.difficulty.advanced=Avançado	#
+
+library.item.tags=Tags:	#
+library.item.button.create=CRIAR MUNDO	#
+library.item.button.share=PARTILHAR LIGAÇÃO	#
+library.item.button.plan=PLANO DA LIÇÃO	#
+library.item.button.resources=RECURSOS	#
+library.item.progress.body=A preparar para importar um mundo novo. Pode demorar alguns minutos.	#
+library.item.description=DESCRIÇÃO	#
+library.item.overview=VISÃO GERAL	#
+library.item.expandable.readLess=Ler Menos	#
+library.item.expandable.readMore=Ler Mais	#
+
+library.item.section.languages=IDIOMAS SUPORTADOS	#
+library.item.section.languages.tip=Esta lição não está disponível no teu idioma preferido, a Leitura Avançada pode ser usada para traduzir texto no jogo, incluindo livros, sinais, quadros e diálogo de NPC.	#
+library.item.section.questions=QUESTÕES ESSENCIAIS	#
+library.item.section.generic_objectives=OBJETIVOS	#
+library.item.section.objectives=OBJETIVOS DE APRENDIZAGEM	#
+library.item.section.prep=PREPARAÇÃO E NOTAS DO(A) PROFESSOR(A)	#
+library.item.section.activities=ATIVIDADES DO(A) ESTUDANTE	#
+library.item.section.assessment=AVALIAÇÃO	#
+library.item.section.extensions=EXTENSÕES	#
+
+library.category.label.biomes=BIOMAS E MUNDOS	#
+library.category.title.biomes=Biomas e Mundos	#
+library.category.description.biomes=Usa esta coleção de mundos e biomas para ajudar a começar a criar lições no Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=BIOMAS	#
+library.category.title.biomes.biome=Biomas	#
+library.category.description.biomes.biome=No Minecraft, os biomas são regiões que se distinguem por características geográficas, plantas e animais únicos.	#
+
+library.category.label.biomes.featured=MUNDOS DESTACADOS	#
+library.category.title.biomes.featured=Mundos Destacados	#
+
+library.category.label.buildChallenges=DESAFIOS DE CRIAÇÃO MENSAIS	#
+library.category.title.buildChallenges=Desafios de Criação Mensais	#
+library.category.description.buildChallenges=Estimula a criatividade dos estudantes e reforça as capacidades do século XXI com estas atividades fáceis de implementar na sala de aula.	#
+
+library.category.label.howToPlay=INSTRUÇÕES DE JOGO	#
+library.category.description.howToPlay=Estes mundos e atividades foram criados como experiência introdutória para aprender como usar o Minecraft: Education Edition na sala de aula.	#
+
+library.category.label.howToPlay.startHere=COMEÇA AQUI	#
+library.category.title.howToPlay.startHere=Começa Aqui	#
+library.category.description.howToPlay.startHere=Cada um destes tutoriais está concebido para te ajudar a conseguir diferentes capacidades com a ajuda do Minecraft: Education Edition.	#
+
+library.category.label.howToPlay.additional=TUTORIAIS ADICIONAIS	#
+library.category.title.howToPlay.additional=Tutoriais Adicionais	#
+
+library.category.label.SEL=EMOCIONAL SOCIAL	#
+library.category.title.SEL=Emocional Social	#
+library.category.description.SEL=Estes mundos e atividades apoiam a Aprendizagem Social e Emocional. Os conceitos incluem bem-estar emocional, empatia e tomar decisões responsáveis.	#
+
+library.category.label.digitalCitizen=CIDADANIA DIGITAL	#
+library.category.title.digitalCitizen=Cidadania Digital	#
+library.category.description.digitalCitizen=Estes mundos e atividades focam-se na Cidadania Digital, apoiando os estudantes enquanto navegam na literacia dos meios de comunicação, privacidade e participação em comunidades online.	#
+
+library.category.label.lessons=LIÇÕES	#
+library.category.title.lessons=Lições	#
+
+library.category.label.lessons.genericAdditional=LIÇÕES ADICIONAIS	#
+library.category.title.lessons.genericAdditional=Lições Adicionais	#
+
+library.category.label.languageArts=LÍNGUA E LITERATURA	#
+library.category.title.languageArts=Língua e Literatura	#
+
+library.category.label.languageArts.litStudies=ESTUDOS DE LITERATURA	#
+library.category.title.languageArts.litStudies=Estudos de Literatura	#
+
+library.category.label.languageArts.litStudies.treasureIsland=A ILHA DO TESOURO	#
+library.category.title.languageArts.litStudies.treasureIsland=A Ilha do Tesouro	#
+library.category.description.languageArts.litStudies.treasureIsland=Esta série de lições está concebida para ajudar a ensinar conceitos da Língua Inglesa através do estudo de "A Ilha do Tesouro", de Robert Louis Stevenson.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=O REINO DE KENSUKE	#
+library.category.title.languageArts.litStudies.kensukesKingdom=O reino de Kensuke	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Esta série de lições está concebida para ajudar a ensinar conceitos da Língua Inglesa através do estudo de "O reino de Kensuke", de Michael Morpurgo.	#
+
+library.category.label.languageArts.litStudies.swissFamily=A FAMÍLIA SUIÇA ROBINSON	#
+library.category.title.languageArts.litStudies.swissFamily=A Família Suíça Robinson	#
+library.category.description.languageArts.litStudies.swissFamily=Esta série de lições está concebida para ajudar a ensinar conceitos da Língua Inglesa através do estudo de "Robinson Crusoe" e "A Família Suíça Robinson".	#
+
+library.category.label.science=CIÊNCIAS	#
+library.category.title.science=Ciências	#
+
+library.category.label.science.chemistry=QUÍMICA	#
+library.category.title.science.chemistry=Química	#
+
+library.category.label.science.biology=BIOLOGIA	#
+library.category.title.science.biology=Biologia	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Estas cinco lições e mundos únicos do Minecraft geram áreas de temas e faixas etárias. Através do currículo fornecido, os estudantes podem aventurar-se pelas planícies africanas, investigar um porto de trabalho, orfanato de rinocerontes e estação de guardas-florestais, resolver problemas e consolidar capacidades pelo caminho.	#
+
+library.category.label.science.extinction=CRISE SOBRE A EXTINÇÃO DA BIODIVERSIDADE	#
+library.category.title.science.extinction=Crise sobre a Extinção da Biodiversidade	#
+library.category.description.science.extinction=Juntámo-nos com o World Wildlife Fund neste pack de conteúdos, que inclui um mundo Minecraft imersivo e lições em conformidade com os padrões. Explora estes recursos para aprenderes sobre ecossistemas, conservação e biodiversidade.	#
+
+library.category.label.history=HISTÓRIA E CULTURA	#
+library.category.title.history=História e Cultura	#
+
+library.category.label.history.oregonTrail=OREGON TRAIL	#
+library.category.title.history.oregonTrail=Oregon Trail	#
+library.category.description.history.oregonTrail=Em parceria com o Houghton Mifflin Harcourt, o Minecraft: Education Edition traz-te a The Oregon Trail Experience. Usa estas atividades de aprendizagem da Oregon Trail no teu currículo e começa uma grande aventura viajando pelo Oregon Trail, ao longo das paisagens da América do Norte.	#
+
+library.category.label.computerScience=INFORMÁTICA	#
+library.category.title.computerScience=Informática	#
+
+library.category.label.computerScience.hourOfCode=HORA DO CÓDIGO	#
+library.category.title.computerScience.hourOfCode=Hora do Código	#
+library.category.description.computerScience.hourOfCode=Estas lição é uma introdução à informática de uma hora concebida para desmistificar a IA, apresentar a programação do Minecraft e aumentar a participação no campo da informática.	#
+
+library.category.label.computerScience.STEM=CTEM	#
+library.category.title.computerScience.STEM=CTEM	#
+library.category.description.computerScience.STEM=Usa estas lições e mundos em matemática, ciências e engenharia para incorporar informática no dia escolar.	#
+
+library.category.label.computerScience.agency=AGÊNCIA	#
+library.category.title.computerScience.agency=Agência	#
+library.category.description.computerScience.agency=Cria a tua própria cidade com estas lições de ciências baseadas nos padrões CSTA. Aprende conceitos de CS básicos, incluindo gráficos, algoritmos, condicionais, resolução de problemas, repetição e mais.	#
+
+library.category.label.computerScience.codingWithMinecraft=PROGRAMAÇÃO COM O MINECRAFT	#
+library.category.title.computerScience.codingWithMinecraft=Programação com o Minecraft	#
+library.category.description.computerScience.codingWithMinecraft=Aprende sobre condicionais, funções, coordenadas, IA e mais com estas lições de informática baseadas nos padrões CSTA.	#
+
+library.category.label.computerScience.codingFun1=FUNDAMENTOS DE PROGRAMAÇÃO: 1	#
+library.category.title.computerScience.codingFun1=FUNdamentos de Programação: 1	#
+library.category.description.computerScience.codingFun1=Aprende sobre os diferentes animais, os desafios que enfrentam e as formas de ajudá-los com a programação! Usa algoritmos, sequenciação e ciclos para resolver puzzles de programação divertidos.	#
+
+library.category.label.computerScience.codingFun2=FUNDAMENTOS DE PROGRAMAÇÃO: 2	#
+library.category.title.computerScience.codingFun2=FUNdamentos de Programação 2	#
+library.category.description.computerScience.codingFun2=Visita a Lua, Mercúrio, Vénus, Marte, Júpiter e Neptuno! Aprende a depurar o teu código e usa condicionais, operadores e ciclos enquanto ajuda o Agent a recolher materiais em todo o sistema solar.	#
+
+library.category.label.computerScience.codingFun3=FUNDAMENTOS DE PROGRAMAÇÃO: 3	#
+library.category.title.computerScience.codingFun3=FUNdamentos de Programação 3	#
+
+library.category.label.computerScience.blockBased=PROGRAMAÇÃO BASEADA EM BLOCOS	#
+library.category.title.computerScience.blockBased=Programação Baseada em Blocos	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=INTRODUÇÃO AO PYTHON	#
+library.category.title.computerScience.python101=Introdução ao Python	#
+library.category.description.computerScience.python101=Começa a programar em Python com Minecraft! Aprende os fundamentos do Python, incluindo sintaxe, tipos de dados, variáveis, ciclos "for", ciclos condicionais, listas e funções.	#
+
+library.category.label.computerScience.codingTutorials=TUTORIAIS DE PROGRAMAÇÃO	#
+library.category.title.computerScience.codingTutorials=Tutoriais de Programação	#
+library.category.description.computerScience.codingTutorials=Se te queres basear num conceito específico de programação, este é o lugar para começares! Aprende a usar ciclos, sequenciação, condicionantes, variáveis e funções. Nestas aulas podes optar por programar em Blocos, Python ou JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=AULAS EM DESTAQUE	#
+library.category.title.computerScience.featuredLessons=Aulas em destaque	#
+library.category.description.computerScience.featuredLessons=Aqui estão algumas das nossas aulas de programação favoritas!	#
+
+library.category.label.math=MATEMÁTICA	#
+library.category.title.math=Matemática	#
+
+library.category.label.math.fractions=FRAÇÕES	#
+library.category.title.math.fractions=Frações	#
+library.category.description.math.fractions=Experimenta os recursos destas lições para ajudar os estudantes com as frações.	#
+
+library.category.label.art=ART E DESIGN	#
+library.category.title.art=Art e Design	#
+
+library.category.label.commonCore=NÚCLEO COMUM, %1 ANO	#
+library.category.title.commonCore=Núcleo Comum, %1 Ano	#
+library.category.description.commonCoreMath=Estas atividades interessantes foram criadas para apoiar o ensino de matemática e estão em conformidade com os padrões dos Princípios da Matemática.	#
+
+signin.acceptTerms=Aceitar Termos	#
+signin.leftPanel.header=JOGA MINECRAFT: EDUCATION EDITION	#
+signin.leftPanel.body=Inicia sessão com a tua conta escolar para aceder à versão completa do Minecraft: Education Edition.	#
+signin.rightPanel.header=EXPERIMENTA UMA LIÇÃO DE DEMONSTRAÇÃO	#
+signin.rightPanel.body=Explora a programação no Minecraft: Education Edition com esta lição de demonstração, disponível para todos os utilizadores.	#
+
+joincode.invalid.title=Código de Acesso Incorreto	#
+joincode.invalid.body=Introduziste %1 códigos de acesso incorretos. Confirma com o anfitrião para te certificares de que tens o código certo ou tenta juntar-te através do Endereço IP. 	#
+joincode.invalid.button.tryagain=Tenta Novamente	#
+joincode.invalid.button.enterip=Introduzir Endereço IP	#
+
+joincode.invalid.abuse.body=Introduziste %1 códigos de acesso incorretos. Em alternativa, tenta juntar-te ao mundo através do Endereço IP	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Adição	#	#
+tag.advanced=Avançado	#	#
+tag.adventure=Aventura	#	#
+tag.all_ages=Todas as idades	#	#
+tag.animals=Animais	#	#
+tag.aquatic=Aquático	#	#
+tag.architecture=Arquitetura	#	#
+tag.art_and_design=Art e Design	#	#
+tag.beginner=Principiante	#	#
+tag.biodiversity=Biodiversidade	#	#
+tag.biology=Biologia	#	#
+tag.biome=Bioma	#	#
+tag.biomes_and_worlds=Biomas e Mundos	#	#
+tag.bridges=Pontes	#referring to the structure	#
+tag.build_challenge=Desafio de Construção	#	#
+tag.character=Caráter	#	#
+tag.chemistry=Química	#	#
+tag.citizenship=Cidadania	#	#
+tag.city=Cidade	#	#
+tag.climate=Clima	#	#
+tag.code_to_learn_stem=CTEM	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Agência	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Programação com o Minecraft	#	#
+tag.coding_in_minecraft=Programação no Minecraft	#	#
+tag.collaboration=Colaboração	#	#
+tag.color=Cor	#	#
+tag.common_core_math_grade_3=Grau de Matemática Essencial Comum 3	#	#
+tag.common_core_math_grade_4=Grau de Matemática Essencial Comum 4	#	#
+tag.common_core_math_grade_5=Grau de Matemática Essencial Comum 5	#	#
+tag.communication=Comunicação	#	#
+tag.computer_science=Computação	#	#
+tag.computing_in_minecraft=Computação no Minecraft	#	#
+tag.creative=Criativo	#	#
+tag.creative_writing=Escrita Criativa	#	#
+tag.creativity=Criatividade	#	#
+tag.critical_thinking=Pensamento Crítico	#	#
+tag.division=Divisão	#	#
+tag.earth_day=Dia da Terra	#	#
+tag.ecology=Ecologia	#	#
+tag.economy=Economia	#	#
+tag.energy=Energia	#	#
+tag.environment=Ambiente	#	#
+tag.featured=Destaques	#	#
+tag.fractions=Frações	#	#
+tag.game_design=Design de Jogos	#	#
+tag.geography=Geografia	#	#
+tag.geology=Geologia	#	#
+tag.history_and_culture=História e Cultura	#	#
+tag.hour_of_code=Hora do Código	#	#
+tag.how_to_play=Instruções de Jogo	#	#
+tag.intermediate=Intermédio	#	#
+tag.kensukes_kingdom=O Reino de Kensuke	#	#
+tag.language_arts=Língua e Literatura	#	#
+tag.leadership=Liderança	#	#
+tag.lesson=Aula	#	#
+tag.literature=Literatura	#	#
+tag.math=Matemática	#	#
+tag.multiplayer=Multijogador	#	#
+tag.multiplication=Multiplicação	#	#
+tag.museum=Museu	#	#
+tag.music=Música	#	#
+tag.mythology=Mitologia	#	#
+tag.ocean=Oceano	#	#
+tag.oregon_trail=Oregon Trail	#	#
+tag.pattern=Padrão	#	#
+tag.personal_narrative=Narrativa Pessoal	#	#
+tag.physics=Física	#	#
+tag.pixel_art=Pixel Art	#	#
+tag.pop_culture=Cultura Pop	#	#
+tag.probability=Probabilidade	#	#
+tag.project_based_learning=Aprendizagem Baseada em Projetos	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Ciências	#	#
+tag.seasonal=Sazonal	#	#
+tag.single_player=Jogador Individual	#	#
+tag.social_emotional_learning=Aprendizagem Emocional Social	#	#
+tag.special_education=Educação Especial	#	#
+tag.spelling=Ortografia	#	#
+tag.story=História	#	#
+tag.subtraction=Subtração	#	#
+tag.survival=Sobrevivência	#	#
+tag.swiss_family_robinson=Família Suíça Robinson	#	#
+tag.technology=Tecnologia	#	#
+tag.treasure_island=Ilha do Tesouro	#	#
+tag.tutorial=Tutorial	#	#
+tag.we_are_the_rangers=Somos os Guardiões	#	#
+tag.world_languages=Idiomas Mundiais	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Cidadania Digital	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Blocos	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Cadernos Azure	#See for example: https://notebooks.azure.com/	#
+tag.loops=Ciclos	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Condicionais	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Variáveis	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Funções	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operadores	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Resolução de Problemas	#	#
+tag.artificial_intelligence=Inteligência Artificial	#	#
+tag.coding=Programação	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Fundamentos de Programação 1	#	#
+tag.coding_fundamentals_2=Fundamentos de Programação 2	#	#
+tag.coding_fundamentals_3=Fundamentos de Programação 3	#	#
+tag.coding_tutorials=Tutoriais de Programação	#	#
+tag.python101=Introdução ao Python	#Python coding language	#
+tag.bees=Abelhas	#	#
+tag.space=Espaço	# refers to outer space	#
+tag.esports=eSports	#	#
+tag.toybox=Caixa de Brinquedos	#	#
+tag.featured_coding=Programação em Destaque	#	#
+## END TAG LOCALIZATION SECTION ##

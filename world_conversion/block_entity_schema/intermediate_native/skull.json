@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "SkullType",
+      "dest": "SkullType",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "Rot",
+      "dest": "Rot",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    }
+  ]
+}

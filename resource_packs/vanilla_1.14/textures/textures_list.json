@@ -1,0 +1,21 @@
+[
+  "textures/blocks/beehive_front",
+  "textures/blocks/beehive_front_honey",
+  "textures/blocks/beehive_side",
+  "textures/blocks/beehive_top",
+  "textures/blocks/bee_nest_bottom",
+  "textures/blocks/bee_nest_front",
+  "textures/blocks/bee_nest_front_honey",
+  "textures/blocks/bee_nest_side",
+  "textures/blocks/bee_nest_top",
+  "textures/blocks/honey_bottom",
+  "textures/blocks/honey_side",
+  "textures/blocks/honey_top",
+  "textures/blocks/honeycomb",
+  "textures/entity/bee/bee",
+  "textures/entity/bee/bee_angry",
+  "textures/entity/bee/bee_angry_nectar",
+  "textures/entity/bee/bee_nectar",
+  "textures/items/honey_bottle",
+  "textures/items/honeycomb"
+]

@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Dziękujemy za grę! To wersja demonstracyjna lekcji, dlatego twoje postępy nie zostaną zapisane.	#
+
+edu_demo.tip.1=Lasy deszczowe są domem dla ponad połowy wszystkich lądowych gatunków zwierząt naszej planety.	#
+edu_demo.tip.2=Lasy zapewniają środki do życia ponad 25% populacji ziemskiej.	#
+edu_demo.tip.3=Do podtrzymania ognia potrzeba trzech rzeczy: materiału palnego, tlenu i źródła ciepła.	#
+edu_demo.tip.4=Pożary, zwłaszcza torfowisk i gęstych lasów, są wielkim źródłem emisji dwutlenku węgla.	#
+edu_demo.tip.5=Komputery trzeba nauczyć, jak się mają uczyć – trochę jak uczniów!	#
+edu_demo.tip.6=Do zbierania i analizowania danych dotyczących lasów wykorzystywana jest sztuczna inteligencja. To znacznie szybsze niż liczenie drzew przez człowieka!	#
+
+menu.quit.edu=OPUŚĆ LEKCJĘ	#
+menu.quit.edu.title=Opuść lekcję demonstracyjną	#
+
+start_screen.start_demo=Rozpocznij lekcję	#
+
+upsell.tab.1.title=Minecraft dla szkół!	#
+upsell.tab.1.body=Zainteresuj uczniów różnymi tematami, korzystając z darmowych lekcji i samouczków, narzędzi do oceny, klasowego trybu wieloosobowego, bezpiecznego logowania i wsparcia technicznego. Wypróbuj wersję demonstracyjną gry Minecraft: Education Edition już dziś!	#
+upsell.tab.1.button=Dowiedz się więcej	#
+
+upsell.tab.2.title=Ucz programowania z Minecraftem	#
+upsell.tab.2.body=Wykorzystaj grę Minecraft w nauczaniu programowania poprzez pasjonujące lekcje i ponad 50 godzin swobodnego programu nauczania. Uczniowie mogą programować w oparciu o schematy blokowe i JavaScript, a następnie zobaczyć, jak ich kod ożywa w grze!	#
+upsell.tab.2.button=Zacznij programować	#
+
+upsell.tab.3.title=Mnóstwo darmowych lekcji	#
+upsell.tab.3.body=Odkryj setki światów i lekcji Minecrafta, od historii i chemii po informatykę i matematykę. Użyj gotowych lekcji na dobry początek albo stwórz swoje własne!	#
+upsell.tab.3.button=Przejdź do lekcji	#
+
+upsell.tab.4.title=Rozwijaj umiejętności społeczno-emocjonalne	#
+upsell.tab.4.body=Uczniowie uczą się współpracy, rozwiązywania problemów i empatycznej komunikacji. Gra Minecraft: Education Edition zawiera funkcje takie jak czytnik immersyjny, które pomagają nauczycielom dotrzeć do każdego rodzaju uczniów.	#
+upsell.tab.4.button=Dowiedz się więcej	#
+
+upsell.tab.5.title=Dołącz do społeczności	#
+upsell.tab.5.body=Weź udział w szkoleniu dla nauczycieli, połącz się z innymi w mediach społecznościowych i dołącz do naszej globalnej społeczności, aby uczyć się od innych pedagogów. Nauczyciele z ponad 115 krajów korzystają z Minecrafta na swoich zajęciach. Zostań jednym z nich!	#
+upsell.tab.5.button=Połącz się	#
+
+lesson.finished=GOTOWE	#
+
+lesson.end.dialog.title=Lekcja ukończona!	#
+lesson.end.dialog.body.title=GRATULACJE	#
+lesson.end.dialog.body.wimages=Zdobywasz certyfikat ukończenia. Zobacz zdjęcia z tej lekcji i zapisz kopię.	#
+lesson.end.dialog.body.checkport=Zobacz zdjęcia z tej lekcji i zapisz kopię.	#
+lesson.end.dialog.body.noimages=Zdobywasz certyfikat ukończenia.	#
+lesson.end.dialog.button.morecoding=Więcej kodowania	#
+lesson.end.dialog.button.getcert=Uzyskaj certyfikat	#
+lesson.end.dialog.button.exit=Opuść lekcję	#
+lesson.end.dialog.button.export=Zapisz	#
+
+lesson.end.access.imagespreview=Zdjęcie z lekcji (%1 z %2)	#
+lesson.end.access.export=Eksportuj zdjęcia z lekcji	#

@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=感谢您的探索！这是一个演示课程，因此您的进度不会被保存。	#
+
+edu_demo.tip.1=雨林是地球上一半以上的陆生动物的家园。	#
+edu_demo.tip.2=超过 25% 的世界人口以森林为生。	#
+edu_demo.tip.3=保持火的燃烧需要三样东西：燃料、氧气和热源。	#
+edu_demo.tip.4=火灾，尤其是在泥炭地区和茂密森林地区的火灾，会释放出大量的碳排放。	#
+edu_demo.tip.5=类似于用户，计算机只有通过被教授，才能学到东西！	#
+edu_demo.tip.6=AI 将被用于收集和分析森林数据，这比手动统计树木要快！	#
+
+menu.quit.edu=退出课程	#
+menu.quit.edu.title=退出演示课程	#
+
+start_screen.start_demo=开始课程	#
+
+upsell.tab.1.title=《Minecraft》校园版！	#
+upsell.tab.1.body=通过免费课程和教程、评估工具、课堂用户课程、安全登录和技术支持，让用户跨主题参与。立即探索《Minecraft 教育版》的免费试用版！	#
+upsell.tab.1.button=了解更多	#
+
+upsell.tab.2.title=用《Minecraft》教授编程	#
+upsell.tab.2.body=使用《Minecraft》中的沉浸式课程和超过 50 小时的免费课程教用户编程。用户可以编写基于方块的代码和 JavaScript，并看到他们的代码在课程中被赋予生命！	#
+upsell.tab.2.button=探索编程	#
+
+upsell.tab.3.title=海量的免费课程	#
+upsell.tab.3.body=探索从历史和化学到计算机科学和数学主题的数以百计的《Minecraft》的世界和课程。使用这些课程作为起点，或者创建您自己的课程！	#
+upsell.tab.3.button=前往课程	#
+
+upsell.tab.4.title=构建社会情感技能	#
+upsell.tab.4.body=用户们正在探索如何与他人协作、解决问题，并带有同理心地进行沟通。《Minecraft 教育版》包含了诸如沉浸式阅读器这样的功能，能够帮助老师接触到每一种类型的探索者。	#
+upsell.tab.4.button=了解更多	#
+
+upsell.tab.5.title=加入社区	#
+upsell.tab.5.body=参加教师培训，在社交媒体上建立联系，并加入我们的全球社区，向其他教育者探索。超过 115 个国家的教育者正在他们的课堂上使用《Minecraft》，您可以成为下一个！	#
+upsell.tab.5.button=获得连接	#
+
+lesson.finished=我完成了	#
+
+lesson.end.dialog.title=课程完成！	#
+lesson.end.dialog.body.title=恭喜	#
+lesson.end.dialog.body.wimages=您获得了结业证书。查看本课程中的照片并保存副本。	#
+lesson.end.dialog.body.checkport=查看本课程中的照片并保存副本。	#
+lesson.end.dialog.body.noimages=您获得了结业证书。	#
+lesson.end.dialog.button.morecoding=更多编程	#
+lesson.end.dialog.button.getcert=获取证书	#
+lesson.end.dialog.button.exit=退出课程	#
+lesson.end.dialog.button.export=保存	#
+
+lesson.end.access.imagespreview=课程照片 第 %1 张，共 %2 张	#
+lesson.end.access.export=导出课程照片	#

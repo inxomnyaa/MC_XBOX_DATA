@@ -1,0 +1,29 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "BoundX",
+      "dest": "BoundX",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+	{
+      "src": "BoundY",
+      "dest": "BoundY",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+	{
+      "src": "BoundZ",
+      "dest": "BoundZ",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+	{
+      "src": "LifeTicks",
+      "dest": "LifeTicks",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

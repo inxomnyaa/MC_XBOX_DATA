@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "schemaMappings": {
+    "minecraft:chest": [ "blockentity.json", "chest.json" ],
+    "minecraft:sign": [ "blockentity.json", "sign.json" ],
+    "minecraft:standing_sign": [ "blockentity.json", "sign.json" ],
+    "minecraft:wall_sign": [ "blockentity.json", "sign.json" ],
+ 
+    "minecraft:furnace": [ "blockentity.json", "furnace.json" ],
+    "minecraft:lit_furnace": [ "blockentity.json", "furnace.json" ],
+
+    "minecraft:trapped_chest": [ "blockentity.json", "trapped_chest.json" ],
+    "minecraft:dispenser": [ "blockentity.json", "dispenser.json" ],
+    "minecraft:brewing_stand": [ "blockentity.json", "brewing_stand.json" ],
+    "minecraft:hopper": [ "blockentity.json", "hopper.json" ],
+    "minecraft:dropper": [ "blockentity.json", "dropper.json" ],
+    "minecraft:shulker_box": [ "blockentity.json", "shulker_box.json" ],
+    "minecraft:beacon": [ "blockentity.json", "beacon.json" ],
+    "minecraft:command_block": [ "blockentity.json", "command_block.json" ],
+    "minecraft:comparator": [ "blockentity.json", "comparator.json" ],
+    "minecraft:daylight_detector": [ "blockentity.json", "daylight_detector.json" ],
+    "minecraft:end_gateway": [ "blockentity.json", "end_gateway.json" ],
+    "minecraft:end_portal": [ "blockentity.json", "end_portal.json" ],
+    "minecraft:ender_chest": [ "blockentity.json", "beacon.json" ],
+    "minecraft:flower_pot": [ "blockentity.json", "flower_pot.json" ],
+    "minecraft:skull": [ "blockentity.json", "skull.json" ],
+    "minecraft:mob_spawner": [ "blockentity.json", "mob_spawner.json" ],
+    "minecraft:piston_extension": [ "blockentity.json", "piston_extension.json" ],
+    "minecraft:piston_head": [ "blockentity.json", "piston_extension.json" ],
+    "minecraft:piston": [ "blockentity.json", "piston_extension.json" ],
+    "minecraft:structure_block": [ "blockentity.json", "structure_block.json" ],
+    "minecraft:enchanting_table": [ "blockentity.json", "enchanting_table.json" ]
+  }
+}

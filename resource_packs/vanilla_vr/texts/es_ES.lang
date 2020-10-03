@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Desconecta tu teléfono del visor de realidad virtual para iniciar sesión en Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Desconecta el visor de realidad virtual de tu teléfono para añadir amigos en Xbox Live.	#
+xblLogin.LoginMessageRift=Desconecta el visor de realidad virtual para iniciar sesión en Xbox Live.	#
+xblLogin.AddFriendMessageRift=Desconecta el visor de realidad virtual para añadir amigos en Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Desconecta el visor de realidad virtual para ver la tarjeta de jugador.	#
+
+LostFocus.Rift=¡Deja el ratón! Selecciona Minecraft, en el escritorio, si quieres usarlo.	#
+
+vr.controls.HandControllerTracked=Rastreo de Oculus Touch adquirido	#
+vr.controls.HandControllerTrackingLost=Rastreo de Oculus Touch perdido	#
+
+FileBrowser.Rift.Skin=Desconecta el visor de realidad virtual para elegir un aspecto personalizado.	#
+FileBrowser.Rift.TemplateResource=Quite los auriculares para seleccionar el recurso de plantilla.	#
+FileBrowser.Rift.Export=Desconecta el visor de realidad virtual para exportar tu mundo.	#
+FileBrowser.Rift.Import=Desconecta el visor de realidad virtual para importar tu mundo.	#
+FileBrowser.Rift.ExportBook=Desconecta el visor de realidad virtual para exportar tu libro.	#
+FileBrowser.Rift.ExportPortfolio=Desconecta el visor de realidad virtual para exportar tu portfolio.	#
+FileBrowser.Rift.FileChooser=Seleccionar archivo	#
+FileBrowser.Rift.FolderChooser=Elegir carpeta	#
+FileBrowser.Rift.ExportWorld=Exportar mundo	#
+FileBrowser.Rift.ExportResourcesPrompt=Desconecta el auricular para exportar estos recursos.	#
+FileBrowser.Rift.ExportResources=Exportar recursos	#
+FileBrowser.Rift.SkinChooser=Seleccionar aspecto	#
+
+
+options.group.vr=Realidad virtual	#
+options.group.vrTitle=Ajustes de realidad virtual	#
+options.vrHideHud=Ocultar pantalla de información	#
+options.vrHideHand=Ocultar mano	#
+options.vrHideGUI=Ocultar interfaz de juego en la realidad virtual	#
+options.vrGamma=Brillo de la realidad virtual	#
+options.vrMsaa=Realidad virtual antialiasing.	#
+options.vrRenderDistance=Distancia de renderizado de la realidad virtual	#
+options.vrParticleRenderDistance=Distancia de renderizado de partículas de la realidad virtual	#
+options.vrResetPlayerAlignment=Restablecer alineamiento de la realidad virtual	#
+options.vrHMDdisplacement=Usar desplazamiento del HMD al moverse	#
+options.vrHeadSteering=Dirección de cabeza en realidad virtual	#
+options.vrTurningOptions=Opciones de giro	#
+options.StutterTurn=Giro de la realidad virtual	#
+options.StutterTurnSound=Sonido al girar la realidad virtual	#
+options.StutterConstantAngleOrTime=Modo de tiempo constante de giro en la realidad virtual	#
+options.3DRendering=Renderizado 3D	#
+options.vrHudAtTop=HUD arriba	#
+options.vrAutojump=Salto automático de la realidad virtual	#
+options.vrLinearJump=Salto lineal en realidad virtual	#
+options.vrLinearMotion=Movimiento lineal en realidad virtual	#
+options.stickyMining=Fijación en extracción	#
+options.stickyMiningHand=Fijación en extracción para el mando	#
+options.vrMovingBackwardsHardStop=Parada hacia atrás	#
+options.comfortControls=Controles de la realidad virtual	#
+options.ShowComfortSelectScreen=Mostrar pantalla de selección de controles	#
+options.vrHudDrifts=HUD en movimiento	#
+options.vrLivingRoomCursorCentered=Cursor del salón centrado en realidad virtual	#
+options.vrTapTurn=Activar giro	#
+options.vrTapTurnSensitivity=Activar sensibilidad de giro	#
+options.vrRollTurning=Rueda de giro	#
+options.vrRollTurnSensitivity=Sensibilidad de la rueda de giro	#
+options.vrHandControlsItem=Controles de objeto del mando	#
+options.vrHandControlsHUD=Controles de HUD del mando	#
+options.vrHandPointer=Puntero visible del mando	#
+options.vrHandsVisible=Manos visibles	#
+options.vr180Turning=Giro de 180 grados	#
+options.vrMirrorTexture=Activar textura espejo	#
+options.vrSensitivity=Sensibilidad de la realidad virtual	#
+options.vrUIMouseSensitivity=Sensibilidad de interfaz de la realidad virtual	#
+
+## VR control Scheme Strings
+vr.controls.title=Controles adaptados	#
+
+vr.controls.title.classic=Controles clásicos - Intensos	#
+vr.controls.title.experimental=Controles adaptados - Moderados	#
+vr.controls.classicDescription=Giros y saltos normales que causan una mayor impresión y suelen resultar intensos a la mayoría de usuarios.	#
+vr.controls.experimentalDescription=Los giros ocurren por segmentos y los saltos y el cursor se han adaptado a la realidad virtual, lo que suele resultar más cómodo y moderado para la mayoría de usuarios.	#
+vr.controls.sharedDescription=Los controles también se pueden cambiar durante el juego en el menú de opciones.	#
+vr.moreOptions=Más opciones...	#
+vr.moreInformation=Más información...	#
+vr.detailedInformation=Muchos aspectos del juego se han ajustado para mejorar la experiencia con la realidad virtual. Por ejemplo, el giro de la realidad virtual es una característica que segmenta el movimiento de giro para reducir la desorientación.	#
+vr.detailedInformationLink=Para más información sobre los controles adaptados y el trabajo que hay detrás, ve a minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Centrar dispositivo	#
+vr.pausescreen.recenterDeviceKeyboard=Pulsa N para centrar dispositivo	#
+vr.warning.controllerRequired=Se requiere mando	#
+vr.warning.controllerRecommended=Se recomienda el uso de mando con la realidad virtual	#
+vr.warning.controllerOrMouseRecommended=Se recomienda usar un mando o ratón con la realidad virtual	#
+vr.warning.exitGameWarning=¿Quieres salir de Minecraft?	#
+vr.alignscreen.pressButtonX=Pulsa el botón X en tu mando para continuar	#
+vr.alignscreen.pressButtonXOrMouse=Haz clic o pulsa cualquier botón en tu mando para continuar	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Por favor, pulsa el botón "A" de tu mando o el gatillo "Select" de tu mando Windows Mixed Reality para continuar	#
+vr.alignscreen.pressAnyButton=Alinea tu cabeza en una posición neutral y pulsa cualquier botón	#
+vr.alignscreen.info=Aviso: Esta es una parte inacabada. La realidad virtual puede resultar incómoda para algunos usuarios. Recuerda descansar tanto como necesites y utilizar el modo salón tocando el panel táctil para conseguir una vista menos intensa.	#
+vr.alignscreen.info_viewbutton=Aviso: Esta es una parte inacabada. La realidad virtual puede resultar incómoda para algunos usuarios. Recuerda descansar tanto como necesites y utilizar el modo salón pulsando arriba en la cruceta para conseguir una vista menos intensa.	#
+
+accessibility.gamepad.button.systemLeft=botón select	#
+accessibility.gamepad.button.systemRight=botón start	#
+
+## Oculus Rift Installer
+ori.confirm.exit=¿Seguro que quieres salir del juego?	#
+ori.confirm.update=¿Actualizar Minecraft?	#
+ori.pending=Esperando a que Windows Update acabe.	#
+ori.installing=Instalando...	#
+ori.updating=Actualizando...	#
+ori.launching=¡Iniciando!	#
+ori.check_for_update=Comprobando actualizaciones...	#
+ori.error.unavailable=No te has podido conectar a Minecraft. Asegúrate de tener conexión a internet y de haber iniciado sesión en la tienda.	#
+ori.error.unknown=Ha ocurrido un error desconocido. Inténtalo más tarde.	#
+ori.error.not_supported=Tu sistema no es compatible con Minecraft.	#
+ori.error.launch_failure=No se ha podido iniciar Minecraft.	#
+ori.error.version=Tu versión de Minecraft está desactualizada. Actualízala para jugar.	#
+ori.error.win10=Se requiere Windows 10, versión 1607, o superior.	#
+ori.error.install_error=Hemos encontrado un error. Código de error: 0x	#
+ori.error.low_storage=No se puede instalar. El espacio disponible no es suficiente.	#
+ori.error.no_internet=No se ha podido conectar. Comprueba tu conexión a Internet.	#
+ori.error.winUpdateDisabled=Windows Update debe estar habilitado.	#
+ori.confirm.controls.controller.confirm=Confirmar	#
+ori.confirm.controls.controller.cancel=Cancelar	#
+ori.confirm.controls.keyboard.confirm=Confirmar: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Cancelar: [Esc]	#
+ori.exit.controls.controller=Salir	#
+ori.exit.controls.keyboard=Salir: [Enter]	#
+ori.cancelling=Cancelando...	#
+

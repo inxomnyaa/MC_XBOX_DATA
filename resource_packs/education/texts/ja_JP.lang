@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=プレイヤーのコード ビルダーの状態を設定します。	#
+commands.codebuilder.invalidurl=URL が無効であるか、サポートされていない Web サイトを指定しています。	#
+commands.takepicture.description=プレーヤーの写真またはプレーヤーの視点からの写真を撮りましょう。	#
+commands.takepicture.cameranotfound=カメラが見つかりませんでした。	#
+commands.takepicture.cameranotspawned=カメラ取り出しに失敗しました。	#
+
+library.connection.failed.body=ライブラリーに接続できません。これは、コンピュータがオフラインの場合、またはライブラリー カタログへのアクセスがブロックされている場合に発生する可能性があります。	#
+library.connection.failed.help=ヘルプを表示	#
+library.connection.noWorldFound.title=世界が見つかりません	#
+library.connection.noWorldFound.body=このカテゴリーには世界が存在しないようです。	#
+library.findMoreWorlds=さらに世界を見つける	#
+library.leaveFeedback=フィードバックを送信	#
+library.title=ライブラリ	#
+library.searchResults=結果:「%1」	#
+library.item.createdBy=作者: %s	#
+library.item.age=年齢：%1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=持続延長：%1	#
+library.item.duration.minute=%1 分	#
+library.item.duration.multipleMinutes=%1 分	#
+library.item.duration.hour=%1 時	#
+library.item.duration.multipleHours=%1 時間	#
+
+library.item.difficulty=難易度：%1	#
+library.item.difficulty.beginner=初心者	#
+library.item.difficulty.intermediate=中級者	#
+library.item.difficulty.advanced=上級者	#
+
+library.item.tags=タグ：	#
+library.item.tagsAll=すべてのタグ:	#
+library.item.tagsAll.tts=タグをもっと表示する	#
+library.item.button.create=世界を作成	#
+library.item.button.share=リンクを共有	#
+library.item.button.plan=レッスンプラン	#
+library.item.button.resources=リソース	#
+library.item.progress.body=新しい世界のインポートを準備しています。これには数分かかる可能性があります。	#
+library.item.description=説明	#
+library.item.overview=概観	#
+library.item.expandable.readLess=詳細を隠す	#
+library.item.expandable.readMore=詳細を読む	#
+
+library.item.section.languages=対応言語	#
+library.item.section.languages.tip=お好みの言語でこのレッスンを利用できない場合、イマーシブ リーダーを使用して、書籍、看板、ボード、NPCダイアログなどのゲーム内テキストを翻訳できます。	#
+library.item.section.questions=必須の問題	#
+library.item.section.generic_objectives=目標	#
+library.item.section.objectives=レッスンの目標	#
+library.item.section.prep=教師の準備と注意事項	#
+library.item.section.activities=学生用アクティビティ	#
+library.item.section.assessment=評価	#
+library.item.section.extensions=発展	#
+
+library.category.label.biomes=バイオームと世界	#
+library.category.title.biomes=バイオームと世界	#
+library.category.description.biomes=このワールドおよびバイオームのコレクションを使用して、レッスンの作成をMinecraft: Education Edition内で開始してください。	#
+
+library.category.label.biomes.biome=バイオーム	#
+library.category.title.biomes.biome=バイオーム	#
+library.category.description.biomes.biome=Minecraftでは、バイオームは、ユニークの地理的特徴、植物、動物によって分類される領域を意味します。	#
+
+library.category.label.biomes.featured=おすすめのワールド	#
+library.category.title.biomes.featured=おすすめのワールド	#
+
+library.category.label.buildChallenges=月間建築チャレンジ	#
+library.category.title.buildChallenges=月間建築チャレンジ	#
+library.category.description.buildChallenges=教室で簡単に実行できるこれらのアクティビティを使用して、生徒の創造性を引き出し、21世紀スキルを強化してください。	#
+
+library.category.label.howToPlay=遊び方	#
+library.category.description.howToPlay=このようなワールドやアクティビティは、教室で Minecraft: Education Edition の使用方法を学ぶための導入的なエクスペリエンスとして開発されました。	#
+
+library.category.label.howToPlay.startHere=ここから始めよう	#
+library.category.title.howToPlay.startHere=ゲームを始める	#
+library.category.description.howToPlay.startHere=このようなチュートリアルのワールドは、それぞれが教室で Minecraft: Education Edition の使用に役立つさまざまなスキルを習得できるように設計されています。	#
+
+library.category.label.howToPlay.additional=追加チュートリアル	#
+library.category.title.howToPlay.additional=追加チュートリアル	#
+
+library.category.label.SEL=社会的情動	#
+library.category.title.SEL=社会的情動	#
+library.category.description.SEL=これらの世界と活動は社会的、情動的な学習をサポートしています。健康な感情、共感性、責任ある意思決定がコンセプトに含まれます。	#
+
+library.category.label.digitalCitizen=デジタル市民権	#
+library.category.title.digitalCitizen=デジタル市民権	#
+library.category.description.digitalCitizen=これらの世界と活動はデジタル市民権に焦点を当て、メディアリテラシー、プライバシー、オンライン コミュニティへの参加をナビゲートする学生を支援します。	#
+
+library.category.label.lessons=レッスン	#
+library.category.title.lessons=レッスン	#
+
+library.category.label.lessons.genericAdditional=追加レッスン	#
+library.category.title.lessons.genericAdditional=追加レッスン	#
+
+library.category.label.languageArts=言語技術	#
+library.category.title.languageArts=言語技術	#
+
+library.category.label.languageArts.litStudies=言語学習	#
+library.category.title.languageArts.litStudies=言語学習	#
+
+library.category.label.languageArts.litStudies.treasureIsland=宝島	#
+library.category.title.languageArts.litStudies.treasureIsland=宝島	#
+library.category.description.languageArts.litStudies.treasureIsland=この一連のレッスンは、『宝島（Treasure Island）』（ロバート・ルイス・スティーブンソン著）の学習を通じて英語の概念を教える際に役立つように設計されています。	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=『ケンスケの王国（Kensuke's Kingdom）』	#
+library.category.title.languageArts.litStudies.kensukesKingdom=『ケンスケの王国（Kensuke's Kingdom）』	#
+library.category.description.languageArts.litStudies.kensukesKingdom=この一連のレッスンは、『ケンスケの王国（Kensuke's Kingdom）』（マイケル・モルプルゴ著）の学習を通じて英語の概念を教える際に役立つように設計されています。	#
+
+library.category.label.languageArts.litStudies.swissFamily=『スイスファミリーロビンソン（Swiss Family Robinson）』	#
+library.category.title.languageArts.litStudies.swissFamily=『スイスファミリーロビンソン（Swiss Family Robinson）』	#
+library.category.description.languageArts.litStudies.swissFamily=この一連のレッスンは、『ロビンソンクルーソー』と『スイスファミリーロビンソン（Swiss Family Robinson）』の学習を通じて英語の概念を教える際に役立つように設計されています。	#
+
+library.category.label.science=科学	#
+library.category.title.science=科学	#
+
+library.category.label.science.chemistry=化学	#
+library.category.title.science.chemistry=化学	#
+
+library.category.label.science.biology=生物学	#
+library.category.title.science.biology=生物学	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=これらの5つのレッスンとユニークのMinecraftの世界は、対象分野と年齢層に及びます。提供されたカリキュラムを通じて、生徒はアフリカの平原を冒険し、作業中の港、サイの孤児院、レンジャーステーションを調査し、問題を解決しながら、状況に応じてスキルを構築することができます。	#
+
+library.category.label.science.extinction=生物多様性と絶滅の危機	#
+library.category.title.science.extinction=生物多様性と絶滅の危機	#
+library.category.description.science.extinction=このコンテンツパックでWorld Wildlife Fundと提携しました。このコンテンツパックには、没入できるMinecraftワールドと標準ベースのレッスンが含まれています。	#
+
+library.category.label.history=歴史と文化	#
+library.category.title.history=歴史と文化	#
+
+library.category.label.history.oregonTrail=『オレゴン・トレイル（The Oregon Trail）』	#
+library.category.title.history.oregonTrail=オレゴン・トレイル	#
+library.category.description.history.oregonTrail=Minecraft: Education Edition の Houghton Mifflin Harcourtとのパートナーシップで、教育版では、『オレゴン・トレイル（The Oregon Trail）』の経験値をご提供します。カリキュラム全体で。これらの『オレゴン・トレイル（The Oregon Trail）』ラーニングアクティビティを使用した素晴らしいアドベンチャーを始めましょう。『オレゴン・トレイル（The Oregon Trail）』に描かれる北米の大自然の風景の中を旅してください。	#
+
+library.category.label.computerScience=コンピューター科学	#
+library.category.title.computerScience=コンピューター科学	#
+
+library.category.label.computerScience.hourOfCode=コーディングの時間	#
+library.category.title.computerScience.hourOfCode=コーディングの時間	#
+library.category.description.computerScience.hourOfCode=このレッスンは、Minecraftでコーディングを導入してAIの謎を解き、コンピューター科学の分野で知識を広げるために設計された、コンピューター科学用の1時間のチュートリアルです。	#
+
+library.category.label.computerScience.STEM=STEM	#
+library.category.title.computerScience.STEM=STEM	#
+library.category.description.computerScience.STEM=数学、科学、エンジニアリングの標準ベースのレッスンおよびワールドを使用し、学校の一日を通じてコンピュータ科学を扱います。	#
+
+library.category.label.computerScience.agency=AGENCY	#
+library.category.title.computerScience.agency=Agency	#
+library.category.description.computerScience.agency=CSTA標準ベースのコンピューター科学のレッスンを使用して、独自の都市を構築してください。ループ、アルゴリズム、条件、デバッグ、反復などを含む基本的なCSの概念を学びます。	#
+
+library.category.label.computerScience.codingWithMinecraft=Minecraft でのコーディング	#
+library.category.title.computerScience.codingWithMinecraft=Minecraft でのコーディング	#
+library.category.description.computerScience.codingWithMinecraft=CSTA標準ベースのコンピューター科学のレッスンを使用して、条件、関数、座標、AIなどを学びます。	#
+
+library.category.label.computerScience.codingFun1=楽しいコーディング基礎: 1	#
+library.category.title.computerScience.codingFun1=楽しいコーディング基礎: 1	#
+library.category.description.computerScience.codingFun1=さまざまな動物と、彼らが直面している困難およびコードで助ける方法について学びましょう！アルゴリズム、シーケンス、ループを使用して、楽しいコーディング パズルを解きましょう。	#
+
+library.category.label.computerScience.codingFun2=楽しいコーディング基礎: 2	#
+library.category.title.computerScience.codingFun2=楽しいコーディング基礎: 2	#
+library.category.description.computerScience.codingFun2=月、水星、金星、火星、木星、海王星を訪れましょう！エージェントが太陽系全体から材料を収集する手助けをしながらコードのデバッグ、条件式、演算子、ループを使用する方法を学びます。	#
+
+library.category.label.computerScience.codingFun3=楽しいコーディング基礎: 3	#
+library.category.title.computerScience.codingFun3=楽しいコーディング基礎: 3	#
+
+library.category.label.computerScience.blockBased=ブロック ベースのコーディング	#
+library.category.title.computerScience.blockBased=ブロック ベースのコーディング	#
+
+library.category.label.computerScience.python=Python	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=Minecraft で Python のコーディングを始めましょう！シンタックス、データ型、変数、条件式、for ループ、条件付きループ、リスト、関数など Python の基本について説明します。	#
+
+library.category.label.computerScience.codingTutorials=コーディングのチュートリアル	#
+library.category.title.computerScience.codingTutorials=コーディングのチュートリアル	#
+library.category.description.computerScience.codingTutorials=特定のコーディング コンセプトに集中したい場合は、ここから始めましょう！ループ、シーケンス、条件式、変数、関数の使用方法について学びましょう。これらのレッスンではブロック、Python、または JavaScript でのコーディングが選択可能です。	#
+
+library.category.label.computerScience.featuredLessons=レッスン内容	#
+library.category.title.computerScience.featuredLessons=レッスン内容	#
+library.category.description.computerScience.featuredLessons=私たちのお気に入りのレッスンをご紹介します！	#
+
+library.category.label.math=数学	#
+library.category.title.math=数学	#
+
+library.category.label.math.fractions=分数	#
+library.category.title.math.fractions=分数	#
+library.category.description.math.fractions=レッスンリソースを試して、生徒に分数を教えてください。	#
+
+library.category.label.art=アートデザイン	#
+library.category.title.art=アートデザイン	#
+
+library.category.label.commonCore=コモンコア、グレード%1	#
+library.category.title.commonCore=コモンコア、グレード%1	#
+library.category.description.commonCoreMath=これらの魅力的なアクティビティは、数学の指導をサポートするために開発されたもので、共通コア数学の各標準に沿っています。	#
+
+signin.acceptTerms=利用規約に同意	#
+signin.leftPanel.header=Minecraft: Education Edition をプレイ	#
+signin.leftPanel.body=Minecraft: Education Edition のフルバージョンにアクセスするには、学校のアカウントでサインインします。	#
+signin.rightPanel.header=デモレッスンを試	#
+signin.rightPanel.body=Minecraft: Education Edition でコーディングの冒険を始めましょう、すべてのユーザーが利用できます。	#
+
+structure_block.export.default_name=マイ ストラクチャー ブロック	#
+
+joincode.invalid.title=参加コードが正しくありません	#
+joincode.invalid.body=入力された %1 件の参加コードに誤りがあります。コードが正確かどうかホストに問い合わせるか、IP アドレスでの参加をお試しください。	#
+joincode.invalid.button.tryagain=もう一度やり直す	#
+joincode.invalid.button.enterip=IP アドレスを入力	#
+
+joincode.invalid.abuse.body=入力された %1 件の参加コードに誤りがあります。代わりに IP アドレスを使用して世界に参加してください	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18 以上	#	#
+tag.addition=追加	#	#
+tag.advanced=上級者	#	#
+tag.adventure=アドベンチャー	#	#
+tag.all_ages=すべての年齢層	#	#
+tag.animals=動物	#	#
+tag.aquatic=アクアティック	#	#
+tag.architecture=建築様式	#	#
+tag.art_and_design=アート デザイン	#	#
+tag.beginner=初心者	#	#
+tag.biodiversity=生物多様性	#	#
+tag.biology=生物学	#	#
+tag.biome=バイオーム	#	#
+tag.biomes_and_worlds=バイオームと世界	#	#
+tag.bridges=橋	#referring to the structure	#
+tag.build_challenge=ビルド チャレンジ	#	#
+tag.character=キャラクター	#	#
+tag.chemistry=化学	#	#
+tag.citizenship=市民権	#	#
+tag.city=都会	#	#
+tag.climate=気候	#	#
+tag.code_to_learn_stem=STEM	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Agency	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Minecraft でのコーディング	#	#
+tag.coding_in_minecraft=Minecraft でのコーディング	#	#
+tag.collaboration=マルチプレイ	#	#
+tag.color=色	#	#
+tag.common_core_math_grade_3=共通コア数学グレード 3	#	#
+tag.common_core_math_grade_4=共通コア数学グレード 4	#	#
+tag.common_core_math_grade_5=共通コア数学グレード 5	#	#
+tag.communication=通信	#	#
+tag.computer_science=コンピューター科学	#	#
+tag.computing_in_minecraft=Minecraft でのコンピューティング	#	#
+tag.creative=クリエイティブ	#	#
+tag.creative_writing=クリエイティブ ライティング	#	#
+tag.creativity=創造性	#	#
+tag.critical_thinking=批判的思考	#	#
+tag.division=部門	#	#
+tag.earth_day=アース デイ	#	#
+tag.ecology=生態学	#	#
+tag.economy=経済	#	#
+tag.energy=エネルギー	#	#
+tag.environment=環境	#	#
+tag.featured=内容	#	#
+tag.fractions=分数	#	#
+tag.game_design=ゲームデザイン	#	#
+tag.geography=地理	#	#
+tag.geology=地質学	#	#
+tag.history_and_culture=歴史と文化	#	#
+tag.hour_of_code=Hour of Code	#	#
+tag.how_to_play=遊び方	#	#
+tag.intermediate=中級者	#	#
+tag.kensukes_kingdom=ケンスケの王国	#	#
+tag.language_arts=言語技術	#	#
+tag.leadership=リーダーシップ	#	#
+tag.lesson=レッスン	#	#
+tag.literature=文学	#	#
+tag.math=数学	#	#
+tag.multiplayer=マルチプレイヤー	#	#
+tag.multiplication=乗算	#	#
+tag.museum=博物館	#	#
+tag.music=音楽	#	#
+tag.mythology=神話	#	#
+tag.ocean=海	#	#
+tag.oregon_trail=オレゴン・トレイル	#	#
+tag.pattern=パターン	#	#
+tag.personal_narrative=個人的な物語	#	#
+tag.physics=物理学	#	#
+tag.pixel_art=ピクセルアート	#	#
+tag.pop_culture=ポップ カルチャー	#	#
+tag.probability=確率	#	#
+tag.project_based_learning=プロジェクトベースの学習	#	#
+tag.robinson_crusoe=ロビンソン・クルーソー	#	#
+tag.science=科学	#	#
+tag.seasonal=季節限定	#	#
+tag.single_player=シングルプレーヤー	#	#
+tag.social_emotional_learning=社会的感情学習	#	#
+tag.special_education=特別教育	#	#
+tag.spelling=スペル	#	#
+tag.story=ストーリー	#	#
+tag.subtraction=減算	#	#
+tag.survival=サバイバル	#	#
+tag.swiss_family_robinson=スイスファミリー ロビンソン	#	#
+tag.technology=技術	#	#
+tag.treasure_island=宝島	#	#
+tag.tutorial=チュートリアル	#	#
+tag.we_are_the_rangers=We are the Rangers	#	#
+tag.world_languages=世界の言語	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=デジタル市民権	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=ブロック	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure ノートブック	#See for example: https://notebooks.azure.com/	#
+tag.loops=ループ	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=条件式	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=変数	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=関数	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=演算子	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=問題解決	#	#
+tag.artificial_intelligence=人工知能	#	#
+tag.coding=コーディング	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=楽しいコーディング基礎 1	#	#
+tag.coding_fundamentals_2=楽しいコーディング基礎 2	#	#
+tag.coding_fundamentals_3=楽しいコーディング基礎 3	#	#
+tag.coding_tutorials=コーディングのチュートリアル	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=ハチ	#	#
+tag.space=空間	# refers to outer space	#
+tag.esports=e スポーツ	#	#
+tag.toybox=おもちゃ箱	#	#
+tag.featured_coding=コーディング内容	#	#
+## END TAG LOCALIZATION SECTION ##

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=请将手机从头盔上取下，登录至 Xbox Live。	#
+xblLogin.AddFriendMessageGearVR=请将手机从头盔上取下，添加 Xbox Live 好友。	#
+xblLogin.LoginMessageRift=请取下头盔，登录至 Xbox Live。	#
+xblLogin.AddFriendMessageRift=请取下头盔，添加 Xbox Live 好友。	#
+xblLogin.ShowGamerCardMessageRift=请取下头盔，查看玩家卡。	#
+
+LostFocus.Rift=鼠标丢失！如果想用的话，在桌面选择《我的世界》即可。	#
+
+vr.controls.HandControllerTracked=已获取 Oculus Touch 跟踪	#
+vr.controls.HandControllerTrackingLost=已丢失 Oculus Touch 跟踪	#
+
+FileBrowser.Rift.Skin=请取下头盔，选择自定义皮肤。	#
+FileBrowser.Rift.TemplateResource=请移除耳机以选择模板资源。	#
+FileBrowser.Rift.Export=请取下头盔，导出你的世界。	#
+FileBrowser.Rift.Import=请取下头盔，导入你的世界。	#
+FileBrowser.Rift.ExportBook=请取下头盔导出您的书。	#
+FileBrowser.Rift.ExportPortfolio=请取下头盔，导出你的个人资料。	#
+FileBrowser.Rift.FileChooser=选择文件	#
+FileBrowser.Rift.FolderChooser=选择文件夹	#
+FileBrowser.Rift.ExportWorld=导出世界	#
+FileBrowser.Rift.ExportResourcesPrompt=请取下耳机，导出这些资源。	#
+FileBrowser.Rift.ExportResources=导出资源	#
+FileBrowser.Rift.SkinChooser=选择皮肤	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR 设置	#
+options.vrHideHud=隐藏 HUD	#
+options.vrHideHand=隐藏手	#
+options.vrHideGUI=在 VR 中隐藏 GUI	#
+options.vrGamma=VR 亮度	#
+options.vrMsaa=VR 抗锯齿	#
+options.vrRenderDistance=VR 能见度	#
+options.vrParticleRenderDistance=VR 粒子能见度距离	#
+options.vrResetPlayerAlignment=重置 VR 校准	#
+options.vrHMDdisplacement=使用 HMD 位移进行移动	#
+options.vrHeadSteering=VR 头部转向	#
+options.vrTurningOptions=转弯选项	#
+options.StutterTurn=VR 转弯	#
+options.StutterTurnSound=VR 转弯声音	#
+options.StutterConstantAngleOrTime=VR 转弯定时模式	#
+options.3DRendering=3D 渲染	#
+options.vrHudAtTop=HUD 置顶	#
+options.vrAutojump=VR 自动跳跃	#
+options.vrLinearJump=VR 线性跳跃	#
+options.vrLinearMotion=VR 线性动作	#
+options.stickyMining=粘性开采	#
+options.stickyMiningHand=手控器粘性开采	#
+options.vrMovingBackwardsHardStop=逆向硬停	#
+options.comfortControls=VR 控制	#
+options.ShowComfortSelectScreen=显示控制选择屏幕	#
+options.vrHudDrifts=HUD 漂移	#
+options.vrLivingRoomCursorCentered=VR 起居室光标已居中	#
+options.vrTapTurn=轻按转弯	#
+options.vrTapTurnSensitivity=轻按转弯灵敏度	#
+options.vrRollTurning=滚轮转弯	#
+options.vrRollTurnSensitivity=滚轮转弯灵敏度	#
+options.vrHandControlsItem=手控器控制项	#
+options.vrHandControlsHUD=手控器控制 HUD	#
+options.vrHandPointer=手控器指针可见	#
+options.vrHandsVisible=手可见	#
+options.vr180Turning=反转 180	#
+options.vrMirrorTexture=启用镜子纹理	#
+options.vrSensitivity=VR 灵敏度	#
+options.vrUIMouseSensitivity=VR UI 灵敏度	#
+
+## VR control Scheme Strings
+vr.controls.title=VR 控制	#
+
+vr.controls.title.classic=经典控制 - 激烈	#
+vr.controls.title.experimental=VR 控制 - 中度	#
+vr.controls.classicDescription=经典跳跃和转弯，未经过 VR 调整。对大多数人具有舒适级别的激烈程度。	#
+vr.controls.experimentalDescription=转弯按片断发生。光标和跳跃已经过 VR 调整，可提高大多数人在移动中的舒适程度（工作进展中）。	#
+vr.controls.sharedDescription=控制项也可在游戏中通过选项菜单更改。	#
+vr.moreOptions=更多选项...	#
+vr.moreInformation=更多信息...	#
+vr.detailedInformation=数项游戏功能已加以调整，提供更加舒适的 VR 体验。例如：VR 转弯是一项将转弯动作分成数段，以减少迷失方向的功能。	#
+vr.detailedInformationLink=如需更多有关 VR 控制和幕后外观的信息，请前往 minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=重定位设备	#
+vr.pausescreen.recenterDeviceKeyboard=按下 N 可重新置中设备	#
+vr.warning.controllerRequired=需要游戏控制器	#
+vr.warning.controllerRecommended=建议为 VR 使用游戏控制器	#
+vr.warning.controllerOrMouseRecommended=建议为 VR 使用游戏控制器或鼠标	#
+vr.warning.exitGameWarning=是否要退出《我的世界》？	#
+vr.alignscreen.pressButtonX=请在控制器上按 'X' 按钮继续	#
+vr.alignscreen.pressButtonXOrMouse=请点击或在控制器上按任意键继续	#
+vr.alignscreen.pressButtonAOrSelectTrigger=请按游戏手柄上的 A 按键，或者选择 Windows Mixed Reality 手柄上的触发键，然后继续	#
+vr.alignscreen.pressAnyButton=将你的头对准中间位置，然后按任意按钮	#
+vr.alignscreen.info=注意：这是进展中的试验。VR 可能对某些人造成不适。切记根据需要经常休息，或轻按触控板使用起居室模式，降低激烈视感冲击。	#
+vr.alignscreen.info_viewbutton=注意：这是进展中的试验。VR 可能对某些人造成不适。切记根据需要经常休息，或按下向上方向键使用起居室模式，降低激烈视感冲击。	#
+
+accessibility.gamepad.button.systemLeft=选择按钮	#
+accessibility.gamepad.button.systemRight=开始按钮	#
+
+## Oculus Rift Installer
+ori.confirm.exit=您确定要退出游戏吗？	#
+ori.confirm.update=更新《我的世界》？	#
+ori.pending=正在等待 Windows 更新完成。	#
+ori.installing=正在安装...	#
+ori.updating=正在更新...	#
+ori.launching=正在启动！	#
+ori.check_for_update=正在检查更新...	#
+ori.error.unavailable=《我的世界》不可用。请确保您已连接到互联网并登录商店。	#
+ori.error.unknown=发生未知错误。请稍后重试。	#
+ori.error.not_supported=此系统上不支持《我的世界》。	#
+ori.error.launch_failure=启动《我的世界》失败。	#
+ori.error.version=你的《我的世界》版本已过期。请更新后再开始游戏。	#
+ori.error.win10=需要 Windows 10 1607 或更新版本。	#
+ori.error.install_error=我们遇到一个错误。错误代码：0x	#
+ori.error.low_storage=无法安装。可用存储空间不足。	#
+ori.error.no_internet=无法连接。请检查您的互联网连接。	#
+ori.error.winUpdateDisabled=必须启用 Windows 更新。	#
+ori.confirm.controls.controller.confirm=确认	#
+ori.confirm.controls.controller.cancel=取消	#
+ori.confirm.controls.keyboard.confirm=确认：[Enter]	#
+ori.confirm.controls.keyboard.cancel=取消：[Esc]	#
+ori.exit.controls.controller=退出	#
+ori.exit.controls.keyboard=退出：[Enter]	#
+ori.cancelling=正在取消...	#
+

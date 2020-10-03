@@ -1,0 +1,41 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "HeadArmorSlot",
+      "dest": "Armor[0]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "src": "BodyArmorSlot",
+      "dest": "Armor[1]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "src": "LegArmorSlot",
+      "dest": "Armor[2]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "src": "FootArmorSlot",
+      "dest": "Armor[3]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "src": "RightHandHandSlot",
+      "dest": "Mainhand[0]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "src": "LeftHandSlot",
+      "dest": "Offhand[0]",
+      "custom_transformation": "IntermediateItemIDToNative"
+    },
+    {
+      "custom_transformation": "IntermediateArmorStandPoseToNative",
+      "src": "Pose",
+      "dest": "Pose",
+      "optional": true
+    }
+  ]
+}

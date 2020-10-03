@@ -1,0 +1,16 @@
+{
+    "minecraft:max_health": "0",
+    "minecraft:follow_range": "1",
+    "minecraft:knockback_resistance": "2",
+    "minecraft:movement_speed": "3",
+    "minecraft:attack_damage": "4",
+    "minecraft:horse.jump_strength": "5",
+    "minecraft:zombie.spawn_reinforcements": "6",
+    "minecraft:attack_speed": "7",
+    "minecraft:armor": "8",
+    "minecraft:armor_toughness": "9",
+    "minecraft:luck": "10",
+    "minecraft:fly_speed": "11",
+    "minecraft:player.hunger": "12",
+    "minecraft:health": "13"
+}

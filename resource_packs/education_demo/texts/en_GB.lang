@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Thanks for playing! This is a demo lesson, so your progress will not be saved.	#
+
+edu_demo.tip.1=Rainforests are home to more than half our planet's terrestrial animal species.	#
+edu_demo.tip.2=More than 25% of the world's population depend on forests for their livelihoods.	#
+edu_demo.tip.3=Three things are needed to keep a fire going: fuel, oxygen and a heat source.	#
+edu_demo.tip.4=Fires, especially in peatlands and dense forests, release massive carbon emissions.	#
+edu_demo.tip.5=Computers have to be taught to learn – sort of like students!	#
+edu_demo.tip.6=AI is used to collect and analyze forest data, which is faster than counting trees by hand!	#
+
+menu.quit.edu=EXIT LESSON	#
+menu.quit.edu.title=Exit Demo Lesson	#
+
+start_screen.start_demo=Start Lesson	#
+
+upsell.tab.1.title=Minecraft for Schools!	#
+upsell.tab.1.body=Engage your students across subjects, with free lessons and tutorials, assessment tools, classroom multiplayer, secure logins and tech support. Start a free trial of Minecraft: Education Edition today!	#
+upsell.tab.1.button=Learn More	#
+
+upsell.tab.2.title=Teach Coding with Minecraft	#
+upsell.tab.2.body=Use Minecraft to teach your students to code with immersive lessons and over 50 hours of free curriculum. Students can write block-based code and JavaScript and see their code come to life in the game!	#
+upsell.tab.2.button=Start Coding	#
+
+upsell.tab.3.title=Tons of Free Lessons	#
+upsell.tab.3.body=Explore hundreds of Minecraft worlds and lessons, from history and chemistry to computer science and maths. Use these lessons as a starting point or create your own!	#
+upsell.tab.3.button=Go to Lessons	#
+
+upsell.tab.4.title=Build Social-Emotional Skills	#
+upsell.tab.4.body=Students are learning to collaborate, problem solve and communicate with empathy. Minecraft: Education Edition includes features like Immersive Reader that help teachers reach every type of learner.	#
+upsell.tab.4.button=Learn More	#
+
+upsell.tab.5.title=Join the Community	#
+upsell.tab.5.body=Participate in teacher training, connect on social media and join our global community to learn from other educators. Educators in over 115 countries are using Minecraft in their classrooms – and you can be next!	#
+upsell.tab.5.button=Get Connected	#
+
+lesson.finished=I'VE FINISHED	#
+
+lesson.end.dialog.title=Lesson Complete!	#
+lesson.end.dialog.body.title=CONGRATULATIONS	#
+lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.	#
+lesson.end.dialog.body.noimages=You earned a certificate of completion.	#
+lesson.end.dialog.button.morecoding=More Coding	#
+lesson.end.dialog.button.getcert=Get Certificate	#
+lesson.end.dialog.button.exit=Exit Lesson	#
+lesson.end.dialog.button.export=Save	#
+
+lesson.end.access.imagespreview=Lesson photo %1 of %2	#
+lesson.end.access.export=Export lesson photos	#

@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "id",
+      "dest": "id",
+      "custom_transformation": "IntermediateToNativeBlockEntityID"
+    },
+    {
+      "src": "x",
+      "dest": "x",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "y",
+      "dest": "y",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "z",
+      "dest": "z",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    }
+  ]
+}

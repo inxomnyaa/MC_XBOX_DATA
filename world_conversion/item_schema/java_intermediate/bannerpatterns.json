@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.BlockEntityTag.Patterns",
+      "dest": "tag.Patterns",
+      "item_transformation": "ConsoleBannerItemPatternsToIntermediate",
+      "optional": true
+    }
+  ]
+}

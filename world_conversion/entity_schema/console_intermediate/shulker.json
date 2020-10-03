@@ -1,0 +1,27 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Peek",
+      "dest": "Peek",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "AttachFace",
+      "dest": "AttachFace",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Color",
+      "dest": "Color",
+      "custom_transformation": "JavaColorToIntermediate",
+      "optional": true
+    },
+    {
+      "dest": "AttachPos",
+      "custom_transformation": "JavaShulkerAttachPosToIntermediate"
+    }
+  ]
+}

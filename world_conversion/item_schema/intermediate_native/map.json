@@ -1,0 +1,9 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": false,
+      "item_transformation": "IntermediateMapToNative"
+    }
+  ]
+}

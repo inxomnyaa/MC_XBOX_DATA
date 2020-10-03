@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Poista puhelimesi kuulokkeista Xbox Liveen kirjautumista varten.	#
+xblLogin.AddFriendMessageGearVR=Poista puhelimesi kuulokkeista Xbox Live -ystävien lisäämistä varten.	#
+xblLogin.LoginMessageRift=Poista kuulokkeet Xbox Liveen kirjautumista varten.	#
+xblLogin.AddFriendMessageRift=Poista kuulokkeet Xbox Live -ystävien lisäämistä varten.	#
+xblLogin.ShowGamerCardMessageRift=Poista kuulokkeet pelaajakortin tarkastelemista varten.	#
+
+LostFocus.Rift=Hiiri hävisi! Valitse Minecraft työpöydältä, jos haluat käyttää sitä.	#
+
+vr.controls.HandControllerTracked=Oculus Touch -seuranta päällä	#
+vr.controls.HandControllerTrackingLost=Oculus Touch -seuranta hävinnyt	#
+
+FileBrowser.Rift.Skin=Poista kuulokkeet mukautetun olemuksen valitsemista varten.	#
+FileBrowser.Rift.TemplateResource=Irrota kuulokkeet malliresurssin valitsemiseksi.	#
+FileBrowser.Rift.Export=Poista kuulokkeet maailmasi vientiä varten.	#
+FileBrowser.Rift.Import=Poista kuulokkeet maailmasi tuontia varten.	#
+FileBrowser.Rift.ExportBook=Poista kuulokkeet kirjasi vientiä varten.	#
+FileBrowser.Rift.ExportPortfolio=Poista kuulokkeet portfoliosi vientiä varten.	#
+FileBrowser.Rift.FileChooser=Valitse tiedosto	#
+FileBrowser.Rift.FolderChooser=Valitse kansio	#
+FileBrowser.Rift.ExportWorld=Vie maailma	#
+FileBrowser.Rift.ExportResourcesPrompt=Poista kuulokkeet näiden resurssien viemistä varten.	#
+FileBrowser.Rift.ExportResources=Vie resurssit	#
+FileBrowser.Rift.SkinChooser=Valitse olemus	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR-asetukset	#
+options.vrHideHud=Piilota heijastusnäyttö	#
+options.vrHideHand=Piilota käsi	#
+options.vrHideGUI=Piilota GUI VR:ssä	#
+options.vrGamma=VR-kirkkaus	#
+options.vrMsaa=VR − laskostumisen esto	#
+options.vrRenderDistance=VR − renderointietäisyys	#
+options.vrParticleRenderDistance=VR − hiukkasten renderointietäisyys	#
+options.vrResetPlayerAlignment=Alusta VR-tasaus	#
+options.vrHMDdisplacement=Käytä HMD-siirtämistä liikkumiseen	#
+options.vrHeadSteering=VR − pääohjaus	#
+options.vrTurningOptions=Kääntymisasetukset	#
+options.StutterTurn=VR-kääntyminen	#
+options.StutterTurnSound=VR-kääntymisääni	#
+options.StutterConstantAngleOrTime=VR-kääntyminen − vakioaikatila	#
+options.3DRendering=3D-renderointi	#
+options.vrHudAtTop=HUD päällimmäisenä	#
+options.vrAutojump=VR − automaattinen hyppy	#
+options.vrLinearJump=VR − lineaarinen hyppy	#
+options.vrLinearMotion=VR − lineaarinen liike	#
+options.stickyMining=Jatkuva kaivuu	#
+options.stickyMiningHand=Jatkuva kaivuu käsiohjaimelle	#
+options.vrMovingBackwardsHardStop=Välitön pysäytys liikuttaessa takaperin	#
+options.comfortControls=VR-ohjaus	#
+options.ShowComfortSelectScreen=Näytä ohjausvalintanäyttö	#
+options.vrHudDrifts=Kelluva HUD	#
+options.vrLivingRoomCursorCentered=VR − olohuonekursori keskitetty	#
+options.vrTapTurn=Napautuskääntyminen	#
+options.vrTapTurnSensitivity=Napautuskääntymisen herkkyys	#
+options.vrRollTurning=Vierityskääntyminen	#
+options.vrRollTurnSensitivity=Vierityskääntymisen herkkyys	#
+options.vrHandControlsItem=Käsiohjainohjaus − esine	#
+options.vrHandControlsHUD=Käsiohjainohjaus − HUD	#
+options.vrHandPointer=Käsiohjaimen osoitin näkyvissä	#
+options.vrHandsVisible=Kädet näkyvissä	#
+options.vr180Turning=Käännä keppi 180	#
+options.vrMirrorTexture=Ota peilitekstuuri käyttöön	#
+options.vrSensitivity=VR-herkkyys	#
+options.vrUIMouseSensitivity=VR − käyttöliittymän herkkyys	#
+
+## VR control Scheme Strings
+vr.controls.title=VR-ohjaus	#
+
+vr.controls.title.classic=Klassinen ohjaus − intensiivinen	#
+vr.controls.title.experimental=VR-ohjaus − keskitaso	#
+vr.controls.classicDescription=Klassinen hyppääminen ja kääntyminen, ei mukautettu VR:ää varten. Sen mukavuustaso on useimmille ihmisille intensiivinen.	#
+vr.controls.experimentalDescription=Kääntyminen tapahtuu asteittain. Kursori ja hyppääminen on mukautettu VR:ään, mikä parantaa mukavuutta liikkumisen aikana useimmille ihmisille (työ kesken).	#
+vr.controls.sharedDescription=Ohjausta voidaan muuttaa myös pelissä asetukset-valikon kautta.	#
+vr.moreOptions=Lisäasetukset...	#
+vr.moreInformation=Lisätietoja...	#
+vr.detailedInformation=Monia peliominaisuuksia on muutettu mukavamman VR-kokemuksen saavuttamiseksi. Esimerkiksi VR-kääntyminen on ominaisuus, joka tekee kääntymisliikkeestä asteittaisen hämmentymisen ehkäisemiseksi.	#
+vr.detailedInformationLink=Lisätietoja VR-ohjauksesta ja kurkistus kulissien taakse löytyvät osoitteesta minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Keskitä laite uudelleen	#
+vr.pausescreen.recenterDeviceKeyboard=Keskitä laite uudelleen napsauttamalla N	#
+vr.warning.controllerRequired=Peliohjainta vaaditaan	#
+vr.warning.controllerRecommended=VR:n kanssa suositellaan käytettäväksi peliohjainta	#
+vr.warning.controllerOrMouseRecommended=VR:n kanssa suositellaan käytettäväksi hiirtä tai peliohjainta	#
+vr.warning.exitGameWarning=Haluatko poistua Minecraftista?	#
+vr.alignscreen.pressButtonX=Jatka painamalla ohjaimesi X-painiketta	#
+vr.alignscreen.pressButtonXOrMouse=Jatka napsauttamalla tai painamalla mitä tahansa ohjaimesi painiketta	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Jatka painamalla peliohjaimesi A-painiketta tai Windows Mixed Reality -ohjaimesi select-painiketta	#
+vr.alignscreen.pressAnyButton=Käännä pääsi neutraaliin asentoon ja paina mitä tahansa painiketta	#
+vr.alignscreen.info=Huom: tämä työ on kesken. VR saattaa aiheuttaa epämukavuutta joillekin ihmisille. Muista pitää taukoa riittävän usein ja käyttää olohuonetilaa napauttamalla kosketuslevyä vähemmän intensiivistä näkymää varten.	#
+vr.alignscreen.info_viewbutton=Huom: tämä työ on kesken. VR saattaa aiheuttaa epämukavuutta joillekin ihmisille. Muista pitää taukoa riittävän usein ja käyttää olohuonetilaa painamalla suuntaohjainta ylöspäin vähemmän intensiivistä näkymää varten.	#
+
+accessibility.gamepad.button.systemLeft=select-painike	#
+accessibility.gamepad.button.systemRight=start-painike	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Haluatko varmasti poistua?	#
+ori.confirm.update=Päivitä Minecraft?	#
+ori.pending=Odotetaan Windows-päivityksen loppumista.	#
+ori.installing=Asennetaan...	#
+ori.updating=Päivitetään...	#
+ori.launching=Käynnistetään!	#
+ori.check_for_update=Etsitään päivityksiä...	#
+ori.error.unavailable=Minecraftiin ei saatu yhteyttä. Varmista, että olet yhteydessä internetiin ja kirjautuneena kauppaan.	#
+ori.error.unknown=Tuntematon virhe. Yritä myöhemmin uudelleen.	#
+ori.error.not_supported=Tämä järjestelmä ei tue Minecraftia.	#
+ori.error.launch_failure=Minecraftin käynnistäminen epäonnistui.	#
+ori.error.version=Minecraft-versiosi on vanhentunut. Päivitä se, jotta voit pelata.	#
+ori.error.win10=Peliin vaaditaan Windows 10:n versio 1607 tai uudempi.	#
+ori.error.install_error=Tapahtui virhe. Virhekoodi: 0x	#
+ori.error.low_storage=Asennusta ei voida suorittaa. Vapaata tilaa ei ole riittävästi.	#
+ori.error.no_internet=Yhdistäminen epäonnistui. Tarkista internet-yhteytesi.	#
+ori.error.winUpdateDisabled=Windowsin päivityksen on oltava käytössä.	#
+ori.confirm.controls.controller.confirm=Vahvista	#
+ori.confirm.controls.controller.cancel=Peruuta	#
+ori.confirm.controls.keyboard.confirm=Vahvista: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Peruuta: [Esc]	#
+ori.exit.controls.controller=Poistu	#
+ori.exit.controls.keyboard=Poistu: [Enter]	#
+ori.cancelling=Peruutetaan...	#
+

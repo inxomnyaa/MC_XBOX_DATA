@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=bouton moins	#
+accessibility.gamepad.button.systemRight=bouton plus	#
+accessibility.gamepad.dpad.down=Bouton Bas	#
+accessibility.gamepad.dpad.up=Bouton Haut	#
+accessibility.gamepad.dpad.left=Bouton Gauche	#
+accessibility.gamepad.dpad.right=Bouton Droite	#
+accessibility.gamepad.trigger.right=bouton ZR	#
+accessibility.gamepad.trigger.left=bouton ZL	#
+accessibility.gamepad.bumper.right=bouton R	#
+accessibility.gamepad.bumper.left=bouton L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Paramètres du compte Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Paramètres du compte Microsoft	#
+
+patchNotice.title=Bienvenue sur Minecraft – Ne ratez pas du super contenu!	#
+patchNotice.description.onlineFeatures=Connectez votre Nintendo Switch à Internet pour accéder à de nouvelles façons de jouer!	#
+patchNotice.description.onlineFeatures.item1=* Téléchargez les packs DLC gratuits que vous avez reçus lors de l'achat du jeu.	#
+patchNotice.description.onlineFeatures.item2=* Découvrez les créations de la communauté dans le marché pour de nouvelles façons de jouer.	#
+patchNotice.description.onlineFeatures.item3=* Jouez en ligne avec vos amis (même sur d'autres appareils)!	#
+patchNotice.description.onlineFeatures.item4=* Effectuez une mise à jour du jeu pour accéder à de nouvelles fonctionnalités, à du nouveau contenu et à des améliorations, notamment...	#
+patchNotice.description.freeUpdates.item1=* De nouveaux blocs!	#
+patchNotice.description.freeUpdates.item2=* De nouveaux objets!	#
+patchNotice.description.freeUpdates.item3=* De nouvelles créatures!	#
+patchNotice.description.freeUpdates.item4=* De nouvelles créations de structures!	#
+patchNotice.description.freeUpdates.item5=* De nouvelles versions de biomes!	#
+patchNotice.description.onlineFeatures.item5=Une mise à jour est disponible! Veuillez connecter votre Nintendo Switch à Internet pour recevoir cette mise à jour gratuite!	#
+
+thirdPartyConsole.network.networkName=Compte Nintendo	#
+thirdPartyConsole.adhoc.title=Choix du mode réseau	#
+thirdPartyConsole.adhoc.desc=Sélectionnez le réseau local pour vous connecter à d'autres consoles Nintendo Switch à proximité ou le réseau en ligne pour retrouver vos amis du monde entier!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Connexion à	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Réseau en ligne	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Connexion à	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Réseau local	#
+thirdPartyConsole.adhoc.onlineNetwork=Réseau en ligne	#
+thirdPartyConsole.adhoc.localNetwork=Réseau local	#
+thirdPartyConsole.adhoc.enableOnline=Activer le réseau en ligne	#
+thirdPartyConsole.adhoc.enableLocal=Activer le réseau local	#
+thirdPartyConsole.adhoc.inprogress=Nous procédons à de rapides changements. Un instant...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Trop de manettes sont connectées.	#
+thirdPartyConsole.adhoc.controllerwarning=Le mode réseau local peut prendre en charge un maximum de 2 manettes sans fil connectées (2 manettes Joy-Con ou 2 manettes pro). Toute manette excédentaire a été déconnectée.	#
+thirdPartyConsole.adhoc.store=Les fonctionnalités du magasin sont désactivées en mode réseau local.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Se connecter à un compte Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Vous devez vous connecter au réseau en ligne pour vous connecter à un compte Microsoft.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Connexion	#
+thirdPartyConsole.startmenuscreen.xblsignin=Se connecter avec un compte Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Connexion au compte Microsoft	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Se connecter avec un compte Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Connexion au compte Nintendo	#
+thirdPartyConsole.notsignedin=Vous n'êtes pas connecté à votre compte Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Vous n'êtes pas connecté et vous ne pourrez pas remporter de succès.	#
+thirdPartyConsole.notsignedin.store=Vous aurez besoin d'un compte Nintendo pour naviguer dans le magasin.	#
+thirdPartyConsole.notsignedin.serversTab=Rendez-vous en ligne pour essayer les serveurs Minecraft, des mondes gigantesques gérés par la communauté qui vous permettent d'affronter vos amis (et vos amis-ennemis) ou de collaborer avec eux, de flâner dans de grands lobbys avec d'autres joueurs et d'explorer de vastes mondes personnalisés.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Connectez-vous avec votre compte Nintendo pour jouer entre amis.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Ce compte n'est pas autorisé à rejoindre une partie multijoueur sur Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Vous devez être amis avec un joueur de cette partie pour la rejoindre.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=La connexion au service en ligne Nintendo Switch a été interrompue. Connectez-vous au menu principal et redémarrez votre monde afin que vos amis sur Nintendo puissent le voir.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Votre monde n'est plus visible sur le réseau local. Veuillez redémarrer le mode local sur le menu principal et redémarrer votre monde afin de le rendre visible aux joueurs locaux.	#
+networkWorld.add_friend=Trouver des amis en mode multiplateforme	#
+networkWorld.find_cross_platform_friends=Trouver des amis en mode multiplateforme	#
+networkWorld.joinable_nintendo_friends_label=Amis disponibles sur Nintendo Switch	#
+networkWorld.joinable_cross_platform_friends_label=Amis disponibles en mode multiplateforme	#
+networkWorld.no_xbl_label=Vous ne pouvez pas rejoindre une partie multiplateforme sans avoir de compte Microsoft. Connectez-vous à un compte Microsoft pour rejoindre les mondes de vos amis.	#
+networkWorld.no_thirdParty_label.no_subscription=Vous n'êtes pas connecté aux services en ligne Nintendo Switch. Vous devrez vous abonner aux services en ligne Nintendo Switch pour utiliser les fonctionnalités en ligne. Vous pouvez procéder à l'achat sur le Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Vous n'êtes pas connecté au service en ligne Nintendo Switch. Vous ne pourrez pas rejoindre les parties multijoueurs de vos amis. Connectez-vous au service en ligne Nintendo Switch pour rejoindre les mondes de vos amis.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Vous ne pouvez pas jouer en mode multijoueur en ligne en raison d'une restriction du contrôle parental. Vous pouvez afficher et gérer les paramètres multijoueurs dans la section « Communication entre utilisateurs » du contrôle parental.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Vous ne pouvez pas jouer en mode multijoueur en réseau local en raison d'une restriction du contrôle parental. Vous pouvez afficher et gérer les paramètres multijoueurs dans la section « Communication entre utilisateurs » du contrôle parental.	#
+permissions.AddFriendsThirdParty=Vous ne pouvez pas ajouter d'amis en raison d'une restriction du contrôle parental. Vous pouvez afficher et gérer les paramètres multijoueurs dans la section « Communication entre utilisateurs » du contrôle parental.	#
+permissions.MultiplayerSessionsThirdParty=Vous ne pouvez pas jouer dans des Realms en raison d'une restriction du contrôle parental. Vous pouvez afficher et gérer les paramètres multijoueurs dans la section « Communication entre utilisateurs » du contrôle parental.	#
+options.dev_switch_coin_debug=Activez le débogage de l'achat eShop lors de l'ajout de pièces	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Vous n'êtes pas connecté aux services en ligne Nintendo Switch. Vous devrez vous abonner aux services en ligne Nintendo Switch pour utiliser les fonctionnalités en ligne. Vous pouvez procéder à l'achat sur le Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Vous n'êtes pas connecté aux services Nintendo Switch Online. Vos amis sur Nintendo ne pourront pas rejoindre votre monde multijoueur. Connectez-vous à Nintendo Switch Online afin de jouer avec vos amis.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Une erreur est survenue lors du changement de votre appareil pour le mode de réseau local. Vérifiez que le mode avion n'est pas activé, puis redémarrez le mode local afin de le rendre visible aux joueurs locaux.	#
+createWorldScreen.check_internet_connection=Votre console Nintendo Switch n'est pas connectée à Internet. Vos amis ne pourront pas rejoindre vos mondes multijoueurs. Connectez votre Nintendo Switch à Internet afin d'utiliser les fonctionnalités en ligne.	#
+invite.notification.description=%s vous invite à jouer à Minecraft. Appuyez sur - pour répondre.	#
+network.thirdparty.connect.benefit=Vous connecter à votre compte Nintendo? L'utilisation des services en ligne requiert un compte Nintendo.	#
+networkWorld.check_internet_connection=Votre console Nintendo Switch n'est pas connectée à Internet. Vous ne pourrez pas rejoindre les parties multijoueurs de vos amis. Connectez votre Nintendo Switch à Internet afin d'utiliser les fonctionnalités en ligne.	#
+networkWorld.check_internet_connection.no_subscription=Vous n'êtes pas connecté aux services en ligne Nintendo Switch. Vous devrez vous abonner aux services en ligne Nintendo Switch pour utiliser les fonctionnalités en ligne. Vous pouvez procéder à l'achat sur le Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Vous n'êtes pas connecté au service en ligne Nintendo Switch. Vous ne pourrez pas rejoindre les parties multijoueurs de vos amis. Connectez-vous au service en ligne Nintendo Switch pour rejoindre les mondes de vos amis.	#
+disconnectionScreen.realmsDisabled=Les Realms sont désactivés en mode Switch.	#
+disconnectionScreen.noNSO.title=Services en ligne Nintendo Switch requis	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Pour jouer en mode multijoueur avec écran partagé sans abonnement aux services en ligne Nintendo Switch, désactivez l'option « Multijoueur » dans les paramètres de jeu. Pour jouer en mode multijoueur avec écran partagé en ligne, vous devez posséder un abonnement aux services en ligne Nintendo Switch. Cet abonnement peut être acheté dans le Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Vous n'êtes pas connecté aux services en ligne Nintendo Switch. Vous devrez vous abonner aux services en ligne Nintendo Switch pour jouer en mode multijoueur. Vous pouvez procéder à l'achat sur le Nintendo eShop.	#
+options.xboxlivevisible=Visible des joueurs en mode multiplateforme	#
+options.achievementsDisabled=Vous ne pouvez pas remporter de succès dans ce monde.	#
+permissions.RealmsAddFriends=La configuration de votre compte Microsoft ne vous permet pas d'inviter de nouveaux amis à rejoindre votre Realm. Vous pouvez modifier ce paramètre dans les paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings. Souhaitez-vous continuer?	#
+permissions.CloudSave=La configuration de votre compte Microsoft ne vous permet pas de sauvegarder vos mondes. Vous pouvez modifier ce paramètre dans les paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Les paramètres de votre compte Microsoft ne permettent pas les parties multijoueurs. Veuillez vérifier vos paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings afin de vous assurer que vos paramètres permettent les parties multijoueurs. 	#
+store.purchase.syncInProgress=Synchronisation des achats du Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Vous devez avoir %s pièces de plus pour déverrouiller ce pack.	#
+xbox.signin.newaccount.welcome=Bienvenue!	#
+xbox.signin.legalinfo=Vous vous êtes connecté à Minecraft au moyen d'un profil Xbox Live. Modifiez vos paramètres Xbox Live et apprenez-en davantage sur http://aka.ms/accountsettings. Le contrat de services Microsoft et l'énoncé de confidentialité s'appliquent. 	#
+xbox.failedsignin.line2=Si vous jouez sans vous connecter, vous ne pourrez pas remporter des succès, rejoindre des Realms ou accéder à des serveurs.	#
+xbox.failedautosignin.message=Oups! La connexion automatique a échoué. Vous devrez vous connecter de nouveau manuellement afin d'accéder à votre compte Microsoft.	#
+xbox.signInLong=Connexion gratuite!	#
+xbox.signOutLong=Vous déconnecter de votre compte Microsoft	#
+xbox.thirdpartysignin.line2=Vous devez vous connecter avec un compte Microsoft pour vous connecter aux autres!	#
+xbox.profile.realName=Si vous souhaitez afficher votre vrai nom, gérez vos paramètres de confidentialité sur http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Enlever l'ami	#
+autosave.info.xbox=Si vous voyez cette icône, c'est que nous sauvegardons votre partie. N'éteignez pas votre console Nintendo Switch lorsque cette icône est affichée.	#
+progressScreen.message.leaveLevel=Votre partie est en cours de sauvegarde. Veuillez ne pas éteindre votre console Nintendo Switch.	#
+feed.report_xbox=Signaler à l'équipe de contrôle	#
+
+howtoplay.multiplayer.text.1=Minecraft est à son meilleur lorsque vous créez entre amis! Tous les paramètres par défaut de votre monde permettent à vos amis de vous rejoindre. Sur la console Nintendo Switch, vous pouvez jouer en mode multijoueur avec vos amis jouant sur Nintendo et avec vos amis jouant sur d'autres appareils. Découvrez ici toutes les façons de jouer en mode multijoueur!	#
+howtoplay.multiplayer.text.2.splitscreen=Jusqu'à trois joueurs supplémentaires peuvent rejoindre votre partie à tout moment! Commencez votre monde et dites à vos amis d'activer leurs manettes et d'appuyer sur n'importe quel bouton pour vous rejoindre. Assurez-vous que chaque joueur aient deux manettes Joy-Con. Vous devez avoir la gauche et la droite, ou tout autre manette complète fonctionnant sur Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft offre trois façons de jouer en ligne en mode multijoueur. Vous pouvez jouer dans un Realm, sur un serveur ou dans votre propre monde. Si vous êtes abonné aux services en ligne Nintendo Switch et que vous êtes connecté avec votre compte Microsoft, vos amis peuvent rejoindre votre monde à partir d'autres appareils! Un compte Microsoft est requis pour les Realms et les serveurs.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft offre trois façons de jouer en ligne en mode multijoueur. Vous pouvez jouer dans un Realm, sur un serveur ou dans votre propre monde. Si vous vous connectez avec votre compte Nintendo et votre compte Microsoft, vos amis peuvent rejoindre votre monde à partir d'autres appareils! Un compte Microsoft est requis pour les Realms et les serveurs.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Si vous êtes abonné aux services en ligne Nintendo Switch et que vous êtes connecté avec votre compte Microsoft, vos amis peuvent rejoindre votre monde à partir d'autres appareils!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Si vous vous connectez avec votre compte Nintendo et votre compte Microsoft, vos amis peuvent rejoindre votre monde à partir d'autres appareils!	#
+howtoplay.multiplayer.text.4=Pour rejoindre une partie multijoueur, rendez-vous à l'onglet des Amis! Tous les mondes et les Realms disponibles de vos amis s'afficheront si vous êtes en mode en ligne. Si vous êtes en mode Ad hoc, les parties ponctuelles de vos amis apparaîtront aussi dans cette liste.	#
+howtoplay.multiplayer.text.4.norealms=Pour rejoindre une partie multijoueur, rendez-vous à l'onglet des Amis! Tous les mondes disponibles de vos amis s'afficheront si vous êtes en mode en ligne. Si vous êtes en mode Ad hoc, les parties ponctuelles de vos amis apparaîtront aussi dans cette liste.	#
+howtoplay.multiplayer.text.5=Si vous commencez ou que vous rejoignez une partie en ligne, elle sera visible à tous vos amis, et aux amis de vos amis de votre compte Microsoft. Pour régler les paramètres multijoueurs et multiplateformes de votre monde, appuyez sur le bouton Modifier de votre monde et cliquez sur Multijoueur. 	#
+howtoplay.multiplayer.text.7=Accordez à vos amis des capacités spéciales dans votre monde, ou empêchez-les de toucher à tout. Par défaut, tous vos amis entrent dans votre monde en tant que membre. Ouvrez le menu de mode pause pour afficher une liste des amis situés dans votre monde, puis cliquez sur l'icône à la droite de leur nom pour modifier leurs permissions dans votre monde.	#
+howtoplay.multiplayer.header.adhoc=Mode Ad hoc	#
+howtoplay.multiplayer.text.adhoc=Vous souhaitez jouer avec vos amis, mais vous n'êtes pas sur le même appareil? Activez le mode Ad hoc de votre Nintendo Switch depuis le menu principal, en appuyant sur :_gamepad_face_button_left:. Rendez-vous à l'onglet des Amis du menu Jouer pour afficher les parties d'amis à proximité, ou commencez vous-même une nouvelle partie et vos amis à proximité pourront vous rejoindre!	#
+howtoplay.theStore.text.4.norealms=Donnez un nouveau style à vos anciennes parties grâce à des packs de textures qui peuvent se superposer à vos mondes existants!	#
+howtoplay.theStore.text.5.norealms=Ou essayez tout ça avec les packs mash-up. Ceux-ci sont des collections de skins, de mondes et de textures soigneusement choisis qui, lorsque combinés, transformeront vos mondes!	#
+
+trial.tabbed_upsell.xbl.title=Il y a plus!	#
+
+connect_gamepad.pressButtonToContinue=Une manette pro ou une paire de Joy-Con (L)/(R) est requise pour continuer.	#
+connect_gamepad.adhocMaxControllers=Vous ne pouvez utiliser qu'une manette pro ou qu'une paire de Joy-Con (L)/(R) en communication sans fil locale. Veuillez éteindre toutes les manettes excédentaires.	#
+connect_gamepad.requireControllerReconfiguration=Chaque joueur doit avoir une manette pro ou une paire de Joy-Con (L)/(R). Veuillez éteindre toute manette Joy-Con excédentaire qui ne fait pas partie d'une paire.	#
+connect_gamepad.handheldModeNoSplitscreen=Une manette additionnelle a été détectée, mais le mode multijoueur sur écran partagé n'est pas disponible en mode portable. Détachez les manettes Joy-Con pour quitter le mode portable ou éteignez toutes les manettes excédentaires.	#
+connect_gamepad.promptHandheldMode=Les manettes Joy-Con ont été liées à la console. Souhaitez-vous activer le mode portable? Si oui, vous quitterez le mode multijoueur sur écran partagé. Appuyez sur OK pour arrêter le mode multijoueur sur écran partagé et activer le mode portable, ou sélectionnez Annuler pour déconnecter les manettes Joy-Con du jeu et les charger.	#

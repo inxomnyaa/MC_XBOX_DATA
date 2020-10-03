@@ -1,0 +1,313 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "alex_hair/alex_hair.meta.json"
+        },
+        {
+            "path": "alex_hair/alex_hair.png"
+        },
+        {
+            "path": "alex_hair/alex_hair.store_info.json"
+        },
+        {
+            "path": "alex_hair/alex_hair_head.png"
+        },
+        {
+            "path": "alex_hair/alex_hair_head_tintmap.tga"
+        },
+        {
+            "path": "alex_hair/alex_hair_tintmap.tga"
+        },
+        {
+            "path": "alex_pants/alex_pants.meta.json"
+        },
+        {
+            "path": "alex_pants/alex_pants.png"
+        },
+        {
+            "path": "alex_pants/alex_pants.store_info.json"
+        },
+        {
+            "path": "alex_pants/alex_pants_tintmap.tga"
+        },
+        {
+            "path": "alex_shirt/alex_shirt.meta.json"
+        },
+        {
+            "path": "alex_shirt/alex_shirt.png"
+        },
+        {
+            "path": "alex_shirt/alex_shirt.store_info.json"
+        },
+        {
+            "path": "alex_shirt/alex_shirt_tintmap.tga"
+        },
+        {
+            "path": "alex_shoes/alex_shoes.meta.json"
+        },
+        {
+            "path": "alex_shoes/alex_shoes.png"
+        },
+        {
+            "path": "alex_shoes/alex_shoes.store_info.json"
+        },
+        {
+            "path": "alex_shoes/alex_shoes_tintmap.tga"
+        },
+        {
+            "path": "alex_skin/alex_skin.store_info.json"
+        },
+        {
+            "path": "alex_skin/skin_alex.meta.json"
+        },
+        {
+            "path": "alex_skin/skin_alex.png"
+        },
+        {
+            "path": "alex_skin/skin_alex_head.png"
+        },
+        {
+            "path": "alex_skin/skin_alex_head_tintmap.tga"
+        },
+        {
+            "path": "alex_skin/skin_alex_tintmap.tga"
+        },
+        {
+            "path": "body/medium/clothing_map.tga"
+        },
+        {
+            "path": "body/medium/face_clothing_map.tga"
+        },
+        {
+            "path": "body/medium/medium.geometry.json"
+        },
+        {
+            "path": "body/medium/medium.meta.json"
+        },
+        {
+            "path": "body/medium_skeleton/medium_skeleton.geometry.json"
+        },
+        {
+            "path": "body/medium_skeleton/medium_skeleton.meta.json"
+        },
+        {
+            "path": "body/small/clothing_map.tga"
+        },
+        {
+            "path": "body/small/face_clothing_map.tga"
+        },
+        {
+            "path": "body/small/small.geometry.json"
+        },
+        {
+            "path": "body/small/small.meta.json"
+        },
+        {
+            "path": "body/smaller/clothing_map.tga"
+        },
+        {
+            "path": "body/smaller/face_clothing_map.tga"
+        },
+        {
+            "path": "body/smaller/smaller.geometry.json"
+        },
+        {
+            "path": "body/smaller/smaller.meta.json"
+        },
+        {
+            "path": "body/smaller_skeleton/smaller_skeleton.geometry.json"
+        },
+        {
+            "path": "body/smaller_skeleton/smaller_skeleton.meta.json"
+        },
+        {
+            "path": "body/small_skeleton/small_skeleton.geometry.json"
+        },
+        {
+            "path": "body/small_skeleton/small_skeleton.meta.json"
+        },
+        {
+            "path": "body/tall/clothing_map.tga"
+        },
+        {
+            "path": "body/tall/face_clothing_map.tga"
+        },
+        {
+            "path": "body/tall/tall.geometry.json"
+        },
+        {
+            "path": "body/tall/tall.meta.json"
+        },
+        {
+            "path": "body/tall_skeleton/tall_skeleton.geometry.json"
+        },
+        {
+            "path": "body/tall_skeleton/tall_skeleton.meta.json"
+        },
+        {
+            "path": "plain_eyes/plain.meta.json"
+        },
+        {
+            "path": "plain_eyes/plain_blink_head.png"
+        },
+        {
+            "path": "plain_eyes/plain_blink_head_tintmap.tga"
+        },
+        {
+            "path": "plain_eyes/plain_eyes.store_info.json"
+        },
+        {
+            "path": "plain_mouth/plain_head.png"
+        },
+        {
+            "path": "plain_mouth/plain_head_tintmap.tga"
+        },
+        {
+            "path": "plain_mouth/plain_mouth.meta.json"
+        },
+        {
+            "path": "plain_mouth/plain_mouth.store_info.json"
+        },
+        {
+            "path": "steve_hair/steve_hair.meta.json"
+        },
+        {
+            "path": "steve_hair/steve_hair.store_info.json"
+        },
+        {
+            "path": "steve_hair/steve_hair_head.png"
+        },
+        {
+            "path": "steve_hair/steve_hair_head_tintmap.tga"
+        },
+        {
+            "path": "steve_pants/steve_pants.meta.json"
+        },
+        {
+            "path": "steve_pants/steve_pants.png"
+        },
+        {
+            "path": "steve_pants/steve_pants.store_info.json"
+        },
+        {
+            "path": "steve_pants/steve_pants_tintmap.tga"
+        },
+        {
+            "path": "steve_shirt/steve_shirt.meta.json"
+        },
+        {
+            "path": "steve_shirt/steve_shirt.png"
+        },
+        {
+            "path": "steve_shirt/steve_shirt.store_info.json"
+        },
+        {
+            "path": "steve_shirt/steve_shirt_tintmap.tga"
+        },
+        {
+            "path": "steve_shoes/steve_shoes.meta.json"
+        },
+        {
+            "path": "steve_shoes/steve_shoes.png"
+        },
+        {
+            "path": "steve_shoes/steve_shoes.store_info.json"
+        },
+        {
+            "path": "steve_shoes/steve_shoes_tintmap.tga"
+        },
+        {
+            "path": "steve_skin/skin_steve.meta.json"
+        },
+        {
+            "path": "steve_skin/steve_skin.png"
+        },
+        {
+            "path": "steve_skin/steve_skin.store_info.json"
+        },
+        {
+            "path": "steve_skin/steve_skin_head.png"
+        },
+        {
+            "path": "steve_skin/steve_skin_head_tintmap.tga"
+        },
+        {
+            "path": "steve_skin/steve_skin_tintmap.tga"
+        },
+        {
+            "path": "straight/straight.meta.json"
+        },
+        {
+            "path": "straight/straight.store_info.json"
+        },
+        {
+            "path": "straight/straight_head.png"
+        },
+        {
+            "path": "straight/straight_head_tintmap.tga"
+        },
+        {
+            "path": "textures/textures_list.json"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/arms.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/back_accessory.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/body_size.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/bottoms.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/capes.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/emotes.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/eyes.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/face_accessory.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/facial_hair.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/feet.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/hair.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/hands.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/head.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/legs.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/mouth.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/outerwear.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/skin_texture.png"
+        },
+        {
+            "path": "textures/ui/subcategory_icons/tops.png"
+        }
+    ]
+}

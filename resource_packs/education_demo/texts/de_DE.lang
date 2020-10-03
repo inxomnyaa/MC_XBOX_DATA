@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Danke fürs Spielen! Dies ist eine Demo-Lektion, weshalb dein Fortschritt nicht gespeichert wird.	#
+
+edu_demo.tip.1=Die Regenwälder sind die Heimat von mehr als der Hälfte aller Landlebewesen unseres Planeten.	#
+edu_demo.tip.2=Für mehr als ein Viertel der Weltbevölkerung ist der Wald die direkte Lebensgrundlage und sie sind auf ihn angewiesen.	#
+edu_demo.tip.3=Es braucht drei Dinge, um ein Feuer am Brennen zu halten: Brennstoff, Sauerstoff und eine Wärmequelle.	#
+edu_demo.tip.4=Feuer, vor allem in Torflandschaften und dichten Wäldern, setzen riesige Mengen Kohlenstoffdioxid frei.	#
+edu_demo.tip.5=Computern muss das Lernen auf ähnliche Weise wie Schülern beigebracht werden!	#
+edu_demo.tip.6=KI wird eingesetzt, um Daten über Wälder zu sammeln und zu analysieren. Das geht schneller, als Bäume von Hand zu zählen.	#
+
+menu.quit.edu=LEKTION VERLASSEN	#
+menu.quit.edu.title=Demo-Lektion verlassen	#
+
+start_screen.start_demo=Lektion starten	#
+
+upsell.tab.1.title=Minecraft für Schulen!	#
+upsell.tab.1.body=Gestalte den Unterricht für deine Schüler mit kostenlosen Lektionen und Tutorials, Bewertungsmöglichkeiten, Mehrspieler für ganze Klassen, sicherer Anmeldung und technischer Unterstützung spannender und mitreißender. Beginne deine kostenlose Demoversion der Minecraft: Education Edition noch heute!	#
+upsell.tab.1.button=Mehr erfahren	#
+
+upsell.tab.2.title=Mit Minecraft Programmieren lernen	#
+upsell.tab.2.body=Nutze Minecraft, um deinen Schülern das Programmieren von Computerprogrammen auf spielerische Art und Weise beizubringen. In mehr als 50 Stunden an Unterrichtsmaterialien können Schüler blockbasierten Code und JavaScript schreiben und gleich sehen, wie ihr Code im Spiel lebendig wird!	#
+upsell.tab.2.button=Mit dem Programmieren beginnen	#
+
+upsell.tab.3.title=Zahlreiche kostenlose Lektionen	#
+upsell.tab.3.body=Erkunde Hunderte von Minecraft-Welten und Lektionen, angefangen bei Geschichte über Chemie bis hin zu Informatik und Mathematik. Nutze diese Lektionen als Ausgangspunkt, um deine eigenen Unterrichtsmaterialien zu erschaffen!	#
+upsell.tab.3.button=Zu den Lektionen	#
+
+upsell.tab.4.title=Vermitteln sozialer und emotionaler Kompetenz	#
+upsell.tab.4.body=Schüler lernen, zusammenzuarbeiten, Probleme zu lösen und einfühlsam mit anderen zu kommunizieren. Die Minecraft: Education Edition umfasst auch Funktionen wie den Plastischen Reader, mit dem Lehrkräfte alle Schüler erreichen und einbinden können.	#
+upsell.tab.4.button=Mehr erfahren	#
+
+upsell.tab.5.title=Schließe dich der Community an	#
+upsell.tab.5.body=Nimm an Lehrertrainings teil, tausche dich in sozialen Medien aus und mach in unserer globalen Community mit, um von anderen Lehrkräften zu lernen. Lehrende in über 115 Ländern nutzen Minecraft bereits im Unterricht. Du kannst auch dazugehören!	#
+upsell.tab.5.button=Mach mit	#
+
+lesson.finished=ICH BIN FERTIG	#
+
+lesson.end.dialog.title=Lektion abgeschlossen!	#
+lesson.end.dialog.body.title=GLÜCKWUNSCH	#
+lesson.end.dialog.body.wimages=Du hast ein Abschlusszertifikat erhalten. Schau dir die Fotos dieser Lektion an und speichere dir eine Kopie.	#
+lesson.end.dialog.body.checkport=Schau dir die Fotos dieser Lektion an und speichere dir eine Kopie.	#
+lesson.end.dialog.body.noimages=Du hast ein Abschlusszertifikat erhalten.	#
+lesson.end.dialog.button.morecoding=Mehr Programmieren	#
+lesson.end.dialog.button.getcert=Zertifikat holen	#
+lesson.end.dialog.button.exit=Lektion verlassen	#
+lesson.end.dialog.button.export=Speichern	#
+
+lesson.end.access.imagespreview=Lektionsfoto %1 von %2	#
+lesson.end.access.export=Lektionsfotos exportieren	#

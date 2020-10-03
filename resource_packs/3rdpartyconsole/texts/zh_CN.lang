@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=- 按钮	#
+accessibility.gamepad.button.systemRight=+ 按钮	#
+accessibility.gamepad.dpad.down=向下按键	#
+accessibility.gamepad.dpad.up=向上按键	#
+accessibility.gamepad.dpad.left=向左按键	#
+accessibility.gamepad.dpad.right=向右按键	#
+accessibility.gamepad.trigger.right=ZR 按钮	#
+accessibility.gamepad.trigger.left=ZL 按钮	#
+accessibility.gamepad.bumper.right=R 按钮	#
+accessibility.gamepad.bumper.left=L 按钮	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=任天堂账户设置	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft 账户设置	#
+
+patchNotice.title=欢迎来到《我的世界》，不要错过精彩内容！	#
+patchNotice.description.onlineFeatures=将您的 Nintendo Switch 连接至互联网，畅享全新的游戏方式！	#
+patchNotice.description.onlineFeatures.item1=* 下载您随游戏购买一起收到的免费 DLC 包。	#
+patchNotice.description.onlineFeatures.item2=* 在市场中探索社区创意，改变您的游戏方式。	#
+patchNotice.description.onlineFeatures.item3=* 与好友一道在线畅玩（即便是在其他设备上）！	#
+patchNotice.description.onlineFeatures.item4=* 包含了新功能、新内容以及改进的游戏更新，包括……	#
+patchNotice.description.freeUpdates.item1=* 新的方块！	#
+patchNotice.description.freeUpdates.item2=* 新的物品!	#
+patchNotice.description.freeUpdates.item3=* 新的生物！	#
+patchNotice.description.freeUpdates.item4=* 新的生成建筑物！	#
+patchNotice.description.freeUpdates.item5=* 新的生物群系变种！	#
+patchNotice.description.onlineFeatures.item5=现在有一项可用的游戏更新！请将您的 Nintendo Switch 连接至互联网，获取此免费游戏更新！	#
+
+thirdPartyConsole.network.networkName=任天堂账户	#
+thirdPartyConsole.adhoc.title=选择网络模式	#
+thirdPartyConsole.adhoc.desc=选择本地网络可与附近其他任天堂 Switch 系统连接，或选择在线网络以连接到全球的好友。	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=连接到	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=在线网络	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=连接到	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=本地网络	#
+thirdPartyConsole.adhoc.onlineNetwork=在线网络	#
+thirdPartyConsole.adhoc.localNetwork=本地网络	#
+thirdPartyConsole.adhoc.enableOnline=正在开启在线网络	#
+thirdPartyConsole.adhoc.enableLocal=正在开启本地网络	#
+thirdPartyConsole.adhoc.inprogress=我们正在快速做一些改变。请稍等...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=连接了太多控制器。	#
+thirdPartyConsole.adhoc.controllerwarning=本地网络模式最多支持连接 2 个无线控制器。（2 个 Joy-Con 控制器或 2 个 Pro 控制器）超过此限制的控制器已被断开连接。	#
+thirdPartyConsole.adhoc.store=当在本地网络模式下，商店功能已关闭。	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=登录至 Microsoft 账户？	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=您需要连接到在线网络才能登录至 Microsoft 账户。	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=连接	#
+thirdPartyConsole.startmenuscreen.xblsignin=用 Microsoft 账户登录	#
+thirdPartyConsole.startmenuscreen.xblsigningin=正在登录至 Microsoft 账户	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=用任天堂账户登录	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=正在登录至任天堂账户	#
+thirdPartyConsole.notsignedin=您未登录至任天堂账户。	#
+thirdPartyConsole.notsignedin.achievements=您未登录，无法获得成就。	#
+thirdPartyConsole.notsignedin.store=您需要一个任天堂账户才能浏览商店。	#
+thirdPartyConsole.notsignedin.serversTab=上网试试《我的世界》服务器，一个由社区运作的庞大世界。在这里，你可以与好友（损友）竞争或合作，与其他玩家一起在宽敞的大厅里闲逛，探索广阔的定制世界。	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=请使用您的任天堂账户登录，与好友同玩。	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=此账户没有权限加入任天堂的多人游戏。	#
+thirdPartyConsole.disconnectionscreen.accessDenied=您必须与本游戏中某人是好友才能加入。	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=您已从 Nintendo Switch Online 断开连接。请从主菜单登录，重新打开您的世界，将其广播至您的任天堂好友。	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=您的世界现已不再在本地网络上广播了，请在主菜单中重新开始本地模式，重新打开您的世界以将其广播至本地玩家。	#
+networkWorld.add_friend=找到跨平台好友	#
+networkWorld.find_cross_platform_friends=找到跨平台好友	#
+networkWorld.joinable_nintendo_friends_label=可加入的任天堂 Switch 好友	#
+networkWorld.joinable_cross_platform_friends_label=可加入的跨平台好友	#
+networkWorld.no_xbl_label=如果没有 Microsoft 账户，您将无法加入跨平台游戏。用 Microsoft 账户登录，加入您好友的世界。	#
+networkWorld.no_thirdParty_label.no_subscription=您没有连接到 Nintendo Switch Online 服务。您需要订阅 Nintendo Switch Online 服务才能使用在线功能。您可以在任天堂 eShop 购买此订阅。	#
+networkWorld.no_thirdParty_label.has_subscription=您未连接至任天堂 Switch 在线服务。您将无法加入您好友的多人游戏。登录至 Nintendo Switch Online，加入您好友的世界。	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=由于父母监控的限制，您无法进行在线多人游戏。查看并使用父母监控中的“与他人交流”管理您的多人游戏设置。	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=由于父母监控的限制，你无法进行本地多人游戏。使用父母监控中的“与他人交流”查看并管理你的多人游戏设置。	#
+permissions.AddFriendsThirdParty=由于父母监控的限制，您无法添加好友。查看并使用父母监控中的“与他人交流”管理您的多人游戏设置。	#
+permissions.MultiplayerSessionsThirdParty=由于父母监控的限制，您无法进入领域玩法。查看并使用父母监控中的“与他人交流”管理您的多人游戏设置。	#
+options.dev_switch_coin_debug=在添加硬币时开启调试模式 eShop 购买	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=您没有连接到 Nintendo Switch Online 服务。您需要订阅 Nintendo Switch Online 服务才能使用在线功能。您可以在任天堂 eShop 购买此订阅。	#
+createWorldScreen.disconnectedThirdParty.has_subscription=您没有连接到 Nintendo Switch Online 服务。您的任天堂好友将无法加入您的多人游戏世界。登录至 Nintendo Switch Online 即可与好友畅玩。	#
+createWorldScreen.disconnectedThirdParty.Adhoc=有一个问题将您的设备更改为本地网络模式。请确认飞行模式没有启用，然后重新启动本地模式以使其对本地玩家可见。	#
+createWorldScreen.check_internet_connection=您的任天堂 Switch 没有连接到互联网。您的好友将无法加入您的多人游戏世界。将您的任天堂 Switch 连接到互联网即可享受在线功能。	#
+invite.notification.description=%s 邀请您玩《我的世界》。按 - 回复。	#
+network.thirdparty.connect.benefit=要登录至您的任天堂账户吗？需要一个任天堂账户才能使用在线服务。	#
+networkWorld.check_internet_connection=您的任天堂 Switch 没有连接到互联网。您将无法加入您好友的多人游戏世界。将您的任天堂 Switch 连接到互联网即可享受在线功能。	#
+networkWorld.check_internet_connection.no_subscription=您没有连接到 Nintendo Switch Online 服务。您需要订阅 Nintendo Switch Online 服务才能使用在线功能。您可以在任天堂 eShop 购买此订阅。	#
+networkWorld.check_internet_connection.has_subscription=您未连接至任天堂 Switch 在线服务。您将无法加入您好友的多人游戏。登录至 Nintendo Switch Online，加入您好友的世界。	#
+disconnectionScreen.realmsDisabled=Switch 已禁用领域。	#
+disconnectionScreen.noNSO.title=需要 Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=如果您没有订购 Nintendo Switch Online 但是想分屏玩多人游戏，请前往游戏设置，取消勾选“多人游戏”复选框。如果想玩在线分屏多人游戏，那么您就需要订购 Nintendo Switch Online 服务，此服务可以从 Nintendo eShop 中购买。	#
+disconnectionScreen.noNSO.joinRealm=您没有连接到 Nintendo Switch Online 服务。您需要订阅 Nintendo Switch Online 服务才能玩多人游戏。您可以在任天堂 eShop 购买此订阅。	#
+options.xboxlivevisible=广播到跨平台玩家	#
+options.achievementsDisabled=本世界中无法获得成就。	#
+permissions.RealmsAddFriends=由于您 Microsoft 账户的设置问题，您将无法在您的 Realm 上添加新的好友和您一起玩。您可以在 aka.ms/accountsettings 上的“隐私和在线安全”设置中进行更改。要继续吗？	#
+permissions.CloudSave=由于您 Microsoft 账户的设置问题，您无法将世界保存至您的账户。您可以在 aka.ms/accountsettings 上的“隐私和在线安全”设置中进行更改。	#
+permissions.MultiplayerSessionsOnConsole=您的 Microsoft 账户的设置不允许进行多人游戏。在 aka.ms/accountsettings 上检查您的“隐私和在线安全”设置，使您的设置允许多人游戏。	#
+store.purchase.syncInProgress=正在同步任天堂 eShop 购买...	#
+store.purchase.coinsLeftToBuy=你还需要 %s 个硬币才能解锁这个包。	#
+xbox.signin.newaccount.welcome=欢迎！	#
+xbox.signin.legalinfo=您已使用 Xbox Live 资料连接到《我的世界》。在 http://aka.ms/accountsettings 更改您的 Xbox Live 设置并了解更多内容。 Microsoft 服务协议和隐私声明将适用于此处。	#
+xbox.failedsignin.line2=如果您没有登录便开始游戏，将无法获得成就，加入领域，或者加入服务器。	#
+xbox.failedautosignin.message=哎呀！自动登录失败了。您需要再次手动登录才能访问您的 Microsoft 帐户。	#
+xbox.signInLong=免费注册！	#
+xbox.signOutLong=从您的 Microsoft 账户注销	#
+xbox.thirdpartysignin.line2=您需要用 Microsoft 账户登录才能进行连接！	#
+xbox.profile.realName=在 http://aka.ms/accountsettings 管理您的隐私设置，分享您的真实姓名。	#
+xbox.profile.removeFriend=移除好友	#
+autosave.info.xbox=当您看到此图标时，我们正在保存您的游戏。当屏幕上出现此图标时，请不要关闭您的 任天堂 Switch 主机。	#
+progressScreen.message.leaveLevel=正在保存您的游戏。请不要关闭您的 任天堂 Switch 主机 。	#
+feed.report_xbox=向执法报告	#
+
+howtoplay.multiplayer.text.1=当您与好友一同创造时，《我的世界》是最好的游戏！ 默认情况下，您的所有世界设定都允许您的好友加入。在任天堂 Switch， 您可以与您的任天堂好友以及其他设备上的好友一同进行多人游戏。在这里查看进行多人游戏的所有方式！	#
+howtoplay.multiplayer.text.2.splitscreen=在游玩时，您最多可让三名额外的玩家加入您的游戏！启动您的世界，让您的朋友打开其控制器，按任何按钮即可加入。确保每名玩家都有两个 Joy-Con 控制器。你必须同时拥有左右两个控制器，或与任天堂 Switch 兼容的完整控制器。	#
+howtoplay.multiplayer.text.3.no_subscription=《我的世界》提供了三种主要方式让您进行在线多人游戏。您可以在 Realm、服务器或者您自己的世界中进行多人游戏。当您订阅了 Nintendo Switch Online 并使用您的 Microsoft 账户登录时，您在其他设备上的好友就能够加入您的世界了！Realm 玩法和服务器玩法都需要 Microsoft 账户。	#
+howtoplay.multiplayer.text.3.has_subscription=《我的世界》提供了三种主要方式让您进行在线多人游戏。您可以在 Realm、服务器或者您自己的世界中进行多人游戏。当您用任天堂账户和 Microsoft 账户登录后，您在其他设备上的好友就可以加入您的世界了！Realm 玩法和服务器玩法都要求 Microsoft 账户。	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=当您订阅了 Nintendo Switch Online 并使用您的 Microsoft 账户登录时，您在其他设备上的好友就能够加入您的世界了！	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=当您使用您的任天堂账户和 Microsoft 账户登录时，您在其他设备上的好友就能够加入您的世界了！	#
+howtoplay.multiplayer.text.4=前往好友选项卡，加入多人游戏！当您处于在线模式时，好友的所有可加入的世界和领域都会处于可见状态。当您处于 Adhoc 模式时，您好友的 Adhoc 游戏也会出现在该列表上。	#
+howtoplay.multiplayer.text.4.norealms=若需加入多人游戏，请前往好友选项卡！当您处于在线模式时，将看到您好友的所有可加入世界。当您处于 Adhoc 模式时，您好友的 Adhoc 游戏也会出现在该列表中。	#
+howtoplay.multiplayer.text.5=当您开始或加入一局在线游戏时，它会被广播至您的所有好友，以及您的 Microsoft 账户好友的好友。按您世界上的编辑按钮并点击多人游戏，查看您世界中的跨平台多人游戏设置。	#
+howtoplay.multiplayer.text.7=在您的世界中给予您的好友特殊的能力，或者阻止它们触碰任何东西。在默认情况下，您的所有好友都是作为成员进入您的世界的。打开暂停菜单，查看您的世界中的好友列表，然后点击他们名称右侧的图标，编辑他们在您的世界中的权限。	#
+howtoplay.multiplayer.header.adhoc=Adhoc 模式	#
+howtoplay.multiplayer.text.adhoc=想与好友一起玩，但你们却不在同样的设备上？在主菜单上按 :_gamepad_face_button_left:，将您的任天堂 Switch 切换到 Adhoc 模式。前往游戏菜单中的好友选项卡，查看附近好友的游戏，或者自己开始一局新的游戏并让附近的好友加入您！	#
+howtoplay.theStore.text.4.norealms=使用可以被覆盖在您的当前世界上的材质包，让您的旧游戏焕然一新！	#
+howtoplay.theStore.text.5.norealms=或者对您的世界尝试使用混搭包，后者是由皮肤、世界和材质组成的精选集合，在它们的共同作用下，您的世界将截然不同！	#
+
+trial.tabbed_upsell.xbl.title=还有更多！	#
+
+connect_gamepad.pressButtonToContinue=您需要一对 Pro Controller 或 Joy-Con (L)/(R) 控制器才能继续。	#
+connect_gamepad.adhocMaxControllers=在进行本地无线游戏时，您使用的 Pro Controller 或 Joy-Con (L)/(R) 控制器数量不能超过一对。 请关闭多余的控制器。	#
+connect_gamepad.requireControllerReconfiguration=每个玩家需要一对 Pro Controller 或 Joy-Con (L)/(R) 控制器。 请关闭任何多余的 Joy-Con 控制器。	#
+connect_gamepad.handheldModeNoSplitscreen=系统检测到多余的控制器，手持模式无法支持分屏多人玩家。 您需要取下 Joy-Con 控制器以离开手持模式，或者关闭所有额外控制器。	#
+connect_gamepad.promptHandheldMode=Joy-Con 控制器已连接到主机上。  是否要进入手持模式? 此操作将退出分屏多人游戏模式。  请按“确认”键，停止分屏多人模式并进入手持模式，或者选择“取消”，断开已连接的 Joy-Con 控制器，让其进入充电模式。	#

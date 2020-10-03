@@ -1,0 +1,27 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Peek",
+      "dest": "Peek",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "AttachPos",
+      "dest": "AttachPos",
+      "src_members": [ "intValue" ],
+      "dest_members": [ "TAG_Int" ]
+    },
+    {
+      "src": "AttachFace",
+      "dest": "AttachFace",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "custom_transformation": "ShulkerDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

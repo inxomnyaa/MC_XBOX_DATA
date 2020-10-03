@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "src": "tag.BlockEntityTag.Items",
+      "dest": "Items",
+      "item_transformation": "ConsoleInventoryToIntermediate"
+    }
+  ]
+}

@@ -1,0 +1,2259 @@
+[
+    {
+        "section": "Minecraft",
+        "titles": [
+            {
+                "title": "Head of Minecraft",
+                "names": [
+                    "Helen Chiang"
+                ]
+            },
+            {
+                "title": "Chief Executive Officer",
+                "names": [
+                    "Jonas Mårtensson"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Design",
+        "titles": [
+            {
+                "title": "Chief Creative Officer",
+                "names": [
+                    "Jens Bergensten",
+                    "Saxs Persson"
+                ]
+            },
+            {
+                "title": "Creative Director",
+                "names": [
+                    "John Hendricks"
+                ]
+            },
+            {
+                "title": "Game Directors",
+                "names": [
+                    "Torfi Frans Olafsson"
+                ]
+            },
+            {
+                "title": "Design Director",
+                "names": [
+                    "Craig Leigh"
+                ]
+            },
+            {
+                "title": "Lead Game Designers",
+                "names": [
+                    "Rob Poerschke",
+                    "Robin V Vincent"
+                ]
+            },
+            {
+                "title": "Game Designers",
+                "names": [
+                    "Art Usher",
+                    "Brandon Franklin (Insight Global Inc)",
+                    "Colten Murphy (TEKsystems)",
+                    "Cole Phillips",
+                    "Jared Greiner",
+                    "Jesse A Hibbs (TEKsystems)",
+                    "Lauren E Careccia",
+                    "Melissa Andrews (Insight Global Inc)",
+                    "Michael Stagnitta",
+                    "Pradnesh Patil",
+                    "Stephen A Scott",
+                    "Steve Enos",
+                    "Tod Pang"
+                ]
+            },
+            {
+                "title": "Narrative Designers",
+                "names": [
+                    "Max Herngren"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Programming",
+        "titles": [
+            {
+                "title": "Chief Technology Officers",
+                "names": [
+                    "Michael W Weilbacher",
+                    "Mike Carlson"
+                ]
+            },
+            {
+                "title": "Technical Director",
+                "names": [
+                    "Clayton Vaught",
+                    "Jason Cahill",
+                    "Jason Major",
+                    "Michael J. Ott",
+                    "Nathan Adams",
+                    "Vince Curley"
+                ]
+            },
+            {
+                "title": "Lead Game Developers",
+                "names": [
+                    "Agnes Larsson",
+                    "James S Yarrow",
+                    "Lawrence M. Sanchez II",
+                    "Mark D. Andersen",
+                    "Mikael Hedberg",
+                    "Sebastian Hindefelt",
+                    "Tim Schutz"
+                ]
+            },
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Alex Green (Red Lens Games Inc)",
+                    "Alexander Kandalaft (Insight Global Inc)",
+                    "Alexander Sandor",
+                    "Alexander Torstling",
+                    "Alexander Östman",
+                    "Andrew Griffin (Insight Global Inc)",
+                    "Bartosz Bok",
+                    "Billy Sjöberg",
+                    "Bjarni Gudmundsson",
+                    "Brandon Pearce",
+                    "Chad George",
+                    "Chris Barrett (Apex Systems Inc)",
+                    "Cody Centers (Insight Global Inc)",
+                    "Cory Scheviak",
+                    "Craig Steyn",
+                    "David Dalström",
+                    "Emily Rizzo (Insight Global Inc)",
+                    "Eric Rehmeyer",
+                    "Erik Broes",
+                    "Ethan A Hall (Collabera)",
+                    "Felix Jones",
+                    "Garrett Allen",
+                    "Georgii Gavrichev",
+                    "Hector M Arriaga Pineda",
+                    "Henning Erlandsen",
+                    "Henrik Kniberg",
+                    "Isaac Dayton",
+                    "Jake Shirley",
+                    "James Vanderheiden (Insight Global Inc)",
+                    "Jeffrey Kumley (Insight Global Inc)",
+                    "Joachim Larsson",
+                    "Johannes Busch",
+                    "Josh Letellier",
+                    "Kristoffer Kobosko",
+                    "Matthew Gatland",
+                    "Michael Stoyke",
+                    "Michael “Mikaus“ Whiteley",
+                    "Niclas Unnervik",
+                    "Nilay Karaoglu",
+                    "Nir Vaknin",
+                    "Paul Schierman",
+                    "Pouya Ashraf",
+                    "Spencer Peterson (Insight Global Inc)",
+                    "Thomas Guimbretière",
+                    "Wes Pesetti",
+                    "William Harmon (Insight Global Inc)",
+                    "Zackarias Gustavsson"
+                ]
+            },
+            {
+                "title": "Launcher Developers",
+                "names": [
+                    "Linus Cumselius",
+                    "Lucas Morales",
+                    "Marc Neander",
+                    "Márcio Oliveira",
+                    "Martin Hesselborn",
+                    "Michael Malmqvist",
+                    "Petr Mrázek",
+                    "Sandra Bornemark",
+                    "Piotr Kundu",
+                    "Rasmus Källqvist",
+                    "Danila Dergachevn"
+                ]
+            },
+            {
+                "title": "Architects",
+                "names": [
+                    "Dom Humphrey",
+                    "Mike Frost",
+                    "Michael Seydl",
+                    "Peter M. Wiest",
+                    "Robert Sanchez",
+                    "Tommaso Checchi"
+                ]
+            },
+            {
+                "title": "Lead Bedrock Software Developers",
+                "names": [
+                    "Aaron Heysse",
+                    "Adrian LaVallee",
+                    "Bill Carlson",
+                    "Chad C Meyers",
+                    "Fanny P Vadillo Herrera",
+                    "Greg Snook",
+                    "Henry Golding",
+                    "Jamie Fristrom",
+                    "Jeff McKune",
+                    "John Seghers",
+                    "Jonas Keating",
+                    "Maxime Bouchez",
+                    "Tyler Laing"
+                ]
+            },
+            {
+                "title": "Bedrock Software Developers",
+                "names": [
+                    "A.J. Fairfield",
+                    "Aaron Woodward",
+                    "Adrian T Orszulak",
+                    "Alex Troyer",
+                    "Alexander Wilkinson",
+                    "Andrew Chien (Insight Global Inc)",
+                    "Andy Hill",
+                    "Arend Danielek (TEKsystems)",
+                    "Anna Pearson (Insight Global Inc)",
+                    "Anthony Cloudy",
+                    "Ayannah R Adegeye",
+                    "Curtis Michael Eichner",
+                    "Dan Posluns",
+                    "David Carlton",
+                    "David Cowan",
+                    "David “Lion” Kimbro (Insight Global Inc)",
+                    "Declan Hopkins",
+                    "Drew Okenfuss",
+                    "Emily Koykka",
+                    "Elijah J Emerson",
+                    "Eric Johnston",
+                    "Haronid Moncivais",
+                    "Jaafer Sheriff",
+                    "Jason Orion Burch",
+                    "Jeff Ott",
+                    "Jeison Salazar (Insight Global Inc)",
+                    "John Countouriotis (Populus Group, LLC)",
+                    "John Copic",
+                    "Jonathan R Hoof",
+                    "Jorge Antonio Jimenez (Design Laboratory Inc)",
+                    "Joshua B Davis",
+                    "Kari C Whiteside",
+                    "Kristin A Siu",
+                    "Li Yang (Insight Global Inc)",
+                    "Lucy Lauzon (Collabera)",
+                    "Mark Rowland (Collabera)",
+                    "Matt Staubus",
+                    "Maxwell Orth (Insight Global Inc)",
+                    "Matthew Guze (WaferWire Cloud Technologies)",
+                    "Michael D McGrath",
+                    "Nicholas Curtis",
+                    "Radha Kotamarti",
+                    "Rob Austin",
+                    "Robert Hunt",
+                    "Roman Timurson (Insight Global Inc)",
+                    "Ryan Tyler Rae",
+                    "Semih Energin",
+                    "Taylor M Riviera",
+                    "Tristan H Schneider",
+                    "Will Van Keulen",
+                    "Yash Shroff",
+                    "Zane Hintzman"
+                ]
+            },
+            {
+                "title": "Realms Developers",
+                "names": [
+                    "Brian Threvathan",
+                    "Mangal Srinivasamurthy (Design Laboratory Inc)",
+                    "Nico Suc"
+                ]
+            },
+            {
+                "title": "Lead Realms Software Engineers",
+                "names": [
+                    "Cullen Waters",
+                    "Joel Bergman",
+                    "Mark Jawad"
+                ]
+            },
+            {
+                "title": "Realms Software Engineers",
+                "names": [
+                    "Arockia Stanly (Virtuosity)",
+                    "Barani Dharan (Virtuosity)",
+                    "Nicholas John Curtis",
+                    "Roman Timurson (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "Lead System Engineers",
+                "names": [
+                    "Jifeng Zhang",
+                    "Robert Sjödahl",
+                    "Torbjörn Allard"
+                ]
+            },
+            {
+                "title": "Service Software Engineers",
+                "names": [
+                    "Alexandre Pretto Nunes",
+                    "Anders Martini",
+                    "Dan Mauk",
+                    "Don S Frazier II",
+                    "Gary McLaughlin",
+                    "Guillaume Le Chenadec",
+                    "Haley Eisenshtadt",
+                    "Jonas Bergström",
+                    "Khaleel Harper",
+                    "Maksim Ivanov",
+                    "Maria Katsourani",
+                    "Matt Hawley",
+                    "Michael Scott",
+                    "Mike Swartz",
+                    "Nathan Sosnovske",
+                    "Pär Axelsson",
+                    "Petter Gisslen",
+                    "Robyn R To",
+                    "Stacy J Chen",
+                    "Stefan Torstensson",
+                    "Wenlan Yang"
+                ]
+            },
+            {
+                "title": "Systems Engineering",
+                "names": [
+                    "Alex Wouters (Insight Global Inc)",
+                    "Amy Bernhoft (C2S Technologies Inc)",
+                    "Corey Smith (Insight Global Inc)",
+                    "Daniel Stevens (TEKsystems)",
+                    "Geof Sawaya (Collabera)",
+                    "Hazen Miller (Insight Global Inc)",
+                    "Loren J. Merriman (Kalvi Consulting Service)",
+                    "Louis A Castaneda (Insight Global Inc)",
+                    "Mark Grinols",
+                    "Robert Di Battista (Insight Global Inc)",
+                    "Robert Thresher (Collabera)",
+                    "Sean Connolly (Insight Global Inc)",
+                    "Shane Pierce",
+                    "Stephen Trigger (Insight Global Inc)",
+                    "Tanner Pearson (Insight Global Inc)",
+                    "Zack Moxley (Insight Global Inc)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Visual Arts",
+        "titles": [
+            {
+                "title": "Art Directors",
+                "names": [
+                    "Andy Zibits",
+                    "Brad Shuber",
+                    "Johan Aronsson",
+                    "Markus Toivonen",
+                    "Martin Johansson",
+                    "Ninni Landin"
+                ]
+            },
+            {
+                "title": "Art Leads",
+                "names": [
+                    "Daniel Björkefors",
+                    "Joel Garvin",
+                    "Michael Apolis",
+                    "Ryan Sand",
+                    "Sarah Kisor",
+                    "Telemachus Stavropoulos"
+                ]
+            },
+            {
+                "title": "Artists",
+                "names": [
+                    "Amanda Cook (HARVEY NASH INC)",
+                    "Andrea Sanchez Sepulveda (Randstad)",
+                    "Branden Brushett (Aquent LLC)",
+                    "Chi Wong",
+                    "Erin Caswell (eXcell, a division of CompuCom)",
+                    "Jacob Lee (Aquent LLC)",
+                    "Jan Cariaga",
+                    "Jules Norcross (Aquent LLC)",
+                    "Kirk Barnett",
+                    "Michael Ray Neumann",
+                    "Michael R Fiedler (Insight Global Inc)",
+                    "Patrick A Rodes (Insight Global Inc)",
+                    "Peter Sheff",
+                    "Sarah Martino (Insight Global Inc)",
+                    "Kim Petersen"
+                ]
+            },
+            {
+                "title": "Lead Technical Artist",
+                "names": [
+                    "Lisa Hazen"
+                ]
+            },
+            {
+                "title": "Technical Artist",
+                "names": [
+                    "Dylan Piepenbrok"
+                ]
+            },
+            {
+                "title": "Graphic Artists",
+                "names": [
+                    "Jasper Boerstra",
+                    "Mattis Grahm"
+                ]
+            },
+            {
+                "title": "Lead Graphic Designers",
+                "names": [
+                    "Christine Gutierrez"
+                ]
+            },
+            {
+                "title": "Graphic Designers",
+                "names": [
+                    "Jerica Harada (TEKsystems)",
+                    "Markus Karlsson",
+                    "Wiktor Persson"
+                ]
+            },
+            {
+                "title": "Motion Graphics Designer",
+                "names": [
+                    "Gabe Philbin (Randstad)"
+                ]
+            },
+            {
+                "title": "Animator",
+                "names": [
+                    "Bart Kaufman (Randstad)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Audio",
+        "titles": [
+            {
+                "title": "Lead Sound Designer",
+                "names": [
+                    "Samuel Åberg"
+                ]
+            },
+            {
+                "title": "Sound Designers",
+                "names": [
+                    "Daniel Rosenfeld",
+                    "Kevin Martinez",
+                    "Rostislav Trifonov",
+                    "Shauny Jang (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "Music composed by",
+                "names": [
+                    "Daniel Rosenfeld",
+                    "Lena Raine"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "User Experience",
+        "titles": [
+            {
+                "title": "User Experience Design Lead",
+                "names": [
+                    "Jonathan Paton Gallina"
+                ]
+            },
+            {
+                "title": "User Experience Designers",
+                "names": [
+                    "Connor Tompsett (CompuCom Systems Inc)",
+                    "Daniel Feldt",
+                    "Jin Shin",
+                    "Josefine Lindqvist",
+                    "Lilei Yu (Collabera)",
+                    "Richard Worley",
+                    "Tom Keen (TEKsystems)"
+                ]
+            },
+            {
+                "title": "User Experience Developer Leads",
+                "names": [
+                    "Paulo Ragonha",
+                    "Oleg Kozitsyn"
+                ]
+            },
+            {
+                "title": "User Experience Developers",
+                "names": [
+                    "Albin Odervall",
+                    "Anna Päärni",
+                    "Katie Ellison",
+                    "Kirill Mikhel",
+                    "Oskar Pedersen",
+                    "Oskar Carlbaum"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Production",
+        "titles": [
+            {
+                "title": "Head of Minecraft Atlas",
+                "names": [
+                    "Deirdre Quarnstrom"
+                ]
+            },
+            {
+                "title": "Head of Franchise Operations",
+                "names": [
+                    "Annie Chenn"
+                ]
+            },
+            {
+                "title": "Head of Creator and Earth",
+                "names": [
+                    "Deanna Hearns"
+                ]
+            },
+            {
+                "title": "Head of Franchise Production",
+                "names": [
+                    "Ryan B Cooper"
+                ]
+            },
+            {
+                "title": "Head of Minecraft China",
+                "names": [
+                    "Travis Howland"
+                ]
+            },
+            {
+                "title": "Chief Product Officer",
+                "names": [
+                    "Olof Carlson Sandvik"
+                ]
+            },
+            {
+                "title": "Director of New Games",
+                "names": [
+                    "Patrick Liu"
+                ]
+            },
+            {
+                "title": "Head of Production, Creative Team",
+                "names": [
+                    "Sheila Ho"
+                ]
+            },
+            {
+                "title": "Executive Producers",
+                "names": [
+                    "Allison Matthews",
+                    "Anita Sujarit",
+                    "Dennis Ries",
+                    "David Nisshagen",
+                    "Jesse Merriam",
+                    "Jessica Zahn",
+                    "John Thornton",
+                    "Roger Carpenter",
+                    "Sara Jansson Bach"
+                ]
+            },
+            {
+                "title": "Production Manager",
+                "names": [
+                    "Klas Hammarström"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Adele Major",
+                    "Adrian Östergård",
+                    "Alen Voljevica",
+                    "Anna Lundgren",
+                    "Anthony Hanses (Insight Global Inc)",
+                    "Åsa Skogström",
+                    "Austin Maestre",
+                    "Best Liang",
+                    "Carrie Doring",
+                    "Chris Casanova",
+                    "Damian Finn (Lionbridge)",
+                    "Dani Flores (Insight Global Inc)",
+                    "Dayana Sharshukova (Aquent LLC)",
+                    "Decker Geddes (Insight Global Inc)",
+                    "Dejan Dimic",
+                    "DJ Stiner",
+                    "Dom Arcamone",
+                    "Emily Carlson (Insight Global Inc)",
+                    "Fredrik Telenius",
+                    "Gama Aguilar-Gamez",
+                    "Hai Shi",
+                    "Hampus Nilsson",
+                    "Isabella Arningsmark",
+                    "Jason Rice",
+                    "Jennifer Lee (Insight Global Inc)",
+                    "Justin Woods",
+                    "Justine Loong",
+                    "Kara Kono",
+                    "Kaya Hatcher",
+                    "Kelly Henckel",
+                    "Kristina M. Ashment",
+                    "Lisa Kempe",
+                    "Marcus Bodin",
+                    "Marcus Rundström",
+                    "Melinda Knight",
+                    "Micah Myerscough",
+                    "Michael McManus",
+                    "Micky Yamaguchi",
+                    "Moira Ingeltun",
+                    "Nathan K Rose",
+                    "Nicolette Suraga",
+                    "Riccardo Lenzi",
+                    "Robin Linder",
+                    "Sara Lidberg",
+                    "Sarah Carton",
+                    "Sebastian Falk",
+                    "Thomas Feng",
+                    "Tia Marie Dalupan-Wong",
+                    "Todd Baldwin",
+                    "Trevor McCann (Yoh Services LLC)",
+                    "Yesenia Cisneros",
+                    "Matt Rodgers (eXcell, a division of CompuCom)"
+                ]
+            },
+            {
+                "title": "Release Management Lead",
+                "names": [
+                    "David Fries"
+                ]
+            },
+            {
+                "title": "Release Managers",
+                "names": [
+                    "Andrew Pritchard (Lionbridge)",
+                    "Brogan Irwin (Virtuosity)",
+                    "Josh Mulanax",
+                    "Joshua Bullard (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "Quality Engineers",
+                "names": [
+                    "Thommy Siverman"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Operations",
+        "titles": [
+            {
+                "title": "Chief Operations Officer",
+                "names": [
+                    "Ulrika Höjgård"
+                ]
+            },
+            {
+                "title": "Chief of Staff",
+                "names": [
+                    "Amy Stillion"
+                ]
+            },
+            {
+                "title": "Human Resources",
+                "names": [
+                    "Adam Lemcio",
+                    "Aleksandra Zajac",
+                    "Ida Utterström",
+                    "Ludwig Moberg Edenbäck",
+                    "Maja Samuelsson",
+                    "Sofia Andersson",
+                    "Ulrika Karlsson"
+                ]
+            },
+            {
+                "title": "Office Manager",
+                "names": [
+                    "Siri Hoel Andersson"
+                ]
+            },
+            {
+                "title": "Office Coordinators",
+                "names": [
+                    "Joël Älveroth"
+                ]
+            },
+            {
+                "title": "Executive Business Administrators",
+                "names": [
+                    "Erin Decker",
+                    "Judy Wheeler",
+                    "Katy Hanson",
+                    "Lisa Liu"
+                ]
+            },
+            {
+                "title": "Front of House",
+                "names": [
+                    "Adam Blänning"
+                ]
+            },
+            {
+                "title": "IT",
+                "names": [
+                    "Anton Wu",
+                    "Cesar Sima Falck",
+                    "Daniel Miller (Insight Global Inc)",
+                    "Evelina Rollfelt",
+                    "Shoghi Cervantes"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "User Research",
+        "titles": [
+            {
+                "title": "User Research Studio Lead",
+                "names": [
+                    "Jerome Hagen"
+                ]
+            },
+            {
+                "title": "User Researcher",
+                "names": [
+                    "Melissa Boone",
+                    "Olga Zielinska",
+                    "Pablo Morales"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Business & Licensing",
+        "titles": [
+            {
+                "title": "Head of Franchise Management",
+                "names": [
+                    "Scott Dell'Osso"
+                ]
+            },
+            {
+                "title": "Head of Licensing & Partnerships",
+                "names": [
+                    "Kayleen Walters"
+                ]
+            },
+            {
+                "title": "Chief Media Officer",
+                "names": [
+                    "Vu Bui"
+                ]
+            },
+            {
+                "title": "Directors of Business Development",
+                "names": [
+                    "Anne Quaranta",
+                    "Bob Brennecke",
+                    "Jeremy Snook",
+                    "Patrick Geuder"
+                ]
+            },
+            {
+                "title": "Directors of Business Planning",
+                "names": [
+                    "Adam Tratt",
+                    "John Thornton",
+                    "Josh Bliggenstorfer"
+                ]
+            },
+            {
+                "title": "Directors of Business Management",
+                "names": [
+                    "Aaron J Buckley",
+                    "Amy Zou",
+                    "Michelle Hua",
+                    "Saher M Hirji",
+                    "Stephen McHugh"
+                ]
+            },
+            {
+                "title": "Business Managers",
+                "names": [
+                    "Alina Skripnik",
+                    "Ani Grey",
+                    "Audrey Searcy",
+                    "Bill Lindell",
+                    "Bill Wu",
+                    "Catherine Hendrix",
+                    "Christy Weckner",
+                    "Daniel Beasley",
+                    "David K Lau",
+                    "Dev Hazarika",
+                    "Eileen Lee",
+                    "Emily Clock (Simplicity Consulting Inc)",
+                    "Eric Taylor",
+                    "Georgia Marra",
+                    "Hanna Willis (JeffreyM Consulting LLC)",
+                    "Kasia Swica",
+                    "Luis Qiang Liu",
+                    "Maru Zamora",
+                    "Nedra Wilson",
+                    "Rebecca A Miller",
+                    "Stephanie Louie",
+                    "Tess N Opincarne (Amaxra)",
+                    "Yugang Jing (HUA YI JIA XIN ZHENG HE YING X)"
+                ]
+            },
+            {
+                "title": "Business Development Managers",
+                "names": [
+                    "Ellen Hahm",
+                    "Inga Chamberlain"
+                ]
+            },
+            {
+                "title": "Business Analyst",
+                "names": [
+                    "Alvin M Chin (Populus Group, LLC)",
+                    "Kristin Grein",
+                    "Zheng Wang (Populus Group, LLC)"
+                ]
+            },
+            {
+                "title": "Japan Country Manager",
+                "names": [
+                    "Yutaka Noma"
+                ]
+            },
+            {
+                "title": "Director of Partner Management",
+                "names": [
+                    "Todd Stevens"
+                ]
+            },
+            {
+                "title": "Partner Program Manager",
+                "names": [
+                    "Quinn Richter"
+                ]
+            },
+            {
+                "title": "Partner Managers",
+                "names": [
+                    "Christopher Dauchot (Insight Global Inc)",
+                    "Gregory Walls (CompuCom Systems Inc)",
+                    "John C. Mercil (CompuCom Systems Inc)"
+                ]
+            },
+            {
+                "title": "Content Lead",
+                "names": [
+                    "Marc Watson"
+                ]
+            },
+            {
+                "title": "Content Coordinators",
+                "names": [
+                    "Andreas Thomasson",
+                    "Matthew Dryden",
+                    "Oskar Thysell",
+                    "Sara Lempiäinen"
+                ]
+            },
+            {
+                "title": "Program Managers",
+                "names": [
+                    "Bryan G. Bonham",
+                    "Kaiwen Li (Populus Group, LLC)",
+                    "Liz Butowicz (Bluehawk LLC)",
+                    "Maria Olekheyko",
+                    "Mark Fredo (Aerotek Inc.)",
+                    "Steven Hosey (Simplicity Consulting Inc)",
+                    "Susie Tinker",
+                    "Timothy J Ross (Simplicity Consulting Inc)",
+                    "Todd M. Baldwin"
+                ]
+            },
+            {
+                "title": "Head of Data Science and Analytics",
+                "names": [
+                    "Francisco Rius"
+                ]
+            },
+            {
+                "title": "Data Science Lead",
+                "names": [
+                    "Abby Gaddis"
+                ]
+            },
+            {
+                "title": "Data Science and Analytics Engineering Lead",
+                "names": [
+                    "Bill Chism"
+                ]
+            },
+            {
+                "title": "Data Science & Analytics",
+                "names": [
+                    "Anh Ying Lang (Design Laboratory Inc)",
+                    "Bhrigu Shree",
+                    "Bill Klees (Design Laboratory Inc)",
+                    "Darin LaSota (Design Laboratory Inc)",
+                    "Dhiraj Nilange (Design Laboratory Inc)",
+                    "Dusanka Poljak (Design Laboratory Inc)",
+                    "Forrest Wheeler (Insight Global Inc)",
+                    "Matthew Skirvin (Insight Global Inc)",
+                    "Max Davidson",
+                    "Nick Martin (Design Laboratory Inc)",
+                    "Sachin Dekate (Design Laboratory Inc)",
+                    "Smitha Menon (Design Laboratory Inc)",
+                    "Srini Viswanatham (Design Laboratory Inc)",
+                    "Swathi Sivadas (Design Laboratory Inc)",
+                    "Tim Ross (Simplicity Consulting Inc)",
+                    "Yuvaraj Duraisamy (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "Product Designer Team Lead",
+                "names": [
+                    "Amanda Ström"
+                ]
+            },
+            {
+                "title": "Product Designers",
+                "names": [
+                    "Filip Thoms",
+                    "Sherin Kwan"
+                ]
+            },
+            {
+                "title": "Project Managers",
+                "names": [
+                    "Isabella Balk",
+                    "Charlotte Hallberg Angantyr"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Communications",
+        "titles": [
+            {
+                "title": "Chief Storyteller",
+                "names": [
+                    "Lydia Winters"
+                ]
+            },
+            {
+                "title": "Director of Creative Communications",
+                "names": [
+                    "Owen Jones"
+                ]
+            },
+            {
+                "title": "Head of Marketing Communications",
+                "names": [
+                    "Thomas Wiborgh"
+                ]
+            },
+            {
+                "title": "Senior Media Producers",
+                "names": [
+                    "Carina Petersson"
+                ]
+            },
+            {
+                "title": "Lead Project Managers",
+                "names": [
+                    "Vera Mirchev"
+                ]
+            },
+            {
+                "title": "3D Artists / Motion Graphic Designers",
+                "names": [
+                    "Jesper Hallin"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Sofia Orrheim"
+                ]
+            },
+            {
+                "title": "Senior Brand Producers",
+                "names": [
+                    "Jenny Ahnell"
+                ]
+            },
+            {
+                "title": "Art Leads Social",
+                "names": [
+                    "Seung Sung"
+                ]
+            },
+            {
+                "title": "Art Director",
+                "names": [
+                    "Ola Lanteli"
+                ]
+            },
+            {
+                "title": "Social Media Managers",
+                "names": [
+                    "Julian Tunru"
+                ]
+            },
+            {
+                "title": "Creative Writers",
+                "names": [
+                    "Kelsey Howard",
+                    "Sofia Dankis",
+                    "Cristina Anderca"
+                ]
+            },
+            {
+                "title": "Directors of Global Public Relations",
+                "names": [
+                    "Regan O’Leary"
+                ]
+            },
+            {
+                "title": "Global Public Relations Managers",
+                "names": [
+                    "Rebecca Gordius",
+                    "John Schork"
+                ]
+            },
+            {
+                "title": "Assembly Media, Inc",
+                "names": [
+                    "Richard Chen",
+                    "Alli Cohen",
+                    "Cristian Delgado",
+                    "Erin Dwyer",
+                    "Vanessa Mora",
+                    "Jesse Steinberg"
+                ]
+            },
+            {
+                "title": "Head of Community Relations",
+                "names": [
+                    "Karim Walldén"
+                ]
+            },
+            {
+                "title": "Community Relations Coordinator",
+                "names": [
+                    "Josefin Olsson"
+                ]
+            },
+            {
+                "title": "Head of Social Media",
+                "names": [
+                    "Alice Löfgren"
+                ]
+            },
+            {
+                "title": "Web Design",
+                "names": [
+                    "Paul Madlon (Ten Gun Design Inc)"
+                ]
+            },
+            {
+                "title": "Web Content Manager",
+                "names": [
+                    "Joe Corrigan (Ten Gun Design Inc)"
+                ]
+            },
+            {
+                "title": "Product Designers",
+                "names": [
+                    "Débora Martins"
+                ]
+            },
+            {
+                "title": "Head of Creative Production",
+                "names": [
+                    "Kati Hautz"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Player Operations",
+        "titles": [
+            {
+                "title": "Head of Player Operations",
+                "names": [
+                    "Aubrey Norris"
+                ]
+            },
+            {
+                "title": "Community Managers",
+                "names": [
+                    "Helen Zbihlyj",
+                    "Glory Robinson (Experis)",
+                    "Jay Wells",
+                    "Joel Sasaki",
+                    "Matt Gartzke",
+                    "Nova Barlow (Experis)"
+                ]
+            },
+            {
+                "title": "Customer Support Lead",
+                "names": [
+                    "Jen Pedersen"
+                ]
+            },
+            {
+                "title": "Customer Support",
+                "names": [
+                    "Kyle McMurtry (TEKsystems)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Marketing",
+        "titles": [
+            {
+                "title": "Head of Marketing",
+                "names": [
+                    "Jessica Freeman"
+                ]
+            },
+            {
+                "title": "Marketing Directors",
+                "names": [
+                    "Fergus Lynch",
+                    "Jeanie DuMont"
+                ]
+            },
+            {
+                "title": "Marketing Managers",
+                "names": [
+                    "Egil G. Gloersen",
+                    "Anton Maslennikov",
+                    "Didac Hormiga",
+                    "Bianca Ciotti (Insight Global Inc)",
+                    "Delilah Liu",
+                    "Gabi Ibarra (Simplicity Consulting Inc)",
+                    "Gaylord Escalona",
+                    "Jaime Limon",
+                    "Jeff Rivait",
+                    "Katie Penza",
+                    "Melissa Jenkins (Ten Gun Design)",
+                    "Nick Ketter",
+                    "Sara Cornish"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Legal",
+        "titles": [
+            {
+                "title": "Head of Legal",
+                "names": [
+                    "Nick Morgan"
+                ]
+            },
+            {
+                "title": "Legal Counsel",
+                "names": [
+                    "Tim Han",
+                    "Maya Yamazaki (Davis Wright Tremaine)",
+                    "Kari Annand (Snodgrass Annand)",
+                    "Liz Bostick"
+                ]
+            },
+            {
+                "title": "Intellectual Property Enforcement Agent",
+                "names": [
+                    "Mathias Andersson"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Finance",
+        "titles": [
+            {
+                "title": "Director of Finance",
+                "names": [
+                    "Marina Kostesic"
+                ]
+            },
+            {
+                "title": "Senior Finance Manager",
+                "names": [
+                    "Julie Olden"
+                ]
+            },
+            {
+                "title": "Financial Accountants",
+                "names": [
+                    "Josefina Axelsson",
+                    "Natalie Levinsson",
+                    "Strefan Lyrmark"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Studios Quality Team - Microsoft",
+        "titles": [
+            {
+                "title": "Director of Quality",
+                "names": [
+                    "Jimmy Bischoff"
+                ]
+            },
+            {
+                "title": "Quality Manager",
+                "names": [
+                    "Chris Henry"
+                ]
+            },
+            {
+                "title": "Quality Leads",
+                "names": [
+                    "Dan Pipinich",
+                    "Michael McCormack",
+                    "Rich Levy",
+                    "Tony Harlich (Alumni)"
+                ]
+            },
+            {
+                "title": "Quality Engineers",
+                "names": [
+                    "Akshata Trivedi (Alumni)",
+                    "Chelsi Hohnbaum",
+                    "Fiona Belmont",
+                    "Hakim Ronaque",
+                    "Joe Whitman",
+                    "Prince Pandey"
+                ]
+            },
+            {
+                "title": "Quality Data Analysis & Engineering",
+                "names": [
+                    "Craig Marshall",
+                    "Jeff MacDermot (Alumni)",
+                    "Lisa Porter"
+                ]
+            },
+            {
+                "title": "Software Engineers",
+                "names": [
+                    "Jay Baxter"
+                ]
+            },
+            {
+                "title": "Quality Analysts",
+                "names": [
+                    "Aaron Amlag",
+                    "Aidan Bower",
+                    "Agata Marciniak",
+                    "Ben Weber",
+                    "Dalrek Davis",
+                    "Erik Davis",
+                    "Mark McAllister",
+                    "Melissa Moorehead",
+                    "Michelle Hyde",
+                    "Mike Su",
+                    "Mimi Guarino",
+                    "Ryan Mayes",
+                    "Tom Brisbane",
+                    "Tom French"
+                ]
+            },
+            {
+                "title": "Special Thanks",
+                "names": [
+                    "Allen Horton – Technology and Infrastructure",
+                    "Alex Luschen – Executive Business Administrator",
+                    "Andrew Franklin – Outsourcing Manager",
+                    "Dante Carrasco – Business Manager",
+                    "David Boker – Director XGS Business Operations",
+                    "James Fry – Quality Manager, Studios Quality UK",
+                    "Jonny Stacey – Data Engineering, Studios Quality UK"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Studios Quality Team - US Teams",
+        "titles": [
+            {
+                "title": "Software Test Engineering Leads",
+                "names": [
+                    "Bob Green (Experis)",
+                    "Chris James (Insight Global Inc)",
+                    "Chris Wilson (Experis)"
+                ]
+            },
+            {
+                "title": "Software Test Engineers",
+                "names": [
+                    "Bill Mackey (Experis)",
+                    "Brendan McElroy (Insight Global Inc) (Alumni)",
+                    "Crystal Edwards (Insight Global Inc) (Alumni)",
+                    "Dan Parker (Insight Global Inc) (Alumni)",
+                    "Isaac Dudley (Insight Global Inc) (Alumni)",
+                    "Jared Barnhill (Experis)",
+                    "John Ehresmann (Experis) (Alumni)",
+                    "Samuel Tharp (Experis)",
+                    "Sean Colbert (Experis) (Alumni)",
+                    "Kai VanDrunen (Experis)",
+                    "James Lawrence (Experis)",
+                    "Antoine Brown (Experis)"
+                ]
+            },
+            {
+                "title": "Test Associates",
+                "names": [
+                    "Chris Youngs (Experis)",
+                    "Jared Arbaugh (Experis)",
+                    "Ryan Atwater (Experis)",
+                    "Justin Smick (Experis)",
+                    "Jonathan Lee (Experis)",
+                    "Marvin Melitante (Experis)",
+                    "Peter Lovely (Experis)",
+                    "Brian Sears (Experis) (Alumni)",
+                    "Tori Gasca (Experis)"
+                ]
+            },
+            {
+                "title": "Special Thanks",
+                "names": [
+                    "Jay Piette (Experis) – Test Manager, Tempe",
+                    "Brian Canning (Experis) – Test Manager, Tempe (Alumni)",
+                    "Zachary Bohnenkamp (Experis) – Program Manager",
+                    "Jeffrey Guyton (Insight Global Inc) – Account Manager"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Special Thanks",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Daniel Brynolf",
+                    "Dan Roque – Creature Developer",
+                    "John Olarte (DrZhark) - Creature Developer",
+                    "Julian Gough - Writer",
+                    "Kent Christian Jensen – Creature Developer",
+                    "Pontus Hammarberg",
+                    "Stephanie Golden (Insight Global Inc) – Account Manager",
+                    "The Xbox Live Team",
+                    "The PlayFab Team",
+                    "4J Studios"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Development Partner: BBI",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Andrew Yuennan - Programmer",
+                    "Bhavesh Gupta - Programmer",
+                    "Branko Bajcetic - Co-Op Programmer",
+                    "Christina Oh - Co-Op Programmer",
+                    "Curtis Hodgins - Programmer",
+                    "David McKay - Associate Producer",
+                    "Devon Plourde - Programmer",
+                    "Duarte Maia - Programmer",
+                    "Erick Taveres - Programmer",
+                    "Jacky Cai - Associate Programmer",
+                    "James Fairweather - Associate Technical Director",
+                    "Kelsey Primar - Associate Producer",
+                    "Richelle Brunt - UI Artist",
+                    "Riley Godard - Associate Technical Designer",
+                    "Robert Basler - Senior Programmer",
+                    "Ryan Lemessieur - Senior Quality Assurance Analyst",
+                    "Stevie Giovanni - Programmer",
+                    "Thomas Paterson - Programmer",
+                    "Tyler Nilsson - Programmer",
+                    "Vidhi Shah - UX Designer",
+                    "Wes Trevor - Senior Quality Assurance Analyst"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Development Partner: Lionbridge\nQuality - Poland Team",
+        "titles": [
+            {
+                "title": "Test Director",
+                "names": [
+                    "Michał Błoński (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Senior Test Manager",
+                "names": [
+                    "Grzegorz Kohorewicz (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Test Manager",
+                "names": [
+                    "Mateusz Kałuża (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Team Leads",
+                "names": [
+                    "Kamil Kostrzewa (Lionbridge)",
+                    "Marcin Słoniewski (Lionbridge)",
+                    "Michał Sławek (Lionbridge)",
+                    "Wojciech Kujawa (Lionbridge)",
+                    "Beata Jastrzębska (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Compliance Leads",
+                "names": [
+                    "Kamil Bazydło (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Software Test Engineers",
+                "names": [
+                    "Agata Dzideczek (Lionbridge)",
+                    "Jarosław Żebrowski (Lionbridge)",
+                    "Piotr Jasiński (Lionbridge)",
+                    "Przemysław Wróbel (Lionbridge)",
+                    "Tomasz Bokotko (Lionbridge)",
+                    "Łukasz Jankowski (Lionbridge)",
+                    "Marcin Rosłon (Lionbridge)",
+                    "Paweł Piekarski (Lionbridge)",
+                    "Joanna Walkowiak-Pachnik (Lionbridge)",
+                    "Mariusz Gil (Lionbridge)",
+                    "Damian Gabryś (Lionbridge)",
+                    "Jan Zozman (Lionbridge)",
+                    "Adam Rączkowski (Lionbridge)",
+                    "Zofia Lenarczyk (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Compliance Test Engineers",
+                "names": [
+                    "Łukasz Mikusek (Lionbridge)",
+                    "Adam Ronowski (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Test Associates",
+                "names": [
+                    "Nijat Aghamali (Lionbridge)",
+                    "Michał Antosiak (Lionbridge)",
+                    "Agata Bidelska (Lionbridge)",
+                    "Stanisław Dmowski (Lionbridge)",
+                    "Eliza Duda (Lionbridge)",
+                    "Bartłomiej Dziurżyński (Lionbridge)",
+                    "Monika Elandt (Lionbridge)",
+                    "Daria Gajowniczek (Lionbridge)",
+                    "Jan Gąsiorowski (Lionbridge)",
+                    "Damian Golik (Lionbridge)",
+                    "Maciej Gończ (Lionbridge)",
+                    "Stanisław Grabowski (Lionbridge)",
+                    "Eva Horvath (Lionbridge)",
+                    "Małgorzata Janiszewska (Lionbridge)",
+                    "Anna Kacprzak (Lionbridge)",
+                    "Paweł Kaleta (Lionbridge)",
+                    "Hubert Karwicki (Lionbridge)",
+                    "Kamil Konarski (Lionbridge)",
+                    "Eugeniusz Kosieradzki (Lionbridge)",
+                    "Adam Krasieńko (Lionbridge)",
+                    "Kacper Krupa (Lionbridge)",
+                    "Rajkumar Kulandaivelu (Lionbridge)",
+                    "Jakub Kwiatkowski (Lionbridge)",
+                    "Maciej Łajszczak (Lionbridge)",
+                    "Sebastian Marek (Lionbridge)",
+                    "Szymon Mazurek (Lionbridge)",
+                    "Mateusz Miksa (Lionbridge)",
+                    "Karol Mikusek (Lionbridge)",
+                    "Marcin Mycka (Lionbridge)",
+                    "Daniel Niewiadomski (Lionbridge)",
+                    "Michał Nowak (Lionbridge)",
+                    "Karolina Otłowska (Lionbridge)",
+                    "Paulina Pałdyna (Lionbridge)",
+                    "Marco Paparella (Lionbridge)",
+                    "Maciej Piórnik (Lionbridge)",
+                    "Mariusz Podgórski (Lionbridge)",
+                    "Adam Prażmo (Lionbridge)",
+                    "Błażej Rajewski (Lionbridge)",
+                    "Piotr Retel (Lionbridge)",
+                    "Patryk-Piotr Rosiński (Lionbridge)",
+                    "Krzysztof Rozwadowski (Lionbridge)",
+                    "Patryk Rukść (Lionbridge)",
+                    "Olgierd Ruszkiewicz (Lionbridge)",
+                    "Jakub Sawicki (Lionbridge)",
+                    "Aleksander Skiba (Lionbridge)",
+                    "Weronika Szajnfeld (Lionbridge)",
+                    "Bartosz Szklarzyński (Lionbridge)",
+                    "Patryk Telus (Lionbridge)",
+                    "Aleksandra Traczyk (Lionbridge)",
+                    "Mateusz Tran Van (Lionbridge)",
+                    "Krzysztof Uściłowski (Lionbridge)",
+                    "Bartosz Waleśkiewicz (Lionbridge)",
+                    "Grzegorz Wilkołek (Lionbridge)",
+                    "Albert Wujkowski (Lionbridge)",
+                    "Tomasz Zdrzalik (Lionbridge)",
+                    "Robert Badurka-Raniecki (Lionbridge)",
+                    "Arkadiusz Grzanka (Lionbridge)",
+                    "Sandra Meister (Lionbridge)",
+                    "Łukasz Mętrak (Lionbridge)",
+                    "Tomasz Mirkiewicz (Lionbridge)",
+                    "Katarzyna Moskalewicz (Lionbridge)",
+                    "Marcin Papadopoulos-Gajda (Lionbridge)",
+                    "Mateusz Świecki (Lionbridge)",
+                    "Łukasz Walczyński (Lionbridge)",
+                    "Magdalena Wardak (Lionbridge)",
+                    "Maria Wypych (Lionbridge)",
+                    "Adam Zawadzki (Lionbridge)",
+                    "Kinga Izdebska (Lionbridge)",
+                    "Łukasz Marek (Lionbridge)",
+                    "Bartosz Kuchta (Lionbridge)",
+                    "Cezary Kociński (Lionbridge)",
+                    "Piotr Biernacki (Lionbridge)",
+                    "Szczepan Grabowski (Lionbridge)",
+                    "Piotr Witkowski (Lionbridge)",
+                    "Wojciech Komada (Lionbridge)",
+                    "Piotr Kolendo (Lionbridge)",
+                    "Maciej Kienig (Lionbridge)",
+                    "Iwona Cieśla (Lionbridge)",
+                    "Przemysław Goch (Lionbridge)",
+                    "Piotr Gruszczyński (Lionbridge)",
+                    "Filip Gwarda (Lionbridge)",
+                    "Mateusz Kaliszewski (Lionbridge)",
+                    "Bartłomiej Kowalik (Lionbridge)",
+                    "Šimon Kravár (Lionbridge)",
+                    "Mateusz Majewski (Lionbridge)",
+                    "Wojciech Nieckarz (Lionbridge)",
+                    "Sebastian Polanica (Lionbridge)",
+                    "Bartłomiej Słodkowski (Lionbridge)",
+                    "Filip Sobczak (Lionbridge)",
+                    "Antoni Wiatrowski (Lionbridge)",
+                    "Daniel Wystyrk (Lionbridge)",
+                    "Roman Zając (Lionbridge)",
+                    "Karim Zemirli (Lionbridge)",
+                    "Jakub Zgajewski (Lionbridge)",
+                    "Paweł Neścior (Lionbridge)",
+                    "Jakub Cymbalista (Lionbridge)",
+                    "Daniel Kuchciński (Lionbridge)",
+                    "Michał Cieślak (Lionbridge)",
+                    "Paweł Chruszczewski (Lionbridge)",
+                    "Adrianna Zalewska (Lionbridge)",
+                    "Rafał Pruszkowski (Lionbridge)",
+                    "Karol Sobotka (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Compliance Test Associates",
+                "names": [
+                    "Adam Czajkowski (Lionbridge)",
+                    "Adrian Zalewski (Lionbridge)",
+                    "Jakub Malinowski (Lionbridge)",
+                    "Kaja Faber (Lionbridge)",
+                    "Kamil Zakrzewski (Lionbridge)",
+                    "Maciej Rodak (Lionbridge)",
+                    "Oskar Żurawski (Lionbridge)",
+                    "Piotr Orłowski (Lionbridge)",
+                    "Stanisław Świderski (Lionbridge)",
+                    "Szymon Okoń (Lionbridge)",
+                    "Witold Januszewski-Skup (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Special Thanks",
+                "names": [
+                    "Michael Friend (Lionbridge)",
+                    "Matt Whiting (Lionbridge)",
+                    "Tugdual Delisle (Lionbridge)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Quality - UK Team",
+        "titles": [
+            {
+                "title": "Test Manager",
+                "names": [
+                    "Richard H. Jones (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Compliance Test Engineer",
+                "names": [
+                    "Nick Dorsett (Lionbridge)",
+                    "Lee-Roy Dunn (Lionbridge)"
+                ]
+            },
+            {
+                "title": "Data Engineering",
+                "names": [
+                    "Patrick Fraioli (Lionbridge)",
+                    "Emmanuelle Rodrigues Nunes (Lionbridge)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Development Partner: Red Lens Games",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Allie Murdock",
+                    "Andre Tremblay",
+                    "Christopher Kohnert",
+                    "Dane Curbow",
+                    "Joshua Claeys",
+                    "Kelby Lawson",
+                    "Kyle Walsh",
+                    "Nathan Carlson",
+                    "Ryan Davison",
+                    "Ryan Edgemon",
+                    "Zach Bowman"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Development Partner: Skybox",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Ace Cheung",
+                    "Ashlyn Gadow",
+                    "Blair Hitchens",
+                    "Carsten Hooker",
+                    "Chris Klassen",
+                    "Cody Clattenburg",
+                    "Cole Pollock",
+                    "Daniel Shim",
+                    "Dave MacLean",
+                    "Derek MacNeil",
+                    "Diana Jutras",
+                    "Gary Shaw",
+                    "Glen Conolly",
+                    "Ivan Yemelianov",
+                    "Jaegar Sarauer",
+                    "Jai Kristjan",
+                    "Jake Roman-Barnes",
+                    "Jay Luo",
+                    "Jeffrey Chou",
+                    "Jennifer Barron",
+                    "Jesse Taylor",
+                    "Jonathan Yim",
+                    "Jordan Lacey",
+                    "Jordan Pongracz",
+                    "Justin Moon",
+                    "Kyle Roblin",
+                    "Leo Stark",
+                    "Madeeha Ahmed",
+                    "Matheus Depra Gudergues",
+                    "Matt Klassen",
+                    "Max Fanning",
+                    "Mitch Armstrong",
+                    "Mitch Filmer",
+                    "Nathan Lacey",
+                    "Olivia Chung",
+                    "Orhun Erkilic",
+                    "Paul Baker",
+                    "Reynald Brassard",
+                    "Richard Hawkes",
+                    "Richard Walker",
+                    "Shaun Foley",
+                    "Shyang Kong",
+                    "Stefan Sarnev",
+                    "Steve Silverster",
+                    "Thiago Braga",
+                    "Tim Bruecker",
+                    "Ty Lauriente",
+                    "Tyler Da Costa",
+                    "Vassil Anguelov",
+                    "Vivian Ortenzi"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Development Partner: Virtuosity",
+        "titles": [
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Ganesh Sethy (Virtuosity)",
+                    "Prabhu Venkatraman Iyer (Virtuosity)",
+                    "Rakshith Murthy (Virtuosity)",
+                    "Shagun Sharma Tamta (Virtuosity)",
+                    "Shanmugam Sanjay (Virtuosity)",
+                    "Sriram Sreenivasan (Virtuosity)",
+                    "Swati S Thakar (Virtuosity)",
+                    "Aishwarya Jayabal (Virtuosity)",
+                    "Aravindan Aarumugam (Virtuosity)",
+                    "Arockia Stanly (Virtuosity)",
+                    "Barani Dharan (Virtuosity)",
+                    "Jagannathan Mannu (Virtuosity)",
+                    "Janani Senrayaperumal (Virtuosity)",
+                    "Maha Srinivasan (Virtuosity)",
+                    "Nandha Arulanandam (Virtuosity)",
+                    "Nazia Nazia (Virtuosity)",
+                    "Packiyanath Sivathanu (Virtuosity)",
+                    "Sheena Mathew (Virtuosity)",
+                    "Sripriya Gunasekaran (Virtuosity)",
+                    "Subramani Ramanathan (Virtuosity)",
+                    "Sumit Kumar Suman (Virtuosity)",
+                    "Sumith Kumar (Virtuosity)",
+                    "Uma Senthil Raj (Virtuosity)",
+                    "Vignesh Masilamani (Virtuosity)",
+                    "Vivek Kumar (Virtuosity)"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Chokkalingam Ramu Kuppaswamy (Virtuosity)",
+                    "Shanthi Kanchibhotla (Virtuosity)"
+                ]
+            },
+            {
+                "title": "Release Manager",
+                "names": [
+                    "Brogan Irwin (Virtuosity)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Mojang Alumni",
+        "titles": [
+            {
+                "title": "Original Creator of Minecraft",
+                "names": [
+                    "Markus Persson"
+                ]
+            },
+            {
+                "title": "Head of Minecraft",
+                "names": [
+                    "Matt Booty"
+                ]
+            },
+            {
+                "title": "Chief Executive Officer",
+                "names": [
+                    "Carl Manneh"
+                ]
+            },
+            {
+                "title": "Chief Finance Officer",
+                "names": [
+                    "Karin Severinson"
+                ]
+            },
+            {
+                "title": "Chief Technology Officer",
+                "names": [
+                    "Rikard Herlitz"
+                ]
+            },
+            {
+                "title": "Chief of Staff",
+                "names": [
+                    "Andrew J. Adamyk"
+                ]
+            },
+            {
+                "title": "Project Director",
+                "names": [
+                    "Jakob Porsér"
+                ]
+            },
+            {
+                "title": "Production Director",
+                "names": [
+                    "Daniel Kaplan"
+                ]
+            },
+            {
+                "title": "Game Director",
+                "names": [
+                    "Henrik Pettersson"
+                ]
+            },
+            {
+                "title": "Game Designers",
+                "names": [
+                    "Miko Charbonneau"
+                ]
+            },
+            {
+                "title": "Executive Producer",
+                "names": [
+                    "Erin Krell"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Johannes Fridd",
+                    "Juan Gril",
+                    "Marie Stålkrantz",
+                    "Nick Severson",
+                    "William C Meyer (Pivotal Consulting LLC)"
+                ]
+            },
+            {
+                "title": "Assistant Producer",
+                "names": [
+                    "Warren Loo"
+                ]
+            },
+            {
+                "title": "Release Manager",
+                "names": [
+                    "Dustin Wood (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Aron Nieminen",
+                    "Benjamin Arnold (Insight Global Inc)",
+                    "Campbell Tran",
+                    "Christian Westman",
+                    "Daniel Frisk",
+                    "Daniel Wustenhoff",
+                    "David Westen",
+                    "Irina Koulinitch",
+                    "Isaac de la Vega",
+                    "Jakob Pogulis",
+                    "Jeff “Dextor” Blazier",
+                    "Johan Bernhardsson",
+                    "Jon Maiga",
+                    "Luis A Angel Mex",
+                    "Magnus Bentling",
+                    "Maria Lemón",
+                    "Markus Arvidsson",
+                    "Michael Klopfenstein (Insight Global Inc)",
+                    "Nathan Gilbert",
+                    "Rui Xie (Insight Global Inc)",
+                    "Ryan Holtz",
+                    "Sina Tamanna",
+                    "Tobias Möllstam"
+                ]
+            },
+            {
+                "title": "Software Developers",
+                "names": [
+                    "Dave Stevens",
+                    "Jeffrey J Jou (Insight Global Inc)",
+                    "John Estess (Randstad)",
+                    "Jonathan M Ortiz",
+                    "Karim A Luccin",
+                    "Lisa Sturm"
+                ]
+            },
+            {
+                "title": "Software Engineers",
+                "names": [
+                    "Evelyn Collier (Insight Global Inc)",
+                    "John Estess (Randstad)",
+                    "Michael Andersson",
+                    "Patrick O’Leary"
+                ]
+            },
+            {
+                "title": "Launcher",
+                "names": [
+                    "David Zevallos",
+                    "Anders Rosén",
+                    "Carl Westin"
+                ]
+            },
+            {
+                "title": "3D/VFX",
+                "names": [
+                    "Elin Ölund Forsling"
+                ]
+            },
+            {
+                "title": "Artists",
+                "names": [
+                    "Dylan Sunkel (Collabera)",
+                    "Kelly Greene (CompuCom Systems Inc)",
+                    "Kristen Malone (Randstad)",
+                    "Linus Chan (TEKsystems)",
+                    "Miki Bishop (Randstad)"
+                ]
+            },
+            {
+                "title": "User Experience Design Director",
+                "names": [
+                    "Stephen Whetstine",
+                    "Tobias Ahlin"
+                ]
+            },
+            {
+                "title": "User Experience Designer",
+                "names": [
+                    "Oscar Nilsson",
+                    "Lily Ekman"
+                ]
+            },
+            {
+                "title": "User Experience Developers",
+                "names": [
+                    "Dario Vodopivec",
+                    "Emelie Sidesiö",
+                    "Michael Novén"
+                ]
+            },
+            {
+                "title": "Additional Programming",
+                "names": [
+                    "Elliot 'Hippoplatimus' Segal",
+                    "Paul Spooner",
+                    "Ryan 'Scaevolus' Hitchman"
+                ]
+            },
+            {
+                "title": "Lead System Engineers",
+                "names": [
+                    "Tom Miles",
+                    "Tomas Sommar"
+                ]
+            },
+            {
+                "title": "System Developers",
+                "names": [
+                    "Christoffer Hammarström",
+                    "Dodge Lafnitzegger (Insight Global Inc)",
+                    "Leonard Gram",
+                    "Martin Odhelius",
+                    "Steve Robinson (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "Service Software Engineers",
+                "names": [
+                    "Joakim Ejenstam"
+                ]
+            },
+            {
+                "title": "Realms Developers",
+                "names": [
+                    "Alexander Johansson",
+                    "Amir Moulavi",
+                    "David Marby",
+                    "Erik Bylund",
+                    "Johnny Sjöö",
+                    "Magnus Jäderberg",
+                    "Mats Henricson",
+                    "Philip Vieira"
+                ]
+            },
+            {
+                "title": "Product Designer",
+                "names": [
+                    "Jennifer Hammervald"
+                ]
+            },
+            {
+                "title": "Graphic Artists",
+                "names": [
+                    "Kristoffer Zetterstrand",
+                    "Poi Poi Chen"
+                ]
+            },
+            {
+                "title": "Head of Social Media",
+                "names": [
+                    "Amelia Dale"
+                ]
+            },
+            {
+                "title": "Merchandise Art Director",
+                "names": [
+                    "Alexis Holmqvist"
+                ]
+            },
+            {
+                "title": "Minecraft Content Coordinators",
+                "names": [
+                    "Adam Martinsson"
+                ]
+            },
+            {
+                "title": "Additional Graphics",
+                "names": [
+                    "Jonatan Pöljö",
+                    "Mariana Graham Ramirez"
+                ]
+            },
+            {
+                "title": "Sound Designer",
+                "names": [
+                    "Peter Hont"
+                ]
+            },
+            {
+                "title": "Creative Communications Manager",
+                "names": [
+                    "Martin Davies"
+                ]
+            },
+            {
+                "title": "Creative Communications Assistant",
+                "names": [
+                    "Emily Richardson"
+                ]
+            },
+            {
+                "title": "Creative Writer",
+                "names": [
+                    "Per Landin"
+                ]
+            },
+            {
+                "title": "Directors of Business Development",
+                "names": [
+                    "Cherie D Lutz"
+                ]
+            },
+            {
+                "title": "Business Managers",
+                "names": [
+                    "Dennis Laviolette",
+                    "Claudine Ursino (Simplicity Consulting Inc)",
+                    "Vanessa Dagnino (Simplicity Consulting Inc)"
+                ]
+            },
+            {
+                "title": "Data Science & Analytics Lead",
+                "names": [
+                    "Warren Durrett"
+                ]
+            },
+            {
+                "title": "Data Science & Analytics",
+                "names": [
+                    "Abby Jaloway (National Business Innovations)",
+                    "Brynjólfur Erlingsson",
+                    "Ethan Batson (Design Laboratory Inc)",
+                    "Gil Darves (Design Laboratory Inc)",
+                    "Murali Nagarajan (Design Laboratory Inc)",
+                    "Patrick Worthey (Design Laboratory Inc)",
+                    "Pawan Panaganti (Design Laboratory Inc)",
+                    "Smita Menon (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "Program Manager",
+                "names": [
+                    "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
+                    "Meenoo Rami"
+                ]
+            },
+            {
+                "title": "Marketing Manager",
+                "names": [
+                    "Eva Stefanac"
+                ]
+            },
+            {
+                "title": "Legal",
+                "names": [
+                    "Christi Davisson"
+                ]
+            },
+            {
+                "title": "Customer Support",
+                "names": [
+                    "Amelia Lindroth Henriksson",
+                    "Ana Barata Martins",
+                    "Andreas Andersson",
+                    "Andreas Jörgensen",
+                    "Angehlica Walling",
+                    "Annika Tripke-Lund",
+                    "Anton Albiin",
+                    "Carl Johnsson",
+                    "Cim Borg",
+                    "David Stuart Dahlgren",
+                    "Dante Stjernberg",
+                    "David Carlsson",
+                    "Elin Frykholm",
+                    "Eliza Hearsum",
+                    "Erik Nordberg",
+                    "Fredrik Henriksson",
+                    "Henrik Davallius",
+                    "Henry Shi",
+                    "Joe Liu",
+                    "Jonny Hair",
+                    "Kevin Vesterlund",
+                    "Mike Till",
+                    "Nicole Jansson",
+                    "Rabi Hadad",
+                    "Robert Miskiewicz",
+                    "Robin Cocks",
+                    "Robin Thunström",
+                    "Theodor Colbing"
+                ]
+            },
+            {
+                "title": "Intellectual Property Enforcement Lead",
+                "names": [
+                    "Teresa Lee Rodewald"
+                ]
+            },
+            {
+                "title": "Intellectual Property Enforcement Agents",
+                "names": [
+                    "Marcus Forss",
+                    "Matilda Åkerman"
+                ]
+            },
+            {
+                "title": "Executive Business Administrators",
+                "names": [
+                    "Cathy Wickersham",
+                    "Darla J Barrett"
+                ]
+            },
+            {
+                "title": "Business Administrators",
+                "names": [
+                    "Shae M. Flanigan (C2S Technologies Inc)"
+                ]
+            },
+            {
+                "title": "Office Managers",
+                "names": [
+                    "Alex Andersson",
+                    "Charlotte Wredesjö",
+                    "Jill Curran",
+                    "Linn Hultman",
+                    "Mikaela Prim"
+                ]
+            },
+            {
+                "title": "Reception",
+                "names": [
+                    "Chaimae Truving"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Studios Quality Alumni",
+        "titles": [
+            {
+                "title": "Quality Leads",
+                "names": [
+                    "Tony Harlich"
+                ]
+            },
+            {
+                "title": "Quality Engineers",
+                "names": [
+                    "Akshata Trivedi"
+                ]
+            },
+            {
+                "title": "Quality Data Analysis & Engineering",
+                "names": [
+                    "Jeff MacDermot"
+                ]
+            },
+            {
+                "title": "Quality Analysts",
+                "names": [
+                    "Yi Zhao (Kforce)"
+                ]
+            },
+            {
+                "title": "Poland - Team Leads",
+                "names": [
+                    "Anna Wróbel (Lionbridge)"
+                ]
+            },
+            {
+                "title": "US Team - Software Test Engineering Leads",
+                "names": [
+                    "Chris James (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "US Team - Software Test Engineers",
+                "names": [
+                    "Brendan McElroy (Insight Global Inc)",
+                    "Crystal Edwards (Insight Global Inc)",
+                    "Dan Parker (Insight Global Inc)",
+                    "Isaac Dudley (Insight Global Inc)",
+                    "John Ehresmann (Experis)",
+                    "Sean Colbert (Experis)"
+                ]
+            },
+            {
+                "title": "US Team - Test Associates",
+                "names": [
+                    "Brian Sears (Experis)"
+                ]
+            },
+            {
+                "title": "Lionbridge Alumni",
+                "names": [
+                    "Andrzej Wojciechowski (Lionbridge)",
+                    "Bartłomiej Mareczko (Lionbridge)",
+                    "Filip Muchin (Lionbridge)",
+                    "Jacek Petela (Lionbridge)",
+                    "Jan Prejs (Lionbridge)",
+                    "Karol Kotowicz (Lionbridge)",
+                    "Katarzyna Jaworska (Lionbridge)",
+                    "Krzysztof Połomski (Lionbridge)",
+                    "Maciej Brzeziński (Lionbridge)",
+                    "Marek Urbański (Lionbridge)",
+                    "Mateusz Miturski (Lionbridge)",
+                    "Michał Młynek (Lionbridge)",
+                    "Michał Woś (Lionbridge)",
+                    "Paweł Kumanowski (Lionbridge)",
+                    "Piotr Gryczan (Lionbridge)",
+                    "Piotr Łowin (Lionbridge)",
+                    "Piotr Słomka (Lionbridge)",
+                    "Piotr Zieliński (Lionbridge)",
+                    "Przemysław Malinowski (Lionbridge)",
+                    "Ryszard Kowalczyk (Lionbridge)",
+                    "Tomasz Orlecki (Lionbridge)",
+                    "Tomasz Sporczyk (Lionbridge)"
+                ]
+            }
+        ]
+    }
+]

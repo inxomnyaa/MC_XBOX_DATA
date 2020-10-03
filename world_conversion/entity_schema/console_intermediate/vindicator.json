@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "hasDwellerComponent",
+      "dest": "hasDwellerComponent",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Johnny",
+      "dest": "Johnny",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

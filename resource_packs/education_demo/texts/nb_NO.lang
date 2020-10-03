@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Takk for at du spiller! Dette er en demoleksjon, så fremdriften din blir ikke lagret.	#
+
+edu_demo.tip.1=Regnskogene er hjem for over halvparten av landjordens dyrearter.	#
+edu_demo.tip.2=Mer enn 25 % av jordens befolkning avhenger av skogene for sitt daglige brød.	#
+edu_demo.tip.3=Flammer trenger tre ting for å brenne: brensel, oksygen og en varmekilde.	#
+edu_demo.tip.4=Branner, spesielt på torvmyr og i tett skog, fører til utslipp av enorme mengder karbondioksid.	#
+edu_demo.tip.5=Datamaskiner må læres opp til å lære – nesten som elever!	#
+edu_demo.tip.6=Kunstig intelligens brukes til å samle inn og analysere data om skoger, noe som går mye raskere enn å telle trær manuelt!	#
+
+menu.quit.edu=AVSLUTT LEKSJON	#
+menu.quit.edu.title=Avslutt demoleksjon	#
+
+start_screen.start_demo=Start leksjon	#
+
+upsell.tab.1.title=Minecraft for skoler!	#
+upsell.tab.1.body=Skap økt engasjement for ulike fag blant elevene med gratis leksjoner og opplæringer, evalueringsverktøy, flerspiller i klasserommet, sikker pålogging og teknisk støtte. Start en gratis prøveversjon av Minecraft: Education Edition i dag!	#
+upsell.tab.1.button=Finn ut mer	#
+
+upsell.tab.2.title=Undervis i koding med Minecraft	#
+upsell.tab.2.body=Bruk Minecrafts engasjerende leksjoner og over 50 timer med gratis pensum til å lære elevene å kode. Elevene kan skrive blokkbasert kode og JavaScript og se koden omsettes til handling i spillet!	#
+upsell.tab.2.button=Begynn å kode	#
+
+upsell.tab.3.title=Massevis av gratis leksjoner	#
+upsell.tab.3.body=Utforsk hundrevis av Minecraft-verdener og -leksjoner om alt fra historie og kjemi til datavitenskap og matte. Bruk disse leksjonene som utgangspunkt, eller lag dine egne!	#
+upsell.tab.3.button=Gå til leksjoner	#
+
+upsell.tab.4.title=Utvikle sosioemosjonelle ferdigheter	#
+upsell.tab.4.body=Elevene lærer å samarbeide, løse problemer og kommunisere på en empatisk måte. Minecraft: Education Edition har funksjoner som Engasjerende leser, som hjelper lærerne å nå alle typer elever.	#
+upsell.tab.4.button=Finn ut mer	#
+
+upsell.tab.5.title=Bli med i fellesskapet	#
+upsell.tab.5.body=Delta i læreropplæringer, kommuniser på sosiale medier og bli med i det globale fellesskapet vårt for å lære av andre lærere. Lærere i over 115 land bruker Minecraft i klasserommet, og du kan bli den neste!	#
+upsell.tab.5.button=Kom i gang	#
+
+lesson.finished=JEG ER FERDIG	#
+
+lesson.end.dialog.title=Leksjon fullført!	#
+lesson.end.dialog.body.title=GRATULERER	#
+lesson.end.dialog.body.wimages=Du har fått en attest for å ha fullført. Sjekk ut bildene fra denne leksjonen og lagre en kopi.	#
+lesson.end.dialog.body.checkport=Sjekk ut bildene fra denne leksjonen og lagre en kopi.	#
+lesson.end.dialog.body.noimages=Du har fått en attest for å ha fullført.	#
+lesson.end.dialog.button.morecoding=Mer koding	#
+lesson.end.dialog.button.getcert=Få attest	#
+lesson.end.dialog.button.exit=Avslutt leksjon	#
+lesson.end.dialog.button.export=Lagre	#
+
+lesson.end.access.imagespreview=Leksjonsbilde %1 av %2	#
+lesson.end.access.export=Eksporter leksjonsbilder	#

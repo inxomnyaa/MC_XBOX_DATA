@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Xbox Live にサインインするにはヘッドセットから電話を外してください。	#
+xblLogin.AddFriendMessageGearVR=Xbox Live のフレンドを追加するにはヘッドセットから電話を外してください	#
+xblLogin.LoginMessageRift=Xbox Live にサインインするにはヘッドセットを外してください。	#
+xblLogin.AddFriendMessageRift=Xbox Live のフレンドを追加するにはヘッドセットを外してください。	#
+xblLogin.ShowGamerCardMessageRift=ゲーマーカードを表示するにはヘッドセットを外してください。	#
+
+LostFocus.Rift=マウスが失われました! 使用する場合はデスクトップで Minecraft を選択してください。	#
+
+vr.controls.HandControllerTracked=Oculus Touch のトラッキングを取得しました	#
+vr.controls.HandControllerTrackingLost=Oculus Touch のトラッキングが失われました	#
+
+FileBrowser.Rift.Skin=カスタム スキンを選択するにはヘッドセットを外してください。	#
+FileBrowser.Rift.TemplateResource=テンプレートのリソースを選択するには、ヘッドセットを取り外してください。	#
+FileBrowser.Rift.Export=世界をエクスポートするにはヘッドセットを外してください。	#
+FileBrowser.Rift.Import=世界をインポートするにはヘッドセットを外してください。	#
+FileBrowser.Rift.ExportBook=本をエクスポートするにはヘッドセットを外してください	#
+FileBrowser.Rift.ExportPortfolio=ポートフォリオをエクスポートするにはヘッドセットを外してください。	#
+FileBrowser.Rift.FileChooser=ファイル選択	#
+FileBrowser.Rift.FolderChooser=フォルダーを選択	#
+FileBrowser.Rift.ExportWorld=世界をエクスポート	#
+FileBrowser.Rift.ExportResourcesPrompt=これらのリソースをエクスポートするにはヘッドセットを外してください。	#
+FileBrowser.Rift.ExportResources=リソースをエクスポートする	#
+FileBrowser.Rift.SkinChooser=スキン選択	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR 設定	#
+options.vrHideHud=HUD を非表示	#
+options.vrHideHand=手を非表示	#
+options.vrHideGUI=VR 時に GUI を隠す	#
+options.vrGamma=VR 明るさ	#
+options.vrMsaa=VR アンチエイリアシング	#
+options.vrRenderDistance=VR 表示距離	#
+options.vrParticleRenderDistance=VR パーティクル表示距離	#
+options.vrResetPlayerAlignment=VR 調整をリセット	#
+options.vrHMDdisplacement=移動に HMD の位置移動を使用	#
+options.vrHeadSteering=VR ヘッド ステアリング	#
+options.vrTurningOptions=ターン オプション	#
+options.StutterTurn=VR ターン	#
+options.StutterTurnSound=VR ターン効果音	#
+options.StutterConstantAngleOrTime=VR ターン固定角度モード	#
+options.3DRendering=3D 表示	#
+options.vrHudAtTop=HUD を上部に	#
+options.vrAutojump=VR オートジャンプ	#
+options.vrLinearJump=VR リニア ジャンプ	#
+options.vrLinearMotion=VR リニア 移動	#
+options.stickyMining=掘削カーソル固定	#
+options.stickyMiningHand=ハンド コントローラーの掘削カーソル固定	#
+options.vrMovingBackwardsHardStop=後退時の強制停止	#
+options.comfortControls=VR コントロール	#
+options.ShowComfortSelectScreen=操作方法選択画面を表示	#
+options.vrHudDrifts=HUD の移動	#
+options.vrLivingRoomCursorCentered=VR リビング ルーム カーソルを中央に	#
+options.vrTapTurn=タップ ターン	#
+options.vrTapTurnSensitivity=タップ ターン感度	#
+options.vrRollTurning=ホイール ターン	#
+options.vrRollTurnSensitivity=ホイール ターン感度	#
+options.vrHandControlsItem=ハンド コントローラーでアイテムをコントロール	#
+options.vrHandControlsHUD=ハンド コントローラーで HUD をコントロール	#
+options.vrHandPointer=ハンド コントローラー ポインター表示	#
+options.vrHandsVisible=手を表示	#
+options.vr180Turning=180 度ターン	#
+options.vrMirrorTexture=ミラー テクスチャを有効にする	#
+options.vrSensitivity=VR 感度	#
+options.vrUIMouseSensitivity=VR UI 感度	#
+
+## VR control Scheme Strings
+vr.controls.title=VR コントロール	#
+
+vr.controls.title.classic=クラシック コントロール - 強烈	#
+vr.controls.title.experimental=VR コントロール - 穏やか	#
+vr.controls.classicDescription=VR 向けに調整されていない、通常の回転やジャンプ。快適さの面で、多くの人に強烈過ぎると感じられています。	#
+vr.controls.experimentalDescription=回転が段階的に行われるようになり、カーソルとジャンプが VR 向けに調整されて、ほとんどの人にとって動いている時の快適性が向上します。(開発中)	#
+vr.controls.sharedDescription=操作方法はゲーム内のオプション メニューからも変更可能です。	#
+vr.moreOptions=その他のオプション	#
+vr.moreInformation=さらに詳しく	#
+vr.detailedInformation=VR をより快適に体験できるように、いくつかのゲーム機能が調整されています。例： VR ターンは回転モーションを段階的にすることで方向感覚の喪失を減少させます。	#
+vr.detailedInformationLink=VR コントロールや開発作業の詳細については以下をご覧ください： minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=デバイスのセンター再調整	#
+vr.pausescreen.recenterDeviceKeyboard=N を押してデバイスをセンターに戻す	#
+vr.warning.controllerRequired=ゲーム コントローラーが必要です	#
+vr.warning.controllerRecommended=VR にはゲーム コントローラーが推奨されます	#
+vr.warning.controllerOrMouseRecommended=VR にはゲーム コントローラーまたはマウスが推奨されます	#
+vr.warning.exitGameWarning=Minecraft を終了しますか?	#
+vr.alignscreen.pressButtonX=コントローラーの X ボタンを押して続けてください	#
+vr.alignscreen.pressButtonXOrMouse=クリックするかコントローラーのいずれかのボタンを押して続けてください	#
+vr.alignscreen.pressButtonAOrSelectTrigger=続行するには、ゲーム コントローラーの Aボタンか、Windows Mixed Reality コントローラーのトリガーを押してください	#
+vr.alignscreen.pressAnyButton=頭をニュートラルな位置にしてから、いずれかのボタンを押してください	#
+vr.alignscreen.info=注意: これは開発中の機能です。VR は一部の人に不快な感覚を生じさせる場合があります。必要に応じて可能な限り多くの休憩を取り、タッチパッドをタップして、より負担が少ないリビング ルーム モードを利用してください。	#
+vr.alignscreen.info_viewbutton=注意: これは開発中の機能です。VR は一部の人に不快な感覚を生じさせる場合があります。必要に応じて可能な限り多くの休憩を取り、方向パッドの上を押して、より負担が少ないリビング ルーム モードを利用してください。	#
+
+accessibility.gamepad.button.systemLeft=SELECTボタン	#
+accessibility.gamepad.button.systemRight=STARTボタン	#
+
+## Oculus Rift Installer
+ori.confirm.exit=本当に終了してもよろしいですか?	#
+ori.confirm.update=Minecraft をアップデートしますか?	#
+ori.pending=Windows Update が完了するのを待っています。	#
+ori.installing=インストール中...	#
+ori.updating=アップデート中...	#
+ori.launching=起動中!	#
+ori.check_for_update=アップデートを確認中...	#
+ori.error.unavailable=Minecraft を利用できませんでした。インターネットに接続して、ストアにログインしていることを確認してください。	#
+ori.error.unknown=不明なエラーが発生しました。後でもう一度お試しください。	#
+ori.error.not_supported=Minecraft はこのシステムではサポートされていません。	#
+ori.error.launch_failure=Minecraft を起動できませんでした。	#
+ori.error.version=Minecraft が最新のバージョンではありません。プレイするにはアップデートを行ってください。	#
+ori.error.win10=Windows 10、バージョン 1607 以降が必要です。	#
+ori.error.install_error=エラーが発生しました。エラー コード: 0x	#
+ori.error.low_storage=インストールできません。ストレージの空き容量が足りません。	#
+ori.error.no_internet=接続できません。インターネット接続の状態をご確認ください。	#
+ori.error.winUpdateDisabled=Windows Update を有効にする必要があります。	#
+ori.confirm.controls.controller.confirm=確認	#
+ori.confirm.controls.controller.cancel=キャンセル	#
+ori.confirm.controls.keyboard.confirm=確認: [Enter]	#
+ori.confirm.controls.keyboard.cancel=キャンセル: [Esc]	#
+ori.exit.controls.controller=終了	#
+ori.exit.controls.keyboard=終了: [Enter]	#
+ori.cancelling=キャンセル中...	#
+

@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "SheepDefinitions",
+      "dest": "definitions"
+    },
+    {
+      "src": "Color",
+      "dest": "Color",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    }
+  ]
+}

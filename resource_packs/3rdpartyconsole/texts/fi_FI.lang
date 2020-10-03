@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=miinus-painike	#
+accessibility.gamepad.button.systemRight=plus-painike	#
+accessibility.gamepad.dpad.down=Alas-painike	#
+accessibility.gamepad.dpad.up=Ylös-painike	#
+accessibility.gamepad.dpad.left=Vasemmalle-painike	#
+accessibility.gamepad.dpad.right=Oikealle-painike	#
+accessibility.gamepad.trigger.right=ZR-painike	#
+accessibility.gamepad.trigger.left=ZL-painike	#
+accessibility.gamepad.bumper.right=R-painike	#
+accessibility.gamepad.bumper.left=L-painike	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo-tilin asetukset	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft-tilin asetukset	#
+
+patchNotice.title=Tervetuloa Minecraftiin – Älä jää paitsi upeasta sisällöstämme!	#
+patchNotice.description.onlineFeatures=Yhdistä Nintendo Switchisi internetiin, niin löydät aivan uusia tapoja pelata!	#
+patchNotice.description.onlineFeatures.item1=* Lataa ilmaiset ladattavan sisällön paketit, jotka saat pelin ostamisen yhteydessä.	#
+patchNotice.description.onlineFeatures.item2=* Löydä yhteisön luomuksia kaupassa. Ne avaavat sinulle aivan uusia pelitapoja.	#
+patchNotice.description.onlineFeatures.item3=* Pelaa verkossa (jopa muita laiteita käyttävien) ystäviesi kanssa!	#
+patchNotice.description.onlineFeatures.item4=* Päivitä peliä uusilla ominaisuuksilla, sisällöillä ja parannuksilla, kuten...	#
+patchNotice.description.freeUpdates.item1=* Uusia kuutioita!	#
+patchNotice.description.freeUpdates.item2=* Uusia esineitä!	#
+patchNotice.description.freeUpdates.item3=* Uusia olioita!	#
+patchNotice.description.freeUpdates.item4=* Uusia luotavia rakennelmia!	#
+patchNotice.description.freeUpdates.item5=* Uusia biomiversioita!	#
+patchNotice.description.onlineFeatures.item5=Päivitys on saatavilla juuri nyt! Yhdistä Nintendo Switchisi internetiin, jotta saat tämän ilmaisen päivityksen!	#
+
+thirdPartyConsole.network.networkName=Nintendo-tili	#
+thirdPartyConsole.adhoc.title=Valitse verkkotila	#
+thirdPartyConsole.adhoc.desc=Valitse lähiverkko yhteyden ottamiseksi muihin lähellä oleviin Nintendo Switch -järjestelmiin tai online-verkosto yhteyden ottamiseksi ystäviin kaikkialla maailmassa!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Yhdistä kohteeseen	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Online-verkosto	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Yhdistä kohteeseen	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Lähiverkko	#
+thirdPartyConsole.adhoc.onlineNetwork=Online-verkosto	#
+thirdPartyConsole.adhoc.localNetwork=Lähiverkko	#
+thirdPartyConsole.adhoc.enableOnline=Online-verkoston käyttöönotto	#
+thirdPartyConsole.adhoc.enableLocal=Lähiverkon käyttöönotto	#
+thirdPartyConsole.adhoc.inprogress=Olemme tekemässä pikaisia muutoksia. Hetki vielä...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Liian monta ohjainta yhdistettynä.	#
+thirdPartyConsole.adhoc.controllerwarning=Lähiverkkotila tukee enintään kahta yhdistettyä langatonta ohjainta (2 Joy-Con -peliohjainta tai 2 Pro Controller -peliohjainta). Ylimääräisten ohjainten yhteys on katkaistu.	#
+thirdPartyConsole.adhoc.store=Kaupan toiminnot eivät ole käytössä lähiverkkotilassa.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Kirjaudu Microsoft-tiliin?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Sinun on luotava yhteys online-verkostoon, jotta voit kirjautua Microsoft-tilille.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Yhdistä	#
+thirdPartyConsole.startmenuscreen.xblsignin=Kirjaudu Microsoft-tilillä	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Kirjautuminen Microsoft-tilille	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Kirjaudu Nintendo-tilillä	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Kirjautuminen Nintendo-tilillä	#
+thirdPartyConsole.notsignedin=Et ole kirjautuneena Nintendo-tilillesi.	#
+thirdPartyConsole.notsignedin.achievements=Et ole kirjautuneena, joten et voi ansaita saavutuksia.	#
+thirdPartyConsole.notsignedin.store=Tarvitset Nintendo-tilin kaupan selaamiseen.	#
+thirdPartyConsole.notsignedin.serversTab=Kokeile verkossa Minecraft-palvelimia, jättimäisiä yhteisön ylläpitämiä maailmoja, joissa voit kisailla tai tehdä yhteistyötä ystävien (ja rakkaiden vihollisten) kanssa, hengailemista toisten pelaajien kanssa aulassa sekä laajojen mukautettujen maailmojen tutkimista.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Kirjaudu sisään Nintendo-tililläsi, jotta voit pelata ystäviesi kanssa.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Tällä tilillä ei ole lupaa liittyä Nintendo-moninpeleihin.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Sinulla on oltava ystävänä joku pelaaja tässä pelissä, jotta voit liittyä.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Yhteytesi Nintendo Switch Online -palveluun on katkennut. Kirjaudu sisälle päävalikossa ja käynnistä maailmasi uudelleen, jotta se näkyy Nintendo-ystävillesi.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Maailmasi ei ole enää näkyvissä lähiverkossa. Käynnistä lähitila uudelleen päävalikossa ja käynnistä maailmasi uudelleen, jotta se näkyy lähipelaajille.	#
+networkWorld.add_friend=Ystäviä muilta alustoilta	#
+networkWorld.find_cross_platform_friends=Löydä ystäviä muilta alustoilta	#
+networkWorld.joinable_nintendo_friends_label=Nintendo Switch -ystävät, joihin voidaan yhdistää	#
+networkWorld.joinable_cross_platform_friends_label=Muiden alustojen ystävät, joihin voidaan yhdistää	#
+networkWorld.no_xbl_label=Et voi liittyä monialustaisiin peleihin ilman Microsoft-tiliä. Kirjaudu Microsoft-tilille, jotta voit liittyä ystäviesi maailmoihin.	#
+networkWorld.no_thirdParty_label.no_subscription=Et ole yhteydessä Nintendo Switch Online -palveluihin. Sinun on tilattava Nintendo Switch Online -palvelut, jotta voit käyttää online-ominaisuuksia. Voit hankkia ne Nintendo eShopista.	#
+networkWorld.no_thirdParty_label.has_subscription=Et ole yhteydessä Nintendo Switch Online -palveluun. Et voi liittyä ystäviesi moninpeleihin. Kirjaudu Nintendo Switch Onlineen, jotta voit liittyä ystäviesi maailmoihin.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Et voi pelata verkkomoninpeliä lapsilukon vuoksi. Tarkastele ja hallitse moninpeliasetuksiasi lapsilukon kohdassa Viestintä muiden kanssa.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Et voi pelata lähimoninpeliä lapsilukon vuoksi. Tarkastele ja hallitse moninpeliasetuksiasi lapsilukon kohdassa Viestintä muiden kanssa.	#
+permissions.AddFriendsThirdParty=Et voi lisätä ystäviä lapsilukon vuoksi. Tarkastele ja hallitse moninpeliasetuksiasi lapsilukon kohdassa Viestintä muiden kanssa.	#
+permissions.MultiplayerSessionsThirdParty=Et voi pelata Realmsia lapsilukon vuoksi. Tarkastele ja hallitse moninpeliasetuksiasi lapsilukon kohdassa Viestintä muiden kanssa.	#
+options.dev_switch_coin_debug=Ota eShop-ostoksen vianetsintä käyttöön kolikkoja lisättäessä	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Et ole yhteydessä Nintendo Switch Online -palveluihin. Sinun on tilattava Nintendo Switch Online -palvelut, jotta voit käyttää online-ominaisuuksia. Voit hankkia ne Nintendo eShopista.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Et ole yhteydessä Nintendo Switch Online -palveluun. Nintendo-ystäväsi eivät voi liittyä moninpelimaailmaasi. Kirjaudu Nintendo Switch Onlineen, jotta voit pelata ystäviesi kanssa.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Laitteesi lähiverkkotilaan vaihtamisessa tapahtui virhe. Varmista, ettei lentokonetila ole käytöstä, ja käynnistä lähiverkkotila uudelleen, jotta laitteesi näky lähiverkon pelaajille.	#
+createWorldScreen.check_internet_connection=Nintendo Switchisi ei ole yhteydessä internetiin. Ystäväsi eivät voi liittyä moninpelimaailmoihisi. Yhdistä Nintendo Switchisi internetiin online-ominaisuuksien käyttämistä varten.	#
+invite.notification.description=%s on kutsunut sinut pelaamaan Minecraftia. Vastaa painamalla -.	#
+network.thirdparty.connect.benefit=Kirjaudu Nintendo-tilillesi? Online-palvelujen käyttämiseen vaaditaan Nintendo-tili.	#
+networkWorld.check_internet_connection=Nintendo Switchisi ei ole yhteydessä internetiin. Et voi liittyä ystäviesi moninpeleihin. Yhdistä Nintendo Switchisi internetiin online-ominaisuuksien käyttämistä varten.	#
+networkWorld.check_internet_connection.no_subscription=Et ole yhteydessä Nintendo Switch Online -palveluihin. Sinun on tilattava Nintendo Switch Online -palvelut, jotta voit käyttää online-ominaisuuksia. Voit hankkia ne Nintendo eShopista.	#
+networkWorld.check_internet_connection.has_subscription=Et ole yhteydessä Nintendo Switch Online -palveluun. Et voi liittyä ystäviesi moninpeleihin. Kirjaudu Nintendo Switch Onlineen, jotta voit liittyä ystäviesi maailmoihin.	#
+disconnectionScreen.realmsDisabled=Valtakunnat eivät ole käytössä Switchissä.	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online vaaditaan	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Voit pelata moninpeliä jaetulla näytöllä ilman Nintendo Switch Online -tilausta poistamalla moninpelin käytöstä peliasetuksissa. Jaetun ruudun moninpeliin verkossa tarvitset Nintendo Switch Online -palvelujen tilauksen, jonka voit hankkia Nintendo eShopista.	#
+disconnectionScreen.noNSO.joinRealm=Et ole yhteydessä Nintendo Switch Online -palveluihin. Sinun on tilattava Nintendo Switch Online -palvelut, jotta voit käyttää pelata moninpeliä. Voit hankkia ne Nintendo eShopista.	#
+options.xboxlivevisible=Näkyy muiden alustojen pelaajille	#
+options.achievementsDisabled=Tässä maailmassa ei voi ansaita saavutuksia.	#
+permissions.RealmsAddFriends=Microsoft-tilisi asetukset estävät sinua antamasta ystävillesi oikeutta pelata valtakunnassasi. Voit muuttaa näitä asetuksia tietosuoja- ja verkkoturvallisuusasetuksissasi osoitteessa aka.ms/accountsettings. Haluatko jatkaa?	#
+permissions.CloudSave=Microsoft-tilisi asetukset estävät sinua tallentamasta maailmojasi. Voit muuttaa näitä asetuksia tietosuoja- ja verkkoturvallisuusasetuksissasi osoitteessa aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Microsoft-tilisi asetukset eivät salli moninpelejä. Tarkista tietosuoja- ja verkkoturva-asetuksesi osoitteesta aka.ms/accountsettings varmistaaksesi, että asetuksesi sallivat moninpelin. 	#
+store.purchase.syncInProgress=Synkronoidaan Nintendo eShop -ostoksia...	#
+store.purchase.coinsLeftToBuy=Tarvitset %s kolikkoa lisää, jotta voit avata tämän paketin.	#
+xbox.signin.newaccount.welcome=Tervetuloa!	#
+xbox.signin.legalinfo=Olet yhteydessä Minecraftiin Xbox Live -profiililla. Muuta Xbox Live -asetuksiasi ja hanki lisätietoja osoitteessa http://aka.ms/accountsettings. Microsoftin palvelusopimus ja tietosuojalauseke ovat voimassa.	#
+xbox.failedsignin.line2=Jos pelaat kirjautumatta sisään, et voi ansaita saavutuksia tai liittyä valtakuntiin ja palvelimille.	#
+xbox.failedautosignin.message=Hups! Automaattinen kirjautuminen epäonnistui. Päästäksesi Microsoft-tilillesi sinun on kirjauduttava uudelleen manuaalisesti.	#
+xbox.signInLong=Kirjaudu sisään ilmaiseksi!	#
+xbox.signOutLong=Kirjaudu ulos Microsoft-tililtäsi	#
+xbox.thirdpartysignin.line2=Sinun on kirjauduttava sisään Microsoft-tilille, jotta voit muodostaa yhteyden!	#
+xbox.profile.realName=Hallitse oikean nimesi jakamista koskevia tietosuoja-asetuksia osoitteessa http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Poista ystävä	#
+autosave.info.xbox=Kun näet tämän kuvakkeen, tallennamme peliäsi. Älä sammuta Nintendo Switch -konsoliasi, kun tämä kuvake näkyy.	#
+progressScreen.message.leaveLevel=Peliäsi tallennetaan. Älä sammuta Nintendo Switch -konsoliasi.	#
+feed.report_xbox=Raportoi valvontapalvelulle	#
+
+howtoplay.multiplayer.text.1=Minecraft on parhaimmillaan, kun nikkaroit ystäviesi kanssa! Oletusasetuksina on, että kaikki maailmasi asetukset sallivat ystäviesi liittymisen. Nintendo Switchillä voit pelata moninpeliä sekä Nintendo-ystäviesi että muilla laitteilla pelaavien ystäviesi kanssa. Katso kaikki tavat pelata moninpeliä täältä!	#
+howtoplay.multiplayer.text.2.splitscreen=Peliisi voi liittyä jopa kolme muuta pelaajaa missä tahansa pelin vaiheessa! Kun olet käynnistänyt maailmasi, ystäväsi voivat laittaa ohjaimensa päälle ja liittyä siihen millä tahansa painikkeella. Varmista, että kaikilla pelaajilla on kaksi Joy-Con -peliohjainta. Käytössä on oltava sekä vasen että oikea ohjain tai mikä tahansa täysi ohjain, jolla voi pelata Nintendo Switchillä.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraftissa on kolme päätapaa pelata verkkomoninpeliä. Voit pelata valtakunnassa, palvelimella tai omassa maailmassasi. Kun sinulla on Nintendo Switch Online -tilaus ja olet kirjautuneena Microsoft-tililläsi, muita laitteita käyttävät ystäväsi voivat liittyä maailmaasi. Valtakunnat ja palvelimet edellyttävät Microsoft-tiliä.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraftissa on kolme päätapaa pelata verkkomoninpeliä. Voit pelata valtakunnassa, palvelimella tai omassa maailmassasi. Kun olet kirjautuneena Nintendo-tililläsi ja Microsoft-tililläsi, muita laitteita käyttävät ystäväsi voivat liittyä maailmaasi. Valtakunnat ja palvelimet edellyttävät Microsoft-tiliä.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Kun sinulla on Nintendo Switch Online -tilaus ja olet kirjautuneena Microsoft-tililläsi, muita laitteita käyttävät ystäväsi voivat liittyä maailmaasi.	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Kun olet kirjautuneena Nintendo-tililläsi ja Microsoft-tililläsi, muita laitteita käyttävät ystäväsi voivat liittyä maailmaasi!	#
+howtoplay.multiplayer.text.4=Avaa Ystävät-välilehti, jotta voit liittyä moninpeliin! Kaikki ystäviesi maailmat ja valtakunnat, joihin voit liittyä, ovat näkyvissä, kun olet online-tilassa. Myös ystäviesi ad hoc -pelit näkyvät luettelossa, kun olet ad hoc -tilassa.	#
+howtoplay.multiplayer.text.4.norealms=Avaa Ystävät-välilehti, jotta voit liittyä moninpeliin! Kaikki ystäviesi maailmat, joihin voit liittyä, ovat näkyvissä, kun olet online-tilassa. Myös ystäviesi ad hoc -pelit näkyvät luettelossa, kun olet ad hoc -tilassa.	#
+howtoplay.multiplayer.text.5=Kun aloitat verkkopelin tai liityt sellaiseen, se on kaikkien ystäviesi ja Microsoft-tilin ystäviesi ystävien nähtävissä. Tarkista maailmasi monialustaisen moninpelin asetukset: paina Muokkaa-painiketta maailman kohdalla ja valitse Moninpeli. 	#
+howtoplay.multiplayer.text.7=Anna ystävillesi erityistaitoja maailmassasi tai estä heitä koskemasta mihinkään. Oletusasetuksena on, että kaikki ystäväsi tulevat maailmaasi jäseninä. Taukovalikossa voit nähdä luettelon maailmassasi olevista ystävistäsi. Napsauttamalla heidän nimensä oikealla puolella olevaa kuvaketta voit muokata heidän valtuuksiaan sinun maailmassasi.	#
+howtoplay.multiplayer.header.adhoc=Ad hoc -tila	#
+howtoplay.multiplayer.text.adhoc=Haluatko pelata ystäviesi kanssa, muttet samalla laitteella? Siirrä Nintendo Switchisi ad hoc -tilaan päävalikossa painamalla :_gamepad_face_button_left:. Siirtymällä Pelaa-valikon Ystävät-välilehteen näet lähellä olevien ystäväsi pelit. Voit myös itse aloittaa uuden pelin, jolloin lähellä olevat ystäväsi voivat liittyä mukaan!	#
+howtoplay.theStore.text.4.norealms=Anna vanhalle pelillesi uusi ilme tekstuuripaketeilla, jotka päällystävät nykyiset maailmasi!	#
+howtoplay.theStore.text.5.norealms=Tai kokeile kaikkea yhdistelmäpaketeilla, jotka ovat tarkkaan valikoituja olemusten, maailmojen ja tekstuurien kokoelmia. Yhdessä ne tekevät maailmoistasi aivan uudenlaisia!	#
+
+trial.tabbed_upsell.xbl.title=Eikä siinä vielä kaikki!	#
+
+connect_gamepad.pressButtonToContinue=Jatkaminen edellyttää Pro-ohjainta tai Joy-Con (L)/(R) -ohjainparia.	#
+connect_gamepad.adhocMaxControllers=Langattomasti lähiverkossa pelattaessa voidaan käyttää vain yhtä Pro-ohjainta tai yhtä Joy-Con (L)/(R) -ohjainparia. Sammuta kaikki muut ohjaimet.	#
+connect_gamepad.requireControllerReconfiguration=Kukin pelaaja tarvitsee yhden Pro-ohjaimen tai yhden Joy-Con (L)/(R) -ohjainparin. Sammuta ylimääräiset parittomat Joy-Con-ohjaimet.	#
+connect_gamepad.handheldModeNoSplitscreen=Ylimääräinen ohjain havaittu, mutta jaetun ruudun moninpeli ei ole käytettävissä mobiilitilassa. Poistu mobiilitilasta irrottamalla Joy-Con-ojaimet tai sammuta kaikki ylimääräiset ohjaimet.	#
+connect_gamepad.promptHandheldMode=Konsoliin on liitetty Joy-Con-ohjaimia. Haluatko siirtyä mobiilitilaan? Tällöin poistut jaetun ruudun moninpelitilasta. Poistu jaetun ruudun moninpelitilasta ja siirry mobiilitilaan painamalla OK tai valitse Peruuta katkaistaksesi liitettyjen JoyCon-ohjainten yhteyden peliin latausta varten.	#

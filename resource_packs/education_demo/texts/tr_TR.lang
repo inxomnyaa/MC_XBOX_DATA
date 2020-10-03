@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Oynadığınız için teşekkürler! Bu bir demo ders olduğu için ilerlemeniz kaydedilmeyecek.	#
+
+edu_demo.tip.1=Yağmur ormanları, gezegenimizin yeryüzündeki hayvan türlerinin yarısından fazlasına ev sahipliği yapar.	#
+edu_demo.tip.2=Ormanlar, dünya nüfusunun %25'inden fazlasının geçim kaynağıdır.	#
+edu_demo.tip.3=Bir yangının çıkması için üç şey gerekir: yakıt, oksijen ve bir ısı kaynağı.	#
+edu_demo.tip.4=Özellikle turbalık alanlarda ve gür ormanlarda çıkan yangınlar, çok büyük miktarda karbon emisyonu yayarlar.	#
+edu_demo.tip.5=Bilgisayarlara öğrenmeyi öğretebilirsiniz - öğrenciler gibi!	#
+edu_demo.tip.6=Orman verilerini toplayıp analiz etmek için yapay zeka kullanılır. Ağaçları elle saymaktan daha hızlı bir yöntemdir!	#
+
+menu.quit.edu=DERSTEN ÇIK	#
+menu.quit.edu.title=Demo Dersten Çık	#
+
+start_screen.start_demo=Dersi Başlat	#
+
+upsell.tab.1.title=Okullar için Minecraft!	#
+upsell.tab.1.body=Ücretsiz dersler ve öğreticiler, değerlendirme araçları, sınıfta çok oyunculu oyun, güvenli girişler ve teknik destek olanaklarıyla öğrencilerinizin farklı konulara katılımını sağlayın. Minecraft: Education Edition ücretsiz deneme sürümünü hemen başlatın!	#
+upsell.tab.1.button=Daha Fazla Bilgi	#
+
+upsell.tab.2.title=Minecraft ile Kodlamayı Öğretin	#
+upsell.tab.2.body=Sürükleyici dersler ve 50 saatten fazla ücretsiz eğitim programı ile öğrencilerinize kodlamayı öğretmek için Minecraft'ı kullanın. Öğrenciler blok temelli kod ve JavaScript yazarak kodlarının oyunda hayat bulduğunu görebilirler!	#
+upsell.tab.2.button=Kodlamaya Başlayın	#
+
+upsell.tab.3.title=Bir Sürü Ücretsiz Ders	#
+upsell.tab.3.body=Tarih ve kimyadan bilgisayar bilimleri ve matematiğe kadar yüzlerce dersi ve Minecraft dünyasını keşfedin. Bu dersleri bir başlangıç noktası olarak kullanın veya kendiniz bir tane oluşturun!	#
+upsell.tab.3.button=Derslere Git	#
+
+upsell.tab.4.title=Sosyal-Duygusal Beceriler İnşa Edin	#
+upsell.tab.4.body=Öğrenciler iş birliği yapmayı, sorunları çözmeyi ve empatiyle iletişim kurmayı öğrenecek. Minecraft: Education Edition, öğretmenlerin her türlü öğrenciye ulaşmasına yardımcı olan Tam Ekran Okuyucu gibi özellikleri içerir.	#
+upsell.tab.4.button=Daha Fazla Bilgi	#
+
+upsell.tab.5.title=Topluluğa Katılın	#
+upsell.tab.5.body=Öğretmen eğitimine katılın, sosyal medyada bağlantı kurun ve küresel topluluğumuza katılarak diğer eğitmenlerden bilgi alın. 115'ten fazla ülkede eğitimciler, sınıflarında Minecraft'ı kullanıyor - sıradaki siz olabilirsiniz!	#
+upsell.tab.5.button=Bağlantı Kurun	#
+
+lesson.finished=BİTTİ	#
+
+lesson.end.dialog.title=Ders Tamamlandı!	#
+lesson.end.dialog.body.title=TEBRİKLER	#
+lesson.end.dialog.body.wimages=Bir tamamlama sertifikası kazandınız. Bu dersin fotoğraflarına göz atın ve bir kopyasını kaydedin.	#
+lesson.end.dialog.body.checkport=Bu dersin fotoğraflarına göz atın ve bir kopyasını kaydedin.	#
+lesson.end.dialog.body.noimages=Bir tamamlama sertifikası kazandınız.	#
+lesson.end.dialog.button.morecoding=Daha Fazla Kodlama	#
+lesson.end.dialog.button.getcert=Sertifika Al	#
+lesson.end.dialog.button.exit=Dersten Çık	#
+lesson.end.dialog.button.export=Kaydet	#
+
+lesson.end.access.imagespreview=%1/%2 ders fotoğrafı	#
+lesson.end.access.export=Ders fotoğraflarını dışarı aktar	#

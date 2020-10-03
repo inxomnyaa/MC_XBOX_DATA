@@ -1,0 +1,71 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "ArmorItems[3]",
+      "dest": "HeadArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "ArmorItems[2]",
+      "dest": "BodyArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "ArmorItems[1]",
+      "dest": "LegArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "ArmorItems[0]",
+      "dest": "FootArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "Equipment[4]",
+      "dest": "HeadArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "Equipment[3]",
+      "dest": "BodyArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "Equipment[2]",
+      "dest": "LegArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "Equipment[1]",
+      "dest": "FootArmorSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "HandItems[0]",
+      "dest": "RightHandHandSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "HandItems[1]",
+      "dest": "LeftHandSlot",
+      "optional": true
+    },
+    {
+      "custom_transformation": "ConsoleArmorStandPoseToIntermediate",
+      "src": "Pose",
+      "dest": "Pose",
+      "optional": true
+    }
+  ]
+}

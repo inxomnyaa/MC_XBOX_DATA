@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "Leashed",
+      "dest": "Leashed",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue",
+      "optional": true
+    },
+    {
+      "src": "Leash",
+      "dest": "LeashedTo",
+      "custom_transformation": "LeashedToFromJavaTransformation",
+      "optional": true
+    },
+    {
+      "src": "ActiveEffects",
+      "dest": "ActiveEffects",
+      "custom_transformation": "JavaPotionEffectToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Attributes",
+      "dest": "Attributes",
+      "custom_transformation": "ConsoleAttributeToIntermediate"
+    }
+  ]
+}

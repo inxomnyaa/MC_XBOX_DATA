@@ -1,0 +1,262 @@
+{
+    "content": [
+        {
+            "path": "blocks.json"
+        },
+        {
+            "path": "loading_messages.json"
+        },
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "splashes.json"
+        },
+        {
+            "path": "items/camera.json"
+        },
+        {
+            "path": "library/categories.json"
+        },
+        {
+            "path": "texts/bg_BG.lang"
+        },
+        {
+            "path": "texts/cs_CZ.lang"
+        },
+        {
+            "path": "texts/da_DK.lang"
+        },
+        {
+            "path": "texts/de_DE.lang"
+        },
+        {
+            "path": "texts/el_GR.lang"
+        },
+        {
+            "path": "texts/en_GB.lang"
+        },
+        {
+            "path": "texts/en_US.lang"
+        },
+        {
+            "path": "texts/es_ES.lang"
+        },
+        {
+            "path": "texts/es_MX.lang"
+        },
+        {
+            "path": "texts/fi_FI.lang"
+        },
+        {
+            "path": "texts/fr_CA.lang"
+        },
+        {
+            "path": "texts/fr_FR.lang"
+        },
+        {
+            "path": "texts/hu_HU.lang"
+        },
+        {
+            "path": "texts/id_ID.lang"
+        },
+        {
+            "path": "texts/it_IT.lang"
+        },
+        {
+            "path": "texts/ja_JP.lang"
+        },
+        {
+            "path": "texts/ko_KR.lang"
+        },
+        {
+            "path": "texts/nb_NO.lang"
+        },
+        {
+            "path": "texts/nl_NL.lang"
+        },
+        {
+            "path": "texts/pl_PL.lang"
+        },
+        {
+            "path": "texts/pt_BR.lang"
+        },
+        {
+            "path": "texts/pt_PT.lang"
+        },
+        {
+            "path": "texts/ru_RU.lang"
+        },
+        {
+            "path": "texts/sk_SK.lang"
+        },
+        {
+            "path": "texts/sv_SE.lang"
+        },
+        {
+            "path": "texts/tr_TR.lang"
+        },
+        {
+            "path": "texts/uk_UA.lang"
+        },
+        {
+            "path": "texts/zh_CN.lang"
+        },
+        {
+            "path": "texts/zh_TW.lang"
+        },
+        {
+            "path": "textures/textures_list.json"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle0.png"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle1.png"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle2.png"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle3.png"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle4.png"
+        },
+        {
+            "path": "textures/ui/animation_code_shuffle5.png"
+        },
+        {
+            "path": "textures/ui/book_animation.png"
+        },
+        {
+            "path": "textures/ui/button_select_corner.png"
+        },
+        {
+            "path": "textures/ui/code_makecode_default.png"
+        },
+        {
+            "path": "textures/ui/code_reset_default.png"
+        },
+        {
+            "path": "textures/ui/code_reset_hover.png"
+        },
+        {
+            "path": "textures/ui/code_tynker_default.png"
+        },
+        {
+            "path": "textures/ui/eating_apple.png"
+        },
+        {
+            "path": "textures/ui/eduicon.png"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_focus_pressed.json"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_focus_pressed.png"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_normal_dark.json"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_normal_dark.png"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_pressed.json"
+        },
+        {
+            "path": "textures/ui/edu_borderless_button_pressed.png"
+        },
+        {
+            "path": "textures/ui/edu_green_tile.png"
+        },
+        {
+            "path": "textures/ui/icon_agent_padded.png"
+        },
+        {
+            "path": "textures/ui/icon_biome.png"
+        },
+        {
+            "path": "textures/ui/icon_chalkboard.png"
+        },
+        {
+            "path": "textures/ui/icon_history.png"
+        },
+        {
+            "path": "textures/ui/icon_open_book.png"
+        },
+        {
+            "path": "textures/ui/icon_pages.png"
+        },
+        {
+            "path": "textures/ui/joincode_button_background.png"
+        },
+        {
+            "path": "textures/ui/signin_demo_header.png"
+        },
+        {
+            "path": "textures/ui/signin_full_header.png"
+        },
+        {
+            "path": "textures/ui/title_edu.png"
+        },
+        {
+            "path": "textures/ui/view_library_background.png"
+        },
+        {
+            "path": "textures/ui/view_worlds_background.png"
+        },
+        {
+            "path": "ui/code_screen.json"
+        },
+        {
+            "path": "ui/course_screen.json"
+        },
+        {
+            "path": "ui/edu_library_category_screen.json"
+        },
+        {
+            "path": "ui/edu_pause_screen.json"
+        },
+        {
+            "path": "ui/edu_permissions_screen.json"
+        },
+        {
+            "path": "ui/edu_play_screen.json"
+        },
+        {
+            "path": "ui/edu_signin_screen.json"
+        },
+        {
+            "path": "ui/edu_worlds_screen.json"
+        },
+        {
+            "path": "ui/edu_world_templates_screen.json"
+        },
+        {
+            "path": "ui/ip_join_screen.json"
+        },
+        {
+            "path": "ui/joincode_entry_screen.json"
+        },
+        {
+            "path": "ui/lesson_quiz_screen.json"
+        },
+        {
+            "path": "ui/library_item_screen.json"
+        },
+        {
+            "path": "ui/library_screen.json"
+        },
+        {
+            "path": "ui/multiplayer_lesson_screen.json"
+        },
+        {
+            "path": "ui/_ui_defs.json"
+        }
+    ]
+}

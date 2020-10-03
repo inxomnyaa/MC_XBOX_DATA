@@ -1,0 +1,57 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "TileID",
+      "dest": "TileID",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Block",
+      "dest": "Block",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "src": "Data",
+      "dest": "Data",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Time",
+      "dest": "Time",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "DropItem",
+      "dest": "DropItem",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue"
+    },
+    {
+      "src": "HurtEntities",
+      "dest": "HurtEntities",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue"
+    },
+    {
+      "src": "FallHurtMax",
+      "dest": "FallHurtMax",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "FallHurtAmount",
+      "dest": "FallHurtAmount",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "custom_transformation": "JavaIntermediateFallingBlockIDConversion",
+      "dest": "definitions"
+    }
+  ]
+}

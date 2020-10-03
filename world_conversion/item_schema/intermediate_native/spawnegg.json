@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": false,
+      "src": "tag.EntityTag.id",
+      "item_transformation": "SpawnEggTypeToNative"
+    }
+  ]
+}

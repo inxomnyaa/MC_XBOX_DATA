@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ItemInHand",
+      "dest": "ItemInHand",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    },
+    {
+      "src": "HeadArmorSlot",
+      "dest": "Armor[0]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    },
+    {
+      "src": "BodyArmorSlot",
+      "dest": "Armor[1]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    },
+    {
+      "src": "LegArmorSlot",
+      "dest": "Armor[2]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    },
+    {
+      "src": "FootArmorSlot",
+      "dest": "Armor[3]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    }
+  ]
+}

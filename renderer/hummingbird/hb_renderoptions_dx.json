@@ -1,0 +1,129 @@
+{
+    "global_settings" : {
+        "hb_gfx_supports_msaa_textures" : false,
+        "hb_gfx_requires_msaa_resolve" : true,
+        "hb_gfx_supports_a8_render_target" : true,
+        "hb_gfx_requires_rb_swap_for_images" : false,
+        "hb_gfx_requires_draw_fences" : false,
+        "hb_gfx_requires_shader_type_in_shader" : true,
+        "hb_gfx_supports_npot_texture_ops": true,
+        "hb_gfx_shader_change_requires_resources_rebind": false,
+        "hb_gfx_supports_only_16_bit_indices": true,
+        "hb_gfx_constant_buffer_block_alignment" : 1,
+        "hb_gfx_requires_y_flip_for_layers" : false
+    },
+    "shaders" : [
+        {
+            "name" : "ST_Standard",
+            "vertexShader" : "CohStandardVS.hlsl",
+            "fragmentShader" : "CohStandardPS.hlsl"
+        },
+        {
+           "name" :  "ST_StandardRare",
+           "vertexShader" : "CohStandardVS.hlsl",
+           "fragmentShader" : "CohStandardRarePS.hlsl"
+        },
+        {
+            "name" :  "ST_Path",
+            "vertexShader" : "CohPathVS.hlsl",
+            "fragmentShader" : "CohPathPS.hlsl"
+        },
+        {
+            "name" : "ST_StencilPath",
+            "vertexShader" : "CohPathVS.hlsl",
+            "fragmentShader" : "CohStencilPathPS.hlsl"
+        },
+        {
+            "name" : "ST_Stencil",
+            "vertexShader" : "CohStandardVS.hlsl",
+            "fragmentShader" : "CohStencilPS.hlsl"
+        },
+        {
+            "name" : "ST_StencilRare",
+            "vertexShader" : "CohStandardVS.hlsl",
+            "fragmentShader" : "CohStencilRarePS.hlsl"
+        },
+        {
+            "name" : "ST_RenoirShader",
+            "vertexShader" : "CohRenoirShaderVS.hlsl",
+            "fragmentShader" : "CohRenoirShaderPS.hlsl"
+        },
+        {
+            "name" : "ST_TexturesWithColorMix",
+            "vertexShader" : "CohRenoirShaderVS.hlsl",
+            "fragmentShader" : "CohRenoirShaderPS.hlsl"
+        },
+        {
+            "name" : "ST_ClearQuad",
+            "vertexShader" : "CohClearQuadVS.hlsl",
+            "fragmentShader" : "CohClearQuadPS.hlsl"
+        }
+    ],
+    "mappings" : [
+        ["ST_Standard", "ST_Standard"],
+        ["ST_StandardCircle", "ST_StandardRare"],
+        ["ST_StandardStrokeCircle", "ST_StandardRare"],
+        ["ST_StandardRRect", "ST_StandardRare"],
+        ["ST_StandardStrokeRRect", "ST_StandardRare"],
+        ["ST_StandardEllipse", "ST_StandardRare"],
+        ["ST_StandardStrokeEllipse", "ST_StandardRare"],
+        ["ST_StandardTexture", "ST_Standard"],
+        ["ST_StandardTextureWithColorMatrix", "ST_StandardRare"],
+        ["ST_Stencil", "ST_Stencil"],
+        ["ST_StencilRRect", "ST_StencilRare"],
+        ["ST_StencilCircle", "ST_StencilRare"],
+        ["ST_StencilTexture", "ST_Stencil"],
+        ["ST_StencilPath", "ST_StencilPath"],
+        ["ST_Text", "ST_Standard"],
+        ["ST_TextSDF", "ST_Standard"],
+        ["ST_TextStrokeSDF", "ST_StandardRare"],
+        ["ST_Blur_1", "ST_StandardRare"],
+        ["ST_Blur_2", "ST_StandardRare"],
+        ["ST_Blur_3", "ST_StandardRare"],
+        ["ST_Blur_4", "ST_StandardRare"],
+        ["ST_Blur_5", "ST_StandardRare"],
+        ["ST_Blur_6", "ST_StandardRare"],
+        ["ST_Blur_7", "ST_StandardRare"],
+        ["ST_Blur_8", "ST_StandardRare"],
+        ["ST_Blur_9", "ST_StandardRare"],
+        ["ST_Blur_10", "ST_StandardRare"],
+        ["ST_Blur_11", "ST_StandardRare"],
+        ["ST_Blur_12", "ST_StandardRare"],
+        ["ST_BatchedStandard", null],
+        ["ST_BatchedStandardTexture", null],
+        ["ST_BatchedText", null],
+        ["ST_BatchedTextSDF", null],
+        ["ST_StandardRare", null],
+        ["ST_StencilRare", null],
+
+        ["ST_RenoirShader", "ST_RenoirShader"],
+        ["ST_LinearGradient2Point", "ST_RenoirShader"],
+        ["ST_LinearGradient3PointSymmetrical", "ST_RenoirShader"],
+        ["ST_LinearGradientFromTexture", "ST_RenoirShader"],
+        ["ST_RadialGradient2Point", "ST_RenoirShader"],
+        ["ST_RadialGradient3PointSymmetrical", "ST_RenoirShader"],
+        ["ST_RadialGradientFromTexture", "ST_RenoirShader"],
+
+        ["ST_LinearGradientMasked2Point", "ST_RenoirShader"],
+        ["ST_LinearGradientMasked3PointSymmetrical", "ST_RenoirShader"],
+        ["ST_LinearGradientMaskedFromTexture", "ST_RenoirShader"],
+        ["ST_RadialGradientMasked2Point", "ST_RenoirShader"],
+        ["ST_RadialGradientMasked3PointSymmetrical", "ST_RenoirShader"],
+        ["ST_RadialGradientMaskedFromTexture", "ST_RenoirShader"],
+
+        ["ST_SimpleTexture", "ST_RenoirShader"],
+        ["ST_SimpleTextureMasked", "ST_RenoirShader"],
+
+        ["ST_Path", "ST_Path"],
+        ["ST_HairlinePath", "ST_Path"],
+        ["ST_StencilAnimatedPathBezier", "ST_StencilPath"],
+        ["ST_StencilAnimatedPathTriangle", "ST_StencilPath"],
+
+        ["ST_YUV2RGB", "ST_StandardRare"],
+        ["ST_YUVA2RGB", "ST_StandardRare"],
+        ["ST_Hairline", "ST_StandardRare"],
+        ["ST_TexturesWithColorMix", "ST_TexturesWithColorMix"],
+        ["ST_ClearQuad", "ST_ClearQuad"]
+    ]
+}
+

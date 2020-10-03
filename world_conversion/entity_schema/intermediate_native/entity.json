@@ -1,0 +1,113 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Pos",
+      "dest": "Pos",
+      "dest_members": [ "TAG_Float" ],
+      "src_members": [ "realValue" ]
+    },
+
+    {
+      "src": "Velocity",
+      "dest": "Motion",
+      "dest_members": [ "TAG_Float" ],
+      "src_members": [ "realValue" ]
+    },
+    {
+      "src": "id",
+      "dest": "id",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String"
+    },
+    {
+      "src": "Rotation",
+      "dest": "Rotation",
+      "dest_members": [ "TAG_Float" ],
+      "src_members": [ "realValue" ]
+    },
+    {
+      "src": "FallDistance",
+      "dest": "FallDistance",
+      "dest_members": "TAG_Float",
+      "src_members": "realValue"
+    },
+    {
+      "src": "Fire",
+      "dest": "Fire",
+      "dest_members": "TAG_Short",
+      "src_members": "intValue"
+    },
+    {
+      "src": "Air",
+      "dest": "Air",
+      "dest_members": "TAG_Short",
+      "src_members": "intValue"
+    },
+    {
+      "src": "OnGround",
+      "dest": "OnGround",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue"
+    },
+    {
+      "src": "NoGravity",
+      "dest": "OnGround",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Invulnerable",
+      "dest": "Invulnerable",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "IllagerCaptain",
+      "dest": "IsIllagerCaptain",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "PortalCooldown",
+      "dest": "PortalCooldown",
+      "dest_members": "TAG_Int",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "dest_members": "TAG_String",
+      "src_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "CustomNameVisible",
+      "dest": "CustomNameVisible",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Silent",
+      "dest": "Silent",
+      "dest_members": "TAG_Byte",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "LinksTag",
+      "dest": "LinksTag",
+      "custom_transformation": "IntermediateEntityListToNative",
+      "optional": true
+    },
+    {
+      "custom_transformation": "EntityDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

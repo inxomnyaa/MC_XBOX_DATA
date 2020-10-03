@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Explosion",
+      "dest": "tag.FireworksItem",
+      "item_transformation": "IntermediateFireworkChargeToNative"
+    },
+    {
+      "src": "tag.CustomColor",
+      "dest": "tag.customColor",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    }
+  ]
+}

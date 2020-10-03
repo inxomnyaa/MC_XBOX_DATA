@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Pages",
+      "dest": "tag.pages",
+      "item_transformation": "IntermediatePagesToNative",
+      "optional": true
+    }
+  ]
+}

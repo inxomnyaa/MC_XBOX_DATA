@@ -1,0 +1,26 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "despawnTimeLeft",
+      "custom_transformation": "IntermediateDespawnTimerToNative",
+      "optional": true
+    },
+    {
+      "src": "Offers.Recipes",
+      "dest": "Offers.Recipes",
+      "custom_transformation": "IntermediateOfferRecipesToNative",
+      "optional": true
+    },
+    {
+      "src": "Offers.TierExpRequirements",
+      "dest": "Offers.TierExpRequirements",
+      "custom_transformation": "IntermediateOfferTierExpRequirementsToNative",
+      "optional": true
+    },
+    {
+      "custom_transformation": "SetTraderSpawnActorComponentToNative",
+      "dest": "entries"
+    }
+  ]
+}

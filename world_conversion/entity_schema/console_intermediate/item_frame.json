@@ -1,0 +1,64 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Item",
+      "dest": "Item",
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "ItemRotation",
+      "dest": "ItemRotation",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ItemDropChance",
+      "dest": "ItemDropChance",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue",
+      "optional": true
+
+    },
+    {
+      "src": "TileX",
+      "dest": "TileX",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileY",
+      "dest": "TileY",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileZ",
+      "dest": "TileZ",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Dir",
+      "dest": "Dir",
+      "custom_transformation": "DirConsoleHangingEntityDirectionToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Direction",
+      "dest": "Direction",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Facing",
+      "dest": "Facing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

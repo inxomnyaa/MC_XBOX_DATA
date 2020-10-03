@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "dest_members": "TAG_Int",
+      "src_members": "intValue"
+    },
+    {
+      "custom_transformation": "BreedableDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

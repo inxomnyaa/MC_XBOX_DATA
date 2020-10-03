@@ -1,0 +1,335 @@
+/********************************************************
+*   (c) Mojang. All rights reserved                     *
+*   (c) Microsoft. All rights reserved.                 *
+*********************************************************/
+{
+  "namespace": "edu_signin",
+
+  "terms_check_box_panel": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": [ "100%", "100%" ],
+    "layer": 1,
+    "controls": [
+      {
+        "check_box_wrapper": {
+          "type": "panel",
+          "size": [ "100%c", "100%" ],
+          "controls": [
+            {
+              "check_box": {
+                "type": "panel",
+                "size": [ 10, 10 ],
+                "controls": [
+                  {
+                    "checked": {
+                      "type": "image",
+                      "$box_texture|default": "textures/ui/checkbox_check",
+                      "variables": [
+                        {
+                          "requires": "$is_interacting",
+                          "$box_texture": "textures/ui/checkbox_checkHover"
+                        }
+                      ],
+                      "texture": "$box_texture",
+                      "bindings": [
+                        {
+                          "binding_name": "#confirm_button_enabled",
+                          "binding_name_override": "#visible"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "unchecked": {
+                      "type": "image",
+                      "$box_texture|default": "textures/ui/checkbox_space",
+                      "variables": [
+                        {
+                          "requires": "$is_interacting",
+                          "$box_texture": "textures/ui/checkbox_spaceHover"
+                        }
+                      ],
+                      "texture": "$box_texture",
+                      "bindings": [
+                        {
+                          "binding_name": "(not #confirm_button_enabled)",
+                          "binding_name_override": "#visible"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      { "padding@common.empty_panel": { "size": [ 4, "100%" ] } },
+      {
+        "accept_label_wrapper": {
+          "type": "panel",
+          "size": [ "fill", "100%" ],
+          "controls": [
+            {
+              "accept_terms@edu_signin.body_label": {
+                "max_size": [ "100%", "100%" ],
+                "anchor_from": "left_middle",
+                "anchor_to": "left_middle",
+                "text": "signin.acceptTerms"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "terms_check_box@common.button": {
+    "$pressed_button_name": "button.signin.accept_terms",
+
+    "$is_interacting|default": true,
+
+    "controls": [
+      { "default@edu_signin.terms_check_box_panel": { "$is_interacting": false } },
+      { "hover@edu_signin.terms_check_box_panel": {} },
+      { "pressed@edu_signin.terms_check_box_panel": {} }
+    ]
+  },
+
+  "header_label": {
+    "type": "label",
+    "color": "$main_header_text_color",
+    "max_size": [ "100%", "default" ]
+  },
+
+  "signin_header@edu_signin.header_label": {
+    "text": "signin.leftPanel.header"
+  },
+
+  "demo_header@edu_signin.header_label": {
+    "text": "signin.rightPanel.header"
+  },
+
+  "body_label": {
+    "type": "label",
+    "font_type": "smooth",
+    "font_scale_factor": 0.8,
+    "color": "$main_header_text_color",
+    "max_size": [ "100%", "fill" ]
+  },
+
+  "signin_body_wrapper": {
+    "type": "stack_panel",
+    // We hide the actual size of the panel to allow the text panels to line up
+    // 41px is the size of the terms buttons and padding in the demo panel
+    "size": [ "100%", "100%c - 41px" ],
+    "controls": [
+      {
+        "signin_body@edu_signin.body_label": {
+          "text": "signin.leftPanel.body"
+        }
+      }
+    ]
+  },
+
+  "demo_body@edu_signin.body_label": {
+    "text": "signin.rightPanel.body"
+  },
+
+  "signin_text_panel": {
+    "type": "stack_panel",
+    "controls": [
+      { "header@edu_signin.signin_header": {} },
+      { "header_body_padding@common.empty_panel": { "size": [ "100%", 3 ] } },
+      { "body@edu_signin.signin_body_wrapper": {} }
+    ]
+  },
+
+  "demo_text_panel": {
+    "type": "stack_panel",
+    // In order for the buttons to align to the bottom of the screen (in normal cases)
+    // we need to make sure the text field is this minimum (192 - the other elements)
+    "min_size": [ "100%", 54 ],
+    "controls": [
+      { "header@edu_signin.demo_header": {} },
+      { "header_body_padding@common.empty_panel": { "size": [ "100%", 3 ] } },
+      { "body@edu_signin.demo_body": {} }
+    ]
+  },
+
+  "top_image": {
+    "type": "image",
+    "size": [ "100%", 66 ],
+    "texture": "textures/ui/Black",
+    "controls": [
+      {
+        "test": {
+          "type": "image",
+          "fill": true,
+          "size": [ "100% - 2px", "100% - 2px" ],
+          "texture": "$texture"
+        }
+      }
+    ]
+  },
+
+  "signin_image@edu_signin.top_image": {
+    "$texture": "textures/ui/signin_full_header"
+  },
+
+  "demo_image@edu_signin.top_image": {
+    "$texture": "textures/ui/signin_demo_header"
+  },
+
+  "signin_button@common_buttons.light_text_button": {
+    "$pressed_button_name": "button.signin.signin",
+    "size": [ "100%", 20 ],
+    "$button_text": "gui.signIn"
+  },
+
+  "demo_button_panel": {
+    "type": "stack_panel",
+    "controls": [
+      {
+        "accept_check_box@edu_signin.terms_check_box": {
+          "size": [ "100%", 16 ]
+        }
+      },
+      { "accept_to_view_padding@common.empty_panel": { "size": [ "100%", 1 ] } },
+      {
+        "view_terms_button@common_buttons.light_text_button": {
+          "$pressed_button_name": "button.showEula",
+          "size": [ "100%", 24 ],
+          "$button_text_max_size": [ "100%", "100%" ],
+          "$button_text": "worldConversionErrorReport.terms.viewTerms"
+        }
+      },
+      { "view_to_play_padding@common.empty_panel": { "size": [ "100%", 3 ] } },
+      {
+        "demo_play_button@common_buttons.light_text_button": {
+          "$pressed_button_name": "button.signin.play",
+          "size": [ "100%", 20 ],
+          "$button_text": "menu.play",
+          "$button_bindings": [
+            {
+              "binding_name": "#confirm_button_enabled",
+              "binding_name_override": "#enabled"
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "left_right_panel": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": [ "100%", "100%cm" ],
+    "controls": [
+      {
+        "left_content_wrapper": {
+          "type": "panel",
+          "$left_size|default": [ "fill", "100%c" ],
+          "size": "$left_size",
+          "controls": [
+            {
+              "left_content@$left_content": {
+                "$left_anchor|default": "top_left",
+                "anchor_from": "$left_anchor",
+                "anchor_to": "$left_anchor"
+              }
+            }
+          ]
+        }
+      },
+      { "padding@common.empty_panel": { "size": [ 10, "100%sm" ] } },
+      {
+        "right_content_wrapper": {
+          "type": "panel",
+          "$right_size|default": [ "fill", "100%c" ],
+          "size": "$right_size",
+          "controls": [
+            {
+              "right_content@$right_content": {
+                "$right_anchor|default": "top_left",
+                "anchor_from": "$right_anchor",
+                "anchor_to": "$right_anchor"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "main_stack": {
+    "type": "stack_panel",
+    "controls": [
+      {
+        "images@edu_signin.left_right_panel": {
+          "$left_content": "edu_signin.signin_image",
+          "$right_content": "edu_signin.demo_image"
+        }
+      },
+      {
+        "divider@edu_signin.left_right_panel": {
+          "$left_content": "edu_common.horizontal_divider",
+          "$right_content": "edu_common.horizontal_divider"
+        }
+      },
+      {
+        "text_section@edu_signin.left_right_panel": {
+          "$left_content": "edu_signin.signin_text_panel",
+          "$right_content": "edu_signin.demo_text_panel"
+        }
+      },
+      {
+        "buttons@edu_signin.left_right_panel": {
+          "$left_size": [ "fill", "100%sm" ],
+          "$left_anchor": "bottom_left",
+          "$left_content": "edu_signin.signin_button",
+          "$right_content": "edu_signin.demo_button_panel"
+        }
+      }
+    ]
+  },
+
+  "screen_scrolling_content": {
+    "type": "panel",
+    "size": [ "100%", "100%cm" ],
+    "controls": [
+      { "content@edu_signin.main_stack": { "size": [ "100%", "100%c" ] } },
+      { "divider@edu_common.vertical_divider": { "size": [ 10, "100%sm" ] } }
+    ]
+  },
+
+  "screen_content": {
+    "type": "panel",
+    "size": [ "100%cm", "100%cm" ],
+    "layer": 1,
+    "controls": [
+      {
+        "panel_background@common.dialog_background_hollow_4": {
+          "size": [ "100%sm + 22px", "100%sm + 22px" ],
+          "layer": -1
+        }
+      },
+      {
+        "panel_content@common.scrolling_panel": {
+          "size": [ 310, 192 ],
+
+          "$scrolling_content": "edu_signin.screen_scrolling_content",
+          "$show_background": false,
+          "$scroll_bar_left_padding_size": [ 3, 0 ],
+          "$scroll_bar_right_padding_size": [ 0, 0 ],
+          "$scroll_size": [ 5, "100%" ],
+          "$scroll_size_touch": "$scroll_size",
+          "$scroll_track_anchor": "top_middle",
+          "$scrolling_content_anchor_from": "top_middle",
+          "$scrolling_content_anchor_to": "top_middle"
+        }
+      }
+    ]
+  }
+}

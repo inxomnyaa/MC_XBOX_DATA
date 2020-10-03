@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Record",
+      "dest": "RecordItem",
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "RecordItem",
+      "dest": "RecordItem",
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "id",
+      "dest": "id",
+      "custom_transformation": "ConsoleToIntermediateEntityID"
+    },
+    {
+      "src": "Pos",
+      "dest": "Pos",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "custom_transformation": "ConvertAndBoundPositionIntermediateToNative"
+    },
+    {
+      "src": "Motion",
+      "dest": "Velocity",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ],
+      "optional": true
+    },
+    {
+      "src": "FallDistance",
+      "dest": "FallDistance",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue",
+      "optional": true
+    },
+    {
+      "src": "Fire",
+      "dest": "Fire",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Air",
+      "dest": "Air",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "OnGround",
+      "dest": "OnGround",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "NoGravity",
+      "dest": "NoGravity",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Dimension",
+      "dest": "Dimension",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Invulnerable",
+      "dest": "Invulnerable",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "IllagerCaptain",
+      "dest": "IllagerCaptain",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "PortalCooldown",
+      "dest": "PortalCooldown",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "CustomNameVisible",
+      "dest": "CustomNameVisible",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Silent",
+      "dest": "Silent",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "LinksTag",
+      "dest": "LinksTag",
+      "custom_transformation": "ConsoleEntityListToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Glowing",
+      "dest": "Glowing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }	      
+  ]
+}

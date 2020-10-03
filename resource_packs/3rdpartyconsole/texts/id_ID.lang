@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=tombol minus	#
+accessibility.gamepad.button.systemRight=tombol plus	#
+accessibility.gamepad.dpad.down=Tombol Bawah	#
+accessibility.gamepad.dpad.up=Tombol Atas	#
+accessibility.gamepad.dpad.left=Tombol Kiri	#
+accessibility.gamepad.dpad.right=Tombol Kanan	#
+accessibility.gamepad.trigger.right=tombol ZR	#
+accessibility.gamepad.trigger.left=tombol ZL	#
+accessibility.gamepad.bumper.right=tombol R	#
+accessibility.gamepad.bumper.left=tombol L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Pengaturan Akun Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Pengaturan Akun Microsoft	#
+
+patchNotice.title=Selamat datang di Minecraft – Jangan Lewatkan Konten yang Menarik!	#
+patchNotice.description.onlineFeatures=Sambungkan Nintendo Switch ke internet untuk membuka cara yang sepenuhnya baru untuk bermain!	#
+patchNotice.description.onlineFeatures.item1=* Unduh paket DLC gratis yang kamu terima bersama pembelian permainan.	#
+patchNotice.description.onlineFeatures.item2=* Temukan kreasi komunitas di marketplace untuk mengubah cara kamu bermain.	#
+patchNotice.description.onlineFeatures.item3=* Bermain online dengan teman-teman (bahkan pada perangkat lain)!	#
+patchNotice.description.onlineFeatures.item4=* Perbarui permainan dengan fitur, konten, dan peningkatan baru yang mungkin menyertakan...	#
+patchNotice.description.freeUpdates.item1=* Blok baru!	#
+patchNotice.description.freeUpdates.item2=* Item baru!	#
+patchNotice.description.freeUpdates.item3=* Mob baru!	#
+patchNotice.description.freeUpdates.item4=* Struktur yang dibuat baru!	#
+patchNotice.description.freeUpdates.item5=* Varian bioma baru!	#
+patchNotice.description.onlineFeatures.item5=Ada pembaruan yang tersedia sekarang! Sambungkan Nintendo Switch ke internet untuk menerima pembaruan gratis ini!	#
+
+thirdPartyConsole.network.networkName=Akun Nintendo	#
+thirdPartyConsole.adhoc.title=Pilih Mode Jaringan	#
+thirdPartyConsole.adhoc.desc=Pilih Jaringan Lokal untuk menyambung dengan sistem Nintendo Switch lain terdekat, atau Jaringan Online untuk menyambung dengan teman di seluruh dunia!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Sambungkan ke	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Jaringan Online	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Sambungkan ke	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Jaringan Lokal	#
+thirdPartyConsole.adhoc.onlineNetwork=Jaringan Online	#
+thirdPartyConsole.adhoc.localNetwork=Jaringan Lokal	#
+thirdPartyConsole.adhoc.enableOnline=Mengaktifkan Jaringan Online	#
+thirdPartyConsole.adhoc.enableLocal=Mengaktifkan Jaringan Lokal	#
+thirdPartyConsole.adhoc.inprogress=Kami membuat beberapa perubahan cepat. Tunggu sebentar...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Terlalu banyak pengontrol yang tersambung.	#
+thirdPartyConsole.adhoc.controllerwarning=Mode jaringan lokal mendukung maksimum 2 pengontrol nirkabel yang tersambung. (2 pengontrol Joy-Con atau 2 Pro Controller) Pengontrol apa pun yang melebihi batas ini akan diputus.	#
+thirdPartyConsole.adhoc.store=Fitur toko dinonaktifkan sewaktu dalam mode Jaringan Lokal.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Masuk ke Akun Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Anda perlu tersambung ke Jaringan Online untuk masuk ke Akun Microsoft.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Sambungkan	#
+thirdPartyConsole.startmenuscreen.xblsignin=Masuk dengan Akun Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Memasukkan ke Akun Microsoft	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Masuk dengan Akun Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Sedang masuk ke Akun Nintendo	#
+thirdPartyConsole.notsignedin=Kamu tidak masuk ke Akun Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Kamu tidak masuk dan tidak bisa mendapatkan prestasi.	#
+thirdPartyConsole.notsignedin.store=Kamu memerlukan Akun Nintendo untuk menjelajahi toko.	#
+thirdPartyConsole.notsignedin.serversTab=Tersambung secara online untuk mencoba Server Minecraft, dunia yang dijalankan oleh komunitas besar yang memungkinkan kamu bersaing atau berkolaborasi dengan teman (dan teman tapi musuh), tampil di lobi yang besar dengan pemain lain, dan jelajahi dunia luas yang dibuat secara kustom.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Masuk dengan Akun Nintendo untuk bermain dengan teman.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Akun ini tidak memiliki izin untuk bergabung dengan permainan multipemain Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Kamu harus berteman dengan seseorang dalam permainan ini untuk bergabung.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Kamu terputus dari Nintendo Switch Online. Masuk di Menu Utama dan aktifkan ulang duniamu agar dapat dilihat oleh teman Nintendo-mu.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Duniamu tidak lagi terlihat di jaringan lokal. Aktifkan ulang Mode Lokal di Menu utama dan aktifkan ulang duniamu agar dapat dilihat oleh pemain lokal.	#
+networkWorld.add_friend=Cari Teman Lintas Platform	#
+networkWorld.find_cross_platform_friends=Cari Teman Lintas Platform	#
+networkWorld.joinable_nintendo_friends_label=Teman Nintendo Switch untuk Bergabung	#
+networkWorld.joinable_cross_platform_friends_label=Teman Lintas-Platform untuk Bergabung	#
+networkWorld.no_xbl_label=Kamu tidak bisa bergabung dengan permainan lintas-platform tanpa Akun Microsoft. Masuk ke Akun Microsoft untuk bergabung dengan teman di seluruh dunia.	#
+networkWorld.no_thirdParty_label.no_subscription=Kamu tidak tersambung ke layanan Nintendo Switch Online. Kamu akan perlu berlangganan layanan Nintendo Switch Online untuk menggunakan fitur online. Hal ini dapat dibeli dari Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Kamu tidak tersambung ke Layanan Nintendo Switch Online. Kamu tidak bisa bergabung dengan permainan multipemain temanmu. Masuk ke Nintendo Switch Online untuk bergabung dengan teman di seluruh dunia.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Kamu tidak bisa bermain multipemain secara online karena batasan Kontrol Orang Tua. Lihat dan kelola pengaturan multipemainmu dengan "Berkomunikasi Dengan Orang Lain" di Kontrol Orang Tua.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Kamu tidak bisa bermain multipemain lokal karena batasan Kontrol Orang Tua. Lihat dan kelola pengaturan multipemainmu dengan "Berkomunikasi Dengan Orang Lain" di Kontrol Orang Tua.	#
+permissions.AddFriendsThirdParty=Kamu tidak bisa menambahkan teman karena batasan Kontrol Orang Tua. Lihat dan kelola pengaturan multipemainmu dengan "Berkomunikasi Dengan Orang Lain" di Kontrol Orang Tua.	#
+permissions.MultiplayerSessionsThirdParty=Kamu tidak bisa bermain di Realm karena batasan Kontrol Orang Tua. Lihat dan kelola pengaturan multipemainmu dengan "Berkomunikasi Dengan Orang Lain" di Kontrol Orang Tua.	#
+options.dev_switch_coin_debug=Aktifkan debug pembelian eShop saat menambahkan koin	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Kamu tidak tersambung ke layanan Nintendo Switch Online. Kamu akan perlu berlangganan layanan Nintendo Switch Online untuk menggunakan fitur online. Hal ini dapat dibeli dari Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Kamu tidak tersambung ke Layanan Nintendo tombol servis Online. Teman Nintendo-mu tidak bisa bergabung dengan dunia permainan ganda-mu. Masuk ke Nintendo ubah ke Online untuk bermain dengan teman.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Terdapat masalah saat mengalihkan perangkat Anda ke mode jaringan lokal. Konfirmasikan mode pesawat tidak diaktifkan, lalu aktifkan ulang mode lokal untuk membuatnya terlihat oleh pemain lokal.	#
+createWorldScreen.check_internet_connection=Nintendo Switch-mu tidak tersambung ke internet. Temanmu tidak akan dapat bergabung dengan dunia multipemainmu. Sambungkan Nintendo Switch-mu ke internet untuk menggunakan fitur online.	#
+invite.notification.description=%s mengundangmu untuk bermain Minecraft. Tekan - untuk merespons.	#
+network.thirdparty.connect.benefit=Masuk ke Akun Nintendo? Akun Nintendo diperlukan untuk menggunakan layanan online.	#
+networkWorld.check_internet_connection=Nintendo Switch-mu tidak tersambung ke internet. Kamu tidak akan dapat bergabung dengan dunia multipemain temanmu. Sambungkan Nintendo Switch-mu ke internet untuk menggunakan fitur online.	#
+networkWorld.check_internet_connection.no_subscription=Kamu tidak tersambung ke layanan Nintendo Switch Online. Kamu akan perlu berlangganan layanan Nintendo Switch Online untuk menggunakan fitur online. Hal ini dapat dibeli dari Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Kamu tidak tersambung ke Layanan Nintendo Switch Online. Kamu tidak bisa bergabung dengan permainan multipemain temanmu. Masuk ke Nintendo Switch Online untuk bergabung dengan teman di seluruh dunia.	#
+disconnectionScreen.realmsDisabled=Realms dinonaktifkan untuk Switch.	#
+disconnectionScreen.noNSO.title=Memerlukan Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Untuk bermain dengan multipemain dalam layar terbagi tanpa berlangganan Nintendo Switch Online, alihkan kotak "Multipemain" ke posisi nonaktif di Pengaturan Permainan. Untuk bermain online dengan multipemain dalam layar terbagi, kamu harus berlangganan layanan Nintendo Switch Online, yang bisa dibeli dari Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Kamu tidak tersambung ke layanan Nintendo Switch Online. Kamu akan perlu berlangganan layanan Nintendo Switch Online untuk bermain dengan multipemain. Hal ini dapat dibeli dari Nintendo eShop.	#
+options.xboxlivevisible=Terlihat bagi Pemain Lintas-Platform	#
+options.achievementsDisabled=Prestasi tidak dapat diperoleh di dunia ini.	#
+permissions.RealmsAddFriends=Kamu tidak bisa menambahkan teman baru untuk bermain bersama di realm karena konfigurasi Akun Microsoft-mu.  Ini bisa diubah di pengaturan & privasi keamanan online di aka.ms/accountsettings.  Ingin lanjut?	#
+permissions.CloudSave=Kamu tidak bisa menyimpan dunia ke Akun Microsoft karena konfigurasi akunmu.  Ini bisa diubah di pengaturan privasi & keamanan online di aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Pengaturan di Akun Microsoft-mu tidak mengizinkan permainan multipemain.  Pastikan pengaturan "Privasi dan Keamanan Online" kamu di aka.ms/accountsettings mengizinkan multipemain. 	#
+store.purchase.syncInProgress=Mensinkronkan pembelian Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Kamu perlu %s koin lagi untuk membuka paket ini.	#
+xbox.signin.newaccount.welcome=Selamat datang!	#
+xbox.signin.legalinfo=Kamu telah tersambung ke Minecraft dengan profil Xbox Live. Ubah pengaturan Xbox Live dan pelajari lebih lanjut di http://aka.ms/accountsettings. Perjanjian Layanan dan Pernyataan Privasi Microsoft berlaku. 	#
+xbox.failedsignin.line2=Jika kamu bermain tanpa masuk ke akun, kamu tidak akan bisa mendapatkan prestasi, bergabung dengan Realm, atau bergabung dengan Server.	#
+xbox.failedautosignin.message=Ups! Gagal masuk otomatis. Anda perlu masuk secara manual untuk mengakses Akun Microsoft Anda.	#
+xbox.signInLong=Masuk Gratis!	#
+xbox.signOutLong=Keluar dari Akun Microsoft	#
+xbox.thirdpartysignin.line2=Kamu perlu masuk ke akun Microsoft agar tersambung!	#
+xbox.profile.realName=Kelola pengaturan privasi untuk berbagi nama aslimu di http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Hapus Teman	#
+autosave.info.xbox=Saat kamu melihat ikon ini, kami menyimpan permainanmu. Jangan mematikan konsol Nintendo Switch sewaktu ikon ini muncul di layar.	#
+progressScreen.message.leaveLevel=Permainanmu sedang disimpan. Jangan mematikan konsol Nintendo Switch.	#
+feed.report_xbox=Laporan ke Pelaksanaan	#
+
+howtoplay.multiplayer.text.1=Minecraft paling seru jika kamu bermain bersama teman! Secara default, semua pengaturan dunia memungkinkan temanmu untuk bergabung. Di Nintendo Switch, kamu dapat bermain multipemain dengan teman Nintendo dan teman di seluruh perangkat lain. Lihat semua cara bermain multipemain di sini!	#
+howtoplay.multiplayer.text.2.splitscreen=Kamu bisa memiliki hingga tiga pemain tambahan untuk bergabung dengan permainanmu setiap saat selama permainan! Mulai duniamu dan minta teman-temanmu mengaktifkan pengontrol mereka dan tekan tombol apa pun untuk bergabung. Pastikan setiap pemain memiliki dua pengontrol Joy-Con. Kamu harus memiliki pengontrol kiri dan kanan, atau pengontrol penuh lain yang berfungsi dengan Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft memiliki tiga cara utama agar kamu bisa bermain multipemain secara online. Kamu bisa bermain di Realm, server, atau Duniamu sendiri. Saat kamu memiliki langganan Nintendo Switch Online dan masuk dengan Akun Microsoft, temanmu di perangkat lain dapat bergabung dengan duniamu! Realm dan server memerlukan Akun Microsoft.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft memiliki tiga cara utama agar kamu bisa bermain multipemain secara online. Kamu bisa bermain di Realm, server, atau Duniamu sendiri. Saat kamu masuk dengan akun Nintendo dan Akun Microsoft, temanmu di perangkat lain dapat bergabung dengan duniamu! Realm dan server memerlukan Akun Microsoft.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Saat kamu memiliki langganan Nintendo Switch Online dan masuk dengan Akun Microsoft, temanmu di perangkat lain dapat bergabung dengan duniamu!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Bila kamu masuk dengan akun Nintendo dan Akun Microsoft, temanmu di perangkat lain dapat bergabung dengan duniamu!	#
+howtoplay.multiplayer.text.4=Untuk bergabung dengan permainan multipemain, buka tab Teman! Semua dunia dan Realm temanmu untuk bergabung akan terlihat saat kamu dalam mode Online. Permainan Adhoc temanmu juga akan muncul di daftar ini saat kamu dalam mode Adhoc.	#
+howtoplay.multiplayer.text.4.norealms=Untuk bergabung dengan permainan multipemain, buka tab Teman! Semua dunia temanmu yang bisa diikuti akan terlihat ketika kamu sedang dalam mode Online. Permainan Adhoc teman-temanmu juga akan muncul dalam daftar ini ketika kamu berada dalam mode Adhoc.	#
+howtoplay.multiplayer.text.5=Saat kamu memulai atau bergabung dengan permainan online, maka permainan online ini akan terlihat bagi semua temanmu, dan teman dari teman Akun Microsoft-mu. Periksa Pengaturan Multipemain Lintas-Platform di duniamu dengan menekan tombol Edit di duniamu dan mengklik Multipemain. 	#
+howtoplay.multiplayer.text.7=Beri temanmu kemampuan khusus di duniamu, atau jaga mereka agar tidak menyentuh apa pun. Secara default, semua teman memasuki duniamu sebagai anggota. Buka menu jeda untuk melihat daftar teman di duniamu, dan klik ikon di sebelah kanan nama mereka untuk mengedit hanya izin mereka di duniamu.	#
+howtoplay.multiplayer.header.adhoc=Mode Adhoc	#
+howtoplay.multiplayer.text.adhoc=Ingin bermain dengan teman tetapi tidak di perangkat yang sama? Alihkan Nintendo-mu ke Adhoc menu utama dengan menekan :_gamepad_face_button_left: buka tab Teman di menu Main untuk melihat permainan teman terdekat, atau mulai dengan permainan barumu sendiri dan teman terdekatmu bisa bergabung!	#
+howtoplay.theStore.text.4.norealms=Beri permainan lamamu tampilan baru dengan paket tekstur yang bisa diterapkan ke duniamu saat ini!	#
+howtoplay.theStore.text.5.norealms=Atau coba semua dengan paket perpaduan yang merupakan kumpulan skin, dunia, dan tekstur yang, bila dikombinasikan, akan mentransformasi duniamu!	#
+
+trial.tabbed_upsell.xbl.title=Ada Banyak Lagi!	#
+
+connect_gamepad.pressButtonToContinue=Pro Controller atau pasangan pengontrol Joy-Con (L)/(R) diperlukan untuk melanjutkan.	#
+connect_gamepad.adhocMaxControllers=Saat dalam mode permainan nirkabel lokal, hanya satu Pro Controller atau satu pasangan pengontrol Joy-Con (L)/(R) yang bisa digunakan. Matikan semua pengontrol tambahan.	#
+connect_gamepad.requireControllerReconfiguration=Setiap pemain memerlukan satu Pro Controller atau pasangan pengontrol Joy-Con (L)/(R). Matikan pengontrol Joy-Con tambahan yang bukan bagian dari pasangan.	#
+connect_gamepad.handheldModeNoSplitscreen=Pengontrol tambahan terdeteksi, tetapi multipemain berbagi layar tidak tersedia dalam mode perangkat genggam. Lepaskan pengontrol Joy-Con untuk keluar dari mode perangkat genggam atau matikan semua pengontrol tambahan.	#
+connect_gamepad.promptHandheldMode=Pengontrol Joy-Con telah terpasang ke konsol.  Apakah kamu ingin masuk ke mode perangkat genggam? Tindakan ini akan menutup mode multipemain.  Tekan OK untuk menghentikan multipemain berbagi layar dan masuk ke mode perangkat genggam, atau pilih Batal untuk memutus sambungan pengontrol Joy-Con yang terpasang dari permainan untuk mengisi daya.	#

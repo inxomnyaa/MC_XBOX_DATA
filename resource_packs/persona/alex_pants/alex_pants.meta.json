@@ -1,0 +1,23 @@
+{
+  "piece_id": "96db6e5b-dc69-4ebc-bd36-cb1b08ffb0f4",
+  "piece_name": "alex_pants",
+  "piece_type": "persona_bottom",
+  "texture_sources": [
+    {
+      "texture": "alex_pants.png",
+      "tint_map": "alex_pants_tintmap.tga"
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#805A40",
+    "g_color": "#000000",
+    "b_color": "#000000",
+    "a_color": "#000000"
+  },
+  "tint_color": {
+    "r_color": "#805A40",
+    "g_color": "#000000",
+    "b_color": "#000000",
+    "a_color": "#000000"
+  }
+}

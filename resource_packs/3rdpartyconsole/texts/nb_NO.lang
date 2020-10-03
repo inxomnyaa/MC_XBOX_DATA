@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=knapp minus	#
+accessibility.gamepad.button.systemRight=knapp pluss	#
+accessibility.gamepad.dpad.down=Ned-knapp	#
+accessibility.gamepad.dpad.up=Opp-knapp	#
+accessibility.gamepad.dpad.left=Venstre-knapp	#
+accessibility.gamepad.dpad.right=Høyre-knapp	#
+accessibility.gamepad.trigger.right=knapp ZR	#
+accessibility.gamepad.trigger.left=knapp ZL	#
+accessibility.gamepad.bumper.right=knapp R	#
+accessibility.gamepad.bumper.left=knapp L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo-kontoinnstillinger	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft-kontoinnstillinger	#
+
+patchNotice.title=Velkommen til Minecraft – ikke gå glipp av supert innhold!	#
+patchNotice.description.onlineFeatures=Koble Nintendo Switch til Internett for å spille på helt nye måter!	#
+patchNotice.description.onlineFeatures.item1=* Last ned pakkene med gratis nedlastbart innhold som du får når du kjøper spill.	#
+patchNotice.description.onlineFeatures.item2=* Finn innhold fra fellesskapet som forandrer hvordan du spiller, på markedsplassen.	#
+patchNotice.description.onlineFeatures.item3=* Spill på nettet med venner (til og med på andre enheter)!	#
+patchNotice.description.onlineFeatures.item4=* Oppdater spillet med nye funksjoner, nytt innhold og forbedringer som kan omfatte …	#
+patchNotice.description.freeUpdates.item1=* nye blokker!	#
+patchNotice.description.freeUpdates.item2=* nye gjenstander!	#
+patchNotice.description.freeUpdates.item3=* nye vesener!	#
+patchNotice.description.freeUpdates.item4=* nye genererte byggverk!	#
+patchNotice.description.freeUpdates.item5=* nye biomvarianter!	#
+patchNotice.description.onlineFeatures.item5=Det er en oppdatering tilgjengelig nå! Koble Nintendo Switch til Internett for å få denne gratis oppdateringen!	#
+
+thirdPartyConsole.network.networkName=Nintendo Account	#
+thirdPartyConsole.adhoc.title=Velg nettverksmodus	#
+thirdPartyConsole.adhoc.desc=Velg Lokalt nettverk for å koble deg til andre Nintendo Switch-konsoller i nærheten, eller velg Globalt nettverk for å spille med venner over hele verden!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Koble til	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Globalt nettverk	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Koble til	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Lokalt nettverk	#
+thirdPartyConsole.adhoc.onlineNetwork=Globalt nettverk	#
+thirdPartyConsole.adhoc.localNetwork=Lokalt nettverk	#
+thirdPartyConsole.adhoc.enableOnline=Aktiverer globalt nettverk	#
+thirdPartyConsole.adhoc.enableLocal=Aktiverer lokalt nettverk	#
+thirdPartyConsole.adhoc.inprogress=Vi gjør noen kjappe endringer. Bare vent litt …	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Det er koblet til for mange kontrollere.	#
+thirdPartyConsole.adhoc.controllerwarning=Modusen for lokalt nettverk støtter tilkobling av maksimalt to trådløse kontrollere (to Joy-Con- eller Pro-kontrollere). Alle overskytende kontrollere har blitt frakoblet.	#
+thirdPartyConsole.adhoc.store=Butikkfunksjonene er deaktivert i modusen for lokalt nettverk.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Logge deg på en Microsoft-konto?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Du må koble til det globale nettverket for å logge på en Microsoft-konto.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Koble til	#
+thirdPartyConsole.startmenuscreen.xblsignin=Logg på med en Microsoft-konto	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Logger deg på Microsoft-kontoen	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Logg deg på med en Nintendo Account	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Logger deg på Nintendo Account	#
+thirdPartyConsole.notsignedin=Du er ikke logget på din Nintendo Account.	#
+thirdPartyConsole.notsignedin.achievements=Du er ikke logget på og kan ikke oppnå prestasjoner.	#
+thirdPartyConsole.notsignedin.store=Du må ha en Nintendo Account for å utforske butikken.	#
+thirdPartyConsole.notsignedin.serversTab=Koble deg til Internett for å prøve Minecraft-serverne, som er gigantiske verdener driftet av fellesskapet som lar deg konkurrere mot eller samarbeide med venner (og uvenner), henge med andre spillere i svære lobbyer og utforske enorme spesiallagde verdener.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Logg deg på med din Nintendo Account for å spille med venner.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Denne kontoen har ikke tillatelse til å bli med i flerspillerspill på Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Du må være venn med noen i dette spillet for å bli med.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Du ble frakoblet Nintendo Switch Online. Gå til hovedmenyen og logg deg på, og start deretter verdenen din på nytt for å gjøre den synlig for Nintendo-vennene dine.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Verdenen din er ikke lenger synlig i det lokale nettverket. Gå til hovedmenyen og start lokal modus på nytt, og start deretter verdenen på nytt for å gjøre den synlig for lokale spillere.	#
+networkWorld.add_friend=Finn venner på forskjellige plattformer	#
+networkWorld.find_cross_platform_friends=Finn venner på forskjellige plattformer	#
+networkWorld.joinable_nintendo_friends_label=Tilgjengelige Nintendo Switch-venner	#
+networkWorld.joinable_cross_platform_friends_label=Tilgjengelige venner på forskjellige plattformer	#
+networkWorld.no_xbl_label=Du kan ikke bli med i spill på forskjellige plattformer uten en Microsoft-konto. Logg deg på en Microsoft-konto for å utforske verdenene til vennene dine.	#
+networkWorld.no_thirdParty_label.no_subscription=Du er ikke tilkoblet tjenesten Nintendo Switch Online. Du må abonnere på Nintendo Switch Online for å bruke Internett-funksjoner. Abonnementet kan kjøpes i Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Du er ikke tilkoblet tjenesten Nintendo Switch Online. Du kan ikke bli med i flerspillerspillene til vennene dine. Logg deg på Nintendo Switch Online for å utforske verdenene til vennene dine.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Du kan ikke spille flerspillerspill på nettet på grunn av en begrensning i Sperrefunksjon. Sjekk og administrer flerspillerinnstillingene dine via alternativet for kommunikasjon med andre i Sperrefunksjon.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Du kan ikke spille lokale flerspillerspill på grunn av en begrensning i Sperrefunksjon. Sjekk og administrer flerspillerinnstillingene dine via alternativet for kommunikasjon med andre i Sperrefunksjon.	#
+permissions.AddFriendsThirdParty=Du kan ikke legge til venner på grunn av en begrensning i Sperrefunksjon. Sjekk og administrer flerspillerinnstillingene dine via alternativet for kommunikasjon med andre i Sperrefunksjon.	#
+permissions.MultiplayerSessionsThirdParty=Du kan ikke spille i realmer på grunn av en begrensning i Sperrefunksjon. Sjekk og administrer flerspillerinnstillingene dine via alternativet for kommunikasjon med andre i Sperrefunksjon.	#
+options.dev_switch_coin_debug=Aktiver feilsøking av eShop-kjøp når mynter legges til	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Du er ikke tilkoblet tjenesten Nintendo Switch Online. Du må abonnere på Nintendo Switch Online for å bruke Internett-funksjoner. Abonnementet kan kjøpes i Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Du er ikke tilkoblet noen Nintendo Switch Online-tjenester. Nintendo-vennene dine kan ikke bli med i flerspillerverdenen din. Logg deg på Nintendo Switch Online for å spille med venner.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Det oppstod et problem under forsøket på å sette enheten i modusen for lokalt nettverk. Sjekk at flymodus ikke er aktivert, og start deretter lokal modus på nytt for å gjøre enheten synlig for lokale spillere.	#
+createWorldScreen.check_internet_connection=Din Nintendo Switch er ikke tilkoblet Internett. Vennene dine kan ikke bli med i flerspillerverdenene dine. Koble Nintendo Switch til Internett for å bruke Internett-funksjoner.	#
+invite.notification.description=%s har invitert deg til å spille Minecraft. Trykk på - for å svare.	#
+network.thirdparty.connect.benefit=Logge deg på din Nintendo Account? Bruk av Internett-tjenester krever en Nintendo Account.	#
+networkWorld.check_internet_connection=Din Nintendo Switch er ikke tilkoblet Internett. Du kan ikke bli med i flerspillerspillene til vennene dine. Koble Nintendo Switch til Internett for å bruke Internett-funksjoner.	#
+networkWorld.check_internet_connection.no_subscription=Du er ikke tilkoblet tjenesten Nintendo Switch Online. Du må abonnere på Nintendo Switch Online for å bruke Internett-funksjoner. Abonnementet kan kjøpes i Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Du er ikke tilkoblet tjenesten Nintendo Switch Online. Du kan ikke bli med i flerspillerspillene til vennene dine. Logg deg på Nintendo Switch Online for å utforske verdenene til vennene dine.	#
+disconnectionScreen.realmsDisabled=Realms er deaktivert for Switch.	#
+disconnectionScreen.noNSO.title=Du trenger Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Slå av Flerspiller i Spillinnstillinger for å spille flerspiller på delt skjerm uten abonnement på Nintendo Switch Online. For å spille flerspiller på delt skjerm på nettet trenger du et abonnement på tjenesten Nintendo Switch Online, som du kan kjøpe i Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Du er ikke tilkoblet Nintendo Switch Online tjenester. Du trenger ett abonnement på Nintendo Switch Online for å spille flerspiller. Dette kan kjøpes fra Nintendo eShop.	#
+options.xboxlivevisible=Synlig for spillere på forskjellige plattformer	#
+options.achievementsDisabled=Prestasjoner kan ikke oppnås i denne verdenen.	#
+permissions.RealmsAddFriends=Du kan ikke legge til nye venner som kan spille sammen med deg i realmen din, på grunn av hvordan Microsoft-kontoen din er konfigurert. Dette kan du endre i innstillingene for personvern og nettsikkerhet på aka.ms/accountsettings. Vil du fortsette?	#
+permissions.CloudSave=Du kan ikke lagre verdenene dine i Microsoft-kontoen din på grunn av hvordan kontoen er konfigurert. Dette kan du endre i innstillingene for personvern og nettsikkerhet på aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Microsoft-kontoinnstillingene dine tillater ikke flerspillerspill. Sjekk at innstillingene for personvern og nettsikkerhet på aka.ms/accountsettings tillater flerspillerspill. 	#
+store.purchase.syncInProgress=Synkroniserer Nintendo eShop-kjøp …	#
+store.purchase.coinsLeftToBuy=Du trenger %s mynter til for å låse opp denne pakken.	#
+xbox.signin.newaccount.welcome=Velkommen!	#
+xbox.signin.legalinfo=Du har koblet deg til Minecraft med en Xbox Live-profil. Endre Xbox Live-innstillingene dine, og les mer på http://aka.ms/accountsettings. Microsofts tjenesteavtale og personvernerklæring gjelder. 	#
+xbox.failedsignin.line2=Hvis du spiller uten å logge deg på, kan du ikke oppnå prestasjoner, bli med i realmer eller koble deg til servere.	#
+xbox.failedautosignin.message=Uff da! Automatisk pålogging mislyktes. Du må manuelt logge på på nytt for å få tilgang til Microsoft-kontoen.	#
+xbox.signInLong=Logg deg på gratis!	#
+xbox.signOutLong=Logg av Microsoft-kontoen din	#
+xbox.thirdpartysignin.line2=Du må logge deg på med en Microsoft-konto for å koble deg til!	#
+xbox.profile.realName=Administrer personverninnstillingene for deling av ditt virkelige navn på http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Fjern venn	#
+autosave.info.xbox=Når du ser dette ikonet, lagres spillet ditt. Ikke slå av Nintendo Switch-konsollen mens dette ikonet vises på skjermen.	#
+progressScreen.message.leaveLevel=Spillet ditt lagres. Ikke slå av Nintendo Switch-konsollen.	#
+feed.report_xbox=Rapporter til Enforcement	#
+
+howtoplay.multiplayer.text.1=Minecraft er best når du bygger sammen med venner! Alle verdensinnstillingene tillater som standard at vennene dine kan bli med. På Nintendo Switch kan du spille flerspillerspill sammen med både Nintendo-vennene dine og venner med andre enheter. Her kan du se alle måtene du kan spille flerspillerspill på!	#
+howtoplay.multiplayer.text.2.splitscreen=Opptil tre andre spillere kan når som helst bli med i spillet ditt! Start verdenen din, og be vennene dine slå på kontrolleren sin og trykke på en hvilken som helst knapp for å bli med. Alle spillerne må ha to Joy-Con-kontrollere. Dere må ha både venstre og høyre kontroller eller en annen fullverdig kontroller som fungerer med Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=I Minecraft kan du spille flerspillerspill på nettet på tre hovedmåter. Du kan spille i en realm, på en server eller i din egen verden. Når du abonnerer på Nintendo Switch Online og er logget på med Microsoft-kontoen din, kan venner med andre enheter bli med i verdenen din! Realmer og servere krever en Microsoft-konto.	#
+howtoplay.multiplayer.text.3.has_subscription=I Minecraft kan du spille flerspillerspill på nettet på tre hovedmåter. Du kan spille i en realm, på en server eller i din egen verden. Når du er logget på med Nintendo- eller Microsoft-kontoen din, kan venner med andre enheter bli med i verdenen din! Realmer og servere krever en Microsoft-konto.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Når du abonnerer på Nintendo Switch Online og er logget på med Microsoft-kontoen din, kan venner med andre enheter bli med i verdenen din!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Når du er logget på med Nintendo- eller Microsoft-kontoen din, kan venner med andre enheter bli med i verdenen din!	#
+howtoplay.multiplayer.text.4=Gå til vennefanen for å bli med i et flerspillerspill! Alle de tilgjengelige verdenene og realmene til vennene dine vises når du er i tilkoblet modus. Ad-hoc-spillene til vennene dine vises også i denne listen når du er i ad-hoc-modus.	#
+howtoplay.multiplayer.text.4.norealms=Gå til vennefanen for å bli med i et flerspillerspill! Alle de tilgjengelige verdenene til vennene dine vises når du er i tilkoblet modus. Ad-hoc-spillene til vennene dine vises også i denne listen når du er i ad-hoc-modus.	#
+howtoplay.multiplayer.text.5=Når du starter eller blir med i et spill på nettet, kan dette ses av alle vennene dine samt vennene til vennene i Microsoft-kontoen din. Sjekk innstillingene for flerspillerspill på forskjellige plattformer i verdenen din ved å trykke på Rediger-knappen for verdenen og velge Flerspiller. 	#
+howtoplay.multiplayer.text.7=Gi vennene dine spesielle evner i verdenen din, eller hindre dem i å røre noe. Alle vennene dine blir som standard med i verdenen din som vanlig medlem. Åpne pausemenyen for å se en liste over vennene i verdenen din, og klikk på ikonet til høyre for navnet deres for å redigere bare tillatelsene de har i verdenen.	#
+howtoplay.multiplayer.header.adhoc=Ad-hoc-modus	#
+howtoplay.multiplayer.text.adhoc=Vil du spille med vennene dine, men ikke på den samme enheten? Sett Nintendo Switch i ad-hoc-modus på hovedmenyen ved å trykke på :_gamepad_face_button_left:. Gå til vennefanen på spillmenyen for å se spillene til venner i nærheten, eller start et nytt spill som venner i nærheten kan bli med i!	#
+howtoplay.theStore.text.4.norealms=Gi det gamle spillet ditt en ansiktsløftning med teksturpakker som kan legges oppå de nåværende verdenene dine!	#
+howtoplay.theStore.text.5.norealms=Eller prøv alt sammen ved hjelp av mash-up-pakker. Dette er håndplukkede samlinger med skall, verdener og teksturer som til sammen vil forvandle verdenene dine!	#
+
+trial.tabbed_upsell.xbl.title=Og dette er ikke alt!	#
+
+connect_gamepad.pressButtonToContinue=Det kreves en Pro-kontroller eller et Joy-Con-kontrollerpar (venstre/høyre) for å fortsette.	#
+connect_gamepad.adhocMaxControllers=Når det spilles over et lokalt trådløst nettverk, går det ikke an å bruke mer enn én Pro-kontroller eller ett Joy-Con-kontrollerpar (venstre/høyre). Slå av alle overflødige kontrollere.	#
+connect_gamepad.requireControllerReconfiguration=Hver spiller må ha en Pro-kontroller eller et Joy-Con-kontrollerpar (venstre/høyre). Slå av alle Joy-Con-kontrollere som ikke er del av et par.	#
+connect_gamepad.handheldModeNoSplitscreen=Det er oppdaget en kontroller til, men flerspiller på delt skjerm er ikke tilgjengelig i håndholdt modus. Enten koble fra Joy-Con-kontrollerne for å forlate håndholdt modus eller slå av alle overflødige kontroller.	#
+connect_gamepad.promptHandheldMode=Joy-Con-kontrollere er tilkoblet konsollen. Vil du starte håndholdt modus? Dette stopper flerspiller på delt skjerm. Trykk på OK for å stoppe flerspiller på delt skjerm og starte håndholdt modus, eller velg Avbryt for å koble de tilkoblede Joy-Con-kontrollerne fra spillet og lade dem.	#

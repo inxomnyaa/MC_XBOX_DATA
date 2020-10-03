@@ -1,0 +1,25 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "TAG_Long",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ExactTeleport",
+      "dest": "ExactTeleport",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ExitPortal",
+      "dest": "ExitPortal",
+      "custom_transformation": "JavaEndGatewayExitPortalToIntermediate",
+      "optional": true
+    }
+  ]
+}

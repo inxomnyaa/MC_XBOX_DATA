@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "custom_transformation": "IntermediateItemIDToNative",
+      "src": "Item",
+      "dest": "Item"
+    }
+  ]
+}

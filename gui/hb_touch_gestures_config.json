@@ -1,0 +1,18 @@
+{
+	"hb_tap_gesture_parameters" : {
+		"max_touches" : 1,
+		"time_tolerance_ms" : 250,
+		"distance_tolerance_cm" : 0.635
+	},
+	"hb_fling_gesture_parameters" : {
+		"min_touches" : 1,
+		"max_touches" : 2,
+		"max_interval_between_moves_ms" : 120,
+		"min_distance_cm" : 0.5
+	},
+	"hb_pan_gesture_parameters" : {
+		"min_touches" : 1,
+		"max_touches" : 2,
+		"min_distance_cm" : 0.5
+	}
+}

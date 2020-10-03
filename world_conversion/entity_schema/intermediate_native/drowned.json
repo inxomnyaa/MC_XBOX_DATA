@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "DrownedDefinitions",
+      "dest": "definitions"
+    },
+    {
+      "src": "IsBaby",
+      "dest": "IsBaby",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "CanBreakDoors",
+      "dest": "CanBreakDoors",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Merci d'avoir joué ! Ceci est une leçon de démo, votre progression ne sera donc pas sauvegardée.	#
+
+edu_demo.tip.1=Les forêts tropicales abritent plus de la moitié des espèces animales terrestres de notre planète.	#
+edu_demo.tip.2=Plus de 25 % de la population mondiale dépend des forêts pour vivre.	#
+edu_demo.tip.3=Pour entretenir un feu, vous avez besoin de trois choses : du combustible, de l'oxygène et une source de chaleur.	#
+edu_demo.tip.4=Les feux libèrent d'importantes émissions de carbone, en particulier dans les tourbières et les forêts denses.	#
+edu_demo.tip.5=Les ordinateurs doivent apprendre, un peu comme les élèves !	#
+edu_demo.tip.6=L'intelligence artificielle est utilisée pour rassembler et analyser des données sur la forêt, ce qui est plus rapide que de compter les arbres un par un !	#
+
+menu.quit.edu=QUITTER LA LEÇON	#
+menu.quit.edu.title=Quitter la leçon de démo	#
+
+start_screen.start_demo=Commencer la leçon	#
+
+upsell.tab.1.title=Minecraft pour les écoles !	#
+upsell.tab.1.body=Suscitez l'intérêt de vos élèves pour différents sujets avec des leçons et des tutoriels gratuits, des outils d'évaluation, le mode classe en multijoueur, des connexions sécurisées et une assistance technique. Essayez gratuitement Minecraft: Education Edition dès aujourd'hui !	#
+upsell.tab.1.button=En savoir plus	#
+
+upsell.tab.2.title=Enseignez la programmation avec Minecraft	#
+upsell.tab.2.body=Utilisez Minecraft pour apprendre à vos élèves à coder avec des leçons immersives et plus de 50 heures de programmes gratuits. Les élèves peuvent écrire avec du code basé sur des blocs et du JavaScript, puis voir leur code prendre vie dans le jeu !	#
+upsell.tab.2.button=Commencer à programmer	#
+
+upsell.tab.3.title=Des tonnes de leçons gratuites	#
+upsell.tab.3.body=Découvrez des centaines de mondes Minecraft et des leçons, allant de l'histoire à la chimie, en passant par l'informatique et les mathématiques. Utilisez ces leçons comme point de départ ou créez les vôtres !	#
+upsell.tab.3.button=Accéder aux leçons	#
+
+upsell.tab.4.title=Développer des compétences sociales et affectives	#
+upsell.tab.4.body=Les élèves apprennent à collaborer, résoudre des problèmes et communiquer avec empathie. Minecraft: Education Edition comprend des fonctionnalités comme le lecteur immersif qui aide les enseignants à communiquer avec tout type d'élèves.	#
+upsell.tab.4.button=En savoir plus	#
+
+upsell.tab.5.title=Rejoignez la communauté	#
+upsell.tab.5.body=Participez aux formations pour enseignants, connectez-vous sur les réseaux sociaux et rejoignez notre communauté mondiale pour apprendre des autres enseignants. Des enseignants de plus de 115 pays et régions utilisent Minecraft dans leurs classes, et vous pouvez être le prochain !	#
+upsell.tab.5.button=Connectez-vous	#
+
+lesson.finished=J'AI TERMINÉ	#
+
+lesson.end.dialog.title=Leçon terminée !	#
+lesson.end.dialog.body.title=FÉLICITATIONS	#
+lesson.end.dialog.body.wimages=Vous avez obtenu un certificat de réussite. Consultez les photos de cette leçon et sauvegardez-en une copie.	#
+lesson.end.dialog.body.checkport=Consultez les photos de cette leçon et sauvegardez-en une copie.	#
+lesson.end.dialog.body.noimages=Vous avez obtenu un certificat de réussite.	#
+lesson.end.dialog.button.morecoding=Plus de code	#
+lesson.end.dialog.button.getcert=Obtenir le certificat	#
+lesson.end.dialog.button.exit=Quitter la leçon	#
+lesson.end.dialog.button.export=Sauvegarder	#
+
+lesson.end.access.imagespreview=Photos de la leçon : %1 sur %2	#
+lesson.end.access.export=Exporter les photos de la leçon	#

@@ -1,0 +1,22 @@
+{
+  "piece_id": "0948e089-6f9c-40c1-886b-cd37add03f69",
+  "piece_name": "skin_alex",
+  "piece_type": "persona_skin",
+  "texture_sources": [
+    {
+      "texture": "skin_alex_head.png",
+      "tint_map": "skin_alex_head_tintmap.tga",
+      "use_face_uv": true
+    },
+    {
+      "texture": "skin_alex.png",
+      "tint_map": "skin_alex_tintmap.tga"
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#FF7F4A"
+  },
+  "tint_color": {
+    "r_color": "#FF7F4A"
+  }
+}

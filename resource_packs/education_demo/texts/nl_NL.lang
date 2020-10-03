@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Bedankt voor het spelen! Omdat dit een demoles is, wordt je voortgang niet opgeslagen.	#
+
+edu_demo.tip.1=Regenwouden huizen meer dan de helft van alle dierensoorten op aarde.	#
+edu_demo.tip.2=Meer dan 25% van de mensen op aarde zijn afhankelijk van bossen voor hun levensonderhoud.	#
+edu_demo.tip.3=Er zijn drie dingen nodig om een brand gaande te houden: brandstof, zuurstof en een warmtebron.	#
+edu_demo.tip.4=Bij branden, vooral in veengebieden en dichte bossen, komt een enorme hoeveelheid kooldioxide vrij.	#
+edu_demo.tip.5=Computers moeten leren om te leren, net als leerlingen!	#
+edu_demo.tip.6=Kunstmatige intelligentie wordt gebruikt om gegevens over bossen te verzamelen en analyseren, wat sneller is dan bomen met de hand tellen!	#
+
+menu.quit.edu=LES AFSLUITEN	#
+menu.quit.edu.title=Demoles afsluiten	#
+
+start_screen.start_demo=Les starten	#
+
+upsell.tab.1.title=Minecraft voor scholen!	#
+upsell.tab.1.body=Betrek leerlingen bij allerlei vakgebieden, met gratis lessen en tutorials, beoordelingshulpmiddelen, klassikale multiplayer, veilig aanmelden en technische ondersteuning. Begin vandaag nog met een gratis proefversie van Minecraft: Education Edition!	#
+upsell.tab.1.button=Meer informatie	#
+
+upsell.tab.2.title=Geef programmeerles met Minecraft	#
+upsell.tab.2.body=Gebruik Minecraft om je leerlingen te leren programmeren, met immersieve lessen en een lesprogramma van meer dan 50 uur. Leerlingen kunnen programmeren op basis van blokken en JavaScript, en zien hun code tot leven komen in het spel!	#
+upsell.tab.2.button=Beginnen met programmeren	#
+
+upsell.tab.3.title=Talloze gratis lessen	#
+upsell.tab.3.body=Verken honderden Minecraft-werelden en lessen, van geschiedenis en scheikunde tot computerwetenschappen en wiskunde. Gebruik deze lessen als uitgangspunt of maak je eigen lessen!	#
+upsell.tab.3.button=Naar lessen gaan	#
+
+upsell.tab.4.title=Ontwikkel sociale vaardigheden	#
+upsell.tab.4.body=Leerlingen leren samenwerken, problemen oplossen en communiceren. Minecraft: Education Edition omvat functies zoals Insluitende lezer, waarmee leraren alle soorten leerlingen kunnen betrekken.	#
+upsell.tab.4.button=Meer informatie	#
+
+upsell.tab.5.title=Word lid van de community	#
+upsell.tab.5.body=Neem deel aan lerarenopleidingen, kom met elkaar in contact op sociale media en word lid van de wereldwijde community om van andere onderwijzers te leren. Docenten in meer dan 115 landen gebruiken Minecraft in hun klaslokaal, en jij kunt de volgende zijn!	#
+upsell.tab.5.button=Kom in contact	#
+
+lesson.finished=IK BEN KLAAR	#
+
+lesson.end.dialog.title=Les voltooid!	#
+lesson.end.dialog.body.title=GEFELICITEERD	#
+lesson.end.dialog.body.wimages=Je hebt een certificaat van voltooiing ontvangen. Bekijk de foto's van deze les en sla een kopie op.	#
+lesson.end.dialog.body.checkport=Bekijk de foto's van deze les en sla een kopie op.	#
+lesson.end.dialog.body.noimages=Je hebt een certificaat van voltooiing ontvangen.	#
+lesson.end.dialog.button.morecoding=Meer programmeren	#
+lesson.end.dialog.button.getcert=Certificaat ontvangen	#
+lesson.end.dialog.button.exit=Les afsluiten	#
+lesson.end.dialog.button.export=Opslaan	#
+
+lesson.end.access.imagespreview=Lesfoto %1 van %2	#
+lesson.end.access.export=Lesfoto's exporteren	#

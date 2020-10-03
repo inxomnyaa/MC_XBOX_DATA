@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Obrigado por jogares! Esta é uma lição de demonstração, o teu progresso não será guardado.	#
+
+edu_demo.tip.1=As florestas tropicais albergam mais de metade das espécies animais terrestres do nosso planeta.	#
+edu_demo.tip.2=Mais de 25% da população do mundo depende das florestas para subsistir.	#
+edu_demo.tip.3=São necessárias três coisas para manter um incêndio: combustível, oxigénio e uma fonte de calor.	#
+edu_demo.tip.4=Os incêndios, especialmente em turfeiras e florestas densas, libertam emissões de carbono enormes.	#
+edu_demo.tip.5=Os computadores tem de ser ensinados a aprender, como os estudantes!	#
+edu_demo.tip.6=A IA é utilizada para recolher e analisar dados da floresta, que é mais rápido que contar árvores uma a uma!	#
+
+menu.quit.edu=SAIR DA LIÇÃO	#
+menu.quit.edu.title=Sair da Lição de Demonstração	#
+
+start_screen.start_demo=Iniciar Lição	#
+
+upsell.tab.1.title=Minecraft para Escolas!	#
+upsell.tab.1.body=Envolve os estudantes em várias disciplinas, com lições e tutoriais, ferramentas de avaliação, sala de aula multijogador, inícios de sessão seguros e apoio técnico gratuitos. Inicia a versão de avaliação gratuita do Minecraft: Education Edition hoje!	#
+upsell.tab.1.button=Saber Mais	#
+
+upsell.tab.2.title=Ensinar Programação com o Minecraft	#
+upsell.tab.2.body=Usa o Minecraft para ensinar os estudantes a programar com lições imersivas e mais de 50 horas de currículo. Os estudantes podem programar com base em blocos e JavaScript e ver o código ganhar vida no jogo.	#
+upsell.tab.2.button=Começar a Programar	#
+
+upsell.tab.3.title=Imensas Lições Gratuitas	#
+upsell.tab.3.body=Explora centenas de mundos e lições do Minecraft, desde história e química a informática e matemática. Usa estas lições para começar ou cria os teus!	#
+upsell.tab.3.button=Ir para Lições	#
+
+upsell.tab.4.title=Constrói Capacidades Socio-Emocionais	#
+upsell.tab.4.body=Os estudantes aprender a colaborar, a resolver problemas e a comunicar com empatia. O Minecraft: Education Edition inclui funcionalidades como a Leitura Avançada que ajudam os professores a alcançar qualquer tipo de aprendizagem.	#
+upsell.tab.4.button=Saber Mais	#
+
+upsell.tab.5.title=Junta-te à Comunidade	#
+upsell.tab.5.body=Participa na formação para professores, liga-te através das redes sociais e junta-te à nossa comunidade global para aprenderes de outros educadores. Há educadores em mais de 115 países a usar o Minecraft nas suas salas de aula e tu podes ser o próximo!	#
+upsell.tab.5.button=Mantém-te Ligado	#
+
+lesson.finished=ACABEI	#
+
+lesson.end.dialog.title=Lição Concluída!	#
+lesson.end.dialog.body.title=PARABÉNS	#
+lesson.end.dialog.body.wimages=Ganhaste um certificado de conclusão. Verifica as fotos desta lição e guarda uma cópia.	#
+lesson.end.dialog.body.checkport=Verifica as fotos desta lição e guarda uma cópia.	#
+lesson.end.dialog.body.noimages=Ganhaste um certificado de conclusão.	#
+lesson.end.dialog.button.morecoding=Mais Sobre Programação	#
+lesson.end.dialog.button.getcert=Obter Certificado	#
+lesson.end.dialog.button.exit=Sair da Lição	#
+lesson.end.dialog.button.export=Guardar	#
+
+lesson.end.access.imagespreview=Foto da lição %1 de %2	#
+lesson.end.access.export=Exportar fotos da lição	#

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Αφαίρεσε το τηλέφωνο από το headset για να συνδεθείς στο Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Αφαίρεσε το τηλέφωνο από το headset για να προσθέσεις φίλους από το Xbox Live.	#
+xblLogin.LoginMessageRift=Βγάλε το headset για να συνδεθείς στο Xbox Live.	#
+xblLogin.AddFriendMessageRift=Βγάλε το headset για να προσθέσεις φίλους από το Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Βγάλε το headset για να προβάλεις την κάρτα παίκτη.	#
+
+LostFocus.Rift=Χάθηκε η επαφή με το ποντίκι! Επίλεξε Minecraft στην επιφάνεια εργασίας για να συνεχίσεις.	#
+
+vr.controls.HandControllerTracked=Αποκτήθηκε παρακολούθηση Oculus Touch	#
+vr.controls.HandControllerTrackingLost=Χάθηκε η παρακολούθηση Oculus Touch	#
+
+FileBrowser.Rift.Skin=Βγάλε το headset για να επιλέξεις προσαρμοσμένη εμφάνιση.	#
+FileBrowser.Rift.TemplateResource=Αφαίρεσε τα ακουστικά για να επιλέξεις τον πόρο προτύπου.	#
+FileBrowser.Rift.Export=Βγάλε το headset για να εξαγάγεις τον κόσμο σου.	#
+FileBrowser.Rift.Import=Βγάλε το headset για να εισαγάγεις τον κόσμο σου.	#
+FileBrowser.Rift.ExportBook=Βγάλε το headset για να εξαγάγεις το βιβλίο σου.	#
+FileBrowser.Rift.ExportPortfolio=Βγάλε το headset για να εξαγάγεις το χαρτοφυλάκιό σου.	#
+FileBrowser.Rift.FileChooser=Επιλογή αρχείου	#
+FileBrowser.Rift.FolderChooser=Επιλογή φακέλου	#
+FileBrowser.Rift.ExportWorld=Εξαγωγή κόσμου	#
+FileBrowser.Rift.ExportResourcesPrompt=Αφαίρεσε τα ακουστικά, για να εξαγάγεις αυτούς τους πόρους.	#
+FileBrowser.Rift.ExportResources=Εξαγωγή πόρων	#
+FileBrowser.Rift.SkinChooser=Επιλογή εμφάνισης	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=Ρυθμίσεις VR	#
+options.vrHideHud=Απόκρυψη HUD	#
+options.vrHideHand=Απόκρυψη χεριού	#
+options.vrHideGUI=Απόκρυψη του γραφικού περιβάλλοντος εργασίας στο VR	#
+options.vrGamma=Φωτεινότητα VR	#
+options.vrMsaa=Εξομάλυνση VR	#
+options.vrRenderDistance=Απόσταση φωτοαπόδοσης VR	#
+options.vrParticleRenderDistance=Απόσταση φωτοαπόδοσης μορίου VR	#
+options.vrResetPlayerAlignment=Επαναφορά ευθυγράμμισης VR	#
+options.vrHMDdisplacement=Χρήση μετατόπισης HMD για τη μετακίνηση	#
+options.vrHeadSteering=Καθοδήγηση VR με το κεφάλι	#
+options.vrTurningOptions=Επιλογές στροφής	#
+options.StutterTurn=Στροφή VR	#
+options.StutterTurnSound=Ήχος στροφής VR	#
+options.StutterConstantAngleOrTime=Ενεργοποίηση Constant Time Mode VR	#
+options.3DRendering=Φωτοαπόδοση 3D	#
+options.vrHudAtTop=HUD επάνω	#
+options.vrAutojump=Αυτόματο άλμα VR	#
+options.vrLinearJump=Ευθύ άλμα VR	#
+options.vrLinearMotion=Ευθεία κίνηση VR	#
+options.stickyMining=Κολλώδης εξόρυξη	#
+options.stickyMiningHand=Κολλώδης εξόρυξη για το χειριστήριο χειρός	#
+options.vrMovingBackwardsHardStop=Απότομο σταμάτημα προς τα πίσω	#
+options.comfortControls=Στοιχεία ελέγχου VR	#
+options.ShowComfortSelectScreen=Εμφάνιση οθόνης επιλογής ελέγχου	#
+options.vrHudDrifts=Εκτροπή HUD	#
+options.vrLivingRoomCursorCentered=Ευθυγραμμισμένος δρομέας VR Living Room	#
+options.vrTapTurn=Στροφή με άγγιγμα	#
+options.vrTapTurnSensitivity=Ευαισθησία στροφής με άγγιγμα	#
+options.vrRollTurning=Στροφή με δίσκο	#
+options.vrRollTurnSensitivity=Ευαισθησία στροφής με δίσκο	#
+options.vrHandControlsItem=Στοιχείο στοιχείων ελέγχου χειρός	#
+options.vrHandControlsHUD=HUD στοιχείων ελέγχου χειρός	#
+options.vrHandPointer=Να εμφανίζεται ο δείκτης του χειριστηρίου χειρός	#
+options.vrHandsVisible=Να εμφανίζονται χέρια	#
+options.vr180Turning=Μεταβολή 180 μοιρών με μοχλό	#
+options.vrMirrorTexture=Ενεργοποίηση υφής καθρέφτη	#
+options.vrSensitivity=Ευαισθησία VR	#
+options.vrUIMouseSensitivity=Ευαισθησία περιβάλλοντος χρήστη VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Στοιχεία ελέγχου VR	#
+
+vr.controls.title.classic=Κλασικά στοιχεία ελέγχου - Έντονο επίπεδο	#
+vr.controls.title.experimental=Στοιχεία VR - Μεσαίο επίπεδο	#
+vr.controls.classicDescription=Η κλασική λειτουργία αλμάτων και στροφής δεν έχει ρυθμιστεί για VR. Το επίπεδο άνεσής της είναι έντονο για τα περισσότερα άτομα.	#
+vr.controls.experimentalDescription=Η στροφή γίνεται τμηματικά. Ο δείκτης και το άλμα έχουν ρυθμιστεί για χρήση σε VR ώστε να βελτιώνουν την άνεση κατά την κίνηση για τα περισσότερα άτομα (εργασία σε εξέλιξη).	#
+vr.controls.sharedDescription=Τα στοιχεία ελέγχου μπορούν επίσης να αλλάξουν εντός του παιχνιδιού από το μενού επιλογών.	#
+vr.moreOptions=Περισσότερες επιλογές...	#
+vr.moreInformation=Περισσότερες πληροφορίες...	#
+vr.detailedInformation=Έχουν προσαρμοστεί αρκετές λειτουργίες του παιχνιδιού για να εξασφαλίζεται πιο άνετη εμπειρία VR. Για παράδειγμα, η λειτουργία στροφής VR είναι ένα χαρακτηριστικό που χωρίζει την κίνηση στροφής σε τμήματα για να μειώνει τον αποπροσανατολισμό.	#
+vr.detailedInformationLink=Για περισσότερες πληροφορίες σχετικά με τα στοιχεία ελέγχου VR και μια ματιά στο παρασκήνιο, επισκέψου τη διεύθυνση minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Επανακεντράρισμα συσκευής	#
+vr.pausescreen.recenterDeviceKeyboard=Πάτησε το N για να επαναληφθεί το κεντράρισμα της συσκευής	#
+vr.warning.controllerRequired=Απαιτείται χειριστήριο παιχνιδιού	#
+vr.warning.controllerRecommended=Συνιστάται χειριστήριο παιχνιδιού για το VR	#
+vr.warning.controllerOrMouseRecommended=Συνιστάται χειριστήριο παιχνιδιού ή ποντίκι για τη λειτουργία VR	#
+vr.warning.exitGameWarning=Θέλεις να πραγματοποιήσεις έξοδο από το Minecraft;	#
+vr.alignscreen.pressButtonX=Πάτησε το κουμπί "X" στο χειριστήριό σου για να συνεχίσεις	#
+vr.alignscreen.pressButtonXOrMouse=Κάνε κλικ ή πάτησε οποιοδήποτε κουμπί στο χειριστήριό σου για να συνεχίσεις	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Πάτησε το κουμπί "Α" στο χειριστήριο παιχνιδιού ή τη σκανδάλη επιλογής στο χειριστήριο Windows Mixed Reality, για να συνεχίσεις	#
+vr.alignscreen.pressAnyButton=Ευθυγράμμισε το κεφάλι σου με οποιαδήποτε ουδέτερη θέση και πάτησε οποιοδήποτε κουμπί	#
+vr.alignscreen.info=Σημείωση: Αυτή η δυνατότητα είναι σε εξέλιξη. Η χρήση VR μπορεί να προκαλέσει δυσφορία σε ορισμένα άτομα. Να θυμάσαι να κάνεις διαλείμματα όσο συχνά χρειάζεται και να χρησιμοποιείς τη λειτουργία Living Room πατώντας στο touchpad για λιγότερο έντονη προβολή.	#
+vr.alignscreen.info_viewbutton=Σημείωση: Αυτή η δυνατότητα είναι σε εξέλιξη. Η χρήση VR μπορεί να προκαλέσει δυσφορία σε ορισμένα άτομα. Να θυμάσαι να κάνεις διαλείμματα όσο συχνά χρειάζεται και να χρησιμοποιείς τη λειτουργία Living Room πατώντας προς τα επάνω στο D-Pad για λιγότερο έντονη προβολή.	#
+
+accessibility.gamepad.button.systemLeft=κουμπί επιλογής	#
+accessibility.gamepad.button.systemRight=κουμπί έναρξης	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Είσαι βέβαιος ότι επιθυμείς έξοδο;	#
+ori.confirm.update=Να ενημερωθεί το Minecraft;	#
+ori.pending=Αναμονή για ολοκλήρωση του Windows Update.	#
+ori.installing=Εγκατάσταση...	#
+ori.updating=Ενημέρωση...	#
+ori.launching=Εκκίνηση!	#
+ori.check_for_update=Αναζήτηση ενημερώσεων...	#
+ori.error.unavailable=Το Minecraft δεν ήταν διαθέσιμο. Βεβαιώσου ότι είσαι συνδεδεμένος στο Internet και έχεις συνδεθεί στο κατάστημα.	#
+ori.error.unknown=Παρουσιάστηκε άγνωστο σφάλμα. Προσπάθησε ξανά αργότερα.	#
+ori.error.not_supported=Το Minecraft δεν υποστηρίζεται σε αυτό το σύστημα.	#
+ori.error.launch_failure=Απέτυχε η εκκίνηση του Minecraft.	#
+ori.error.version=Η έκδοση του Minecraft που χρησιμοποιείς είναι παλιά. Ενημέρωσέ τη για να παίξεις.	#
+ori.error.win10=Απαιτούνται Windows 10 έκδοσης 1607 ή νεότερης.	#
+ori.error.install_error=Εντοπίσαμε ένα σφάλμα. Κωδικός σφάλματος: 0x	#
+ori.error.low_storage=Δεν είναι δυνατή η εγκατάσταση. Μη επαρκής χώρος αποθήκευσης.	#
+ori.error.no_internet=Δεν είναι δυνατή η σύνδεση. Έλεγξε τη σύνδεσή σου στο Internet.	#
+ori.error.winUpdateDisabled=Το Windows Update πρέπει να είναι ενεργοποιημένο.	#
+ori.confirm.controls.controller.confirm=Επιβεβαίωση	#
+ori.confirm.controls.controller.cancel=Άκυρο	#
+ori.confirm.controls.keyboard.confirm=Επιβεβαίωση: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Άκυρο: [Esc]	#
+ori.exit.controls.controller=Έξοδος	#
+ori.exit.controls.keyboard=Έξοδος: [Enter]	#
+ori.cancelling=Ακύρωση...	#
+

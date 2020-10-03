@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.BlockEntityTag.Patterns",
+      "dest": "tag.Patterns",
+      "item_transformation": "ConsoleBannerItemPatternsToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "tag.BlockEntityTag.Type",
+      "dest": "tag.Type",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "minecraft:pumpkin": {
+    "id": 86,
+    "item_transformations": [ "block.json" ],
+    "name_transformation" : "minecraft:carved_pumpkin"
+  }
+}

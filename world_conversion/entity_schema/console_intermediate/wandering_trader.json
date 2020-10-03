@@ -1,0 +1,24 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "despawnTimeLeft",
+      "dest": "despawnTimeLeft",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Offers.Recipes",
+      "dest": "Offers.Recipes",
+      "custom_transformation": "JavaOfferRecipesToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Offers.TierXpRequirements",
+      "dest": "Offers.TierXpRequirements",
+      "custom_transformation": "JavaOfferTierXpRequirementsToIntermediate",
+      "optional": true
+    }
+  ]
+}

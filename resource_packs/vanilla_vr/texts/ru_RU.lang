@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Чтобы войти в систему Xbox Live, уберите телефон от гарнитуры.	#
+xblLogin.AddFriendMessageGearVR=Для добавления друзей в Xbox Live отсоедините гарнитуру от телефона.	#
+xblLogin.LoginMessageRift=Чтобы войти в систему Xbox Live, уберите гарнитуру.	#
+xblLogin.AddFriendMessageRift=Для добавления друзей в Xbox Live отсоедините гарнитуру.	#
+xblLogin.ShowGamerCardMessageRift=Чтобы просмотреть карту игрока, отсоедините гарнитуру..	#
+
+LostFocus.Rift=Мышь не найдена! Выберите Minecraft на рабочем столе, если хотите ее использовать.	#
+
+vr.controls.HandControllerTracked=Начато отслеживание Oculus Touch	#
+vr.controls.HandControllerTrackingLost=Прекращено отслеживание Oculus Touch	#
+
+FileBrowser.Rift.Skin=Чтобы выбрать пользовательский скин, уберите гарнитуру.	#
+FileBrowser.Rift.TemplateResource=Отключите гарнитуру, чтобы выбрать ресурс с шаблонами.	#
+FileBrowser.Rift.Export=Чтобы экспортировать уровень, отсоедините гарнитуру.	#
+FileBrowser.Rift.Import=Чтобы импортировать уровень, отсоедините гарнитуру.	#
+FileBrowser.Rift.ExportBook=Чтобы экспортировать книгу, отсоедините гарнитуру.	#
+FileBrowser.Rift.ExportPortfolio=Чтобы экспортировать портфолио, отсоедините гарнитуру.	#
+FileBrowser.Rift.FileChooser=Выберите файл	#
+FileBrowser.Rift.FolderChooser=Выбрать папку	#
+FileBrowser.Rift.ExportWorld=Экспортировать мир	#
+FileBrowser.Rift.ExportResourcesPrompt=Чтобы экспортировать эти ресурсы, отсоедините гарнитуру.	#
+FileBrowser.Rift.ExportResources=Экспорт ресурсов	#
+FileBrowser.Rift.SkinChooser=Выберите скин	#
+
+
+options.group.vr=ВР	#
+options.group.vrTitle=Настройки ВР	#
+options.vrHideHud=Скрыть индикаторы	#
+options.vrHideHand=Скрыть руку	#
+options.vrHideGUI=Скрывать граф. интерфейс в ВР	#
+options.vrGamma=Яркость в ВР	#
+options.vrMsaa=Сглаживание для ВР	#
+options.vrRenderDistance=Дистанция визуализации ВР	#
+options.vrParticleRenderDistance=Дистанция визуализации частиц ВР	#
+options.vrResetPlayerAlignment=Сбросить выравнивание в ВР	#
+options.vrHMDdisplacement=Используйте смещение шлема ВР для движения	#
+options.vrHeadSteering=Повороты головы в ВР	#
+options.vrTurningOptions=Параметры поворота	#
+options.StutterTurn=Повороты в ВР	#
+options.StutterTurnSound=Звук поворота ВР	#
+options.StutterConstantAngleOrTime=Поворот в ВР в режиме постоянного времени	#
+options.3DRendering=3D-визуализация	#
+options.vrHudAtTop=Экранная индикация вверху	#
+options.vrAutojump=Авто-прыжок в ВР	#
+options.vrLinearJump=Линейный прыжок в ВР	#
+options.vrLinearMotion=Линейное движение в ВР	#
+options.stickyMining=Постоянная добыча	#
+options.stickyMiningHand=Постоянная добыча для ручного контроллера	#
+options.vrMovingBackwardsHardStop=Жесткая остановка при движении назад	#
+options.comfortControls=Управление в ВР	#
+options.ShowComfortSelectScreen=Показывать экран выбора управления	#
+options.vrHudDrifts=Плавающая экранная индикация	#
+options.vrLivingRoomCursorCentered=Отцентрированный курсор в режиме «Гостиная» (ВР)	#
+options.vrTapTurn=Повороты касанием	#
+options.vrTapTurnSensitivity=Чувствительность поворотов касанием	#
+options.vrRollTurning=Повороты колесом	#
+options.vrRollTurnSensitivity=Чувствительность поворотов колесом	#
+options.vrHandControlsItem=Ручной контроллер: элемент управления	#
+options.vrHandControlsHUD=Ручной контроллер: индикация управления	#
+options.vrHandPointer=Ручной контроллер: виден указатель	#
+options.vrHandsVisible=Видны руки	#
+options.vr180Turning=Разворот на 180 градусов (мини-джойстик)	#
+options.vrMirrorTexture=Включить зеркальную текстуру	#
+options.vrSensitivity=Чувствительность ВР	#
+options.vrUIMouseSensitivity=Чувствительность интерфейса ВР	#
+
+## VR control Scheme Strings
+vr.controls.title=Управление в ВР	#
+
+vr.controls.title.classic=Классическое управление — активное	#
+vr.controls.title.experimental=Управление в ВР — умеренное	#
+vr.controls.classicDescription=Обычные повороты и прыжки, не заточенные под ВР. Для большинства людей такой режим является очень комфортным.	#
+vr.controls.experimentalDescription=Поворот выполняется поэтапно, указатель и прыжки заточены под ВР с целью повысить уровень комфорта для большинства людей (разработка еще не закончена).	#
+vr.controls.sharedDescription=Управление можно изменять во время игры через меню «Настройки».	#
+vr.moreOptions=Дополнительные настройки	#
+vr.moreInformation=Подробнее...	#
+vr.detailedInformation=Некоторые функции игры скорректированы для более комфортного использования в ВР. Например, повороты в ВР – эта функция, разбивающая поворот на этапы, чтобы уменьшить потерю ориентации.	#
+vr.detailedInformationLink=Дополнительную информацию об управлении в режиме виртуальной реальности смотрите по адресу minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Повторно центрировать устройство	#
+vr.pausescreen.recenterDeviceKeyboard=Нажмите "N", чтобы повторно центрировать устройство	#
+vr.warning.controllerRequired=Требуется игровой контроллер	#
+vr.warning.controllerRecommended=Для режима ВР рекомендуется использовать игровой контроллер	#
+vr.warning.controllerOrMouseRecommended=Для режима ВР рекомендуется использовать контроллер или мышь	#
+vr.warning.exitGameWarning=Хотите выйти из Minecraft?	#
+vr.alignscreen.pressButtonX=Для продолжения нажмите кнопку «X» на контроллере	#
+vr.alignscreen.pressButtonXOrMouse=Для продолжения нажмите кнопку мыши или любую кнопку на контроллере	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Чтобы продолжить, нажмите кнопку А на игровом контроллере или триггер «Выбрать» на контроллере Windows Mixed Reality	#
+vr.alignscreen.pressAnyButton=Держите голову ровно и нажмите любую кнопку	#
+vr.alignscreen.info=Уведомление. Этот режим является экспериментальным. Виртуальная реальность может вызывать у некоторых людей дискомфорт. Не забывайте регулярно делать перерывы и переходить в режим "Гостиная" касанием сенсорной панели, таким образом уменьшая интенсивность просмотра.	#
+vr.alignscreen.info_viewbutton=Уведомление. Этот режим является экспериментальным. Виртуальная реальность может вызывать у некоторых людей дискомфорт. Не забывайте регулярно делать перерывы и переходить в режим «Гостиная» касанием кнопки «Вверх» на крестовине, таким образом уменьшая интенсивность просмотра.	#
+
+accessibility.gamepad.button.systemLeft=кнопка SELECT	#
+accessibility.gamepad.button.systemRight=кнопка START	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Выйти из игры?	#
+ori.confirm.update=Обновить Minecraft?	#
+ori.pending=Ожидание завершения обновления Windows.	#
+ori.installing=Установка...	#
+ori.updating=Обновление...	#
+ori.launching=Запуск!	#
+ori.check_for_update=Проверка наличия обновлений...	#
+ori.error.unavailable=Minecraft был недоступен. Убедитесь, что вы подключены к интернету и вошли в магазин.	#
+ori.error.unknown=Возникла неизвестная ошибка. Повторите попытку позднее.	#
+ori.error.not_supported=Minecraft не поддерживается на этой системе.	#
+ori.error.launch_failure=Не удалось запустить Minecraft.	#
+ori.error.version=Ваша версия Minecraft устарела. Обновите ее, чтобы начать игру.	#
+ori.error.win10=Требуется Windows 10, версия 1607 или новее.	#
+ori.error.install_error=Произошла ошибка. Код ошибки: 0x	#
+ori.error.low_storage=Установка невозможна. Недостаточно места на устройстве хранения данных.	#
+ori.error.no_internet=Не удается подключиться. Проверьте подключение к Интернету.	#
+ori.error.winUpdateDisabled=Необходимо включить Центр обновления Windows.	#
+ori.confirm.controls.controller.confirm=Подтвердить	#
+ori.confirm.controls.controller.cancel=Отмена	#
+ori.confirm.controls.keyboard.confirm=Подтвердить: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Отменить: [Esc]	#
+ori.exit.controls.controller=Выход	#
+ori.exit.controls.keyboard=Выход: [Enter]	#
+ori.cancelling=Отмена...	#
+

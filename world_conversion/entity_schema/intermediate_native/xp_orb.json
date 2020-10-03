@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "shortValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "src": "Value",
+      "dest": "experience value",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    }
+  ]
+}

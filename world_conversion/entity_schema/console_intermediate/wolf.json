@@ -1,0 +1,29 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "OwnerUUID",
+      "dest": "OwnerNew",
+      "custom_transformation": "JavaStringIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Sitting",
+      "dest": "Sitting",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Angry",
+      "dest": "Angry",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "CollarColor",
+      "dest": "Color",
+      "custom_transformation": "JavaColorInvertToIntermediate",
+      "optional": true
+    }
+  ]
+}

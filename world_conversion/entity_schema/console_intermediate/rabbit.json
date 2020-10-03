@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "RabbitType",
+      "dest": "Variant",
+      "custom_transformation": "JavaRabbitVariantToIntermediate"
+    },
+    {
+      "src": "MoreCarrotTicks",
+      "dest": "MoreCarrotTicks",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

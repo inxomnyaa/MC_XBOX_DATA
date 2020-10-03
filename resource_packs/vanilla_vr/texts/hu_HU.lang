@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Az Xbox Live-ba való bejelentkezéshez vedd ki a telefont a headsetből.	#
+xblLogin.AddFriendMessageGearVR=Xbox Live-ismerősök felvételéhez vedd ki a telefont a headsetből.	#
+xblLogin.LoginMessageRift=Az Xbox Live-ba való bejelentkezéshez távolítsd el a headsetet.	#
+xblLogin.AddFriendMessageRift=Xbox Live-ismerősök felvételéhez távolítsd el a headsetet.	#
+xblLogin.ShowGamerCardMessageRift=A játékoskártya megtekintéséhez távolítsd el a headsetet.	#
+
+LostFocus.Rift=Az egér eltűnt! Ha használni szeretnéd, az asztalon válaszd a Minecraft lehetőséget.	#
+
+vr.controls.HandControllerTracked=Az Oculus érintéses követése aktív	#
+vr.controls.HandControllerTrackingLost=Az Oculus érintéses követése nem aktív	#
+
+FileBrowser.Rift.Skin=Egyéni felület kiválasztásához távolítsd el a headsetet.	#
+FileBrowser.Rift.TemplateResource=Vedd le a headsetet, hogy kiválaszd a sablon forrását.	#
+FileBrowser.Rift.Export=A világ exportálásához távolítsd el a headsetet.	#
+FileBrowser.Rift.Import=A világ importálásához távolítsd el a headsetet.	#
+FileBrowser.Rift.ExportBook=A könyv exportálásához távolítsd el a headsetet.	#
+FileBrowser.Rift.ExportPortfolio=A portfólió exportálásához távolítsd el a headsetet.	#
+FileBrowser.Rift.FileChooser=Fájl kiválasztása	#
+FileBrowser.Rift.FolderChooser=Válassz mappát	#
+FileBrowser.Rift.ExportWorld=Világ exportálása	#
+FileBrowser.Rift.ExportResourcesPrompt=A portfólió exportálásához távolítsd el a headsetet.	#
+FileBrowser.Rift.ExportResources=Erőforrások exportálása	#
+FileBrowser.Rift.SkinChooser=Felület kiválasztása	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR beállításai	#
+options.vrHideHud=HUD elrejtése	#
+options.vrHideHand=Kéz elrejtése	#
+options.vrHideGUI=Kezelőfelület elrejtése VR módban	#
+options.vrGamma=VR fényereje	#
+options.vrMsaa=VR vonalsimítása	#
+options.vrRenderDistance=VR megjelenítési távolsága	#
+options.vrParticleRenderDistance=VR részecskék megjelenítési távolsága	#
+options.vrResetPlayerAlignment=VR-igazítás visszaállítása	#
+options.vrHMDdisplacement=HMD-elmozdítás használata a mozgáshoz	#
+options.vrHeadSteering=VR-fejkormányzás	#
+options.vrTurningOptions=Fordulási beállítások	#
+options.StutterTurn=VR-fordulás	#
+options.StutterTurnSound=VR-fordulási hang	#
+options.StutterConstantAngleOrTime=VR-fordulás változatlan idejű módja	#
+options.3DRendering=3D-leképezés	#
+options.vrHudAtTop=HUD felülre	#
+options.vrAutojump=VR automatikus ugrás	#
+options.vrLinearJump=VR lineáris ugrás	#
+options.vrLinearMotion=VR lineáris mozgás	#
+options.stickyMining=Ragadós bányászat	#
+options.stickyMiningHand=Ragadós bányászat kézi vezérlő használatakor	#
+options.vrMovingBackwardsHardStop=Hirtelen leállás hátramenetben	#
+options.comfortControls=VR-kezelőszervek	#
+options.ShowComfortSelectScreen=Kezelőszerv-választási képernyő megjelenítése	#
+options.vrHudDrifts=HUD eltolása	#
+options.vrLivingRoomCursorCentered=VR kurzor középre állítása a nappaliban	#
+options.vrTapTurn=Koppintásra fordulás	#
+options.vrTapTurnSensitivity=Koppintásra fordulás érzékenysége	#
+options.vrRollTurning=Körívet követő fordulás	#
+options.vrRollTurnSensitivity=Körívet követő fordulás érzékenysége	#
+options.vrHandControlsItem=Kézi kezelőszerv vezérlőinek eleme	#
+options.vrHandControlsHUD=Kézi kezelőszerv vezérlőinek HUD-ja	#
+options.vrHandPointer=Kézi kezelőszerv mutatója látható	#
+options.vrHandsVisible=A kezek láthatók	#
+options.vr180Turning=180°-ban fordított vezérlés	#
+options.vrMirrorTexture=Tükörtextúra bekapcsolása	#
+options.vrSensitivity=VR érzékenysége	#
+options.vrUIMouseSensitivity=VR UI érzékenysége	#
+
+## VR control Scheme Strings
+vr.controls.title=VR-kezelőszervek	#
+
+vr.controls.title.classic=Szokásos kezelőszervek – intenzív	#
+vr.controls.title.experimental=VR-kezelőszervek – enyhe	#
+vr.controls.classicDescription=A szokott ugrás és fordulás, amely nincs a VR-re hangolva. Ezzel a legtöbb ember intenzívnek érzi a kényelmi szintet.	#
+vr.controls.experimentalDescription=A forgás részletekben valósul meg. A kurzor és az ugrás VR-re van hangolva, ami javítja a mozgás kényelmét a legtöbb ember számára (a fejlesztése folyamatban van).	#
+vr.controls.sharedDescription=A kezelőszervek a játékon belül is módosíthatók a beállítások menüjében.	#
+vr.moreOptions=További beállítások...	#
+vr.moreInformation=További információk...	#
+vr.detailedInformation=A játék több funkcióját úgy módosítottuk, hogy kényelmesebb VR-élményt nyújtsanak. Így például a VR-forgás szakaszokra van osztva, ami csökkenti a tájékozódási zavart.	#
+vr.detailedInformationLink=A VR-kezelőszervekkel kapcsolatos részletes tudnivalókért és más háttér-információkért látogass el a minecraft.net/vr oldalra	#
+
+vr.pausescreen.recenterDevice=Eszköz középre állítása	#
+vr.pausescreen.recenterDeviceKeyboard=Az eszköz középre állításához nyomd meg az N gombot	#
+vr.warning.controllerRequired=Játékkontroller szükséges	#
+vr.warning.controllerRecommended=A VR-hez játékkontroller ajánlott	#
+vr.warning.controllerOrMouseRecommended=A VR-hez játékkontroller vagy egér ajánlott	#
+vr.warning.exitGameWarning=Kilépsz a Minecraftból?	#
+vr.alignscreen.pressButtonX=A folytatáshoz nyomd meg a kontrolleren az „X” gombot	#
+vr.alignscreen.pressButtonXOrMouse=A folytatáshoz nyomd meg a kontrolleren bármelyik gombot	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Kérjük, nyomd meg az „A” gombot a kontrolleren, vagy a Select ravaszt Windows Mixed Reality kontrollereden a folytatáshoz.	#
+vr.alignscreen.pressAnyButton=Fordítsd a fejedet semleges pozícióba, és nyomd meg bármelyik gombot	#
+vr.alignscreen.info=Megjegyzés: A funkció fejlesztése még folyamatban van. A VR bizonyos embereknél rosszullétet válthat ki. Tarts gyakran szünetet a játékban, és a kevésbé intenzív látványhoz kapcsold be a Nappali módot az érintőpadra koppintva.	#
+vr.alignscreen.info_viewbutton=Megjegyzés: A funkció fejlesztése még folyamatban van. A VR bizonyos embereknél rosszullétet válthat ki. Tarts gyakran szünetet a játékban, és a kevésbé intenzív látványhoz kapcsold be a Nappali módot az I-választó Fel gombjának megnyomásával.	#
+
+accessibility.gamepad.button.systemLeft=select gomb	#
+accessibility.gamepad.button.systemRight=start gomb	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Biztosan kilépsz?	#
+ori.confirm.update=Frissíted a Minecraftot?	#
+ori.pending=A Windows Update még nem végzett.	#
+ori.installing=Telepítés...	#
+ori.updating=Frissítés...	#
+ori.launching=Indítás...	#
+ori.check_for_update=Frissítések keresése...	#
+ori.error.unavailable=Nem sikerült a Minecrafthoz csatlakozni. Ellenőrizd az internetkapcsolatot és azt, hogy be vagy-e jelentkezve az áruházba.	#
+ori.error.unknown=Ismeretlen hiba történt. Próbáld újra később.	#
+ori.error.not_supported=Ez a rendszer nem támogatja a Minecraftot.	#
+ori.error.launch_failure=Nem sikerült elindítani a Minecraftot.	#
+ori.error.version=A Minecraft verziója elavult. A játékhoz frissítened kell.	#
+ori.error.win10=A Windows 10 1607-es vagy későbbi verziója szükséges.	#
+ori.error.install_error=Hiba lépett fel. A hibakód: 0x	#
+ori.error.low_storage=Nem sikerült a telepítés. Nincs elég szabad hely.	#
+ori.error.no_internet=Nem sikerült csatlakozni. Ellenőrizd az internetkapcsolatot.	#
+ori.error.winUpdateDisabled=A Windows Update szolgáltatásnak futnia kell.	#
+ori.confirm.controls.controller.confirm=Megerősítés	#
+ori.confirm.controls.controller.cancel=Megszakítás	#
+ori.confirm.controls.keyboard.confirm=Megerősítés: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Megszakítás: [Esc]	#
+ori.exit.controls.controller=Kilépés	#
+ori.exit.controls.keyboard=Kilépés: [Enter]	#
+ori.cancelling=Megszakítás...	#
+

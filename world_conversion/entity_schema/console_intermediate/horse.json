@@ -1,0 +1,65 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Bred",
+      "dest": "Bred",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "EatingHaystack",
+      "dest": "EatingHaystack",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Tame",
+      "dest": "Tame",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Temper",
+      "dest": "Temper",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "OwnerUUID",
+      "dest": "OwnerUUID",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "ArmorItem",
+      "dest": "ArmorItem",
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "SaddleItem",
+      "dest": "SaddleItem",
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Variant",
+      "custom_transformation": "UnpackHorseVariant"
+    },
+    {
+      "src": "ChestedHorse",
+      "dest": "ChestedHorse",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true  
+    },
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "JavaInventoryToIntermediate",
+      "optional": true
+    }
+  ]
+}

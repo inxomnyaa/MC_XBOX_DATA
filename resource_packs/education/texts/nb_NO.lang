@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Setter Kodebygger-statusen til en spiller.	#
+commands.codebuilder.invalidurl=URL-en er ugyldig eller peker til et nettsted som ikke er støttet.	#
+commands.takepicture.description=Tar et bilde av en spiller eller det som en spiller ser.	#
+commands.takepicture.cameranotfound=Fant ikke noe kamera.	#
+commands.takepicture.cameranotspawned=Kunne ikke generere et kamera.	#
+
+library.connection.failed.body=Kan ikke koble til biblioteket. Dette kan skyldes at datamaskinen er offline, eller at tilgangen til bibliotekkatalogen er blokkert.	#
+library.connection.failed.help=Få hjelp	#
+library.connection.noWorldFound.title=Fant ikke noen verden	#
+library.connection.noWorldFound.body=Det ser ut som det ikke finnes noen verden i denne kategorien.	#
+library.findMoreWorlds=Finn flere verdener	#
+library.leaveFeedback=Gi tilbakemelding	#
+library.title=Bibliotek	#
+library.searchResults=Resultater for: "%1"	#
+library.item.createdBy=Av %s	#
+library.item.age=Alder: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Varighet: %1	#
+library.item.duration.minute=%1 minutt	#
+library.item.duration.multipleMinutes=%1 minutter	#
+library.item.duration.hour=%1 time	#
+library.item.duration.multipleHours=%1 timer	#
+
+library.item.difficulty=Vanskelighetsgrad: %1	#
+library.item.difficulty.beginner=Nybegynner	#
+library.item.difficulty.intermediate=Viderekommen	#
+library.item.difficulty.advanced=Avansert	#
+
+library.item.tags=Tagger:	#
+library.item.tagsAll=ALLE TAGGER:	#
+library.item.tagsAll.tts=Vis flere tagger	#
+library.item.button.create=LAG VERDEN	#
+library.item.button.share=DEL KOBLING	#
+library.item.button.plan=LEKSJONSPLAN	#
+library.item.button.resources=RESSURSER	#
+library.item.progress.body=Forbereder importering av ny verden. Dette kan ta noen minutter.	#
+library.item.description=BESKRIVELSE	#
+library.item.overview=OVERSIKT	#
+library.item.expandable.readLess=Vis mindre	#
+library.item.expandable.readMore=Vis mer	#
+
+library.item.section.languages=STØTTEDE SPRÅK	#
+library.item.section.languages.tip=Hvis denne leksjonen ikke er tilgjengelig på det foretrukne språket ditt, kan Engasjerende leser brukes til å oversette tekst i spillet, inkludert bøker, skilt, tavler og dialogen til datastyrte figurer.	#
+library.item.section.questions=ESSENSIELLE SPØRSMÅL	#
+library.item.section.generic_objectives=MÅL	#
+library.item.section.objectives=LÆRINGSMÅL	#
+library.item.section.prep=FORBEREDELSE OG NOTATER	#
+library.item.section.activities=ELEVAKTIVITETER	#
+library.item.section.assessment=EVALUERING	#
+library.item.section.extensions=UTVIDELSER	#
+
+library.category.label.biomes=BIOMER OG VERDENER	#
+library.category.title.biomes=Biomer og verdener	#
+library.category.description.biomes=Bruk denne samlingen av verdener og biomer til å komme i gang med å lage leksjoner i Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=BIOMER	#
+library.category.title.biomes.biome=Biomer	#
+library.category.description.biomes.biome=Minecrafts biomer er områder med unike geografiske kjennetegn, planter og dyr.	#
+
+library.category.label.biomes.featured=UTVALGTE VERDENER	#
+library.category.title.biomes.featured=Utvalgte verdener	#
+
+library.category.label.buildChallenges=MÅNEDLIGE BYGGEUTFORDRINGER	#
+library.category.title.buildChallenges=Månedlige byggeutfordringer	#
+library.category.description.buildChallenges=Slipp løs elevenes kreativitet og styrk ferdighetene som trengs i det 21. århundre, med disse klasseromsaktivitetene, som er enkle å ta i bruk.	#
+
+library.category.label.howToPlay=SLIK SPILLER DU	#
+library.category.description.howToPlay=Disse verdenene og aktivitetene har blitt laget for å hjelpe deg å bruke Minecraft: Education Edition i klasserommet.	#
+
+library.category.label.howToPlay.startHere=START HER	#
+library.category.title.howToPlay.startHere=Start her	#
+library.category.description.howToPlay.startHere=Hver av disse opplæringsverdenene hjelper deg å lære forskjellige ferdigheter som gjør det enklere å bruke Minecraft: Education Edition i klasserommet.	#
+
+library.category.label.howToPlay.additional=FLERE OPPLÆRINGER	#
+library.category.title.howToPlay.additional=Flere opplæringer	#
+
+library.category.label.SEL=SOSIOEMOSJONELL	#
+library.category.title.SEL=Sosioemosjonell	#
+library.category.description.SEL=Disse verdenene og aktivitetene støtter sosial og emosjonell læring. Konseptene handler om følelsesmessig velvære, empati og å ta ansvarlige beslutninger.	#
+
+library.category.label.digitalCitizen=DIGITALT STATSBORGERSKAP	#
+library.category.title.digitalCitizen=Digitalt statsborgerskap	#
+library.category.description.digitalCitizen=Disse verdenene og aktivitetene fokuserer på digitalt statsborgerskap, og støtter elevene når de navigerer innen medieleseferdighet, personvern og deltakelse i nettsamfunn.	#
+
+library.category.label.lessons=LEKSJONER	#
+library.category.title.lessons=Leksjoner	#
+
+library.category.label.lessons.genericAdditional=FLERE LEKSJONER	#
+library.category.title.lessons.genericAdditional=Flere leksjoner	#
+
+library.category.label.languageArts=SPRÅKKUNNSKAP	#
+library.category.title.languageArts=Språkkunnskap	#
+
+library.category.label.languageArts.litStudies=LITTERATURSTUDIER	#
+library.category.title.languageArts.litStudies=Litteraturstudier	#
+
+library.category.label.languageArts.litStudies.treasureIsland=SKATTEN PÅ SJØRØVERØYA	#
+library.category.title.languageArts.litStudies.treasureIsland=Skatten på sjørøverøya	#
+library.category.description.languageArts.litStudies.treasureIsland=Denne leksjonsserien er laget for å lette engelskundervisningen ved hjelp av "Skatten på sjørøverøya" av Robert Louis Stevenson.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KENSUKES RIKE	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Kensukes rike	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Denne leksjonsserien er laget for å lette engelskundervisningen ved hjelp av "Kensukes rike" av Michael Morpurgo.	#
+
+library.category.label.languageArts.litStudies.swissFamily=DEN SVEITSISKE FAMILIEN ROBINSON	#
+library.category.title.languageArts.litStudies.swissFamily=Den sveitsiske familien Robinson	#
+library.category.description.languageArts.litStudies.swissFamily=Denne leksjonsserien er laget for å lette engelskundervisningen ved hjelp av "Robinson Crusoe" og "Den sveitsiske familien Robinson".	#
+
+library.category.label.science=VITENSKAP	#
+library.category.title.science=Vitenskap	#
+
+library.category.label.science.chemistry=KJEMI	#
+library.category.title.science.chemistry=Kjemi	#
+
+library.category.label.science.biology=BIOLOGI	#
+library.category.title.science.biology=Biologi	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Disse fem leksjonene og unike Minecraft-verdenene dekker flere forskjellige fag og aldersgrupper. Via det inkluderte pensumet kan elevene utforske afrikanske sletter, en fullt fungerende havn, et neshornreservat og en parkvokterbase, samtidig som de løser problemer og styrker ferdigheter.	#
+
+library.category.label.science.extinction=UTRYDDELSE! KRISE FOR DET BIOLOGISKE MANGFOLDET	#
+library.category.title.science.extinction=Utryddelse! Krise for det biologiske mangfoldet	#
+library.category.description.science.extinction=Denne innholdspakken er laget i samarbeid med WWF Verdens naturfond og inneholder en engasjerende Minecraft-verden og standardbaserte leksjoner. Disse ressursene gir praktisk læring om økosystemer, miljøvern og biologisk mangfold.	#
+
+library.category.label.history=HISTORIE OG KULTUR	#
+library.category.title.history=Historie og kultur	#
+
+library.category.label.history.oregonTrail=OREGON TRAIL	#
+library.category.title.history.oregonTrail=Oregon Trail	#
+library.category.description.history.oregonTrail=I samarbeid med Houghton Mifflin Harcourt gir Minecraft: Education Edition deg Oregon Trail. Bruk disse læringsaktivitetene basert på Oregon Trail i pensumet for å ta klassen med på et episk eventyr, nemlig å følge Oregon-ruten gjennom Nord-Amerikas ville landskap.	#
+
+library.category.label.computerScience=DATAVITENSKAP	#
+library.category.title.computerScience=Datavitenskap	#
+
+library.category.label.computerScience.hourOfCode=KODETIMEN	#
+library.category.title.computerScience.hourOfCode=Kodetimen	#
+library.category.description.computerScience.hourOfCode=Denne leksjonen på én time er en innføring i datavitenskap. Målet er å gjøre kunstig intelligens mer begripelig, presentere koding i Minecraft og få flere til å engasjere seg i datavitenskap.	#
+
+library.category.label.computerScience.STEM=Realfag	#
+library.category.title.computerScience.STEM=Realfag	#
+library.category.description.computerScience.STEM=Disse standardbaserte leksjonene og verdenene gjør det lettere å lære matte og andre realfag ved hjelp av datavitenskap.	#
+
+library.category.label.computerScience.agency=BYRÅ	#
+library.category.title.computerScience.agency=Byrå	#
+library.category.description.computerScience.agency=Bygg din egen by med disse datavitenskapsleksjonene basert på CSTAs standarder. Lær om grunnleggende begreper innen datavitenskap, blant annet sløyfer, algoritmer, betingelser, feilsøking og iterasjon.	#
+
+library.category.label.computerScience.codingWithMinecraft=KODING MED MINECRAFT	#
+library.category.title.computerScience.codingWithMinecraft=Koding med Minecraft	#
+library.category.description.computerScience.codingWithMinecraft=Lær om betingelser, funksjoner, koordinater, kunstig intelligens og mye mer med disse datavitenskapsleksjonene basert på CSTAs standarder.	#
+
+library.category.label.computerScience.codingFun1=GRUNNLEGGENDE KODING: 1	#
+library.category.title.computerScience.codingFun1=Grunnleggende koding: 1	#
+library.category.description.computerScience.codingFun1=Lær om forskjellige dyr, utfordringene de står overfor og måter du kan hjelpe dem med kode! Bruk algoritmer, sekvensering og løkker for å løse morsomme kodingsoppgaver.	#
+
+library.category.label.computerScience.codingFun2=GRUNNLEGGENDE KODING: 2	#
+library.category.title.computerScience.codingFun2=Grunnleggende koding: 2	#
+library.category.description.computerScience.codingFun2=Besøk Månen, Merkur, Venus, Mars, Jupiter og Neptun! Lær hvordan du feilsøker koden og bruker betingelser, operatører og løkker mens du hjelper agenten med å samle inn materialer i hele solsystemet.	#
+
+library.category.label.computerScience.codingFun3=GRUNNLEGGENDE KODING: 3	#
+library.category.title.computerScience.codingFun3=Grunnleggende koding: 3	#
+
+library.category.label.computerScience.blockBased=BLOKKBASERT KODING	#
+library.category.title.computerScience.blockBased=Blokkbasert koding	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=INNFØRING I PYTHON	#
+library.category.title.computerScience.python101=Innføring i Python	#
+library.category.description.computerScience.python101=Begynn å kode Python i Minecraft! Lær det grunnleggende om Python, inkludert syntaks, datatyper, variabler, betingelser, løkker, betingede løkker, lister og funksjoner.	#
+
+library.category.label.computerScience.codingTutorials=KODEOPPLÆRING	#
+library.category.title.computerScience.codingTutorials=Kodeopplæring	#
+library.category.description.computerScience.codingTutorials=Hvis du ønsker å fokusere på et bestemt kodekonsept, er dette stedet å starte! Lær hvordan du bruker løkker, sekvensering, betingelser, variabler og funksjoner. I disse leksjonene kan du velge å kode i blokker, Python eller JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=UTVALGTE LEKSJONER	#
+library.category.title.computerScience.featuredLessons=Utvalgte leksjoner	#
+library.category.description.computerScience.featuredLessons=Her er noen av våre favorittkodeleksjoner!	#
+
+library.category.label.math=MATTE	#
+library.category.title.math=Matte	#
+
+library.category.label.math.fractions=BRØKER	#
+library.category.title.math.fractions=Brøker	#
+library.category.description.math.fractions=Prøv disse leksjonene for å hjelpe elevene å lære om brøker.	#
+
+library.category.label.art=KUNST OG DESIGN	#
+library.category.title.art=Kunst og design	#
+
+library.category.label.commonCore=COMMON CORE, KLASSETRINN %1	#
+library.category.title.commonCore=Common Core, klassetrinn %1	#
+library.category.description.commonCoreMath=Disse engasjerende aktivitetene er laget for å lette matteundervisningen og er basert på standardene i den amerikanske læreplanen Common Core.	#
+
+signin.acceptTerms=Godta vilkår	#
+signin.leftPanel.header=SPILL MINECRAFT: EDUCATION EDITION	#
+signin.leftPanel.body=Logg deg på med skolekontoen din for å få tilgang til fullversjonen av Minecraft: Education Edition.	#
+signin.rightPanel.header=PRØV EN DEMOLEKSJON	#
+signin.rightPanel.body=Utforsk koding i Minecraft: Education Edition med denne demoleksjonen, som er tilgjengelig for alle brukere.	#
+
+structure_block.export.default_name=Min byggverksblokk	#
+
+joincode.invalid.title=Feil deltakerkode	#
+joincode.invalid.body=Du har tastet inn %1 feil deltakerkoder. Ta kontakt med verten for å forsikre deg om at du har riktig kode, eller prøv å bli med via IP-adresse. 	#
+joincode.invalid.button.tryagain=Prøv igjen	#
+joincode.invalid.button.enterip=Oppgi IP-adresse	#
+
+joincode.invalid.abuse.body=Du har tastet inn %1 feil deltakerkoder. Prøv å bli med i verdenen ved å bruke IP-adresse i stedet	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Tillegg	#	#
+tag.advanced=Avansert	#	#
+tag.adventure=Eventyr	#	#
+tag.all_ages=Alle aldre	#	#
+tag.animals=Dyr	#	#
+tag.aquatic=Akvatisk	#	#
+tag.architecture=Arkitektur	#	#
+tag.art_and_design=Kunst og design	#	#
+tag.beginner=Nybegynner	#	#
+tag.biodiversity=Biologisk mangfold	#	#
+tag.biology=Biologi	#	#
+tag.biome=Biom	#	#
+tag.biomes_and_worlds=Biomer og verdener	#	#
+tag.bridges=Broer	#referring to the structure	#
+tag.build_challenge=Byggeutfordring	#	#
+tag.character=Tegn	#	#
+tag.chemistry=Kjemi	#	#
+tag.citizenship=Statsborgerskap	#	#
+tag.city=By	#	#
+tag.climate=Klima	#	#
+tag.code_to_learn_stem=Realfag	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Byrå	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Koding med Minecraft	#	#
+tag.coding_in_minecraft=Koding i Minecraft	#	#
+tag.collaboration=Samarbeid	#	#
+tag.color=Farge	#	#
+tag.common_core_math_grade_3=Vanlig matematikk 3. klasse	#	#
+tag.common_core_math_grade_4=Vanlig matematikk 4. klasse	#	#
+tag.common_core_math_grade_5=Vanlig matematikk 5. klasse	#	#
+tag.communication=Kommunikasjon	#	#
+tag.computer_science=Datavitenskap	#	#
+tag.computing_in_minecraft=Databehandling i Minecraft	#	#
+tag.creative=Kreativ	#	#
+tag.creative_writing=Kreativ skriving	#	#
+tag.creativity=Kreativitet	#	#
+tag.critical_thinking=Kritisk tenkning	#	#
+tag.division=Divisjon	#	#
+tag.earth_day=Jordens dag	#	#
+tag.ecology=Økologi	#	#
+tag.economy=Økonomi	#	#
+tag.energy=Energi	#	#
+tag.environment=Miljø	#	#
+tag.featured=Utvalgt	#	#
+tag.fractions=Brøker	#	#
+tag.game_design=Spilldesign	#	#
+tag.geography=Geografi	#	#
+tag.geology=Geologi	#	#
+tag.history_and_culture=Historie og kultur	#	#
+tag.hour_of_code=Kodetimen	#	#
+tag.how_to_play=Slik spiller du	#	#
+tag.intermediate=Viderekommen	#	#
+tag.kensukes_kingdom=Kensukes rike	#	#
+tag.language_arts=Språkkunst	#	#
+tag.leadership=Ledelse	#	#
+tag.lesson=Leksjon	#	#
+tag.literature=Litteratur	#	#
+tag.math=Matte	#	#
+tag.multiplayer=Flerspiller	#	#
+tag.multiplication=Multiplikasjon	#	#
+tag.museum=Museum	#	#
+tag.music=Musikk	#	#
+tag.mythology=Mytologi	#	#
+tag.ocean=Hav	#	#
+tag.oregon_trail=Oregon-sporet	#	#
+tag.pattern=Mønster	#	#
+tag.personal_narrative=Personlig fortelling	#	#
+tag.physics=Fysikk	#	#
+tag.pixel_art=Pixel-grafikk	#	#
+tag.pop_culture=Popkultur	#	#
+tag.probability=Sannsynlighet	#	#
+tag.project_based_learning=Prosjektbasert læring	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Vitenskap	#	#
+tag.seasonal=Etter årstidene	#	#
+tag.single_player=Enkeltspiller	#	#
+tag.social_emotional_learning=Sosial emosjonell læring	#	#
+tag.special_education=Spesialpedagogikk	#	#
+tag.spelling=Stavefeil	#	#
+tag.story=Historie	#	#
+tag.subtraction=Subtraksjon	#	#
+tag.survival=Overlevelse	#	#
+tag.swiss_family_robinson=Den sveitsiske familien Robinson	#	#
+tag.technology=Teknologi	#	#
+tag.treasure_island=Skatteøya	#	#
+tag.tutorial=Opplæring	#	#
+tag.we_are_the_rangers=We are the Rangers	#	#
+tag.world_languages=Verdensspråk	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Digitalt statsborgerskap	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Blokker	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure bærbare PC-er	#See for example: https://notebooks.azure.com/	#
+tag.loops=Løkker	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Betingelser	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Variabler	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Funksjoner	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operatører	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Problemløsning	#	#
+tag.artificial_intelligence=Kunstig intelligens	#	#
+tag.coding=Koding	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Grunnleggende koding 1	#	#
+tag.coding_fundamentals_2=Grunnleggende koding 2	#	#
+tag.coding_fundamentals_3=Grunnleggende koding 3	#	#
+tag.coding_tutorials=Kodeopplæring	#	#
+tag.python101=Innføring i Python	#Python coding language	#
+tag.bees=Bier	#	#
+tag.space=Verdensrommet	# refers to outer space	#
+tag.esports=E-sport	#	#
+tag.toybox=Toybox	#	#
+tag.featured_coding=Utvalgte koder	#	#
+## END TAG LOCALIZATION SECTION ##

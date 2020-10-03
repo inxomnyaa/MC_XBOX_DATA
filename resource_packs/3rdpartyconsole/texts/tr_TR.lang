@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=eksi düğmesi	#
+accessibility.gamepad.button.systemRight=artı düğmesi	#
+accessibility.gamepad.dpad.down=Aşağı Düğmesi	#
+accessibility.gamepad.dpad.up=Yukarı Düğmesi	#
+accessibility.gamepad.dpad.left=Sol Düğmesi	#
+accessibility.gamepad.dpad.right=Sağ Düğmesi	#
+accessibility.gamepad.trigger.right=ZR düğmesi	#
+accessibility.gamepad.trigger.left=ZL düğmesi	#
+accessibility.gamepad.bumper.right=R düğmesi	#
+accessibility.gamepad.bumper.left=L düğmesi	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo Hesap Ayarları	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft Hesap Ayarları	#
+
+patchNotice.title=Minecraft'a Hoş Geldiniz - Harika İçerikleri Kaçırmayın!	#
+patchNotice.description.onlineFeatures=Nintendo Switch'i İnternet'e bağlayarak yepyeni oynama yöntemlerine ulaşın!	#
+patchNotice.description.onlineFeatures.item1=* Oyunu satın aldığınızda hak kazandığınız ücretsiz DLC paketlerini indirin.	#
+patchNotice.description.onlineFeatures.item2=* Oynama yönteminizi değiştirmek için markette topluluk tarafından oluşturulan seçenekleri keşfedin.	#
+patchNotice.description.onlineFeatures.item3=* Arkadaşlarınızla çevrimiçi oynayın (hatta diğer cihazlarda)!	#
+patchNotice.description.onlineFeatures.item4=* Oyunu aşağıdaki yeni özellikler, içerikler ve iyileştirmelerle güncelleştirin...	#
+patchNotice.description.freeUpdates.item1=* Yeni bloklar!	#
+patchNotice.description.freeUpdates.item2=* Yeni eşyalar!	#
+patchNotice.description.freeUpdates.item3=* Yeni yaratıklar!	#
+patchNotice.description.freeUpdates.item4=* Yeni oluşturulmuş yapılar!	#
+patchNotice.description.freeUpdates.item5=* Yeni biyom çeşitleri!	#
+patchNotice.description.onlineFeatures.item5=Şu anda bir güncelleştirme var! Bu ücretsiz güncelleştirmeyi almak için lütfen Nintendo Switch cihazınızı İnternet'e bağlayın!	#
+
+thirdPartyConsole.network.networkName=Nintendo Hesabı	#
+thirdPartyConsole.adhoc.title=Ağ Modu Seç	#
+thirdPartyConsole.adhoc.desc=Yakındaki diğer Nintendo Switch sistemleriyle bağlantı kurmak için Yerel Ağ'ı seçin veya Çevrimiçi Ağ'ı seçerek dünyanın dört bir yanındaki arkadaşlarınıza bağlanın!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Şuraya bağlan:	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Çevrimiçi Ağ	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Şuraya bağlan:	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Yerel Ağ	#
+thirdPartyConsole.adhoc.onlineNetwork=Çevrimiçi Ağ	#
+thirdPartyConsole.adhoc.localNetwork=Yerel Ağ	#
+thirdPartyConsole.adhoc.enableOnline=Çevrimiçi Ağ Etkinleştiriliyor	#
+thirdPartyConsole.adhoc.enableLocal=Yerel Ağ Etkinleştiriliyor	#
+thirdPartyConsole.adhoc.inprogress=Bazı hızlı değişiklikler yapıyoruz. Birkaç dakika daha bekleyin...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Çok fazla sayıda kumanda bağlandı.	#
+thirdPartyConsole.adhoc.controllerwarning=Yerel ağ modu, kablosuz olarak bağlı en fazla 2 kumandayı destekler. (2 Joy-Con veya 2 Pro Kumanda) Bu limiti aşan kumandaların bağlantısı kesildi.	#
+thirdPartyConsole.adhoc.store=Yerel Ağ modundayken mağaza özellikleri devre dışıdır.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Bir Microsoft Hesabı ile oturum açılsın mı?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Bir Microsoft Hesabıyla oturum açmak için Çevrimiçi Ağ'a bağlanmanız gerekir.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Bağlan	#
+thirdPartyConsole.startmenuscreen.xblsignin=Bir Microsoft Hesabıyla oturum açın	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Microsoft Hesabıyla oturum açılıyor	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Bir Nintendo Hesabıyla oturum açın	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Nintendo Hesabıyla oturum açılıyor	#
+thirdPartyConsole.notsignedin=Nintendo Hesabınızla oturum açmadınız.	#
+thirdPartyConsole.notsignedin.achievements=Oturum açmadığınız için başarı kazanamazsınız.	#
+thirdPartyConsole.notsignedin.store=Mağazaya göz atmak için bir Nintendo Hesabı gereklidir.	#
+thirdPartyConsole.notsignedin.serversTab=Çevrimiçi olarak Minecraft Sunucularını deneyin. Bunlar, arkadaşlarınızla (ve rakiplerinizle) yarışmanıza ya da iş birliği yapmanıza, diğer oyuncularla devasa lobilerde takılmanıza ve çok büyük özel yapım dünyaları araştırmanıza olanak tanıyan, topluluk yönetimindeki kocaman dünyalardır.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Arkadaşlarınızla oynamak için Nintendo Hesabınızla oturum açın.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Bu hesabın çok oyunculu Nintendo oyunlarına katılma izni yok.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Katılabilmek için bu oyunda oynayan birileriyle arkadaş olmanız gerekir.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Nintendo Switch Online hizmetiyle bağlantınız kesildi. Ana Menü'den oturum açın ve dünyanızı yeniden başlatarak Nintendo arkadaşlarınıza görünür olmasını sağlayın.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Dünyanız artık yerel ağda görünmüyor. Lütfen Ana Menü'de Yerel Mod'u yeniden başlatın ve dünyanızı yeniden başlatarak yerel oyunculara görünür olmasını sağlayın.	#
+networkWorld.add_friend=Platformlar Arası Arkadaşlar Bulun	#
+networkWorld.find_cross_platform_friends=Platformlar Arası Arkadaşlar Bulun	#
+networkWorld.joinable_nintendo_friends_label=Katılabileceğiniz Nintendo Switch Arkadaşları	#
+networkWorld.joinable_cross_platform_friends_label=Katılabileceğiniz Platformlar Arası Arkadaşlar	#
+networkWorld.no_xbl_label=Bir Microsoft Hesabı olmadan platformlar arası oyunlara katılamazsınız. Arkadaşlarınızın dünyalarına katılmak için bir Microsoft Hesabıyla oturum açın.	#
+networkWorld.no_thirdParty_label.no_subscription=Nintendo Switch Online hizmetlerine bağlı değilsiniz. Çevrimiçi özellikleri kullanmak için Nintendo Switch Online hizmetine abone olmanız gerekir. Bu hizmet Nintendo eShop'tan satın alınabilir.	#
+networkWorld.no_thirdParty_label.has_subscription=Nintendo Switch Online Hizmetlerine bağlı değilsiniz. Arkadaşlarınızın çok oyunculu oyunlarına katılamayacaksınız. Arkadaşlarınızın dünyalarına katılmak için Nintendo Switch Online oturumunu açın.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Bir Ebeveyn Denetimi kısıtlaması nedeniyle çevrimiçi çok oyunculu bir oyun oynayamazsınız. Ebeveyn Denetimleri menüsündeki "Başkalarıyla İletişim Kurma" seçeneği ile çok oyunculu ayarlarınızı görüntüleyip yönetebilirsiniz.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Bir Ebeveyn Denetimi kısıtlaması nedeniyle yerel bir çok oyunculu oyun oynayamazsınız. Ebeveyn Denetimleri menüsündeki "Başkalarıyla İletişim Kurma" seçeneği ile çok oyunculu ayarlarınızı görüntüleyip yönetebilirsiniz.	#
+permissions.AddFriendsThirdParty=Bir Ebeveyn Denetimi kısıtlaması nedeniyle arkadaş ekleyemezsiniz. Ebeveyn Denetimleri menüsündeki "Başkalarıyla İletişim Kurma" seçeneği ile çok oyunculu ayarlarınızı görüntüleyip yönetebilirsiniz.	#
+permissions.MultiplayerSessionsThirdParty=Bir Ebeveyn Denetimi kısıtlaması nedeniyle Bölgeler'de oynayamazsınız. Ebeveyn Denetimleri menüsündeki "Başkalarıyla İletişim Kurma" seçeneği ile çok oyunculu ayarlarınızı görüntüleyip yönetebilirsiniz.	#
+options.dev_switch_coin_debug=Para eklerken eShop satın alma hatalarını ayıklamayı etkinleştir	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Nintendo Switch Online hizmetlerine bağlı değilsiniz. Çevrimiçi özellikleri kullanmak için Nintendo Switch Online hizmetine abone olmanız gerekir. Bu hizmet Nintendo eShop'tan satın alınabilir.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Nintendo Switch Online Hizmetlerine bağlı değilsiniz. Nintendo arkadaşlarınız çok oyunculu dünyanıza katılamayacak. Arkadaşlarınızla oynamak için Nintendo Switch Online oturumunu açın.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Cihazınız yerel ağ moduna alınırken bir sorun oluştu. Uçak modunun etkin olmadığını onaylayın ve sonra yerel modu yeniden başlatarak yerel oyunculara görünür yapın.	#
+createWorldScreen.check_internet_connection=Nintendo Switch cihazınız İnternet'e bağlı değil. Arkadaşlarınız çok oyunculu dünyalarınıza katılamayacak. Çevrimiçi özellikleri kullanabilmek için Nintendo Switch cihazınızı İnternet'e bağlayın.	#
+invite.notification.description=%s sizi Minecraft oynamaya davet etti. Yanıtlamak için - düğmesine basın.	#
+network.thirdparty.connect.benefit=Nintendo Hesabınızla oturum açılsın mı? Çevrimiçi hizmetleri kullanmak için bir Nintendo Hesabı gereklidir.	#
+networkWorld.check_internet_connection=Nintendo Switch cihazınız İnternet'e bağlı değil. Arkadaşlarınızın çok oyunculu oyunlarına katılamayacaksınız. Çevrimiçi özellikleri kullanabilmek için Nintendo Switch cihazınızı İnternet'e bağlayın.	#
+networkWorld.check_internet_connection.no_subscription=Nintendo Switch Online hizmetlerine bağlı değilsiniz. Çevrimiçi özellikleri kullanmak için Nintendo Switch Online hizmetine abone olmanız gerekir. Bu hizmet Nintendo eShop'tan satın alınabilir.	#
+networkWorld.check_internet_connection.has_subscription=Nintendo Switch Online Hizmetlerine bağlı değilsiniz. Arkadaşlarınızın çok oyunculu oyunlarına katılamayacaksınız. Arkadaşlarınızın dünyalarına katılmak için Nintendo Switch Online oturumunu açın.	#
+disconnectionScreen.realmsDisabled=Switch için Bölgeler devre dışıdır.	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online Gerekli	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Bir Nintendo Switch Online aboneliği olmadan bölünmüş ekranda çok oyunculu oynamak için, Oyun Ayarları'nda "Çok Oyunculu" kutusunu kapalı konuma getirin. Bölünmüş ekranda çevrimiçi çok oyunculu oynamak için, Nintendo eShop'tan satın alınabilen bir Nintendo Switch Online aboneliği gerekir.	#
+disconnectionScreen.noNSO.joinRealm=Nintendo Switch Online hizmetlerine bağlı değilsiniz. Çok oyunculu oynamak için Nintendo Switch Online hizmetine abone olmanız gerekir. Bu hizmet Nintendo eShop'tan satın alınabilir.	#
+options.xboxlivevisible=Platformlar Arası Oyuncular için Görünür	#
+options.achievementsDisabled=Bu dünyada başarı kazanılamaz.	#
+permissions.RealmsAddFriends=Microsoft Hesabınızın ayarı nedeniyle bölgenizde birlikte oynamak için yeni arkadaşlar ekleyemezsiniz. Bu ayar, aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarları bölümünden değiştirilebilir. Devam etmek istiyor musunuz?	#
+permissions.CloudSave=Hesabınızın ayarı nedeniyle dünyalarınızı Microsoft Hesabınıza kaydedemezsiniz. Bu ayar, aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarları bölümünden değiştirilebilir.	#
+permissions.MultiplayerSessionsOnConsole=Microsoft Hesabınızdaki ayarlar çok oyunculu oyunlara izin vermiyor.  Ayarlarınızın çok oyunculu oyuna izin verip vermediğini denetlemek için aka.ms/accountsettings sayfasındaki "Gizlilik ve Çevrimiçi Güvenlik" ayarlarına bakın. 	#
+store.purchase.syncInProgress=Nintendo eShop'tan satın alınanlar eşitleniyor...	#
+store.purchase.coinsLeftToBuy=Bu paketin kilidini açmak için %s para daha gerekiyor.	#
+xbox.signin.newaccount.welcome=Hoş geldiniz!	#
+xbox.signin.legalinfo=Minecraft'a bir Xbox Live profili ile bağlandınız. Xbox Live ayarlarınızı değiştirin ve http://aka.ms/accountsettings sayfasında daha fazla bilgi alın. Microsoft Hizmet Sözleşmesi ve Gizlilik Bildirimi geçerlidir. 	#
+xbox.failedsignin.line2=Oturum açmadan oynarsanız başarı kazanamaz, Bölgelere veya Sunuculara katılamazsınız.	#
+xbox.failedautosignin.message=Ah! Otomatik oturum açma başarısız oldu. Microsoft Hesabınıza erişmek için el ile yeniden oturum açmanız gerekiyor.	#
+xbox.signInLong=Ücretsiz oturum açın!	#
+xbox.signOutLong=Microsoft hesabınızın oturumunu kapatın	#
+xbox.thirdpartysignin.line2=Bağlanmak için bir Microsoft hesabıyla oturum açmanız gerekiyor!	#
+xbox.profile.realName=Gerçek adınızı paylaşmak için http://aka.ms/accountsettings sayfasından gizlilik ayarlarınızı yönetin.	#
+xbox.profile.removeFriend=Arkadaşı Çıkar	#
+autosave.info.xbox=Bu simgeyi gördüğünüzde oyununuzu kaydediyor olacağız. Ekranda bu simge varken Nintendo Switch konsolunuzu kapatmayın.	#
+progressScreen.message.leaveLevel=Oyununuz kaydediliyor. Lütfen Nintendo Switch konsolunuzu kapatmayın.	#
+feed.report_xbox=Yaptırım'a Bildir	#
+
+howtoplay.multiplayer.text.1=Minecraft'tan en çok keyif almanın yolu arkadaşlarla birlikte eşya yapmaktır! Varsayılan olarak, tüm dünya ayarlarınız arkadaşlarınızın katılmasına izin verir. Nintendo Switch'te hem Nintendo arkadaşlarınız hem de diğer cihazlardaki arkadaşlarınız ile çok oyunculu oynayabilirsiniz. Burada çok oyunculu oynamanın tüm yollarını gözden geçirin!	#
+howtoplay.multiplayer.text.2.splitscreen=Oyununuz sırasında dilediğiniz zaman oyununuza en fazla üç oyuncu daha katılabilir! Dünyanızı başlatın ve arkadaşlarınızdan kumandalarını açıp herhangi bir düğmeye basarak katılmalarını isteyin. Her oyuncunun iki Joy-Con kumandasına sahip olduğundan emin olun. Sol ve sağ kumandalara ya da Nintendo Switch ile çalışan herhangi bir başka kumandaya sahip olmanız gerekir.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft'ta üç şekilde çevrimiçi çok oyunculu bir oyun oynayabilirsiniz. Bir Bölgede, sunucuda veya kendi Dünyanızda oynayabilirsiniz. Bir Nintendo Switch Online aboneliğiniz olduğunda ve Microsoft Hesabınızla oturum açtığınızda, diğer cihazlardaki arkadaşlarınız dünyanıza katılabilir! Bölgeler ve sunucular bir Microsoft Hesabı gerektirir.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft'ta üç şekilde çevrimiçi çok oyunculu bir oyun oynayabilirsiniz. Bir Bölgede, sunucuda veya kendi Dünyanızda oynayabilirsiniz. Nintendo hesabınızla ve Microsoft Hesabınızla oturum açtığınızda, diğer cihazlardaki arkadaşlarınız dünyanıza katılabilir! Bölgeler ve sunucular için bir Microsoft Hesabı gerekir.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Bir Nintendo Switch Online aboneliğiniz olduğunda ve Microsoft Hesabınızla oturum açtığınızda, diğer cihazlardaki arkadaşlarınız dünyanıza katılabilir!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Nintendo hesabınızla ve Microsoft Hesabınızla oturum açtığınızda, diğer cihazlardaki arkadaşlarınız dünyanıza katılabilir!	#
+howtoplay.multiplayer.text.4=Çok oyunculu bir oyuna katılmak için Arkadaşlar sekmesine gidin! Çevrimiçi modda olduğunuzda, arkadaşlarınıza ait katılabileceğiniz tüm dünyalar ve Bölgeler görünür durumdadır. Anlık modda olduğunuzda, arkadaşlarınızın Anlık oyunları da bu listede görünür.	#
+howtoplay.multiplayer.text.4.norealms=Çok oyunculu bir oyuna katılmak için Arkadaşlar sekmesine gidin! Çevrimiçi modda olduğunuzda, arkadaşlarınıza ait katılabileceğiniz tüm dünyalar görünür durumdadır. Anlık modda olduğunuzda, arkadaşlarınızın Anlık oyunları da bu listede görünür.	#
+howtoplay.multiplayer.text.5=Bir çevrimiçi oyun başlattığınızda ya da çevrimiçi oyuna katıldığınızda, bunu tüm arkadaşlarınız ve Microsoft Hesabı arkadaşlarınızın arkadaşları görür. Dünyanızda Düzenle düğmesine basıp Çok Oyunculu seçeneğine tıklayarak, dünyanızın Platformlar Arası Çok Oyunculu Ayarlarına göz atın.	#
+howtoplay.multiplayer.text.7=Dünyanızda arkadaşlarınıza özel beceriler verin veya herhangi bir şeye dokunmalarını engelleyin. Varsayılan olarak, tüm arkadaşlarınız dünyanıza bir üye olarak girer. Dünyanızdaki arkadaşların listesini görmek için duraklatma menüsünü açın ve adlarının sağ tarafındaki simgeye tıklayarak yalnızca dünyanızdaki izinlerini düzenleyin.	#
+howtoplay.multiplayer.header.adhoc=Anlık Mod	#
+howtoplay.multiplayer.text.adhoc=Aynı cihazda olmamanıza rağmen arkadaşlarınızla mı oynamak istiyorsunuz? :_gamepad_face_button_left: düğmesine basarak ana menüde Nintendo Switch'i Anlık Moda alın. Oyna menüsünde Arkadaşlar sekmesine giderek yakındaki arkadaşlarınızın oyunlarını görün veya yakındaki arkadaşlarınızın katılabilmesi için kendiniz yeni bir oyun başlatın!	#
+howtoplay.theStore.text.4.norealms=Mevcut dünyalarınızın üzerine döşenebilen doku paketleriyle eski oyununuza yeni bir görünüm kazandırın!	#
+howtoplay.theStore.text.5.norealms=Ya da dış görünüş, dünya ve dokularla düzenlenip, birleştirildiğinde dünyalarınızı dönüştürecek eklenti paketleriyle hepsini deneyin!	#
+
+trial.tabbed_upsell.xbl.title=Dahası Var!	#
+
+connect_gamepad.pressButtonToContinue=Devam etmek için bir Pro Kumanda veya Joy-Con (L)/(R) kumanda çifti gerekiyor.	#
+connect_gamepad.adhocMaxControllers=Yerel kablosuz oyundayken en fazla bir Pro Kumanda veya bir Joy-Con (L)/(R) kumanda çifti kullanılabilir. Lütfen tüm fazla kumandaları kapatın.	#
+connect_gamepad.requireControllerReconfiguration=Her oyuncu için bir Pro Kumanda veya bir Joy-Con (L)/(R) kumanda çifti gerekiyor. Lütfen bir çiftin parçası olmayan tüm fazla Joy-Con kumandaları kapatın.	#
+connect_gamepad.handheldModeNoSplitscreen=Ek bir kumanda algılandı ancak el cihazı modundayken bölünmüş ekranda çok oyunculu oyun kullanılamaz. El cihazı modundan ayrılmak için Joy-Con kumandaları çıkarın veya tüm fazla kumandaları kapatın.	#
+connect_gamepad.promptHandheldMode=Joy-Con kumandalar konsola bağlandı. El cihazı moduna girmek istiyor musunuz? Bunu yaparsanız bölünmüş ekranda çok oyunculu moddan çıkılacak. Bölünmüş ekranda çok oyunculu oyunu durdurup el cihazı moduna girmek için Tamam'a basın veya şarj etmek üzere bağlı Joy-Con kumandaların oyun bağlantısını kesmek için İptal'i seçin.	#

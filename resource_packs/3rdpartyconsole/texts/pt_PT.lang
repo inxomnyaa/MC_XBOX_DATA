@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=botão menos	#
+accessibility.gamepad.button.systemRight=botão mais	#
+accessibility.gamepad.dpad.down=Botão Para Baixo	#
+accessibility.gamepad.dpad.up=Botão Para Cima	#
+accessibility.gamepad.dpad.left=Botão Para a Esquerda	#
+accessibility.gamepad.dpad.right=Botão Para a Direita	#
+accessibility.gamepad.trigger.right=botão ZR	#
+accessibility.gamepad.trigger.left=botão ZL	#
+accessibility.gamepad.bumper.right=botão R	#
+accessibility.gamepad.bumper.left=botão L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Definições da Conta Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Definições da Conta Microsoft	#
+
+patchNotice.title=Bem-vindo ao Minecraft – Não Percas os Conteúdos Importantes!	#
+patchNotice.description.onlineFeatures=Liga a Nintendo Switch à Internet para abrir uma variedade de novas formas de jogar!	#
+patchNotice.description.onlineFeatures.item1=* Transfere os packs DLC gratuitos que recebeste com a compra do jogo.	#
+patchNotice.description.onlineFeatures.item2=* Descobre as criações da comunidade no marketplace para alterar a forma como jogas.	#
+patchNotice.description.onlineFeatures.item3=* Joga online com amigos (mesmo noutros dispositivos)!	#
+patchNotice.description.onlineFeatures.item4=* Atualiza o jogo com novas funcionalidades, conteúdos e melhorias que podem incluir...	#
+patchNotice.description.freeUpdates.item1=* Novos blocos!	#
+patchNotice.description.freeUpdates.item2=* Novos itens!	#
+patchNotice.description.freeUpdates.item3=* Novas criaturas!	#
+patchNotice.description.freeUpdates.item4=* Novas estruturas geradas!	#
+patchNotice.description.freeUpdates.item5=* Novas variantes de bioma!	#
+patchNotice.description.onlineFeatures.item5=Há uma atualização disponível neste momento! Liga a tua Nintendo Switch à Internet para receber esta atualização gratuita!	#
+
+thirdPartyConsole.network.networkName=Conta Nintendo	#
+thirdPartyConsole.adhoc.title=Selecionar Modo de Rede	#
+thirdPartyConsole.adhoc.desc=Escolhe Rede Local para te ligares a outros sistemas Nintendo Switch nas imediações ou Rede Online para te ligares a amigos de todas as partes do mundo!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Ligar a	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Rede Online	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Ligar a	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Rede Local	#
+thirdPartyConsole.adhoc.onlineNetwork=Rede Online	#
+thirdPartyConsole.adhoc.localNetwork=Rede Local	#
+thirdPartyConsole.adhoc.enableOnline=Ativar Rede Online	#
+thirdPartyConsole.adhoc.enableLocal=Ativar Rede Local	#
+thirdPartyConsole.adhoc.inprogress=Estamos a efetuar algumas alterações rápidas. Não vai demorar muito...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Há demasiados controladores ligados.	#
+thirdPartyConsole.adhoc.controllerwarning=O modo de rede local suporta um máximo de dois controladores ligados sem fios. (2 Joy-Con ou 2 Comandos Pro) Quaisquer controladores que excedam este limite foram desligados.	#
+thirdPartyConsole.adhoc.store=As funcionalidades da Loja estão desativadas enquanto estiveres no modo Rede Local.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Iniciar sessão numa Conta Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Tens de ligar-te à Rede Online para iniciar sessão numa Conta Microsoft.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Ligar	#
+thirdPartyConsole.startmenuscreen.xblsignin=Iniciar sessão com uma Conta Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Iniciar sessão numa Conta Microsoft	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Inicia sessão com uma Conta Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Iniciar sessão numa Conta Nintendo	#
+thirdPartyConsole.notsignedin=Não tens sessão iniciada na Conta Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Não tens sessão iniciada e não podes ganhar conquistas.	#
+thirdPartyConsole.notsignedin.store=Precisas de uma Conta Nintendo para navegares na loja.	#
+thirdPartyConsole.notsignedin.serversTab=Põe-te online para experimentar os Servidores Minecraft, mundos dirigidos por uma comunidade gigante que te permitem competir ou colaborar com amigos (e ini(a)migos), conviver em com outros jogadores em lobbies enormes e explorar vastos mundos elaborados de forma personalizada.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Inicia sessão com a tua Conta Nintendo para poderes jogar com amigos.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Esta conta não tem autorização para juntar-se a jogos multijogador Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Tens de ser amigo de alguém neste jogo para te poderes juntar a ele.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Estavas desligado da Nintendo Switch Online. Inicia sessão no Menu Principal e reinicia o teu mundo para torná-lo visível para os teus amigos da Nintendo.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=O teu mundo já não está visível na rede local. Reinicia o Modo Local no Menu Principal e reinicia o teu mundo para torná-lo visível para os jogadores locais.	#
+networkWorld.add_friend=Encontra Amigos de Outras Plataformas	#
+networkWorld.find_cross_platform_friends=Encontra Amigos de Outras Plataformas	#
+networkWorld.joinable_nintendo_friends_label=Amigos Nintendo Switch Que Se Podem Juntar	#
+networkWorld.joinable_cross_platform_friends_label=Amigos De Outras Plataformas Que Se Podem Juntar	#
+networkWorld.no_xbl_label=Não podes juntar-te a jogos de outras plataformas sem uma Conta Microsoft. Inicia sessão numa Conta Microsoft para juntar-te aos mundos dos teus amigos.	#
+networkWorld.no_thirdParty_label.no_subscription=Não estás ligado aos serviços da Nintendo Switch Online. Precisas de uma subscrição dos serviços da Nintendo Switch Online para utilizares as funcionalidades online. Esta subscrição pode ser adquirida na Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Não estás ligado aos Serviços Nintendo Switch Online. Não poderás juntar-te aos jogos multijogador dos teus amigos. Inicia sessão em Nintendo Switch Online para juntar-te aos mundos dos teus amigos.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Não podes jogar em modo multijogador online devido à restrição do Controlo Parental. Vê e gere as definições de multijogador com "Comunicação Livre Com Outros Utilizadores" no Controlo Parental.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Não podes jogar em modo multijogador local devido à restrição do Controlo Parental. Vê e gere as definições de multijogador com "Comunicação Livre Com Outros Utilizadores" no Controlo Parental.	#
+permissions.AddFriendsThirdParty=Não podes adicionar amigos devido à restrição do Controlo Parental. Vê e gere as definições de multijogador com "Comunicação Livre Com Outros Utilizadores" no Controlo Parental.	#
+permissions.MultiplayerSessionsThirdParty=Não podes jogar nos Realms devido à restrição do Controlo Parental. Vê e gere as definições de multijogador com "Comunicação Livre Com Outros Utilizadores" no Controlo Parental.	#
+options.dev_switch_coin_debug=Ativar compra de depuração na Nintendo eShop ao adicionar moedas.	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Não estás ligado aos serviços da Nintendo Switch Online. Precisas de uma subscrição dos serviços da Nintendo Switch Online para utilizares as funcionalidades online. Esta subscrição pode ser adquirida na Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Não estás ligado aos Serviços Nintendo Switch Online. Os teus amigos Nintendo não poderão juntar-se a ti no mundo multijogador. Inicia sessão em Nintendo Switch Online para jogar com amigos.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Ocorreu um problema ao alterar o dispositivo para o modo de rede local. Confirma que o modo avião não está ativado e, em seguida, reinicia o modo local para o tornar visível para os jogadores locais.	#
+createWorldScreen.check_internet_connection=A Nintendo Switch não está ligada à Internet. Os teus amigos não poderão juntar-se a ti nos mundos multijogador. Liga a Nintendo Switch à Internet para utilizar as funcionalidades online.	#
+invite.notification.description=%s convidou-te para jogar Minecraft. Prime - para responder.	#
+network.thirdparty.connect.benefit=Iniciar sessão numa Conta Nintendo? É necessária uma Conta Nintendo para utilizar os serviços online.	#
+networkWorld.check_internet_connection=A Nintendo Switch não está ligada à Internet. Não poderás juntar-te aos jogos multijogador dos teus amigos. Liga a Nintendo Switch à Internet para utilizar as funcionalidades online.	#
+networkWorld.check_internet_connection.no_subscription=Não estás ligado aos serviços da Nintendo Switch Online. Precisas de uma subscrição dos serviços da Nintendo Switch Online para utilizares as funcionalidades online. Esta subscrição pode ser adquirida na Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Não estás ligado aos Serviços Nintendo Switch Online. Não poderás juntar-te aos jogos multijogador dos teus amigos. Inicia sessão em Nintendo Switch Online para juntar-te aos mundos dos teus amigos.	#
+disconnectionScreen.realmsDisabled=O Realms está desativado para o Switch.	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online Necessário	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Para jogares em modo Multijogador com o ecrã dividido sem uma subscrição da Nintendo Switch Online, altera a caixa "Multijogador" para a posição desligado nas Definições do Jogo. Para jogar no modo multijogador online com o ecrã dividido, precisas de uma subscrição do serviço Nintendo Switch Online, que pode ser adquirida na Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Não estás ligado aos serviços da Nintendo Switch Online. Precisas de uma subscrição dos serviços da Nintendo Switch Online para jogar em modo multijogador. Esta subscrição pode ser adquirida na Nintendo eShop.	#
+options.xboxlivevisible=Visível para Jogadores LAN	#
+options.achievementsDisabled=Este mundo não permite que obtenhas conquistas.	#
+permissions.RealmsAddFriends=Não vais poder adicionar novos amigos para jogarem no teu realm devido à configuração da tua Conta Microsoft. Isto pode ser alterado nas tuas definições de privacidade e segurança online, em aka.ms/accountsettings. Queres continuar?	#
+permissions.CloudSave=Não podes guardar os teus mundos na Conta Microsoft devido à configuração da tua conta. Isto pode ser alterado nas tuas definições de privacidade e segurança online, em aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=As definições da tua Conta Microsoft não permitem jogos multijogador. Verifica as tuas definições de "Privacidade e Segurança Online" em aka.ms/accountsettings para te certificares de que a as tuas definições permitem jogos multijogador. 	#
+store.purchase.syncInProgress=A sincronizar as compras da Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Precisas de mais %s moedas para desbloquear este pack.	#
+xbox.signin.newaccount.welcome=Bem-vindo!	#
+xbox.signin.legalinfo=Ligaste-te ao Minecraft com um perfil Xbox Live. Altera as definições da Xbox Live e sabe mais em http://aka.ms/accountsettings. O Contrato de Serviços e a Declaração de Privacidade da Microsoft aplicam-se. 	#
+xbox.failedsignin.line2=Se jogares sem iniciares sessão, não vais poder ganhar conquistas nem juntar-te aos Realms ou Servidores.	#
+xbox.failedautosignin.message=Ups! O início de sessão automático falhou­. Tens de iniciar sessão manualmente de novo para acederes à tua conta Microsoft.	#
+xbox.signInLong=Aceder gratuitamente!	#
+xbox.signOutLong=Termina sessão na conta Microsoft	#
+xbox.thirdpartysignin.line2=Tens de iniciar sessão com uma conta Microsoft para ligar-te!	#
+xbox.profile.realName=Gere as definições de privacidade para partilhar o teu nome real em http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Remover Amigo	#
+autosave.info.xbox=Se vires este ícone, o teu jogo está a ser guardado. Não desligues a consola Nintendo Switch enquanto este ícone estiver no ecrã.	#
+progressScreen.message.leaveLevel=O teu jogo está a ser guardado. Não desligues a consola Nintendo Switch.	#
+feed.report_xbox=Denunciar à Fiscalização	#
+
+howtoplay.multiplayer.text.1=O Minecraft é o melhor quando crias com amigos! Por padrão, Todas as definições do teu mundo permitem que os teus amigos se juntem. Na Nintendo Switch, podes jogar em modo multijogador tanto com amigos com Nintendo como com amigos com outros dispositivos. Vê todas as formas de jogar em modo multijogador aqui!	#
+howtoplay.multiplayer.text.2.splitscreen=Podes permitir que um máximo de três jogadores adicionais se juntem ao teu jogo em qualquer momento durante o jogo! Inicia o teu mundo e faz com que os teus amigos liguem os seus controladores e primam qualquer botão para juntar-se. Certifica-te de que cada jogador tem dois controladores Joy-Con. Tens de ter tanto o esquerdo como o direito ou qualquer outro controlador completo que funcione com a Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=O Minecraft tem três formas principais para poderes jogar em modo multijogador online. Podes jogar num Realm, num servidor ou no teu próprio Mundo. Ao teres uma subscrição da Nintendo Switch Online e teres sessão iniciada na Conta Microsoft, os teus amigos com outros dispositivos podem juntar-se ao teu mundo! Os Realms e os servidores requerem uma Conta Microsoft.	#
+howtoplay.multiplayer.text.3.has_subscription=O Minecraft tem três formas principais para poderes jogar em modo multijogador online. Podes jogar num Realm, num servidor ou no teu próprio Mundo. Ao ter sessão iniciada na conta Nintendo e na Conta Microsoft, os teus amigos com outros dispositivos podem juntar-se ao teu mundo! Os Realms e os servidores requerem uma Conta Microsoft.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Ao teres uma subscrição da Nintendo Switch Online e teres sessão iniciada numa Conta Microsoft, os teus amigos com outros dispositivos podem juntar-se ao teu mundo!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Ao ter sessão iniciada na conta Nintendo e na Conta Microsoft, os teus amigos com outros dispositivos podem juntar-se ao teu mundo!	#
+howtoplay.multiplayer.text.4=Para juntar-se a um jogo em modo multijogador, vai ao separador Amigos. Todos os mundos e Realms dos teus amigos que podem juntar-se estarão visíveis quando estiveres no modo Online. Os jogos Adhoc dos teus amigos também aparecerão nesta lista quando estiveres no modo Adhoc.	#
+howtoplay.multiplayer.text.4.norealms=Para juntar-se a um jogo em modo multijogador, vai ao separador Amigos. Todos os mundos dos teus amigos que podem juntar-se estarão visíveis quando estiveres no modo Online. Os jogos Adhoc dos teus amigos também aparecerão nesta lista quando estiveres no modo Adhoc.	#
+howtoplay.multiplayer.text.5=Quando iniciares ou te juntares a um jogo online, estará visível para todos os teus amigos e para os amigos dos amigos da Conta Microsoft. Vê as Definições Multijogador Entre Plataformas do teu mundo premindo o botão Editar no teu mundo e clicando em Multijogador. 	#
+howtoplay.multiplayer.text.7=Dá capacidades especiais aos teus amigos no teu mundo ou impede-os de tocar em tudo. Por padrão, todos os teus amigos entram no teu mundo como um membro. Abre o menu de pausa para ver uma lista de amigos no teu mundo e clica no ícone à direita do seu nome para editar apenas as permissões do mesmo no teu mundo.	#
+howtoplay.multiplayer.header.adhoc=Modo Adhoc	#
+howtoplay.multiplayer.text.adhoc=Queres jogar com os teus amigos mas num dispositivo diferente? Liga a Nintendo Switch no Modo Adhoc no menu principal premindo :_gamepad_face_button_left:. Vai ao separador Amigos no menu Jogar para ver os jogos dos teus amigos mais próximos ou inicia um jogo novo tu mesmo e os teus amigos próximos poderão juntar-se a ti!	#
+howtoplay.theStore.text.4.norealms=Dá um novo aspeto ao teu jogo antigo com packs de texturas que podem ser sobrepostos aos teus mundos atuais!	#
+howtoplay.theStore.text.5.norealms=Ou experimenta-os todos com os packs de mash-up que são conjuntos selecionados de skins, mundos e texturas que, quando combinados, transformam os teus mundos!	#
+
+trial.tabbed_upsell.xbl.title=E Há Mais!	#
+
+connect_gamepad.pressButtonToContinue=É preciso um par de Comandos Pro ou Joy-Con (L)/(R) para continuar.	#
+connect_gamepad.adhocMaxControllers=Quando estiveres a jogar com uma ligação sem fios local, não é possível usar mais de um par de Comandos Pro ou Joy-Con (L)/(R). Desliga todos os comandos extra.	#
+connect_gamepad.requireControllerReconfiguration=Cada jogador precisa de par de um Comandos Pro ou Joy-Con (L)/(R). Desliga quaisquer comandos Joy-Con extra que não façam parte de um par.	#
+connect_gamepad.handheldModeNoSplitscreen=Foi detetado um comando adicional, mas o modo multijogador com o ecrã dividido não está disponível no modo portátil. Desencaixa os comandos Joy-Con para deixares o modo portátil ou desliga os comandos extra.	#
+connect_gamepad.promptHandheldMode=Os comandos Joy-Con foram ligados à consola. Queres entrar no modo portátil? Esta ação vai fazer-te sair do modo multijogador em ecrã dividido. Prime OK para parares o modo multijogador em ecrã dividido e entrares no modo portátil ou seleciona Cancelar para desligares os comandos Joy-Con ligados ao jogo para carregamento.	#

@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "PlayerCreated",
+      "dest": "PlayerCreated",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "hasDwellerComponent",
+      "dest": "hasDwellerComponent",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    }
+  ]
+}

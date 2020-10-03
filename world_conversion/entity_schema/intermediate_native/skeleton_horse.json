@@ -1,0 +1,21 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ArmorItem",
+      "dest": "ChestItems[1]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "custom_slot": 1
+    },
+    {
+      "src": "SaddleItem",
+      "dest": "ChestItems[0]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "custom_slot": 0
+    },
+    {
+      "custom_transformation": "SkeletonHorseDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

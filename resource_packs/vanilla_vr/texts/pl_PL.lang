@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Odłącz telefon od zestawu, żeby zalogować się do Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Odłącz telefon od zestawu, żeby dodawać znajomych w Xbox Live.	#
+xblLogin.LoginMessageRift=Odłącz zestaw słuchawkowy, żeby zalogować się do Xbox Live.	#
+xblLogin.AddFriendMessageRift=Odłącz zestaw słuchawkowy, żeby dodawać znajomych w Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Odłącz zestaw słuchawkowy, żeby przejrzeć kartę gracza.	#
+
+LostFocus.Rift=Brak komunikacji z myszą! Wybierz Minecrafta na pulpicie, jeśli chcesz z niego korzystać.	#
+
+vr.controls.HandControllerTracked=Uzyskano dostęp do Oculus Touch Tracking	#
+vr.controls.HandControllerTrackingLost=Stracono dostęp do Oculus Touch Tracking	#
+
+FileBrowser.Rift.Skin=Odłącz zestaw słuchawkowy, żeby wybrać niestandardową skórkę.	#
+FileBrowser.Rift.TemplateResource=Odłącz zestaw słuchawkowy, żeby wybrać zasoby szablonu.	#
+FileBrowser.Rift.Export=Odłącz zestaw słuchawkowy, żeby wyeksportować swój świat.	#
+FileBrowser.Rift.Import=Odłącz zestaw słuchawkowy, żeby zaimportować swój świat.	#
+FileBrowser.Rift.ExportBook=Odłącz zestaw słuchawkowy, żeby wyeksportować swoją książkę.	#
+FileBrowser.Rift.ExportPortfolio=Odłącz zestaw słuchawkowy, żeby wyeksportować swoje portfolio.	#
+FileBrowser.Rift.FileChooser=Wybierz plik	#
+FileBrowser.Rift.FolderChooser=Wybierz folder	#
+FileBrowser.Rift.ExportWorld=Eksport świata	#
+FileBrowser.Rift.ExportResourcesPrompt=Odłącz zestaw słuchawkowy, żeby wyeksportować te zasoby.	#
+FileBrowser.Rift.ExportResources=Eksportuj zasoby	#
+FileBrowser.Rift.SkinChooser=Wybierz skórkę	#
+
+
+options.group.vr=Rzeczywistość wirtualna (VR)	#
+options.group.vrTitle=Ustawienia VR	#
+options.vrHideHud=Ukryj interfejs HUD	#
+options.vrHideHand=Ukryj rękę	#
+options.vrHideGUI=Ukryj interfejs w VR	#
+options.vrGamma=Jasność VR	#
+options.vrMsaa=Wygładzanie krawędzi VR	#
+options.vrRenderDistance=Odległość renderowania VR	#
+options.vrParticleRenderDistance=Odległość renderowania cząstek VR	#
+options.vrResetPlayerAlignment=Zresetuj osiowanie VR	#
+options.vrHMDdisplacement=Użyj przemieszczenia wyświetlacza HMD do poruszania się	#
+options.vrHeadSteering=Sterowanie głową w VR	#
+options.vrTurningOptions=Opcje obracania	#
+options.StutterTurn=Obrót VR	#
+options.StutterTurnSound=Dźwięk obrotu w VR	#
+options.StutterConstantAngleOrTime=Obrót ograniczony czasowo (VR)	#
+options.3DRendering=Renderowanie 3D	#
+options.vrHudAtTop=HUD na wierzchu	#
+options.vrAutojump=Automatyczne skakanie w VR	#
+options.vrLinearJump=Skok liniowy (VR)	#
+options.vrLinearMotion=Ruch liniowy (VR)	#
+options.stickyMining=Lepkie kopanie	#
+options.stickyMiningHand=Lepkie kopanie z kontrolerem ręcznym	#
+options.vrMovingBackwardsHardStop=Gwałtowne zatrzymanie się przy zwrocie	#
+options.comfortControls=Sterowanie VR	#
+options.ShowComfortSelectScreen=Pokaż ekran sterowania	#
+options.vrHudDrifts=Inercja HUD	#
+options.vrLivingRoomCursorCentered=Kursor wyśrodkowany w trybie Salonu (VR)	#
+options.vrTapTurn=Obrót stuknięciem	#
+options.vrTapTurnSensitivity=Czułość obrotu stuknięciem	#
+options.vrRollTurning=Obrót kołowy	#
+options.vrRollTurnSensitivity=Czułość obrotu kołowego	#
+options.vrHandControlsItem=Kontroler ręczny steruje przedmiotem	#
+options.vrHandControlsHUD=Kontroler ręczny steruje HUD	#
+options.vrHandPointer=Widoczność wskaźnika kontrolera ręcznego	#
+options.vrHandsVisible=Widoczność rąk	#
+options.vr180Turning=Odwrócony drążek 180	#
+options.vrMirrorTexture=Włącz klonowanie ekranu	#
+options.vrSensitivity=Czułość VR	#
+options.vrUIMouseSensitivity=Czułość interfejsu VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Sterowanie VR	#
+
+vr.controls.title.classic=Klasyczne sterowanie (intensywne)	#
+vr.controls.title.experimental=Sterowanie VR (umiarkowane)	#
+vr.controls.classicDescription=Klasyczne skakanie i obracanie, nieprzystosowane do VR. Dla większości ludzi jest zbyt intensywne.	#
+vr.controls.experimentalDescription=Obracanie jest segmentowane. Kursor i skakanie zostały przystosowane do VR, żeby poprawić komfort w trakcie ruchu dla większości osób (prace w toku).	#
+vr.controls.sharedDescription=Sterowanie można również zmieniać w grze przez menu opcji.	#
+vr.moreOptions=Więcej opcji...	#
+vr.moreInformation=Więcej informacji...	#
+vr.detailedInformation=Skorygowaliśmy kilka elementów gry, żeby zapewnić przyjemniejszą rozgrywkę VR. Na przykład obrót VR jest funkcjonalnością, która dzieli na części ruch w trakcie obracania się, co zmniejsza dezorientację.	#
+vr.detailedInformationLink=Więcej informacji o sterowaniu VR i kulisach naszej pracy znajdziecie na minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Wyśrodkuj urządzenie	#
+vr.pausescreen.recenterDeviceKeyboard=Naciśnij N, żeby wyśrodkować urządzenie	#
+vr.warning.controllerRequired=Wymagany kontroler gier	#
+vr.warning.controllerRecommended=Do gry w VR zaleca się używać kontrolera gier	#
+vr.warning.controllerOrMouseRecommended=Do gry w VR zaleca się używać kontrolera gier lub myszy	#
+vr.warning.exitGameWarning=Chcesz wyjść z Minecrafta?	#
+vr.alignscreen.pressButtonX=Wciśnij przycisk X na swoim kontrolerze, żeby kontynuować	#
+vr.alignscreen.pressButtonXOrMouse=Wciśnij dowolny przycisk na swoim kontrolerze, żeby kontynuować	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Aby kontynuować, naciśnij przycisk 'A' na kontrolerze gier lub naciśnij spust wyboru na kontrolerze Windows Mixed Reality	#
+vr.alignscreen.pressAnyButton=Ustaw głowę w położeniu neutralnym i wciśnij dowolny przycisk	#
+vr.alignscreen.info=Uwaga: wciąż nad tym pracujemy. VR może powodować dyskomfort u niektórych graczy. Pamiętaj, żeby robić często przerwy, i korzystaj z trybu Salonu, stukając touchpad, co zaowocuje mniej intensywnym widokiem.	#
+vr.alignscreen.info_viewbutton=Uwaga: wciąż nad tym pracujemy. VR może powodować dyskomfort u niektórych graczy. Pamiętaj, żeby robić często przerwy, i korzystaj z trybu Salonu, wciskając przycisk 'w górę' na padzie kierunkowym, co zaowocuje mniej intensywnym widokiem.	#
+
+accessibility.gamepad.button.systemLeft=przycisk Select	#
+accessibility.gamepad.button.systemRight=przycisk Start	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Czy na pewno chcesz wyjść z gry?	#
+ori.confirm.update=Zaktualizować Minecrafta?	#
+ori.pending=Oczekiwanie na zakończenie aktualizacji systemu Windows.	#
+ori.installing=Instalowanie...	#
+ori.updating=Aktualizowanie...	#
+ori.launching=Uruchamianie!	#
+ori.check_for_update=Sprawdzanie dostępności aktualizacji...	#
+ori.error.unavailable=Minecraft był niedostępny. Sprawdź, czy masz połączenie z internetem i udało ci się zalogować do sklepu.	#
+ori.error.unknown=Wystąpił nieznany błąd. Spróbuj ponownie później.	#
+ori.error.not_supported=Minecraft nie obsługuje tego systemu.	#
+ori.error.launch_failure=Nie można uruchomić Minecrafta.	#
+ori.error.version=Twoja wersja Minecrafta jest nieaktualna. Zaktualizuj grę.	#
+ori.error.win10=Wymagania: Windows 10, wersja 1607 lub nowsza.	#
+ori.error.install_error=Wystąpił błąd. Kod błędu: 0x	#
+ori.error.low_storage=Nie można zainstalować. Niewystarczająca ilość miejsca.	#
+ori.error.no_internet=Nie można połączyć. Sprawdź połączenie internetowe.	#
+ori.error.winUpdateDisabled=Windows Update musi być włączony.	#
+ori.confirm.controls.controller.confirm=Potwierdź	#
+ori.confirm.controls.controller.cancel=Anuluj	#
+ori.confirm.controls.keyboard.confirm=Potwierdź: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Anuluj: [Esc]	#
+ori.exit.controls.controller=Zakończ	#
+ori.exit.controls.keyboard=Zakończ: [Enter]	#
+ori.cancelling=Anulowanie...	#
+

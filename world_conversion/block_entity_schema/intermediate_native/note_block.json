@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "note",
+      "dest": "note",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    }
+  ]
+}

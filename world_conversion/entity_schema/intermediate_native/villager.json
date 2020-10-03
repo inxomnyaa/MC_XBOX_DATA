@@ -1,0 +1,68 @@
+{
+  "version": "0",
+  "schemaArray": [
+     {
+      "src": "CareerLevel",
+      "dest": "CareerLevel",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+     },
+     {
+      "src": "Willing",
+      "dest": "Willing",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "SkinId",
+      "dest": "SkinID",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "Riches",
+      "dest": "Riches",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "TradeXp",
+      "dest": "TradeExperience",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "TradeTierLevel",
+      "dest": "TradeTier",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "Inventory",
+      "dest": "Inventory",
+      "custom_transformation": "IntermediateInventoryToNative"
+    },
+    {
+      "src": "Offers.Recipes",
+      "dest": "Offers.Recipes",
+      "custom_transformation": "IntermediateOfferRecipesToNative",
+      "optional": true
+    },
+    {
+      "src": "Offers.TierXpRequirements",
+      "dest": "Offers.TierExpRequirements",
+      "custom_transformation": "IntermediateOfferTierExpRequirementsToNative",
+      "optional": true
+    },
+    {
+      "custom_transformation": "VillagerDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

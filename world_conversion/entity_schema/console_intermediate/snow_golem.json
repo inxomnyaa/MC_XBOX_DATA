@@ -1,0 +1,12 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Pumpkin",
+      "dest": "Pumpkin",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

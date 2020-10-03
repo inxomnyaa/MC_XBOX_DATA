@@ -1,0 +1,39 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Resolved",
+      "dest": "tag.resolved",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "tag.Generation",
+      "dest": "tag.generation",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "tag.Author",
+      "dest": "tag.author",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    },
+    {
+      "src": "tag.Title",
+      "dest": "tag.title",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    },
+    {
+      "src": "tag.Pages",
+      "dest": "tag.pages",
+      "item_transformation": "IntermediatePagesToNative",
+      "optional": true
+    }
+  ]
+}

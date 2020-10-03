@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Trusting",
+      "dest": "Trusting",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "custom_transformation": "OcelotDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

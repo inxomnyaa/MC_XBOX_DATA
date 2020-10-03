@@ -1,0 +1,9 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Item",
+      "custom_transformation": "FlowerPotItemIntermediateToNative"
+    }
+  ]
+}

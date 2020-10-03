@@ -1,0 +1,38 @@
+{
+    "format_version": 0,
+    "data_path": "./data",
+    "logs_path": "./logs",
+    
+    "dimensions": {
+        "overworld": {
+            "chunk_offset": {
+                "x": 24,
+                "z": 28
+            },
+            "convert_entities": true,
+            "convert_terrain": true,
+            "convert_biomes": true,
+            "convert_block_entities": true,
+            "convert_level_data": true
+        },
+        "nether": {
+            "chunk_offset": {
+                "x": 24,
+                "z": 28
+            },
+            "convert_entities": true,
+            "convert_terrain": true,
+            "convert_biomes": true,
+            "convert_block_entities": true,
+            "convert_level_data": true
+        },
+        "end": {
+            "convert_entities": false,
+            "convert_terrain": false,
+            "convert_biomes": false,
+            "convert_block_entities": false,
+            "convert_level_data": false
+        }
+    },
+    "seed": 1300752478
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "JavaInventoryToIntermediate"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "pairx",
+      "dest": "pairx",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "pairz",
+      "dest": "pairz",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "LootTable",
+      "dest": "LootTable",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "LootTableSeed",
+      "dest": "LootTableSeed",
+      "src_members": "TAG_Long",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Fireworks.Explosions",
+      "dest": "tag.Fireworks.Explosions",
+      "item_transformation": "IntermediateFireworkToNative",
+      "optional": true
+    },
+    {
+      "src": "tag.Fireworks.Flight",
+      "dest": "tag.Fireworks.Flight",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    }
+  ]
+}

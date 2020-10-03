@@ -1,0 +1,24 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "IntermediateInventoryToNative"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    },
+	{
+      "src": "FuelAmount",
+      "dest": "FuelAmount",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short",
+      "optional": true
+    }
+  ]
+}

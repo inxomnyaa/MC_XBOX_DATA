@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Määrittää Koodinrakentajan tilan pelaajalle.	#
+commands.codebuilder.invalidurl=URL-osoite ei kelpaa tai se osoittaa verkkosivustolle, jota ei tueta.	#
+commands.takepicture.description=Ottaa kuvan pelaajasta pelaajan näkökulmasta.	#
+commands.takepicture.cameranotfound=Kameraa ei löytynyt.	#
+commands.takepicture.cameranotspawned=Kameran luonti epäonnistui.	#
+
+library.connection.failed.body=Emme saa luotua yhteyttä kirjastoon. Tämä voi tapahtua, jos tietokoneesi ei ole yhteydessä verkkoon tai jos pääsy kirjastohakemistoon on estetty.	#
+library.connection.failed.help=Hanki ohjeita	#
+library.connection.noWorldFound.title=Maailmaa ei löytynyt	#
+library.connection.noWorldFound.body=Näyttää siltä, ettei tässä luokassa ole maailmoja.	#
+library.findMoreWorlds=Etsi lisää maailmoja	#
+library.leaveFeedback=Anna palautetta	#
+library.title=Kirjasto	#
+library.searchResults=Tulokset haulle "%1"	#
+library.item.createdBy=Tekijänä %s	#
+library.item.age=Ikäryhmä: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Kesto: %1	#
+library.item.duration.minute=%1 minuutti	#
+library.item.duration.multipleMinutes=%1 minuuttia	#
+library.item.duration.hour=%1 tunti	#
+library.item.duration.multipleHours=%1 tuntia	#
+
+library.item.difficulty=Vaikeustaso: %1	#
+library.item.difficulty.beginner=Aloittelija	#
+library.item.difficulty.intermediate=Keskitaso	#
+library.item.difficulty.advanced=Edistynyt	#
+
+library.item.tags=Avainsanat:	#
+library.item.tagsAll=KAIKKI TUNNISTEET:	#
+library.item.tagsAll.tts=Näytä lisää tunnisteita	#
+library.item.button.create=LUO MAAILMA	#
+library.item.button.share=JAA LINKKI	#
+library.item.button.plan=LUENTOSUUNNITELMA	#
+library.item.button.resources=RESURSSIT	#
+library.item.progress.body=Valmistellaan uuden maailman tuomista. Tämä voi kestää joitakin minuutteja.	#
+library.item.description=KUVAUS	#
+library.item.overview=KAIKKI	#
+library.item.expandable.readLess=Vähemmän tietoja	#
+library.item.expandable.readMore=Lisää tietoja	#
+
+library.item.section.languages=TUETUT KIELET	#
+library.item.section.languages.tip=Jos tämä luento ei ole saatavilla haluamallasi kielellä, pelitekstiä, kuten kirjoja, kylttejä, tauluja ja NPC-vuoropuhelua voidaan kääntää Syventävän lukuohjelman avulla.	#
+library.item.section.questions=TÄRKEIMMÄT KYSYMYKSET	#
+library.item.section.generic_objectives=TAVOITTEET	#
+library.item.section.objectives=OPPIMISTAVOITTEET	#
+library.item.section.prep=OPETTAJAN PEREHDYTYS JA VINKIT	#
+library.item.section.activities=OPPIJOIDEN AKTIVITEETIT	#
+library.item.section.assessment=ARVIOINTI	#
+library.item.section.extensions=LAAJENNUKSET	#
+
+library.category.label.biomes=BIOMIT JA MAAILMAT	#
+library.category.title.biomes=Biomit ja maailmat	#
+library.category.description.biomes=Käytä tätä maailma- ja biomikokoelmaa avuksesi aloittaessasi luentojen luomisen Minecraft: Education Editionissa.	#
+
+library.category.label.biomes.biome=BIOMIT	#
+library.category.title.biomes.biome=Biomit	#
+library.category.description.biomes.biome=Minecraftissa biomit ovat alueita, joilla on omat maantieteelliset piirteensä, kasvinsa ja eläimensä.	#
+
+library.category.label.biomes.featured=SISÄLTYVÄT MAAILMAT	#
+library.category.title.biomes.featured=Sisältyvät maailmat	#
+
+library.category.label.buildChallenges=KUUKAUSITTAISET RAKENNUSHAASTEET	#
+library.category.title.buildChallenges=Kuukausittaiset rakennushaasteet	#
+library.category.description.buildChallenges=Valjasta oppijoidesi luovuus ja vahvista tämän vuosituhannen taitoja näillä helposti luokkahuoneessa toteutettavilla aktiviteeteilla.	#
+
+library.category.label.howToPlay=PELIOHJEET	#
+library.category.description.howToPlay=Nämä maailmat ja aktiviteetit on suunniteltu tutustumiskokemukseksi Minecraft: Education Editionin käyttöön luokkahuoneessa.	#
+
+library.category.label.howToPlay.startHere=ALOITA TÄSTÄ	#
+library.category.title.howToPlay.startHere=Aloita tästä	#
+library.category.description.howToPlay.startHere=Kukin näistä tutoriaalimaailmoista on suunniteltu auttamaan sinua oppimaan eri taitoja tukeaksesi Minecraft: Education Editionin käyttöä luokkahuoneessa.	#
+
+library.category.label.howToPlay.additional=LISÄTUTORIAALIT	#
+library.category.title.howToPlay.additional=Lisätutoriaalit	#
+
+library.category.label.SEL=SOSIAALIS-EMOTIONAALINEN	#
+library.category.title.SEL=Sosiaalis-emotionaalinen	#
+library.category.description.SEL=Nämä maailmat ja toimet tukevat sosiaalista ja emotionaalista oppimista. Siihen liittyviä käsitteitä ovat esimerkiksi emotionaalinen hyvinvointi, empatia ja vastuulliset päätösten tekeminen.	#
+
+library.category.label.digitalCitizen=DIGIKANSALAISUUS	#
+library.category.title.digitalCitizen=Digikansalaisuus	#
+library.category.description.digitalCitizen=Näissä maailmoissa ja toimissa keskitytään digikansalaisuuteen eli tuetaan oppijoita medialukutaitoon, yksityisyydensuojaan ja verkkoyhteisöihin tutustumisessa.	#
+
+library.category.label.lessons=LUENNOT	#
+library.category.title.lessons=Luennot	#
+
+library.category.label.lessons.genericAdditional=LISÄLUENNOT	#
+library.category.title.lessons.genericAdditional=Lisäluennot	#
+
+library.category.label.languageArts=ENGLANNIN KIELI	#
+library.category.title.languageArts=Englannin kieli	#
+
+library.category.label.languageArts.litStudies=KIRJALLISUUS	#
+library.category.title.languageArts.litStudies=Kirjallisuus	#
+
+library.category.label.languageArts.litStudies.treasureIsland=TREASURE ISLAND	#
+library.category.title.languageArts.litStudies.treasureIsland=Treasure Island	#
+library.category.description.languageArts.litStudies.treasureIsland=Tämä luentosarja on suunniteltu auttamaan englannintaitojen syventämistä tutkimalla Robert Louis Stevensonin teosta Treasure Island (Aarresaari).	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KENSUKE'S KINGDOM	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Kensuke's Kingdom	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Tämä luentosarja on suunniteltu auttamaan englannintaitojen syventämistä tutkimalla Michael Morpurgon teosta Kensuke's Kingdom.	#
+
+library.category.label.languageArts.litStudies.swissFamily=SWISS FAMILY ROBINSON	#
+library.category.title.languageArts.litStudies.swissFamily=Swiss Family Robinson	#
+library.category.description.languageArts.litStudies.swissFamily=Tämä luentosarja on suunniteltu auttamaan englannintaitojen syventämistä tutkimalla teoksia Robinson Crusoe ja The Swiss Family Robinson.	#
+
+library.category.label.science=TIEDE	#
+library.category.title.science=Tiede	#
+
+library.category.label.science.chemistry=KEMIA	#
+library.category.title.science.chemistry=Kemia	#
+
+library.category.label.science.biology=BIOLOGIA	#
+library.category.title.science.biology=Biologia	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Nämä viisi luentoa ja ainutlaatuista Minecraft-maailmaa kattavat useita aiheita ja ikäryhmiä. Toimitetun opetussuunnitelman ansiosta oppijat voivat tutkia Afrikan tasankoja, toimivaa satamaa, sarvikuonojen orpokotia ja puistonvartijoiden asemaa ratkaisten ongelmia ja kehittäen taitojaan.	#
+
+library.category.label.science.extinction=SUKUPUUTTO! BIODIVERSITEETTIKRIISI	#
+library.category.title.science.extinction=Sukupuutto! Biodiversiteettikriisi	#
+library.category.description.science.extinction=Tässä sisältöpaketissa olemme tehneet yhteistyötä Maailman luonnonsäätiön kanssa. Paketti sisältää mukaansatempaavan Minecraft-maailman ja standardeihin perustuvia luentoja. Käytä näitä resursseja ekosysteemien, ympäristönsuojelun ja luonnon monimuotoisuuden konkreettista oppimista varten.	#
+
+library.category.label.history=HISTORIA JA KULTTUURI	#
+library.category.title.history=Historia ja kulttuuri	#
+
+library.category.label.history.oregonTrail=OREGONIN REITTI	#
+library.category.title.history.oregonTrail=Oregonin reitti	#
+library.category.description.history.oregonTrail=Minecraft: Education Edition esittelee yhteistyössä Houghton Mifflin Harcourtin kanssa Oregonin reitti -kokemuksen. Käytä näitä Oregonin reitin oppimisaktiviteetteja kaikkialla opetussuunnitelmassasi ja aloita upea seikkailu matkaten Oregonin reittiä Pohjois-Amerikan karun luonnon halki.	#
+
+library.category.label.computerScience=TIETOJENKÄSITTELYTIEDE	#
+library.category.title.computerScience=Tietojenkäsittelytiede	#
+
+library.category.label.computerScience.hourOfCode=KOODAUSTUNTI	#
+library.category.title.computerScience.hourOfCode=Koodaustunti	#
+library.category.description.computerScience.hourOfCode=Tämä luento on tunnin mittainen johdanto tietojenkäsittelytieteeseen. Sen tarkoituksena on raottaa tekoälyn salamyhkäisyyden verhoa, tutustuttaa koodaukseen Minecraftissa ja laajentaa osallistumista tietojenkäsittelytieteen saralla.	#
+
+library.category.label.computerScience.STEM=Luonnontieteet	#
+library.category.title.computerScience.STEM=Luonnontieteet	#
+library.category.description.computerScience.STEM=Käytä näitä standardipohjaisia luentoja ja maailmoja matematiikassa, tieteessä ja suunnittelussa ottaaksesi tietojenkäsittelytieteen osaksi koulupäivää.	#
+
+library.category.label.computerScience.agency=VIRASTO	#
+library.category.title.computerScience.agency=Virasto	#
+library.category.description.computerScience.agency=Rakenna oma kaupunkisi näillä tietojenkäsittelytieteen luennoilla, jotka perustuvat CSTA-standardeihin. Opi CS:n peruskonsepteja, kuten silmukoita, algoritmeja, ehdollisuuksia, virheiden korjaamista, iterointia ja paljon muuta.	#
+
+library.category.label.computerScience.codingWithMinecraft=KOODAUSTA MINECRAFTIN AVULLA	#
+library.category.title.computerScience.codingWithMinecraft=Koodausta Minecraftin avulla	#
+library.category.description.computerScience.codingWithMinecraft=Opi ehdollisuuksia, funktioita, koordinaatteja, tekoälyä ja paljon muuta näillä tietojenkäsittelytieteen luennoilla, jotka perustuvat CSTA-standardeihin.	#
+
+library.category.label.computerScience.codingFun1=KOODAUKSEN PERUSTEET: 1	#
+library.category.title.computerScience.codingFun1=Koodauksen perusteet: 1	#
+library.category.description.computerScience.codingFun1=Tutustu erilaisiin eläimiin, niiden kohtaamiin haasteisiin ja tapoihin auttaa niitä koodilla! Selvitä hauskoja koodauspulmia käyttämällä algoritmeja, sekvensointeja ja silmukoita.	#
+
+library.category.label.computerScience.codingFun2=KOODAUKSEN PERUSTEET: 2	#
+library.category.title.computerScience.codingFun2=Koodauksen perusteet: 2	#
+library.category.description.computerScience.codingFun2=Käy Kuussa, Merkuriuksessa, Venuksessa, Marsissa, Jupiterissa ja Neptunuksessa! Tutustu koodausvirheiden poistamiseen ja ehtojen, operaattorien ja silmukoiden käyttämiseen, kun autat Agentia keräämään materiaaleja kaikkialta aurinkokunnasta.	#
+
+library.category.label.computerScience.codingFun3=KOODAUKSEN PERUSTEET: 3	#
+library.category.title.computerScience.codingFun3=Koodauksen perusteet: 3	#
+
+library.category.label.computerScience.blockBased=LOHKOPERUSTEISTA KOODAUSTA	#
+library.category.title.computerScience.blockBased=Lohkoperusteista koodausta	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHONIN ALKEET	#
+library.category.title.computerScience.python101=Pythonin alkeet	#
+library.category.description.computerScience.python101=Alaa koodata Pythonilla Minecraftissa! Opi Pythonin perusteet, kuten syntaksi, datatyypit, muuttujat, ehdot, for–silmukat, ehtosilmukat, luettelot ja toiminnot.	#
+
+library.category.label.computerScience.codingTutorials=KOODAUSTUTORIAALIT	#
+library.category.title.computerScience.codingTutorials=Koodaustutoriaalit	#
+library.category.description.computerScience.codingTutorials=Jos haluat keskittyä tiettyyn koodauskonseptiin, tämä on oikea paikka aloittaa! Tutustu silmukoiden, sekvensoinnin, ehtojen, muuttujien ja toimintojen käyttöön. Näillä luennoilla voit valita koodauskieleksi Blocksin, Pythonin tai JavaScriptin.	#
+
+library.category.label.computerScience.featuredLessons=ESITTELYSSÄ OLEVAT LUENNOT	#
+library.category.title.computerScience.featuredLessons=Esittelyssä olevat luennot	#
+library.category.description.computerScience.featuredLessons=Tästä löydät suosikkejamme koodausluentojen joukosta!	#
+
+library.category.label.math=MATEMATIIKKA	#
+library.category.title.math=Matematiikka	#
+
+library.category.label.math.fractions=MURTO-OSAT	#
+library.category.title.math.fractions=Murto-osat	#
+library.category.description.math.fractions=Kokeile näitä luentoresursseja avuksi murto-osien opettamiseen.	#
+
+library.category.label.art=TAIDE JA MUOTOILU	#
+library.category.title.art=Taide ja muotoilu	#
+
+library.category.label.commonCore=COMMON CORE, LUOKKA %1	#
+library.category.title.commonCore=Common Core, luokka %1	#
+library.category.description.commonCoreMath=Nämä mukaansatempaavat aktiviteetit on kehitetty matematiikan opetuksen tueksi ja on sovitettu yhteen Common Coren matematiikkastandardien kanssa.	#
+
+signin.acceptTerms=Hyväksy ehdot	#
+signin.leftPanel.header=PELAA MINECRAFT: EDUCATION EDITIONIA	#
+signin.leftPanel.body=Kirjaudu koulutililläsi, jotta voit käyttää Minecraft: Education Editionin täysversiota.	#
+signin.rightPanel.header=KOKEILE ESITTELYLUENTOA	#
+signin.rightPanel.body=Tutustu koodaamiseen Minecraft: Education Edition tällä esittelyluennolla, joka on kaikkien käyttäjien saatavilla.	#
+
+structure_block.export.default_name=Oma rakennekuutio	#
+
+joincode.invalid.title=Virheellinen liittymiskoodi	#
+joincode.invalid.body=Olet antanut %1 virheellistä liittymiskoodia. Tarkista isännältä, että sinulla on oikea koodi tai kokeile liittymistä IP-osoitteella.	#
+joincode.invalid.button.tryagain=Yritä uudelleen	#
+joincode.invalid.button.enterip=Anna IP-osoite	#
+
+joincode.invalid.abuse.body=Olet antanut %1 virheellistä liittymiskoodia. Yritä liittyä maailmaan IP-osoitteen avulla.	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0–3	#	#
+tag.ages_4_5=4–5	#	#
+tag.ages_6_8=6–8	#	#
+tag.ages_9_12=9–12	#	#
+tag.ages_13_16=13–16	#	#
+tag.ages_16_18=16–18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Yhteenlasku	#	#
+tag.advanced=Edistynyt	#	#
+tag.adventure=Seikkailu	#	#
+tag.all_ages=Kaikenikäisille	#	#
+tag.animals=Eläimiä	#	#
+tag.aquatic=Merellinen	#	#
+tag.architecture=Arkkitehtuuri	#	#
+tag.art_and_design=Taide ja muotoilu	#	#
+tag.beginner=Aloittelija	#	#
+tag.biodiversity=Luonnon monimuotoisuus	#	#
+tag.biology=Biologia	#	#
+tag.biome=Biomi	#	#
+tag.biomes_and_worlds=Biomeja ja maailmoja	#	#
+tag.bridges=Sillat	#referring to the structure	#
+tag.build_challenge=Rakennushaaste	#	#
+tag.character=Hahmo	#	#
+tag.chemistry=Kemia	#	#
+tag.citizenship=Kansalaisuus	#	#
+tag.city=Kaupunki	#	#
+tag.climate=Ilmasto	#	#
+tag.code_to_learn_stem=Luonnontieteet	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Virasto	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Koodausta Minecraftin avulla	#	#
+tag.coding_in_minecraft=Koodaus Minecraftissa	#	#
+tag.collaboration=Yhteistyö	#	#
+tag.color=Väri	#	#
+tag.common_core_math_grade_3=Common Core -matematiikkaa, luokka 3	#	#
+tag.common_core_math_grade_4=Common Core -matematiikkaa, luokka 4	#	#
+tag.common_core_math_grade_5=Common Core -matematiikkaa, luokka 5	#	#
+tag.communication=Viestintä	#	#
+tag.computer_science=Tietojenkäsittelytiede	#	#
+tag.computing_in_minecraft=Tietojenkäsittely Minecraftissa	#	#
+tag.creative=Luovuus	#	#
+tag.creative_writing=Luova kirjoittaminen	#	#
+tag.creativity=Luovuutta	#	#
+tag.critical_thinking=Kriittinen ajattelu	#	#
+tag.division=Jakolaskut	#	#
+tag.earth_day=Maan päivä	#	#
+tag.ecology=Ekologia	#	#
+tag.economy=Talous	#	#
+tag.energy=Energia	#	#
+tag.environment=Ympäristö	#	#
+tag.featured=Esittelyssä	#	#
+tag.fractions=Murtoluvut	#	#
+tag.game_design=Pelisuunnittelu	#	#
+tag.geography=Maantiede	#	#
+tag.geology=Geologia	#	#
+tag.history_and_culture=Historia ja kulttuuri	#	#
+tag.hour_of_code=Koodaustunti	#	#
+tag.how_to_play=Peliohjeet	#	#
+tag.intermediate=Keskitaso	#	#
+tag.kensukes_kingdom=Kensuke's Kingdom	#	#
+tag.language_arts=Englannin kieli	#	#
+tag.leadership=Johtajuus	#	#
+tag.lesson=Luento	#	#
+tag.literature=Kirjallisuus	#	#
+tag.math=Matematiikka	#	#
+tag.multiplayer=Moninpeli	#	#
+tag.multiplication=Kertolasku	#	#
+tag.museum=Museo	#	#
+tag.music=Musiikki	#	#
+tag.mythology=Mytologia	#	#
+tag.ocean=Valtameri	#	#
+tag.oregon_trail=Oregonin reitti	#	#
+tag.pattern=Malli	#	#
+tag.personal_narrative=Oma tarina	#	#
+tag.physics=Fysiikka	#	#
+tag.pixel_art=Pikselitaide	#	#
+tag.pop_culture=Popkulttuuri	#	#
+tag.probability=Todennäköisyys	#	#
+tag.project_based_learning=Projektipohjainen oppiminen	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Tiede	#	#
+tag.seasonal=Kausittainen	#	#
+tag.single_player=Yksinpeli	#	#
+tag.social_emotional_learning=Sosiaalis-emotionaalinen oppiminen	#	#
+tag.special_education=Erityisopetus	#	#
+tag.spelling=Oikeinkirjoitus	#	#
+tag.story=Tarina	#	#
+tag.subtraction=Vähennyslasku	#	#
+tag.survival=Selviytyminen	#	#
+tag.swiss_family_robinson=Swiss Family Robinson	#	#
+tag.technology=Teknologia	#	#
+tag.treasure_island=Treasure Island	#	#
+tag.tutorial=Tutoriaali	#	#
+tag.we_are_the_rangers=We are the Rangers	#	#
+tag.world_languages=Maailman kielet	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Digikansalaisuus	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Blocks	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure-tietokoneet	#See for example: https://notebooks.azure.com/	#
+tag.loops=Silmukat	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Ehdot	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Muuttujat	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Toiminnot	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operaattorit	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Ongelmanratkaisu	#	#
+tag.artificial_intelligence=Tekoäly	#	#
+tag.coding=Koodaus	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Koodauksen perusteet 1	#	#
+tag.coding_fundamentals_2=Koodauksen perusteet 2	#	#
+tag.coding_fundamentals_3=Koodauksen perusteet 3	#	#
+tag.coding_tutorials=Koodaustutoriaalit	#	#
+tag.python101=Pythonin alkeet	#Python coding language	#
+tag.bees=Mehiläisiä	#	#
+tag.space=Avaruus	# refers to outer space	#
+tag.esports=E-urheilu	#	#
+tag.toybox=Toybox	#	#
+tag.featured_coding=Esittelyssä oleva koodaus	#	#
+## END TAG LOCALIZATION SECTION ##

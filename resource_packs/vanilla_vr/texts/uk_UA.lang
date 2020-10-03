@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Щоб увійти в Xbox Live, видаліть телефон із гарнітури.	#
+xblLogin.AddFriendMessageGearVR=Щоб додати друзів Xbox Live, видаліть телефон із гарнітури.	#
+xblLogin.LoginMessageRift=Щоб увійти в Xbox Live, видаліть гарнітуру.	#
+xblLogin.AddFriendMessageRift=Щоб додати друзів Xbox Live, видаліть гарнітуру.	#
+xblLogin.ShowGamerCardMessageRift=Щоб переглянути картку гравця, видаліть гарнітуру.	#
+
+LostFocus.Rift=Зникла миша! Якщо ви хочете нею користуватися, виберіть Minecraft на настільному комп’ютері.	#
+
+vr.controls.HandControllerTracked=Відстеження Oculus Touch налаштовано	#
+vr.controls.HandControllerTrackingLost=Відстеження Oculus Touch утрачено	#
+
+FileBrowser.Rift.Skin=Щоб вибрати власний скін, видаліть гарнітуру.	#
+FileBrowser.Rift.TemplateResource=Щоб вибрати ресурс шаблону, вилучіть гарнітуру.	#
+FileBrowser.Rift.Export=Щоб експортувати свій світ, видаліть гарнітуру.	#
+FileBrowser.Rift.Import=Щоб імпортувати свій світ, видаліть гарнітуру.	#
+FileBrowser.Rift.ExportBook=Щоб експортувати свою книгу, видаліть гарнітуру.	#
+FileBrowser.Rift.ExportPortfolio=Щоб експортувати своє портфоліо, видаліть гарнітуру.	#
+FileBrowser.Rift.FileChooser=Вибір файлу	#
+FileBrowser.Rift.FolderChooser=Виберіть папку	#
+FileBrowser.Rift.ExportWorld=Експорт світу	#
+FileBrowser.Rift.ExportResourcesPrompt=Щоб експортувати ці ресурси, видаліть гарнітуру.	#
+FileBrowser.Rift.ExportResources=Експорт ресурсів	#
+FileBrowser.Rift.SkinChooser=Вибір скіну	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=Параметри ВР	#
+options.vrHideHud=Приховати HUD	#
+options.vrHideHand=Приховати руку	#
+options.vrHideGUI=Приховати інтерфейс у VR	#
+options.vrGamma=Яскравість VR	#
+options.vrMsaa=Згладжування VR	#
+options.vrRenderDistance=Дальність рендеру VR	#
+options.vrParticleRenderDistance=Дальність рендеру частинок VR	#
+options.vrResetPlayerAlignment=Скидання вирівнювання VR	#
+options.vrHMDdisplacement=Переміщення за зсувом шолома	#
+options.vrHeadSteering=Керування головою у VR	#
+options.vrTurningOptions=Параметри повороту	#
+options.StutterTurn=Поворот VR	#
+options.StutterTurnSound=Звук повороту VR	#
+options.StutterConstantAngleOrTime=Режим постійного повороту VR	#
+options.3DRendering=3D-рендеринг	#
+options.vrHudAtTop=HUD вгорі	#
+options.vrAutojump=Автострибок VR	#
+options.vrLinearJump=Лінійний стрибок VR	#
+options.vrLinearMotion=Лінійний рух VR	#
+options.stickyMining=Липке видобування	#
+options.stickyMiningHand=Липке видобування для ручного контролера	#
+options.vrMovingBackwardsHardStop=Різке гальмування заднім ходом	#
+options.comfortControls=Керування VR	#
+options.ShowComfortSelectScreen=Показувати екран вибору керування	#
+options.vrHudDrifts=Дрейф HUD	#
+options.vrLivingRoomCursorCentered=Курсор вітальні VR у центрі	#
+options.vrTapTurn=Поворот торканням	#
+options.vrTapTurnSensitivity=Чутливість повороту торканням	#
+options.vrRollTurning=Поворот коліщатком	#
+options.vrRollTurnSensitivity=Чутливість повороту коліщатком	#
+options.vrHandControlsItem=Елемент керування ручним контролером	#
+options.vrHandControlsHUD=HUD-керування ручним контролером	#
+options.vrHandPointer=Видимий вказівник ручного контролера	#
+options.vrHandsVisible=Видимі руки	#
+options.vr180Turning=Стік повороту на 180 градусів	#
+options.vrMirrorTexture=Увімкнути текстуру дзеркала	#
+options.vrSensitivity=Чутливість VR	#
+options.vrUIMouseSensitivity=Чутливість інтерфейсу VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Керування VR	#
+
+vr.controls.title.classic=Класичне керування – інтенсивне	#
+vr.controls.title.experimental=Керування VR – помірне	#
+vr.controls.classicDescription=Класичні стрибки й повороти, не настроєні для VR. Комфортний рівень інтенсивності для більшості людей.	#
+vr.controls.experimentalDescription=Поворот відбувається посегментно. Курсор і стрибки настроєно для VR, щоб підвищити рівень комфорту під час руху для більшості людей (ще тестується).	#
+vr.controls.sharedDescription=Керування також можна змінити в грі з меню параметрів.	#
+vr.moreOptions=Додаткові параметри…	#
+vr.moreInformation=Додаткова інформація…	#
+vr.detailedInformation=Деякі функції гри налаштовано для комфортнішої гри у VR. Наприклад, поворот VR – це функція, яка сегментує рух повороту, щоб знизити дезорієнтацію.	#
+vr.detailedInformationLink=Щоб отримати додаткові відомості про керування VR і зазирнути за лаштунки розробки, перейдіть на сторінку minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Повторне центрування пристрою	#
+vr.pausescreen.recenterDeviceKeyboard=Натисніть N для повторного центрування пристрою	#
+vr.warning.controllerRequired=Потрібен ігровий контролер	#
+vr.warning.controllerRecommended=Для VR рекомендується використовувати ігровий контролер	#
+vr.warning.controllerOrMouseRecommended=Для VR рекомендується використовувати ігровий контролер або мишу	#
+vr.warning.exitGameWarning=Хочете вийти з Minecraft?	#
+vr.alignscreen.pressButtonX=Щоб продовжити, натисніть кнопку "X" на контролері	#
+vr.alignscreen.pressButtonXOrMouse=Щоб продовжити, клацніть або натисніть будь-яку кнопку на контролері	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Щоб продовжити, натисніть кнопку А на ігровому контролері або тригер "Вибрати" на контролері Windows Mixed Reality	#
+vr.alignscreen.pressAnyButton=Вирівняйте голову в нейтральне положення та натисніть будь-яку кнопку	#
+vr.alignscreen.info=Примітка. Розробка триває. VR може викликати дискомфорт у деяких людей. Не забувайте робити перерви та користуватися режимом вітальні, торкаючись тачпаду для менш інтенсивного огляду.	#
+vr.alignscreen.info_viewbutton=Примітка. Розробка триває. VR може викликати дискомфорт у деяких людей. Не забувайте робити перерви та користуватися режимом вітальні, натискаючи хрестовину для менш інтенсивного огляду.	#
+
+accessibility.gamepad.button.systemLeft=кнопка вибору	#
+accessibility.gamepad.button.systemRight=кнопка початку	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Ви справді хочете вийти?	#
+ori.confirm.update=Оновити Minecraft?	#
+ori.pending=Чекаємо на завершення роботи Windows Update.	#
+ori.installing=Інсталяція…	#
+ori.updating=Оновлення…	#
+ori.launching=Запуск!	#
+ori.check_for_update=Перевірка наявності оновлень…	#
+ori.error.unavailable=Гра Minecraft була недоступна. Перевірте підключення до Інтернету та перевірте, чи точно ви ввійшли в магазин.	#
+ori.error.unknown=Сталася невідома помилка. Спробуйте ще раз згодом.	#
+ori.error.not_supported=Minecraft не підтримується в цій системі.	#
+ori.error.launch_failure=Не вдалося запустити Minecraft.	#
+ori.error.version=Ваша версія Minecraft застаріла. Щоб грати, оновіть гру.	#
+ori.error.win10=Потрібна ОС Windows 10 версії 1607 або пізнішої.	#
+ori.error.install_error=Ми виявили помилку. Код помилки: 0x	#
+ori.error.low_storage=Не вдається інсталювати. Недостатньо місця.	#
+ori.error.no_internet=Не вдається підключитися. Перевірте підключення до Інтернету.	#
+ori.error.winUpdateDisabled=Необхідно ввімкнути Windows Update.	#
+ori.confirm.controls.controller.confirm=Підтвердити	#
+ori.confirm.controls.controller.cancel=Скасувати	#
+ori.confirm.controls.keyboard.confirm=Підтвердити: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Скасувати: [Esc]	#
+ori.exit.controls.controller=Вийти	#
+ori.exit.controls.keyboard=Вийти: [Enter]	#
+ori.cancelling=Скасування…	#
+

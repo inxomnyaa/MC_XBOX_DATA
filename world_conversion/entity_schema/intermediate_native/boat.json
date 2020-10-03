@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "BoatTypeIntermediateToNative",
+      "src": "Type",
+      "dest": "Variant"
+    }
+  ]
+}

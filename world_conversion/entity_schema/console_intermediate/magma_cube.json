@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Size",
+      "dest": "Size",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "wasOnGround",
+      "dest": "WasOnGround",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

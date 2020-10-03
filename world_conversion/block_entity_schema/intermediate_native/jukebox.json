@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "RecordItem",
+      "dest": "RecordItem",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    }
+  ]
+}

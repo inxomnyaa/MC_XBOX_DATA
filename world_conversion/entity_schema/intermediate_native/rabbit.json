@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "MoreCarrotTicks",
+      "dest": "MoreCarrotTicks",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "custom_transformation": "RabbitDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

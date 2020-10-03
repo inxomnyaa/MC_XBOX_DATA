@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=tlačidlo mínus	#
+accessibility.gamepad.button.systemRight=tlačidlo plus	#
+accessibility.gamepad.dpad.down=Tlačidlo Nadol	#
+accessibility.gamepad.dpad.up=Tlačidlo Nahor	#
+accessibility.gamepad.dpad.left=Tlačidlo Doľava	#
+accessibility.gamepad.dpad.right=Tlačidlo Doprava	#
+accessibility.gamepad.trigger.right=tlačidlo ZR	#
+accessibility.gamepad.trigger.left=tlačidlo ZL	#
+accessibility.gamepad.bumper.right=tlačidlo R	#
+accessibility.gamepad.bumper.left=tlačidlo L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nastavenia konta Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Nastavenia konta Microsoft	#
+
+patchNotice.title=Víta vás Minecraft – nepremeškajte skvelý obsah!	#
+patchNotice.description.onlineFeatures=Pripojte konzolu Nintendo Switch na internet, aby sa vám sprístupnili celkom nové spôsoby hrania.	#
+patchNotice.description.onlineFeatures.item1=* Prevezmite bezplatné balíky s obsahom na prevzatie, ktoré dostanete pri kúpe hry.	#
+patchNotice.description.onlineFeatures.item2=* Objavte na Trhovisku výtvory komunity, ktoré zmenia váš spôsob hrania.	#
+patchNotice.description.onlineFeatures.item3=* Hrajte online s priateľmi (aj na iných zariadeniach).	#
+patchNotice.description.onlineFeatures.item4=* Aktualizujte hru s novými funkciami, obsahom a zlepšeniami, ktoré môžu zahŕňať...	#
+patchNotice.description.freeUpdates.item1=* Nové bloky!	#
+patchNotice.description.freeUpdates.item2=* Nové položky!	#
+patchNotice.description.freeUpdates.item3=* Nové tvory!	#
+patchNotice.description.freeUpdates.item4=* Nové generované štruktúry!	#
+patchNotice.description.freeUpdates.item5=* Nové varianty biómov!	#
+patchNotice.description.onlineFeatures.item5=Práve teraz je k dispozícii aktualizácia. Pripojte konzolu Nintendo Switch na internet, aby ste túto bezplatnú aktualizáciu získali.	#
+
+thirdPartyConsole.network.networkName=Konto Nintendo	#
+thirdPartyConsole.adhoc.title=Vyberte režim siete	#
+thirdPartyConsole.adhoc.desc=Výberom položky Lokálna sieť sa spojte s inými systémami Nintendo Switch v okolí. Výberom položky Sieť online sa spojte s priateľmi po celom svete.	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Pripojiť sa k	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=sieti online	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Pripojiť sa k	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=lokálnej sieti	#
+thirdPartyConsole.adhoc.onlineNetwork=Sieť online	#
+thirdPartyConsole.adhoc.localNetwork=Lokálna sieť	#
+thirdPartyConsole.adhoc.enableOnline=Povoľuje sa sieť online	#
+thirdPartyConsole.adhoc.enableLocal=Povoľuje sa lokálna sieť	#
+thirdPartyConsole.adhoc.inprogress=Uskutočňujeme rýchle zmeny. Chvíľu počkajte...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Pripojených je príliš veľa ovládačov.	#
+thirdPartyConsole.adhoc.controllerwarning=Lokálny sieťový režim podporuje maximálne 2 pripojené bezdrôtové ovládače. (2 ovládače Joy-Con alebo 2 ovládače Pro.) Všetky ovládače prekračujúce tento limit sa odpojili.	#
+thirdPartyConsole.adhoc.store=Funkcie obchodu sú v režime lokálnej siete vypnuté.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Prihlásiť sa do konta Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Ak sa chcete prihlásiť do konta Microsoft, musíte sa pripojiť k sieti online.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Pripojiť	#
+thirdPartyConsole.startmenuscreen.xblsignin=Prihlásiť sa pomocou konta Microsoft	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Prihlasuje sa do konta Microsoft	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Prihlásiť sa pomocou konta Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Prihlasuje sa do konta Nintendo	#
+thirdPartyConsole.notsignedin=Nie ste prihlásení do konta Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Nie ste prihlásení, a preto nemôžete dosahovať výsledky.	#
+thirdPartyConsole.notsignedin.store=Na prehľadávanie obchodu budete potrebovať konto Nintendo.	#
+thirdPartyConsole.notsignedin.serversTab=Prejdite online a vyskúšajte servery Minecraft, gigantické svety prevádzkované komunitou, ktoré umožňujú súťažiť alebo spolupracovať s priateľmi (a nepriateľmi, ktorí sa tvária ako priatelia), stretávať sa v obrovských čakárňach s ostatnými hráčmi a skúmať rozľahlé vlastné svety.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Ak chcete hrať s priateľmi, prihláste sa pomocou konta Nintendo.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Toto konto nemá povolenie na pripájanie k hrám pre viacerých hráčov na konzole Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Ak sa chcete pripojiť, musíte byť priateľom s niekým v tejto hre.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Boli ste odpojení od služby Nintendo Switch Online. Prihláste sa v hlavnej ponuke a reštartujte svoj svet, aby ho videli vaši priatelia s konzolou Nintendo.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Váš svet už nie je viditeľný v lokálnej sieti. Reštartujte lokálny režim v hlavnej ponuke a reštartujte svet, aby ho videli lokálni hráči.	#
+networkWorld.add_friend=Nájsť priateľov z rôznych platforiem	#
+networkWorld.find_cross_platform_friends=Nájsť priateľov z rôznych platforiem	#
+networkWorld.joinable_nintendo_friends_label=Priatelia s konzolou Nintendo Switch, ku ktorým sa možno pripojiť	#
+networkWorld.joinable_cross_platform_friends_label=Priatelia z rôznych platforiem, ku ktorým sa možno pripojiť	#
+networkWorld.no_xbl_label=Ku hrám pre rôzne platformy sa nemôžete pripojiť bez konta Microsoft. Ak sa chcete pripojiť k svetom svojich priateľov, prihláste sa do konta Microsoft.	#
+networkWorld.no_thirdParty_label.no_subscription=Nie ste pripojení k službám Nintendo Switch Online. Ak chcete používať funkcie online, musíte mať predplatné služieb Nintendo Switch Online. Môžete si ho kúpiť v obchode Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Nie ste pripojení k službám Nintendo Switch Online. Nebudete sa môcť pripojiť k hrám pre viacerých hráčov svojich priateľov. Ak sa chcete pripojiť k svetom svojich priateľov, prihláste sa do služieb Nintendo Switch Online.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=V dôsledku rodičovskej kontroly nemôžete hrať hry pre viacerých hráčov online. Zobrazte a spravujte nastavenia hier pre viacerých hráčov pomocou položky Komunikácia s ostatnými v okne Rodičovská kontrola.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=V dôsledku rodičovskej kontroly nemôžete hrať lokálne hry pre viacerých hráčov. Zobrazte a spravujte nastavenia hier pre viacerých hráčov pomocou položky Komunikácia s ostatnými v okne Rodičovská kontrola.	#
+permissions.AddFriendsThirdParty=V dôsledku rodičovskej kontroly nemôžete pridávať priateľov. Zobrazte a spravujte nastavenia hier pre viacerých hráčov pomocou položky Komunikácia s ostatnými v okne Rodičovská kontrola.	#
+permissions.MultiplayerSessionsThirdParty=V dôsledku rodičovskej kontroly nemôžete hrať v službe Realms. Zobrazte a spravujte nastavenia hier pre viacerých hráčov pomocou položky Komunikácia s ostatnými v okne Rodičovská kontrola.	#
+options.dev_switch_coin_debug=Povoliť ladenie nákupu v obchode eShop pri pridávaní mincí	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Nie ste pripojení k službám Nintendo Switch Online. Ak chcete používať funkcie online, musíte mať predplatné služieb Nintendo Switch Online. Môžete si ho kúpiť v obchode Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Nie ste pripojení k službám Nintendo Switch Online. Vaši priatelia s konzolami Nintendo sa nebudú môcť pripojiť k vášmu svetu pre viacerých hráčov. Ak chcete hrať s priateľmi, prihláste sa do služieb Nintendo Switch Online.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Pri prepínaní zariadenia do režimu lokálnej siete sa vyskytol problém. Skontrolujte, že nie je povolený režim V lietadle, a reštartujte lokálny režim, aby ho videli lokálni hráči.	#
+createWorldScreen.check_internet_connection=Konzola Nintendo Switch nie je pripojená na internet. Vaši priatelia sa nebudú môcť pripojiť k vašim svetom pre viacerých hráčov. Ak chcete používať funkcie online, pripojte konzolu Nintendo Switch na internet.	#
+invite.notification.description=%s vás pozýva zahrať si Minecraft. Odpovedzte stlačením tlačidla -.	#
+network.thirdparty.connect.benefit=Chcete sa prihlásiť do konta Nintendo? Konto Nintendo sa požaduje na používanie služieb online.	#
+networkWorld.check_internet_connection=Konzola Nintendo Switch nie je pripojená na internet. Nebudete sa môcť pripojiť k hrám pre viacerých hráčov vašich priateľov. Ak chcete používať funkcie online, pripojte konzolu Nintendo Switch na internet.	#
+networkWorld.check_internet_connection.no_subscription=Nie ste pripojení k službám Nintendo Switch Online. Ak chcete používať funkcie online, musíte mať predplatné služieb Nintendo Switch Online. Môžete si ho kúpiť v obchode Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Nie ste pripojení k službám Nintendo Switch Online. Nebudete sa môcť pripojiť k hrám pre viacerých hráčov svojich priateľov. Ak sa chcete pripojiť k svetom svojich priateľov, prihláste sa do služieb Nintendo Switch Online.	#
+disconnectionScreen.realmsDisabled=Služba Realms je pre konzolu Switch zakázaná.	#
+disconnectionScreen.noNSO.title=Požadujú sa služby Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Ak chcete hrať hru pre viacerých hráčov na jednej obrazovke bez predplatného služieb Nintendo Switch Online, vypnite možnosť „Multiplayer” v časti Nastavenia hry. Ak chcete hrať hru pre viacerých hráčov na jednej obrazovke online, musíte mať predplatné služieb Nintendo Switch Online, ktoré si môžete kúpiť v obchode Nintento eShop.	#
+disconnectionScreen.noNSO.joinRealm=Nie ste pripojení k službám Nintendo Switch Online. Ak chcete hrať hru pre viacerých hráčov, musíte mať predplatné služieb Nintendo Switch Online. Môžete si ho kúpiť v obchode Nintendo eShop.	#
+options.xboxlivevisible=Viditeľné pre hráčov z rôznych platforiem	#
+options.achievementsDisabled=V tomto svete nemožno dosahovať výsledky.	#
+permissions.RealmsAddFriends=V dôsledku nastavenia vášho konta Microsoft nebudete môcť pridávať nových priateľov, aby s vami hrali vo vašej ríši. Môžete to zmeniť v nastaveniach ochrany údajov a bezpečnosti online na lokalite aka.ms/accountsettings. Chcete pokračovať?	#
+permissions.CloudSave=V dôsledku nastavenia vášho konta Microsoft nemôžete ukladať svety do konta. Môžete to zmeniť v nastaveniach ochrany údajov a bezpečnosti online na lokalite aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Vaše nastavenia v konte Microsoft nepovoľujú hry pre viacerých hráčov. Skontrolujte nastavenia Ochrana osobných údajov a zabezpečenie online na lokalite aka.ms/accountsettings a uistite sa, že povoľujú hru pre viacerých hráčov. 	#
+store.purchase.syncInProgress=Synchronizujú sa nákupy v obchode Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Na odomknutie tohto balíka potrebujete viac mincí (%s).	#
+xbox.signin.newaccount.welcome=Vitajte!	#
+xbox.signin.legalinfo=Pripojili ste sa ku hre Minecraft pomocou profilu Xbox Live. Zmeňte nastavenia v službe Xbox Live a získajte ďalšie informácie na lokalite http://aka.ms/accountsettings. Uplatní sa Zmluva o poskytovaní služieb spoločnosti Microsoft a Prehlásenie o ochrane osobných údajov. 	#
+xbox.failedsignin.line2=Ak budete hrať bez prihlásenia, nebudete môcť dosahovať výsledky, pripájať sa k službe Realms ani na servery.	#
+xbox.failedautosignin.message=Automatické prihlásenie zlyhalo. Ak chcete získať prístup ku kontu Microsoft, musíte sa prihlásiť ručne znova.	#
+xbox.signInLong=Prihláste sa bezplatne!	#
+xbox.signOutLong=Odhlásiť sa z konta Microsoft	#
+xbox.thirdpartysignin.line2=Ak sa chcete pripojiť, musíte sa prihlásiť pomocou konta Microsoft.	#
+xbox.profile.realName=Spravujte nastavenia ochrany údajov týkajúce sa zdieľania vášho skutočného mena na lokalite http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Odstrániť priateľa	#
+autosave.info.xbox=Keď sa zobrazí táto ikona, vaša hra sa ukladá. Kým je táto ikona na obrazovke, nevypínajte konzolu Nintendo Switch.	#
+progressScreen.message.leaveLevel=Hra sa ukladá. Nevypínajte konzolu Nintendo Switch.	#
+feed.report_xbox=Nahlásiť tímu pravidiel	#
+
+howtoplay.multiplayer.text.1=Minecraft je najlepší, keď ho hráte spoločne s priateľmi. Predvolené nastavenia sveta umožňujú vašim priateľom pripojiť sa. Na konzole Nintendo Switch môžete hrať hru pre viacerých hráčov s priateľmi, ktorí majú konzolu Nintendo, ako aj s tými čo majú iné herné zariadenia. Tu si pozrite všetky možnosti hrania hry pre viacerých hráčov.	#
+howtoplay.multiplayer.text.2.splitscreen=Kedykoľvek počas hry sa k nej môžu pripojiť až traja ďalší hráči. Spustite svoj svet a povedzte priateľom, aby sa pripojili zapnutím herných ovládačov a stlačením ľubovoľného tlačidla. Uistite sa, že každý hráč má dva ovládače Joy-Con. Musíte mať ľavý aj pravý alebo akýkoľvek iný kompletný ovládač, ktorý funguje s konzolou Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft ponúka tri hlavné spôsoby, ako môžete hrať hru pre viacerých hráčov online. Môžete hrať v službe Realms, na serveri alebo vo vlastnom svete. Ak máte predplatné služieb Nintendo Switch Online a ste prihlásení pomocou konta Microsoft, k vášmu svetu sa môžu pripojiť priatelia s inými zariadeniami. Služba Realms a servery vyžadujú konto Microsoft.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft ponúka tri hlavné spôsoby, ako môžete hrať hru pre viacerých hráčov online. Môžete hrať v službe Realms, na serveri alebo vo vlastnom svete. Po prihlásení pomocou konta Nintendo a konta Microsoft sa budú môcť k vášmu svetu pripojiť priatelia s inými zariadeniami. Služba Realms a servery vyžadujú konto Microsoft.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Ak máte predplatné služieb Nintendo Switch Online a ste prihlásení pomocou konta Microsoft, k vášmu svetu sa môžu pripojiť priatelia s inými zariadeniami.	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Po prihlásení pomocou konta Nintendo a konta Microsoft sa budú môcť k vášmu svetu pripojiť priatelia s inými zariadeniami.	#
+howtoplay.multiplayer.text.4=Ak sa chcete pripojiť ku hre pre viacerých hráčov, prejdite na kartu Priatelia. Keď budete v režime Online, uvidíte všetky svety svojich priateľov, ku ktorým sa môžete pripojiť, a svety v službe Realms. Keď budete v režime Ad hoc, v zozname sa zobrazia aj hry ad hoc vašich priateľov.	#
+howtoplay.multiplayer.text.4.norealms=Ak sa chcete pripojiť ku hre pre viacerých hráčov, prejdite na kartu Priatelia. V režime Online uvidíte všetky svety svojich priateľov, ku ktorým sa môžete pripojiť. V režime Ad hoc sa v zozname zobrazia aj hry ad hoc vašich priateľov.	#
+howtoplay.multiplayer.text.5=Keď spustíte hru online alebo sa k nej pripojíte, uvidia ju všetci vaši priatelia, ako aj priatelia vašich priateľov z konta Microsoft. Nastavenia hry pre viacerých hráčov z rôznych platforiem skontrolujete vo svojom svete stlačením tlačidla Upraviť a kliknutím na položku Hra pre viacerých hráčov. 	#
+howtoplay.multiplayer.text.7=Poskytnite priateľom vo vašom svete špeciálne schopnosti alebo im zabráňte čohokoľvek sa dotknúť. V predvolenom nastavení všetci priatelia vstupujú do sveta ako členovia. Otvorením ponuky pozastavenej hry uvidíte zoznam priateľov vo vašom svete a kliknutím na ikonu napravo od ich mena upravte iba ich povolenia vo svete.	#
+howtoplay.multiplayer.header.adhoc=Režim ad hoc	#
+howtoplay.multiplayer.text.adhoc=Chcete hrať s priateľmi, ale nie na rovnakom zariadení? Stlačením tlačidla :_gamepad_face_button_left: v hlavnej ponuke prepnite konzolu Nintendo Switch do režimu Ad hoc. V ponuke Hrať prejdite na kartu Priatelia, aby ste videli hry priateľov v okolí, alebo sami začnite novú hru a priatelia v okolí sa môžu pripojiť.	#
+howtoplay.theStore.text.4.norealms=Dodajte starej hre nový vzhľad pomocou balíkov textúr, ktoré možno navrstviť cez súčasné svety.	#
+howtoplay.theStore.text.5.norealms=Alebo ich všetky vyskúšajte s mash-up balíkmi predstavujúcimi kompletné zbierky vzhľadov, svetov a textúr, ktorých spojením premeníte svoje svety.	#
+
+trial.tabbed_upsell.xbl.title=Môžete získať viac!	#
+
+connect_gamepad.pressButtonToContinue=Ak chcete pokračovať, musíte mať ovládač Pro Controller alebo pár ovládačov Joy-Con (L)/(R).	#
+connect_gamepad.adhocMaxControllers=Pri lokálnej bezdrôtovej hre nemožno používať viac ako jeden ovládač Pro Controller alebo pár ovládačov Joy-Con (L)/(R). Vypnite všetky ďalšie ovládače.	#
+connect_gamepad.requireControllerReconfiguration=Každý hráč musí mať ovládač Pro Controller alebo pár ovládačov Joy-Con (L)/(R). Vypnite všetky ďalšie ovládače Joy-Con, ktoré nie sú súčasťou páru.	#
+connect_gamepad.handheldModeNoSplitscreen=Zistil sa ďalší ovládač, ale v režime ručného ovládania nie je k dispozícii hra pre viacerých hráčov na rozdelenej obrazovke. Odpojte ovládače Joy-Con, aby ste ukončili režim ručného ovládania, alebo vypnite všetky ďalšie ovládače.	#
+connect_gamepad.promptHandheldMode=Ku konzole sú pripojené ovládače Joy-Con. Chcete prejsť do režimu ručného ovládania? Tým ukončíte režim hry pre viacerých hráčov na rozdelenej obrazovke. Stlačením tlačidla OK zastavte hru pre viacerých hráčov na rozdelenej obrazovke a prejdite do režimu ručného ovládania alebo výberom tlačidla Zrušiť odpojte pripojené ovládače Joy-Con od hry kvôli nabíjaniu.	#

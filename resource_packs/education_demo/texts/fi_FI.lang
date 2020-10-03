@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Kiitos pelaamisesta! Tämä on esittelyluento, joten edistymistäsi ei tallenneta.	#
+
+edu_demo.tip.1=Sademetsät kätkevät sisälleen yli puolet planeettamme maaeläinlajeista.	#
+edu_demo.tip.2=Yli 25 prosenttia maailman väestöstä saa elantonsa metsistä.	#
+edu_demo.tip.3=Tulen ylläpitämiseen tarvitaan kolmea asiaa: polttoainetta, happea ja lämmönlähde.	#
+edu_demo.tip.4=Tulipalot aiheuttavat huomattavia hiilipäästöjä erityisesti turvemailla ja tiheissä metsissä.	#
+edu_demo.tip.5=Tietokoneita on opetettava, jotta ne oppivat – vähän niin kuin oppijoitakin!	#
+edu_demo.tip.6=Tekoälyä käytetään metsää koskevien tietojen keräämiseen ja analysointiin. Se on paljon nopeampaa kuin puiden laskeminen päässä.	#
+
+menu.quit.edu=POISTU LUENNOLTA	#
+menu.quit.edu.title=Poistu esittelyluennolta	#
+
+start_screen.start_demo=Aloita luento	#
+
+upsell.tab.1.title=Minecraftia kouluihin!	#
+upsell.tab.1.body=Innosta oppijoitasi eri aineissa maksuttomilla luennoilla ja tutoriaaleilla, arviointityökaluilla, luokkahuonemoninpelillä, turvallisilla kirjautumisilla ja teknisellä tuella. Aloita Minecraft: Education Editionin maksuton koejakso jo tänään!	#
+upsell.tab.1.button=Lue lisää	#
+
+upsell.tab.2.title=Opeta koodausta Minecraftin avulla	#
+upsell.tab.2.body=Käytä Minecraftia opettaaksesi oppijoitasi koodaamaan mukaansatempaavilla luennoilla ja yli 50 tunnin maksuttomalla opetusohjelmalla. Oppijat voivat kirjoittaa kuutiopohjaista koodia ja JavaScriptiä ja nähdä koodinsa heräävän henkiin pelissä!	#
+upsell.tab.2.button=Aloita koodaaminen	#
+
+upsell.tab.3.title=Joukoittain maksuttomia luentoja	#
+upsell.tab.3.body=Tutki satoja Minecraft-maailmoja ja luentoja historiasta ja kemiasta aina tietojenkäsittelytieteeseen ja matematiikkaa. Käytä näitä luentoja lähtökohtina tai luo omasi!	#
+upsell.tab.3.button=Siirry luentoihin	#
+
+upsell.tab.4.title=Kehitä sosiaalisemotionaalisia taitoja	#
+upsell.tab.4.body=Oppilaat oppivat tekemään yhteistyötä, ratkaisemaan ongelmia ja viestimään empaattisesti. Minecraft: Education Edition sisältää ominaisuuksia, jotka auttavat opettajia tavoittamaan kaikentyyppiset oppijat, kuten Syventävän lukuohjelman.	#
+upsell.tab.4.button=Lue lisää	#
+
+upsell.tab.5.title=Liity yhteisöön	#
+upsell.tab.5.body=Osallistu opettajakoulutukseen, tutustu muihin sosiaalisessa mediassa ja liity maailmanlaajuiseen yhteisöömme oppiaksesi muilta kasvattajilta. Kasvattajat yli 115 maassa käyttävät Minecraftia luokkahuoneissaan ja sinä voit olla seuraava!	#
+upsell.tab.5.button=Tule mukaan	#
+
+lesson.finished=OLEN VALMIS	#
+
+lesson.end.dialog.title=Luento suoritettu!	#
+lesson.end.dialog.body.title=ONNEKSI OLKOON	#
+lesson.end.dialog.body.wimages=Olet ansainnut sertifikaatin suorituksestasi. Katso tämän luennon kuvat ja tallenna kopio.	#
+lesson.end.dialog.body.checkport=Katso tämän luennon kuvat ja tallenna kopio.	#
+lesson.end.dialog.body.noimages=Olet ansainnut sertifikaatin suorituksestasi.	#
+lesson.end.dialog.button.morecoding=Lisää koodausta	#
+lesson.end.dialog.button.getcert=Hanki sertifikaatti	#
+lesson.end.dialog.button.exit=Poistu luennolta	#
+lesson.end.dialog.button.export=Tallenna	#
+
+lesson.end.access.imagespreview=Luennon kuva %1/%2	#
+lesson.end.access.export=Vie luennon kuvia	#

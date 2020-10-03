@@ -1,0 +1,24 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Items",
+      "dest": "Items",
+      "custom_transformation": "ConsoleBrewingStandInventoryToIntermediate"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+	{
+      "src": "Fuel",
+      "dest": "FuelAmount",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

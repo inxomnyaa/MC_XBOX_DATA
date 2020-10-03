@@ -1,0 +1,586 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "lodestone": {
+    "textures": {
+      "up": "lodestone_top",
+      "down": "lodestone_top",
+      "north": "lodestone_side",
+      "south": "lodestone_side",
+      "west": "lodestone_side",
+      "east": "lodestone_side"
+    },
+    "sound": "lodestone"
+  },
+  "crimson_roots": {
+    "textures": {
+      "up": "crimson_roots",
+      "down": "crimson_roots",
+      "north": "crimson_roots",
+      "south": "crimson_roots_pot",
+      "west": "crimson_roots",
+      "east": "crimson_roots"
+    },
+    "sound": "roots"
+  },
+  "warped_roots": {
+    "textures": {
+      "up": "warped_roots",
+      "down": "warped_roots",
+      "north": "warped_roots",
+      "south": "warped_roots_pot",
+      "west": "warped_roots",
+      "east": "warped_roots"
+    },
+    "sound": "roots"
+  },
+  "crimson_fungus": {
+    "textures": "nether_shroom_red",
+    "sound": "fungus"
+  },
+  "warped_fungus": {
+    "textures": "nether_shroom_blue",
+    "sound": "fungus"
+  },
+  "warped_wart_block": {
+    "textures": "warped_wart_block",
+      "sound": "nether_wart"
+  }, 
+  "nether_wart": {
+    "textures": "nether_wart",
+    "sound": "nether_wart"
+  },
+  "nether_wart_block": {
+    "textures": "nether_wart_block",
+    "sound": "nether_wart"
+  },
+  "crimson_stem": {
+    "textures": {
+      "up": "crimson_log_top",
+      "down": "crimson_log_top",
+      "north": "crimson_log_side",
+      "south": "crimson_log_side",
+      "west": "crimson_log_side",
+      "east": "crimson_log_side"
+    },
+    "sound": "stem"
+  },
+  "warped_stem": {
+    "textures": {
+      "up": "warped_stem_top",
+      "down": "warped_stem_top",
+      "north": "warped_stem_side",
+      "south": "warped_stem_side",
+      "west": "warped_stem_side",
+      "east": "warped_stem_side"
+    },
+    "sound": "stem"
+  },
+  "stripped_crimson_stem": {
+    "textures": {
+      "up": "stripped_crimson_stem_top",
+      "down": "stripped_crimson_stem_top",
+      "north": "stripped_crimson_stem_side",
+      "south": "stripped_crimson_stem_side",
+      "west": "stripped_crimson_stem_side",
+      "east": "stripped_crimson_stem_side"
+    },
+    "sound": "stem"
+  },
+  "stripped_warped_stem": {
+    "textures": {
+      "up": "stripped_warped_stem_top",
+      "down": "stripped_warped_stem_top",
+      "north": "stripped_warped_stem_side",
+      "south": "stripped_warped_stem_side",
+      "west": "stripped_warped_stem_side",
+      "east": "stripped_warped_stem_side"
+    },
+    "sound": "stem"
+  },
+  "crimson_hyphae": {
+    "textures": {
+      "up": "crimson_log_side",
+      "down": "crimson_log_side",
+      "north": "crimson_log_side",
+      "south": "crimson_log_side",
+      "west": "crimson_log_side",
+      "east": "crimson_log_side"
+    },
+    "sound": "stem"
+  },
+  "warped_hyphae": {
+    "textures": {
+      "up": "warped_stem_side",
+      "down": "warped_stem_side",
+      "north": "warped_stem_side",
+      "south": "warped_stem_side",
+      "west": "warped_stem_side",
+      "east": "warped_stem_side"
+    },
+    "sound": "stem"
+  },
+  "stripped_crimson_hyphae": {
+    "textures": {
+      "up": "stripped_crimson_stem_side",
+      "down": "stripped_crimson_stem_side",
+      "north": "stripped_crimson_stem_side",
+      "south": "stripped_crimson_stem_side",
+      "west": "stripped_crimson_stem_side",
+      "east": "stripped_crimson_stem_side"
+    },
+    "sound": "stem"
+  },
+  "stripped_warped_hyphae": {
+    "textures": {
+      "up": "stripped_warped_stem_side",
+      "down": "stripped_warped_stem_side",
+      "north": "stripped_warped_stem_side",
+      "south": "stripped_warped_stem_side",
+      "west": "stripped_warped_stem_side",
+      "east": "stripped_warped_stem_side"
+    },
+    "sound": "stem"
+  },
+  "shroomlight": {
+    "textures": "shroomlight",
+    "sound": "shroomlight"
+  },
+  "crimson_nylium": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    },
+    "textures": {
+      "up": "crimson_nylium_top",
+      "down": "netherrack",
+      "north": "crimson_nylium_side",
+      "south": "crimson_nylium_side",
+      "west": "crimson_nylium_side",
+      "east": "crimson_nylium_side"
+    },
+    "sound": "nylium"
+  },
+  "warped_nylium": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    },
+    "textures": {
+      "up": "warped_nylium_top",
+      "down": "netherrack",
+      "north": "warped_nylium_side",
+      "south": "warped_nylium_side",
+      "west": "warped_nylium_side",
+      "east": "warped_nylium_side"
+    },
+    "sound": "nylium"
+  },
+  "vine": {
+    "textures": "vine",
+    "carried_textures": "vine_carried",
+    "sound": "vines"
+  },
+  "weeping_vines": {
+    "textures": {
+      "down": "weeping_vines_bottom",
+      "up": "weeping_vines_base",
+      "north": "weeping_vines_base",
+      "south": "weeping_vines_base",
+      "west": "weeping_vines_base",
+      "east": "weeping_vines_base"
+    },
+    "sound": "vines"
+  },
+  "twisting_vines": {
+    "textures": {
+      "down": "twisting_vines_bottom",
+      "up": "twisting_vines_base",
+      "north": "twisting_vines_base",
+      "south": "twisting_vines_base",
+      "west": "twisting_vines_base",
+      "east": "twisting_vines_base"
+    },
+    "sound": "vines"
+  },
+  "basalt": {
+    "textures": {
+      "up": "basalt_top",
+      "down": "basalt_top",
+      "side": "basalt_side"
+    },
+    "sound": "basalt"
+  },
+  "polished_basalt": {
+    "textures": {
+      "up": "polished_basalt_top",
+      "down": "polished_basalt_top",
+      "side": "polished_basalt_side"
+    },
+    "sound": "basalt"
+  },
+  "soul_soil": {
+    "textures": "soul_soil",
+    "sound": "soul_soil"
+  },
+  "soul_fire": {
+    "textures": {
+      "up": "soul_fire_0",
+      "down": "soul_fire_1",
+      "north": "soul_fire_0",
+      "south": "soul_fire_0",
+      "west": "soul_fire_0",
+      "east": "soul_fire_0"
+    },
+    "sound": "stone"
+  },
+  "nether_sprouts": {
+    "textures": "nether_sprouts",
+    "sound": "nether_sprouts"
+  },
+  "target": {
+    "textures": {
+      "up": "target_top",
+      "down": "target_top",
+      "side": "target_side"
+    },
+    "sound": "grass"
+  },
+  "soul_torch": {
+    "textures": "soul_torch",
+    "sound": "wood"
+  },
+  "soul_lantern": {
+    "textures": "soul_lantern",
+    "carried_textures": "soul_lantern_carried",
+    "sound": "lantern"
+  },
+  "netherite_block": {
+    "textures": "netherite_block",
+    "sound": "netherite"
+  },
+  "nether_gold_ore": {
+    "textures": "nether_gold_ore",
+    "sound": "nether_gold_ore"
+  },
+  "ancient_debris": {
+    "textures": {
+      "up": "ancient_debris_top",
+      "down": "ancient_debris_top",
+      "north": "ancient_debris_side",
+      "south": "ancient_debris_side",
+      "west": "ancient_debris_side",
+      "east": "ancient_debris_side"
+    },
+    "sound": "ancient_debris"
+  },
+  "warped_standing_sign": {
+    "textures": "warped_sign",
+    "sound": "wood"
+  },
+  "crimson_standing_sign": {
+    "textures": "crimson_sign",
+    "sound": "wood"
+  },
+  "warped_wall_sign": {
+    "textures": "warped_sign",
+    "sound": "wood"
+  },
+  "crimson_wall_sign": {
+    "textures": "crimson_sign",
+    "sound": "wood"
+  },
+  "crimson_door": {
+    "textures": {
+      "up": "crimson_door_lower",
+      "down": "crimson_door_lower",
+      "side": "crimson_door_top"
+    },
+    "sound": "wood"
+  },
+  "warped_door": {
+    "textures": {
+      "up": "warped_door_lower",
+      "down": "warped_door_lower",
+      "side": "warped_door_top"
+    },
+    "sound": "wood"
+  },
+  "crimson_planks": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_planks": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_trapdoor": {
+    "textures": "crimson_trapdoor",
+    "sound": "wood"
+  },
+  "warped_trapdoor": {
+    "textures": "warped_trapdoor",
+    "sound": "wood"
+  },
+  "crimson_fence": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_fence": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_fence_gate": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_fence_gate": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_double_slab": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "crimson_slab": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_double_slab": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "warped_slab": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_stairs": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_stairs": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_button": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_button": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "crimson_pressure_plate": {
+    "textures": "crimson_planks",
+    "sound": "wood"
+  },
+  "warped_pressure_plate": {
+    "textures": "warped_planks",
+    "sound": "wood"
+  },
+  "smooth_quartz_stairs": {
+    "textures": "stair_smooth_quartz_block",
+    "sound": "stone"
+  },
+  "jigsaw": {
+    "textures": {
+      "up": "jigsaw_lock",
+      "down": "jigsaw_side",
+      "north": "jigsaw_front",
+      "south": "jigsaw_back",
+      "west": "jigsaw_side",
+      "east": "jigsaw_side"
+    }
+  },
+  "soul_sand": {
+    "textures": "soul_sand",
+    "sound": "soul_sand"
+  },
+  "bone_block": {
+    "textures": {
+      "up": "bone_block_top",
+      "down": "bone_block_top",
+      "side": "bone_block_side"
+    },
+    "sound": "bone_block"
+  },
+  "blackstone": {
+    "textures": {
+      "up": "blackstone_top",
+      "down": "blackstone_top",
+      "side": "blackstone"
+    },
+    "sound": "stone"
+  },
+  "polished_blackstone_bricks": {
+    "textures": "polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "polished_blackstone_brick_stairs": {
+    "textures": "polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "nether_brick": {
+    "textures": "nether_brick",
+    "brightness_gamma": 0.80,
+    "sound": "nether_brick"
+  },
+  "nether_brick_fence": {
+    "textures": "nether_brick",
+    "sound": "nether_brick"
+  },
+  "nether_brick_stairs": {
+    "textures": "nether_brick",
+    "sound": "nether_brick"
+  },
+  "red_nether_brick": {
+    "textures": "red_nether_brick",
+    "brightness_gamma": 0.80,
+    "sound": "nether_brick"
+  },
+  "red_nether_brick_stairs": {
+    "textures": "red_nether_brick",
+    "brightness_gamma": 0.80,
+    "sound": "nether_brick"
+  },
+  "netherrack": {
+    "isotropic": true,
+    "textures": "netherrack",
+    "sound": "netherrack"
+  },
+  "blackstone_stairs": {
+    "textures": "blackstone",
+    "sound": "stone"
+  },
+  "blackstone_wall": {
+    "textures": "blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_brick_wall": {
+    "textures": "polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "chiseled_polished_blackstone": {
+    "textures": "chiseled_polished_blackstone",
+    "sound": "stone"
+  },
+  "cracked_polished_blackstone_bricks": {
+    "textures": "cracked_polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "gilded_blackstone": {
+    "textures": "gilded_blackstone",
+    "sound": "stone"
+  },
+  "honey_block": {
+    "textures": {
+      "up": "honey_top",
+      "down": "honey_bottom",
+      "north": "honey_side",
+      "south": "honey_side",
+      "west": "honey_side",
+      "east": "honey_side"
+    },
+      "sound": "honey_block"
+  },
+  "honeycomb_block": {
+    "textures": "honeycomb_block",
+    "sound": "coral"
+  },
+  "quartz_ore": {
+    "textures": "quartz_ore",
+    "sound": "nether_gold_ore"
+  },
+  "respawn_anchor": {
+    "textures": {
+      "down": "respawn_anchor_bottom",
+      "up": "respawn_anchor_top",
+      "north": "respawn_anchor_side",
+      "east": "respawn_anchor_side",
+      "south": "respawn_anchor_side",
+      "west": "respawn_anchor_side"
+    },
+    "sound": "metal"
+  },
+  "crying_obsidian": {
+    "isotropic": true,
+    "textures": "crying_obsidian",
+    "brightness_gamma": 2.00,
+    "sound": "stone"
+  },
+  "blackstone_slab": {
+    "textures": "blackstone",
+    "sound": "stone"
+  },
+  "blackstone_double_slab": {
+    "textures": "blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_brick_slab": {
+    "textures": "polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "polished_blackstone_brick_double_slab": {
+    "textures": "polished_blackstone_bricks",
+    "sound": "stone"
+  },
+  "chain": {
+    "textures": {
+      "up": "chain1",
+      "down": "chain1",
+      "side": "chain2"
+    },
+    "sound": "chain"
+  },
+  "polished_blackstone": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_stairs": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_slab": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_double_slab": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_pressure_plate": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_button": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "polished_blackstone_wall": {
+    "textures": "polished_blackstone",
+    "sound": "stone"
+  },
+  "chiseled_nether_bricks": {
+    "textures": "chiseled_nether_bricks",
+    "sound": "stone"
+  },
+  "cracked_nether_bricks": {
+    "textures": "cracked_nether_bricks",
+    "sound": "stone"
+  },
+  "quartz_bricks": {
+    "textures": "quartz_bricks",
+    "sound": "stone"
+  },
+  "soul_campfire": {
+    "textures": {
+      "up": "soul_campfire_fire",
+      "down": "campfire_log",
+      "side": "soul_campfire_log_lit"
+    },
+    "sound": "wood"
+  }
+}

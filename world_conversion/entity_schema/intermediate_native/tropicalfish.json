@@ -1,0 +1,29 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Variant",
+      "dest": "Variant",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "MarkVariant",
+      "dest": "MarkVariant",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "Color",
+      "dest": "Color",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "Color2",
+      "dest": "Color2",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    }
+  ]
+}

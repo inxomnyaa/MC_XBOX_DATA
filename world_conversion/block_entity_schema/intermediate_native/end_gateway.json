@@ -1,0 +1,26 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Age",
+      "dest": "Age",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "ExactTeleport",
+      "dest": "ExactTeleport",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "ExitPortal",
+      "dest": "ExitPortal",
+      "src_members": [ "intValue" ],
+      "dest_members": [ "TAG_Int" ],
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "direction",
+      "dest": "Direction",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "src": "life",
+      "dest": "Life",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "power",
+      "dest": "Power",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    }
+  ]
+}

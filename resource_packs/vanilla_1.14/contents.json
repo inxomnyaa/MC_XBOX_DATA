@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "path": "blocks.json"
+        },
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "sounds.json"
+        },
+        {
+            "path": "animations/bee.animation.json"
+        },
+        {
+            "path": "animation_controllers/bee.animation_controllers.json"
+        },
+        {
+            "path": "entity/bee.entity.json"
+        },
+        {
+            "path": "items/honeycomb.json"
+        },
+        {
+            "path": "items/honey_bottle.json"
+        },
+        {
+            "path": "models/entity/bee.geo.json"
+        },
+        {
+            "path": "models/entity/parrot.geo.json"
+        },
+        {
+            "path": "particles/block_slide.json"
+        },
+        {
+            "path": "particles/honey_drip.json"
+        },
+        {
+            "path": "particles/nectar_drip.json"
+        },
+        {
+            "path": "render_controllers/bee.render_controllers.json"
+        },
+        {
+            "path": "sounds/sound_definitions.json"
+        },
+        {
+            "path": "textures/item_texture.json"
+        },
+        {
+            "path": "textures/terrain_texture.json"
+        },
+        {
+            "path": "textures/textures_list.json"
+        },
+        {
+            "path": "textures/blocks/beehive_front.png"
+        },
+        {
+            "path": "textures/blocks/beehive_front_honey.png"
+        },
+        {
+            "path": "textures/blocks/beehive_side.png"
+        },
+        {
+            "path": "textures/blocks/beehive_top.png"
+        },
+        {
+            "path": "textures/blocks/bee_nest_bottom.png"
+        },
+        {
+            "path": "textures/blocks/bee_nest_front.png"
+        },
+        {
+            "path": "textures/blocks/bee_nest_front_honey.png"
+        },
+        {
+            "path": "textures/blocks/bee_nest_side.png"
+        },
+        {
+            "path": "textures/blocks/bee_nest_top.png"
+        },
+        {
+            "path": "textures/blocks/honeycomb.png"
+        },
+        {
+            "path": "textures/blocks/honey_bottom.png"
+        },
+        {
+            "path": "textures/blocks/honey_side.png"
+        },
+        {
+            "path": "textures/blocks/honey_top.png"
+        },
+        {
+            "path": "textures/entity/bee/bee.png"
+        },
+        {
+            "path": "textures/entity/bee/bee_angry.png"
+        },
+        {
+            "path": "textures/entity/bee/bee_angry_nectar.png"
+        },
+        {
+            "path": "textures/entity/bee/bee_nectar.png"
+        },
+        {
+            "path": "textures/items/honeycomb.png"
+        },
+        {
+            "path": "textures/items/honey_bottle.png"
+        }
+    ]
+}

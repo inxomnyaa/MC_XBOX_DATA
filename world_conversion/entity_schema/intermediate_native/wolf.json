@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "WolfDefinitions",
+      "dest": "definitions"
+    },
+    {
+      "src": "Sitting",
+      "dest": "Sitting",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "OwnerNew",
+      "dest": "OwnerNew",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int64",
+      "optional": true
+    }
+  ]
+}

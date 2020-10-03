@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Изключете телефона от слушалките, за да влезете в Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Изключете телефона от слушалките, за да добавите приятели в Xbox Live.	#
+xblLogin.LoginMessageRift=Изключете слушалките, за да влезете в Xbox Live.	#
+xblLogin.AddFriendMessageRift=Изключете слушалките, за да добавите приятели в Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Изключете слушалките, за да прегледате картата на играч.	#
+
+LostFocus.Rift=Вече не откриваме мишката! Изберете Minecraft на работния плот, ако искате да я използвате.	#
+
+vr.controls.HandControllerTracked=Установено проследяване с докосване в Oculus	#
+vr.controls.HandControllerTrackingLost=Изгубено проследяване с докосване в Oculus	#
+
+FileBrowser.Rift.Skin=Изключете слушалките, за да изберете скин по избор.	#
+FileBrowser.Rift.TemplateResource=Изключете слушалките, за да изберете шаблонен ресурс.	#
+FileBrowser.Rift.Export=Изключете слушалките, за да експортирате света.	#
+FileBrowser.Rift.Import=Изключете слушалките, за да импортирате света.	#
+FileBrowser.Rift.ExportBook=Изключете очилата за виртуална реалност, за да експортирате книгата си.	#
+FileBrowser.Rift.ExportPortfolio=Изключете слушалките, за да експортирате портфолиото.	#
+FileBrowser.Rift.FileChooser=Избор на файл	#
+FileBrowser.Rift.FolderChooser=Избор на папка	#
+FileBrowser.Rift.ExportWorld=Експортиране на свят	#
+FileBrowser.Rift.ExportResourcesPrompt=Изключете слушалките, за да експортирате тези ресурси.	#
+FileBrowser.Rift.ExportResources=Експортиране на ресурси	#
+FileBrowser.Rift.SkinChooser=Избор на скин	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=Настройки за VR	#
+options.vrHideHud=Скриване на HUD	#
+options.vrHideHand=Скриване на ръка	#
+options.vrHideGUI=Скриване на GUI във VR	#
+options.vrGamma=Яркост във VR	#
+options.vrMsaa=Изглаждане на назъбванията във VR	#
+options.vrRenderDistance=Разстояние на рендиране във VR	#
+options.vrParticleRenderDistance=Разстояние на рендиране на частиците във VR	#
+options.vrResetPlayerAlignment=Нулиране на подравняването във VR	#
+options.vrHMDdisplacement=Използване на отместването на HMD за придвижване	#
+options.vrHeadSteering=Управление с глава във VR	#
+options.vrTurningOptions=Опции за завъртане	#
+options.StutterTurn=Завъртане във VR	#
+options.StutterTurnSound=Звук при завъртане във VR	#
+options.StutterConstantAngleOrTime=Режим на постоянна скорост на завъртане във VR	#
+options.3DRendering=3D рендиране	#
+options.vrHudAtTop=HUD отгоре	#
+options.vrAutojump=Автоматично скачане във VR	#
+options.vrLinearJump=Линейно скачане във VR	#
+options.vrLinearMotion=Линейно движение във VR	#
+options.stickyMining=Добив на руда с оставащи клавиши	#
+options.stickyMiningHand=Добив на руда с оставащи клавиши за ръчен контролер	#
+options.vrMovingBackwardsHardStop=Внезапно спиране при обратен ход	#
+options.comfortControls=Контроли за VR	#
+options.ShowComfortSelectScreen=Показване на екрана за избор на контроли	#
+options.vrHudDrifts=Плаващ HUD	#
+options.vrLivingRoomCursorCentered=Центриран курсор в режим на всекидневна във VR	#
+options.vrTapTurn=Завъртане с докосване	#
+options.vrTapTurnSensitivity=Чувствителност на завъртане с докосване	#
+options.vrRollTurning=Завъртане с колелце	#
+options.vrRollTurnSensitivity=Чувствителност на завъртането с колелце	#
+options.vrHandControlsItem=Елемент от контролите на ръчния контролер	#
+options.vrHandControlsHUD=HUD на контролите на ръчния контролер	#
+options.vrHandPointer=Видим показалец на ръчния контролер	#
+options.vrHandsVisible=Видими ръце	#
+options.vr180Turning=Обръщане със стика на 180 градуса	#
+options.vrMirrorTexture=Разрешаване на огледални текстури	#
+options.vrSensitivity=Чувствителност във VR	#
+options.vrUIMouseSensitivity=Чувствителност на ПИ във VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Контроли за VR	#
+
+vr.controls.title.classic=Класически контроли – интензивен режим	#
+vr.controls.title.experimental=Контроли за VR – умерен режим	#
+vr.controls.classicDescription=Класически форми на скачане и завъртане, които не са пригодени за VR. Нивото на комфорт е интензивно за повечето хора.	#
+vr.controls.experimentalDescription=Завъртането се случва на етапи. Курсорът и скачането са пригодени за VR за подобрен комфорт при движение за повечето хора (в процес на довършване).	#
+vr.controls.sharedDescription=Контролите могат да се променят и в играта от менюто с опции.	#
+vr.moreOptions=Още опции...	#
+vr.moreInformation=Още информация...	#
+vr.detailedInformation=Няколко функции на играта са регулирани с цел повече комфорт във VR – завъртането във VR например е функция, която разделя на етапи движението при завъртане, за да намали чувството на дезориентация.	#
+vr.detailedInformationLink=За повече информация относно контролите за VR и за задкулисни истории посетете minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Повторно центриране на устройството	#
+vr.pausescreen.recenterDeviceKeyboard=Натиснете N за повторно центриране на устройството	#
+vr.warning.controllerRequired=Изисква се контролер за игри	#
+vr.warning.controllerRecommended=За VR се препоръчва контролер за игри	#
+vr.warning.controllerOrMouseRecommended=За VR се препоръчва контролер за игри или мишка	#
+vr.warning.exitGameWarning=Искате ли да излезете от Minecraft?	#
+vr.alignscreen.pressButtonX=Натиснете бутона „X“ на контролера, за да продължите	#
+vr.alignscreen.pressButtonXOrMouse=Щракнете с мишката или натиснете бутон на контролера, за да продължите	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Натиснете бутон „А“ на вашия контролер за игри или Select на контролера за Windows Mixed Reality, за да продължите	#
+vr.alignscreen.pressAnyButton=Застанете с глава в неутралната позиция и натиснете бутон	#
+vr.alignscreen.info=Забележка: Тази функция още се довършва. VR може да причини дискомфорт при някои хора. Не забравяйте да си правите почивки всеки път, когато имате нужда, и да използвате режима „Всекидневна“ с докосване на тъчпада за изглед с по-слаба интензивност.	#
+vr.alignscreen.info_viewbutton=Забележка: Тази функция още се довършва. VR може да причини дискомфорт при някои хора. Не забравяйте да си правите почивки всеки път, когато имате нужда, и да използвате режима „Всекидневна“ с натискане на D-Pad Up за изглед с по-слаба интензивност.	#
+
+accessibility.gamepad.button.systemLeft=бутон за избиране	#
+accessibility.gamepad.button.systemRight=бутон „старт“	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Наистина ли искате да излезете?	#
+ori.confirm.update=Актуализиране на Minecraft?	#
+ori.pending=Изчаква се завършването на Windows Update.	#
+ori.installing=Инсталиране...	#
+ori.updating=Актуализиране...	#
+ori.launching=Стартиране!	#
+ori.check_for_update=Проверка за актуализации...	#
+ori.error.unavailable=Няма достъп до Minecraft. Уверете се, че сте свързани с интернет и че сте влезли в магазина.	#
+ori.error.unknown=Възникна неизвестна грешка. Опитайте отново по-късно.	#
+ori.error.not_supported=Minecraft не се поддържа на тази система.	#
+ori.error.launch_failure=Неуспешно стартиране на Minecraft.	#
+ori.error.version=Версията ви на Minecraft е остаряла. Актуализирайте, за да можете да играете.	#
+ori.error.win10=Изисква се версия 1607 на Windows 10 или по-нова.	#
+ori.error.install_error=При нас възникна грешка. Код на грешката: 0x	#
+ori.error.low_storage=Неуспешно инсталиране. Свободното място за съхранение не е достатъчно.	#
+ori.error.no_internet=Неуспешно свързване. Проверете връзката си с интернет.	#
+ori.error.winUpdateDisabled=Трябва да разрешите Windows Update.	#
+ori.confirm.controls.controller.confirm=Потвърждение	#
+ori.confirm.controls.controller.cancel=Отказ	#
+ori.confirm.controls.keyboard.confirm=Потвърждение: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Отказ: [Esc]	#
+ori.exit.controls.controller=Изход	#
+ori.exit.controls.keyboard=Изход: [Enter]	#
+ori.cancelling=Отмяна...	#
+

@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Bir oyuncu için Kod Oluşturucu durumunu ayarlar.	#
+commands.codebuilder.invalidurl=URL geçersiz veya desteklenmeyen bir web sitesini işaret ediyor.	#
+commands.takepicture.description=Oyuncunun fotoğrafını veya oyuncunun bakış açısından bir fotoğraf çeker.	#
+commands.takepicture.cameranotfound=Kamera bulunamadı.	#
+commands.takepicture.cameranotspawned=Kamera oluşturulamadı.	#
+
+library.connection.failed.body=Kitaplık'a bağlanamıyoruz. Bunun nedeni bilgisayarının çevrimdışı olması veya Kitaplık kataloğuna erişim engellenmiş olması olabilir.	#
+library.connection.failed.help=Yardım Al	#
+library.connection.noWorldFound.title=Dünya Bulunamadı	#
+library.connection.noWorldFound.body=Görünüşe göre bu kategoride dünya yok.	#
+library.findMoreWorlds=Daha Fazla Dünya Bul	#
+library.leaveFeedback=Geri Bildirimde Bulun	#
+library.title=Kitaplık	#
+library.searchResults=Şunun için sonuçlar: "%1"	#
+library.item.createdBy=%s tarafından	#
+library.item.age=Yaş: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Süre: %1	#
+library.item.duration.minute=%1 Dakika	#
+library.item.duration.multipleMinutes=%1 Dakika	#
+library.item.duration.hour=%1 Saat	#
+library.item.duration.multipleHours=%1 Saat	#
+
+library.item.difficulty=Zorluk: %1	#
+library.item.difficulty.beginner=Başlangıç	#
+library.item.difficulty.intermediate=Orta Seviye	#
+library.item.difficulty.advanced=İleri Seviye	#
+
+library.item.tags=Etiketler:	#
+library.item.tagsAll=TÜM ETİKETLER:	#
+library.item.tagsAll.tts=Daha fazla etiket göster	#
+library.item.button.create=DÜNYA OLUŞTUR	#
+library.item.button.share=BAĞLANTIYI PAYLAŞ	#
+library.item.button.plan=DERS PLANI	#
+library.item.button.resources=KAYNAKLAR	#
+library.item.progress.body=Yeni dünyayı içeri aktarmaya hazırlanıyor. Bu işlem birkaç dakika sürebilir.	#
+library.item.description=AÇIKLAMA	#
+library.item.overview=GENEL BAKIŞ	#
+library.item.expandable.readLess=Daha Az Oku	#
+library.item.expandable.readMore=Daha Fazla Bilgi	#
+
+library.item.section.languages=DESTEKLENEN DİLLER	#
+library.item.section.languages.tip=Bu ders tercih ettiğiniz dilde mevcut değilse kitaplar, işaretler, kartlar ve ODK iletişim kutusu gibi oyun içi metinleri çevirmek için Tam Ekran Okuyucu kullanılabilir.	#
+library.item.section.questions=TEMEL SORULAR	#
+library.item.section.generic_objectives=HEDEFLER	#
+library.item.section.objectives=ÖĞRENME HEDEFLERİ	#
+library.item.section.prep=ÖĞRETMEN HAZIRLIĞI VE NOTLAR	#
+library.item.section.activities=ÖĞRENCİ ETKİNLİKLERİ	#
+library.item.section.assessment=DEĞERLENDİRME	#
+library.item.section.extensions=UZANTILAR	#
+
+library.category.label.biomes=BİYOMLAR VE DÜNYALAR	#
+library.category.title.biomes=Biyomlar ve Dünyalar	#
+library.category.description.biomes=Minecraft: Education Edition'da ders oluşturmaya başlamak için bu dünya ve biyom koleksiyonunu kullanın.	#
+
+library.category.label.biomes.biome=BİYOMLAR	#
+library.category.title.biomes.biome=Biyomlar	#
+library.category.description.biomes.biome=Minecraft'ta biyomlar; kendine özgü coğrafi özellikleri, bitkileri ve hayvanları ile ayırt edilen bölgelerdir.	#
+
+library.category.label.biomes.featured=ÖNE ÇIKAN DÜNYALAR	#
+library.category.title.biomes.featured=Öne Çıkan Dünyalar	#
+
+library.category.label.buildChallenges=AYLIK İNŞA ETME GÖREVLERİ	#
+library.category.title.buildChallenges=Aylık İnşa Etme Görevleri	#
+library.category.description.buildChallenges=Sınıfınız için uygulanması kolay olan bu etkinliklerle öğrencilerin yaratıcılığını harekete geçirin ve 21. Yüzyıl Becerilerini güçlendirin.	#
+
+library.category.label.howToPlay=NASIL OYNANIR	#
+library.category.description.howToPlay=Bu dünyalar ve etkinlikler, sınıfınızda Minecraft: Education Edition'ı nasıl kullanabileceğinizi öğrenmeniz için giriş niteliğinde bir deneyim olarak oluşturulmuştur.	#
+
+library.category.label.howToPlay.startHere=BURADAN BAŞLA	#
+library.category.title.howToPlay.startHere=Buradan Başla	#
+library.category.description.howToPlay.startHere=Bu öğretici dünyaların her biri, sınıfınızda Minecraft: Education Edition'ı kullanmayı destekleyen farklı becerileri öğrenmenize yardımcı olmak üzere tasarlanmıştır.	#
+
+library.category.label.howToPlay.additional=EK ÖĞRETİCİLER	#
+library.category.title.howToPlay.additional=Ek Öğreticiler	#
+
+library.category.label.SEL=SOSYAL DUYGUSAL	#
+library.category.title.SEL=Sosyal Duygusal	#
+library.category.description.SEL=Bu dünyalar ve etkinlikler, Sosyal ve Duygusal Öğrenmeyi destekler. Duygusal açıdan iyi olma, empati ve sorumlu kararlar verme kavramlarına odaklanılır.	#
+
+library.category.label.digitalCitizen=DİJİTAL VATANDAŞLIK	#
+library.category.title.digitalCitizen=Dijital Vatandaşlık	#
+library.category.description.digitalCitizen=Bu dünyalar ve etkinlikler, Dijital Vatandaşlık konusuna odaklanarak öğrencilere medya okuryazarlığı, gizlilik ve çevrimiçi topluluklara katılım konusunda destek verir.	#
+
+library.category.label.lessons=DERSLER	#
+library.category.title.lessons=Dersler	#
+
+library.category.label.lessons.genericAdditional=EK DERSLER	#
+library.category.title.lessons.genericAdditional=Ek Dersler	#
+
+library.category.label.languageArts=DİL SANATLARI	#
+library.category.title.languageArts=Dil Sanatları	#
+
+library.category.label.languageArts.litStudies=EDEBİYAT ÇALIŞMALARI	#
+library.category.title.languageArts.litStudies=Edebiyat Çalışmaları	#
+
+library.category.label.languageArts.litStudies.treasureIsland=HAZİNE ADASI	#
+library.category.title.languageArts.litStudies.treasureIsland=Hazine Adası	#
+library.category.description.languageArts.litStudies.treasureIsland=Bu ders serisi, Robert Louis Stevenson'ın "Hazine Adası" adlı çalışmasıyla İngilizce Dil Sanatları'nı öğretmeye yardımcı olmak üzere tasarlanmıştır.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KENSUKE KRALLIĞI	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Kensuke Krallığı	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Bu ders serisi, Michael Morpurgo'nun "Kensuke Krallığı" adlı çalışmasıyla İngilizce Dil Sanatları'nı öğretmeye yardımcı olmak üzere tasarlanmıştır.	#
+
+library.category.label.languageArts.litStudies.swissFamily=İSVİÇRELİ ROBINSON AİLESİ	#
+library.category.title.languageArts.litStudies.swissFamily=İsviçreli Robinson Ailesi	#
+library.category.description.languageArts.litStudies.swissFamily=Bu ders serisi, "Robinson Crusoe" ve "İsviçreli Robinson Ailesi" adlı çalışmalarla İngilizce Dil Sanatları'nı öğretmeye yardımcı olmak üzere tasarlanmıştır.	#
+
+library.category.label.science=FEN BİLİMLERİ	#
+library.category.title.science=Fen Bilimleri	#
+
+library.category.label.science.chemistry=KİMYA	#
+library.category.title.science.chemistry=Kimya	#
+
+library.category.label.science.biology=BİYOLOJİ	#
+library.category.title.science.biology=Biyoloji	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Bu beş ders ve eşsiz Minecraft dünyaları, farklı konu ve yaş gruplarına yayılmaktadır. Verilen eğitim programına göre öğrenciler Afrika düzlüklerinde maceraya çıkabilir, bir çalışma iskelesini, gergedan yetimhanesini ve bekçi istasyonunu araştırabilir, yol üzerinde sorunları çözüp becerilerini geliştirebilir.	#
+
+library.category.label.science.extinction=NESİLLERİN TÜKENMESİ NEDENİYLE BİYOLOJİK ÇEŞİTLİLİK KRİZİ	#
+library.category.title.science.extinction=Nesillerin Tükenmesi Nedeniyle Biyolojik Çeşitlilik Krizi	#
+library.category.description.science.extinction=Sürükleyici bir Minecraft dünyası ve standartlara dayalı derslerden oluşan bu içerik paketinde Dünya Doğayı Koruma Vakfı ile iş birliği yaptık. Ekosistemler, doğayı koruma ve biyolojik çeşitlilik hakkında uygulamalı bilgiler almak için bu kaynakları araştırın.	#
+
+library.category.label.history=TARİH VE KÜLTÜR	#
+library.category.title.history=Tarih ve Kültür	#
+
+library.category.label.history.oregonTrail=OREGON YOLU	#
+library.category.title.history.oregonTrail=Oregon Yolu	#
+library.category.description.history.oregonTrail=Houghton Mifflin Harcourt ile ortaklık kuran Minecraft: Education Edition, Oregon Yolu Deneyimini getiriyor. Eğitim programınızda bu Oregon Yolu etkinliklerini kullanarak muhteşem bir maceraya başlayın ve Kuzey Amerika'nın zorlu doğasından geçen Oregon Yolu'nda seyahat edin.	#
+
+library.category.label.computerScience=BİLGİSAYAR BİLİMLERİ	#
+library.category.title.computerScience=Bilgisayar Bilimleri	#
+
+library.category.label.computerScience.hourOfCode=KOD SAATİ	#
+library.category.title.computerScience.hourOfCode=Kod Saati	#
+library.category.description.computerScience.hourOfCode=Bu ders, Yapay Zekayı açıklamak, Minecraft'ta kodlamaya giriş yapmak ve bilgisayar bilimleri alanına katılımı yaymak amacıyla tasarlanmış, bilgisayar bilimlerine bir saatlik giriş bilgileri sunar.	#
+
+library.category.label.computerScience.STEM=FETEMM	#
+library.category.title.computerScience.STEM=FETEMM	#
+library.category.description.computerScience.STEM=Standartlara uygun hale getirilmiş bu dersleri ve dünyaları matematik, fen bilimleri ve mühendislik derslerinde kullanarak bilgisayar bilimlerini okul gününüzün bir parçası haline getirin.	#
+
+library.category.label.computerScience.agency=AJANS	#
+library.category.title.computerScience.agency=Ajans	#
+library.category.description.computerScience.agency=CSTA standartlarını temel alan bu bilgisayar bilimleri dersleri ile kendi şehrinizi inşa edin. Döngüler, algoritmalar, koşullar, hata ayıklama, yineleme ve daha birçok temel CS kavramını öğrenin.	#
+
+library.category.label.computerScience.codingWithMinecraft=MINECRAFT İLE KODLAMA	#
+library.category.title.computerScience.codingWithMinecraft=Minecraft ile Kodlama	#
+library.category.description.computerScience.codingWithMinecraft=CSTA standartlarını temel alan bu bilgisayar bilimleri dersleri ile koşullar, fonksiyonlar, koordinatlar, yapay zeka ve daha birçok kavramı öğrenin.	#
+
+library.category.label.computerScience.codingFun1=KODLAMA TEMELLERİ: 1	#
+library.category.title.computerScience.codingFun1=Kodlama Temelleri: 1	#
+library.category.description.computerScience.codingFun1=Farklı hayvanlar, karşılaştıkları zorluklar ve kodla onlara yardım etmenin yolları hakkında bilgi edinin! Eğlenceli kodlama bulmacalarını çözmek için algoritmalar, sıralamalar ve döngüler kullanın.	#
+
+library.category.label.computerScience.codingFun2=KODLAMA TEMELLERİ: 2	#
+library.category.title.computerScience.codingFun2=Kodlama Temelleri: 2	#
+library.category.description.computerScience.codingFun2=Ay, Merkür, Venüs, Mars, Jüpiter ve Neptün'ü ziyaret edin! Agent'ın güneş sisteminden malzeme toplamasına yardım ederken kodunuzun hatalarını ayıklamayı ve koşullar, işleçler ve döngüler kullanmayı öğrenin.	#
+
+library.category.label.computerScience.codingFun3=KODLAMA TEMELLERİ: 3	#
+library.category.title.computerScience.codingFun3=Kodlama Temelleri: 3	#
+
+library.category.label.computerScience.blockBased=BLOK TABANLI KODLAMA	#
+library.category.title.computerScience.blockBased=Blok Tabanlı Kodlama	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=Minecraft'ta Python kodlamaya başlayın! Söz dizimi, veri türleri, değişkenler, koşullular, 'for' döngüleri, koşullu döngüler, listeler ve işlevler dahil olmak üzere Python hakkında temel bilgileri öğrenin.	#
+
+library.category.label.computerScience.codingTutorials=KODLAMA ÖĞRETİCİLERİ	#
+library.category.title.computerScience.codingTutorials=Kodlama Öğreticileri	#
+library.category.description.computerScience.codingTutorials=Belirli bir kodlama konsepti üzerine yoğunlaşmak istiyorsanız başlayacağınız yer burasıdır! Döngüleri, sıralamayı, koşulluları, değişkenleri ve işlevleri nasıl kullanacağınızı öğrenin. Bu derslerde Bloklar, Python veya JavaScript ile kodlamayı seçebilirsiniz.	#
+
+library.category.label.computerScience.featuredLessons=ÖNE ÇIKAN DERSLER	#
+library.category.title.computerScience.featuredLessons=Öne Çıkan Dersler	#
+library.category.description.computerScience.featuredLessons=İşte en sevdiğimiz kodlama derslerinden bazıları!	#
+
+library.category.label.math=MATEMATİK	#
+library.category.title.math=Matematik	#
+
+library.category.label.math.fractions=KESİRLER	#
+library.category.title.math.fractions=Kesirler	#
+library.category.description.math.fractions=Öğrencilere kesirleri öğretmenize yardımcı olacak bu ders kaynaklarını deneyin.	#
+
+library.category.label.art=SANAT VE TASARIM	#
+library.category.title.art=Sanat ve Tasarım	#
+
+library.category.label.commonCore=ORTAK TEMEL, DERECE %1	#
+library.category.title.commonCore=Ortak Temel, Derece %1	#
+library.category.description.commonCoreMath=Bu merak uyandıran etkinlikler, matematik anlatmayı desteklemek için oluşturulmuş ve Ortak Temel Matematik standartlarının her birine uyumlu hale getirilmiştir.	#
+
+signin.acceptTerms=Hükümleri Kabul Et	#
+signin.leftPanel.header=MINECRAFT: EDUCATION EDITION OYNA	#
+signin.leftPanel.body=Minecraft: Education Edition'ın tam sürümüne erişmek için okul hesabınızla oturum açın.	#
+signin.rightPanel.header=DEMO DERS DENEYİN	#
+signin.rightPanel.body=Tüm kullanıcılara açık olan bu demo ders ile Minecraft: Education Edition'da kodlamayı keşfedin.	#
+
+structure_block.export.default_name=Yapı Blokum	#
+
+joincode.invalid.title=Yanlış Katılma Kodu	#
+joincode.invalid.body=%1 yanlış katılma kodu girdiniz. Lütfen doğru koda sahip olduğunuzdan emin olmak için sunucuya başvurun veya IP Adresi ile katılmayı deneyin. 	#
+joincode.invalid.button.tryagain=Tekrar Dene	#
+joincode.invalid.button.enterip=IP Adresi Gir	#
+
+joincode.invalid.abuse.body=%1 yanlış katılma kodu girdiniz. Lütfen IP Adresi kullanarak dünyaya katılmayı deneyin	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Ek	#	#
+tag.advanced=Gelişmiş	#	#
+tag.adventure=Macera	#	#
+tag.all_ages=Her yaştan	#	#
+tag.animals=Hayvanlar	#	#
+tag.aquatic=Su	#	#
+tag.architecture=Mimari	#	#
+tag.art_and_design=Sanat ve Tasarım	#	#
+tag.beginner=Başlangıç	#	#
+tag.biodiversity=Biyoçeşitlilik	#	#
+tag.biology=Biyoloji	#	#
+tag.biome=Biyom	#	#
+tag.biomes_and_worlds=Biyomlar ve Dünyalar	#	#
+tag.bridges=Köprüler	#referring to the structure	#
+tag.build_challenge=İnşaat Görevi	#	#
+tag.character=Karakter	#	#
+tag.chemistry=Kimya	#	#
+tag.citizenship=Vatandaşlık	#	#
+tag.city=Şehir	#	#
+tag.climate=İklim	#	#
+tag.code_to_learn_stem=FETEMM	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Ajans	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Minecraft ile Kodlama	#	#
+tag.coding_in_minecraft=Minecraft'ta Kodlama	#	#
+tag.collaboration=İş Birliği	#	#
+tag.color=Renk	#	#
+tag.common_core_math_grade_3=Ortak Temel Matematik Derece 3	#	#
+tag.common_core_math_grade_4=Ortak Temel Matematik Derece 4	#	#
+tag.common_core_math_grade_5=Ortak Temel Matematik Derece 5	#	#
+tag.communication=İletişim	#	#
+tag.computer_science=Bilgisayar Bilimleri	#	#
+tag.computing_in_minecraft=Minecraft'ta Bilgi İşlem	#	#
+tag.creative=Yaratıcı	#	#
+tag.creative_writing=Yaratıcı Yazma	#	#
+tag.creativity=Yaratıcılık	#	#
+tag.critical_thinking=Eleştirel Düşünme	#	#
+tag.division=Bölme	#	#
+tag.earth_day=Dünya Günü	#	#
+tag.ecology=Ekoloji	#	#
+tag.economy=Ekonomi	#	#
+tag.energy=Enerji	#	#
+tag.environment=Çevre	#	#
+tag.featured=Öne Çıkanlar	#	#
+tag.fractions=Kesirler	#	#
+tag.game_design=Oyun Tasarımı	#	#
+tag.geography=Coğrafya	#	#
+tag.geology=Jeoloji	#	#
+tag.history_and_culture=Tarih ve Kültür	#	#
+tag.hour_of_code=Kod Saati	#	#
+tag.how_to_play=Nasıl Oynanır	#	#
+tag.intermediate=Orta Seviye	#	#
+tag.kensukes_kingdom=Kensuke Krallığı	#	#
+tag.language_arts=Dil Sanatları	#	#
+tag.leadership=Liderlik	#	#
+tag.lesson=Ders	#	#
+tag.literature=Edebiyat	#	#
+tag.math=Matematik	#	#
+tag.multiplayer=Çok Oyunculu	#	#
+tag.multiplication=Çarpma	#	#
+tag.museum=Müze	#	#
+tag.music=Müzik	#	#
+tag.mythology=Mitoloji	#	#
+tag.ocean=Okyanus	#	#
+tag.oregon_trail=Oregon Yolu	#	#
+tag.pattern=Desen	#	#
+tag.personal_narrative=Kişisel Anlatım	#	#
+tag.physics=Fizik	#	#
+tag.pixel_art=Piksel Sanatı	#	#
+tag.pop_culture=Popüler Kültür	#	#
+tag.probability=Olasılık	#	#
+tag.project_based_learning=Proje Tabanlı Öğrenme	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Fen Bilimleri	#	#
+tag.seasonal=Sezona Özel	#	#
+tag.single_player=Tek Oyunculu	#	#
+tag.social_emotional_learning=Sosyal Duygusal Öğrenme	#	#
+tag.special_education=Özel Eğitim	#	#
+tag.spelling=İmla	#	#
+tag.story=Hikaye	#	#
+tag.subtraction=Çıkarma	#	#
+tag.survival=Hayatta Kalma	#	#
+tag.swiss_family_robinson=İsviçreli Robinson Ailesi	#	#
+tag.technology=Teknoloji	#	#
+tag.treasure_island=Hazine Adası	#	#
+tag.tutorial=Öğretici	#	#
+tag.we_are_the_rangers=Bekçiler	#	#
+tag.world_languages=Dünya Dilleri	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Dijital Vatandaşlık	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Bloklar	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure Notebooks	#See for example: https://notebooks.azure.com/	#
+tag.loops=Döngüler	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Koşullular	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Değişkenler	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=İşlevler	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=İşleçler	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Problem Çözme	#	#
+tag.artificial_intelligence=Yapay Zeka	#	#
+tag.coding=Kodlama	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Kodlama Temelleri 1	#	#
+tag.coding_fundamentals_2=Kodlama Temelleri 2	#	#
+tag.coding_fundamentals_3=Kodlama Temelleri 3	#	#
+tag.coding_tutorials=Kodlama Öğreticileri	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=Arılar	#	#
+tag.space=Uzay	# refers to outer space	#
+tag.esports=E-spor	#	#
+tag.toybox=Oyuncak Kutusu	#	#
+tag.featured_coding=Öne Çıkan Kodlama	#	#
+## END TAG LOCALIZATION SECTION ##

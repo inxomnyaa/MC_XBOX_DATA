@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Variant",
+      "dest": "Variant",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "GeneArray",
+      "dest": "GeneArray",
+      "custom_transformation": "IntermediatePandaGeneArrayToNative"
+    }
+  ]
+}

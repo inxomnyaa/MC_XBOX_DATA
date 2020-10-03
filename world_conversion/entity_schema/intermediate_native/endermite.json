@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Lifetime",
+      "dest": "Lifetime",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "PlayerSpawned",
+      "dest": "PlayerSpawned",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    }
+  ]
+}

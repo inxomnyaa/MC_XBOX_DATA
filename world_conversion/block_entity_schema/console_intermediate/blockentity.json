@@ -1,0 +1,28 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "id",
+      "dest": "id",
+      "custom_transformation": "ConsoleToIntermediateBlockEntityID"
+    },
+    {
+      "src": "x",
+      "dest": "x",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "y",
+      "dest": "y",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "z",
+      "dest": "z",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

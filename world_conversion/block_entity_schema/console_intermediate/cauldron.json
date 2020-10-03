@@ -1,0 +1,31 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "PotionId",
+      "dest": "PotionId",
+      "custom_transformation": "JavaPotionIDToIntermediate"
+    },
+    {
+      "src": "IsSplash",
+      "dest": "IsSplash",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue",
+      "optional": true
+    },
+    {
+      "src": "PotionType",
+      "dest": "PotionType",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "CustomColor",
+      "dest": "CustomColor",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

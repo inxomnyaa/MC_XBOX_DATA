@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Menetapkan status Pembuat Kode untuk pemain.	#
+commands.codebuilder.invalidurl=URL tidak valid atau poin untuk situs web yang tidak didukung.	#
+commands.takepicture.description=Memotret pemain atau dari sudut pandang pemain.	#
+commands.takepicture.cameranotfound=Gagal menemukan kamera.	#
+commands.takepicture.cameranotspawned=Gagal memunculkan kamera.	#
+
+library.connection.failed.body=Kami tidak bisa tersambung ke Perpustakaan. Masalah ini bisa terjadi jika komputermu offline atau akses ke katalog Perpustakaan diblokir.	#
+library.connection.failed.help=Dapatkan Bantuan	#
+library.connection.noWorldFound.title=Dunia Tidak Ditemukan	#
+library.connection.noWorldFound.body=Sepertinya tidak ada dunia dalam kategori ini.	#
+library.findMoreWorlds=Temukan Dunia Lainnya	#
+library.leaveFeedback=Beri Umpan Balik	#
+library.title=Perpustakaan	#
+library.searchResults=Hasil untuk: "%1"	#
+library.item.createdBy=Oleh %s	#
+library.item.age=Usia: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Durasi: %1	#
+library.item.duration.minute=%1 Menit	#
+library.item.duration.multipleMinutes=%1 Menit	#
+library.item.duration.hour=%1 Jam	#
+library.item.duration.multipleHours=%1 Jam	#
+
+library.item.difficulty=Tingkat Kesulitan: %1	#
+library.item.difficulty.beginner=Pemula	#
+library.item.difficulty.intermediate=Menengah	#
+library.item.difficulty.advanced=Tingkat Lanjut	#
+
+library.item.tags=Tag:	#
+library.item.tagsAll=SEMUA TAG:	#
+library.item.tagsAll.tts=Tampilkan tag lainnya	#
+library.item.button.create=BUAT DUNIA	#
+library.item.button.share=BAGIKAN TAUTAN	#
+library.item.button.plan=RENCANA PELAJARAN	#
+library.item.button.resources=SUMBER DAYA	#
+library.item.progress.body=Bersiap mengimpor dunia baru. Proses ini mungkin perlu waktu beberapa menit.	#
+library.item.description=DESKRIPSI	#
+library.item.overview=IKHTISAR	#
+library.item.expandable.readLess=Baca Lebih Sedikit	#
+library.item.expandable.readMore=Baca Lebih Lanjut	#
+
+library.item.section.languages=BAHASA YANG DIDUKUNG	#
+library.item.section.languages.tip=Jika pelajaran ini tidak tersedia di bahasa yang kamu inginkan, Pembaca Imersif bisa digunakan untuk menerjemahkan teks dalam permainan, termasuk buku, tanda, papan, dan dialog NPC.	#
+library.item.section.questions=PERTANYAAN PENTING	#
+library.item.section.generic_objectives=TUJUAN	#
+library.item.section.objectives=TUJUAN PEMBELAJARAN	#
+library.item.section.prep=PERSIAPAN & CATATAN PENGAJAR	#
+library.item.section.activities=AKTIVITAS SISWA	#
+library.item.section.assessment=PENILAIAN	#
+library.item.section.extensions=EKSTENSI	#
+
+library.category.label.biomes=BIOMA & DUNIA	#
+library.category.title.biomes=Bioma & Dunia	#
+library.category.description.biomes=Gunakan koleksi dunia dan bioma ini untuk membantu memulai pembuatan pelajaran di Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=BIOMA	#
+library.category.title.biomes.biome=Bioma	#
+library.category.description.biomes.biome=Di Minecraft, bioma adalah wilayah yang dibedakan menurut fitur, tanaman, dan hewan geografis yang unik.	#
+
+library.category.label.biomes.featured=DUNIA UNGGULAN	#
+library.category.title.biomes.featured=Dunia Unggulan	#
+
+library.category.label.buildChallenges=TANTANGAN PEMBANGUNAN BULANAN	#
+library.category.title.buildChallenges=Tantangan Pembangunan Bulanan	#
+library.category.description.buildChallenges=Dorong kreativitas siswa dan perkuat Keahlian Abad Ke-21 dengan ragam aktivitas yang mudah diterapkan untuk kelas.	#
+
+library.category.label.howToPlay=CARA MAIN	#
+library.category.description.howToPlay=Dunia dan aktivitas ini dirancang sebagai pengalaman pendahuluan untuk mempelajari cara menggunakan Minecraft: Education Edition di kelas.	#
+
+library.category.label.howToPlay.startHere=MULAI DI SINI	#
+library.category.title.howToPlay.startHere=Mulai di Sini	#
+library.category.description.howToPlay.startHere=Setiap dunia tutorial ini dirancang untuk membantumu mempelajari berbagai macam keahlian yang mendukung penggunaan Minecraft: Education Edition di kelas.	#
+
+library.category.label.howToPlay.additional=TUTORIAL TAMBAHAN	#
+library.category.title.howToPlay.additional=Tutorial Tambahan	#
+
+library.category.label.SEL=SOSIAL EMOSIONAL	#
+library.category.title.SEL=Sosial Emosional	#
+library.category.description.SEL=Dunia dan aktivitas ini mendukung Pembelajaran Sosial dan Emosional. Konsepnya mencakup kesejahteraan emosional, empati, dan pengambilan keputusan yang bertanggung jawab.	#
+
+library.category.label.digitalCitizen=KEWARGANEGARAAN DIGITAL	#
+library.category.title.digitalCitizen=Kewarganegaraan Digital	#
+library.category.description.digitalCitizen=Dunia dan aktivitas ini berfokus pada Kewarganegaraan Digital, dengan mendukung siswa saat mereka mempelajari literasi media, privasi, dan partisipasi dalam komunitas online.	#
+
+library.category.label.lessons=PELAJARAN	#
+library.category.title.lessons=Pelajaran	#
+
+library.category.label.lessons.genericAdditional=PELAJARAN TAMBAHAN	#
+library.category.title.lessons.genericAdditional=Pelajaran Tambahan	#
+
+library.category.label.languageArts=SENI BAHASA	#
+library.category.title.languageArts=Seni Bahasa	#
+
+library.category.label.languageArts.litStudies=STUDI LITERATUR	#
+library.category.title.languageArts.litStudies=Studi Literatur	#
+
+library.category.label.languageArts.litStudies.treasureIsland=PULAU HARTA KARUN	#
+library.category.title.languageArts.litStudies.treasureIsland=Pulau Harta Karun	#
+library.category.description.languageArts.litStudies.treasureIsland=Rangkaian pelajaran ini dirancang untuk membantu pengajaran konsep Seni Bahasa Inggris melalui studi "Pulau Harta Karun" karya Robert Louis Stevenson.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KERAJAAN KENSUKE	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Kerajaan Kensuke	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Rangkaian pelajaran ini dirancang untuk membantu pengajaran konsep Seni Bahasa Inggris melalui studi "Kerajaan Kensuke" karya Michael Morpurgo.	#
+
+library.category.label.languageArts.litStudies.swissFamily=KELUARGA SWISS ROBINSON	#
+library.category.title.languageArts.litStudies.swissFamily=Keluarga Swiss Robinson	#
+library.category.description.languageArts.litStudies.swissFamily=Rangkaian pelajaran ini dirancang untuk membantu pengajaran konsep Seni Bahasa Inggris melalui studi "Robinson Crusoe" dan "Keluarga Swiss Robinson".	#
+
+library.category.label.science=SAINS	#
+library.category.title.science=Sains	#
+
+library.category.label.science.chemistry=KIMIA	#
+library.category.title.science.chemistry=Kimia	#
+
+library.category.label.science.biology=BIOLOGI	#
+library.category.title.science.biology=Biologi	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Kelima pelajaran dan dunia Minecraft yang unik mencakup beragam mata pelajaran dan kelompok usia. Melalui kurikulum yang disediakan, siswa dapat bertualang di dataran Afrika, menyelidiki pelabuhan aktif, tempat pengasuhan badak dan stasiun prajurit, menyelesaikan masalah, dan membangun keahlian di sepanjang prosesnya.	#
+
+library.category.label.science.extinction=KRISIS RAGAM HAYATI KEPUNAHAN	#
+library.category.title.science.extinction=Krisis Ragam Hayati Kepunahan	#
+library.category.description.science.extinction=Kami bermitra dengan Dana Dunia (WWF) untuk paket konten ini, yang mencakup dunia Minecraft yang imersif dan pelajaran berbasis standar. Jelajahi sumber daya berikut untuk pembelajaran langsung mengenai ekosistem, konservasi, dan keragaman hayati.	#
+
+library.category.label.history=SEJARAH & BUDAYA	#
+library.category.title.history=Sejarah & Budaya	#
+
+library.category.label.history.oregonTrail=JALUR OREGON	#
+library.category.title.history.oregonTrail=Jalur Oregon	#
+library.category.description.history.oregonTrail=Bermitra dengan Houghton Mifflin Harcourt, Minecraft: Education Edition menghadirkan Pengalaman Jalur Oregon. Terapkan aktivitas pembelajaran Jalur Oregon ini dalam kurikulum dan mulailah petualangan dahsyat menyusuri Jalur Oregon di Amerika Utara yang keras.	#
+
+library.category.label.computerScience=ILMU KOMPUTER	#
+library.category.title.computerScience=Ilmu Komputer	#
+
+library.category.label.computerScience.hourOfCode=JAM KODE	#
+library.category.title.computerScience.hourOfCode=Jam Kode	#
+library.category.description.computerScience.hourOfCode=Pelajaran ini adalah pengantar ilmu komputer berdurasi satu jam yang dirancang untuk menjelaskan AI, memperkenalkan penulisan kode di Minecraft, dan memperluas partisipasi dalam bidang ilmu komputer.	#
+
+library.category.label.computerScience.STEM=STEM	#
+library.category.title.computerScience.STEM=STEM	#
+library.category.description.computerScience.STEM=Gunakan pelajaran dan dunia yang diselaraskan dengan standar ini dalam matematika, sains, dan teknik untuk menyertakan sains komputer dalam kegiatan sekolah.	#
+
+library.category.label.computerScience.agency=AGENSI	#
+library.category.title.computerScience.agency=Agensi	#
+library.category.description.computerScience.agency=Bangun kotamu sendiri dengan pelajaran ilmu komputer berdasarkan standar CSTA ini. Pelajari konsep dasar ilmu komputer yang meliputi loop, algoritme, kondisional, debug, iterasi, dan lainnya.	#
+
+library.category.label.computerScience.codingWithMinecraft=MENULIS KODE DENGAN MINECRAFT	#
+library.category.title.computerScience.codingWithMinecraft=Menulis Kode dengan Minecraft	#
+library.category.description.computerScience.codingWithMinecraft=Pelajari kondisional, fungsi, koordinat, AI, dan lainnya dengan pelajaran ilmu komputer yang berdasarkan standar CSTA ini.	#
+
+library.category.label.computerScience.codingFun1=DASAR-DASAR PENULISAN KODE: 1	#
+library.category.title.computerScience.codingFun1=Dasar-Dasar Penulisan Kode: 1	#
+library.category.description.computerScience.codingFun1=Pelajari tentang berbagai hewan, tantangan yang dihadapi, dan cara untuk membantu mereka dengan kode! Gunakan algoritme, pengurutan, dan pengulangan untuk memecahkan teka-teki penulisan kode yang menyenangkan.	#
+
+library.category.label.computerScience.codingFun2=DASAR-DASAR PENULISAN KODE: 2	#
+library.category.title.computerScience.codingFun2=Dasar-Dasar Penulisan Kode: 2	#
+library.category.description.computerScience.codingFun2=Kunjungi Bulan, Merkurius, Venus, Mars, Jupiter, dan Neptunus! Pelajari cara debug kode dan menggunakan kondisional, operator, dan pengulangan sambil membantu Agent mengumpulkan material di berbagai penjuru sistem tata surya.	#
+
+library.category.label.computerScience.codingFun3=DASAR-DASAR PENULISAN KODE: 3	#
+library.category.title.computerScience.codingFun3=Dasar-Dasar Penulisan Kode: 3	#
+
+library.category.label.computerScience.blockBased=PENULISAN KODE BERBASIS BLOK	#
+library.category.title.computerScience.blockBased=Penulisan Kode Berbasis Blok	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=Mulai menulis kode Python di Minecraft! Pelajari dasar-dasar Python, termasuk sintaks, tipe data, variabel, kondisional, pengulangan 'for', pengulangan kondisional, daftar, dan fungsi.	#
+
+library.category.label.computerScience.codingTutorials=TUTORIAL PENULISAN KODE	#
+library.category.title.computerScience.codingTutorials=Tutorial Penulisan Kode	#
+library.category.description.computerScience.codingTutorials=Jika kamu ingin fokus pada konsep penulisan kode tertentu, inilah tempat untuk memulai! Pelajari cara menggunakan pengulangan, pengurutan, kondisional, variabel, dan fungsi. Dalam pelajaran ini, kamu bisa memilih untuk menulis kode dengan Blok, Python, atau JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=PELAJARAN UNGGULAN	#
+library.category.title.computerScience.featuredLessons=Pelajaran Unggulan	#
+library.category.description.computerScience.featuredLessons=Berikut adalah beberapa pelajaran menulis kode favorit kami!	#
+
+library.category.label.math=MATEMATIKA	#
+library.category.title.math=Matematika	#
+
+library.category.label.math.fractions=BILANGAN PECAHAN	#
+library.category.title.math.fractions=Bilangan Pecahan	#
+library.category.description.math.fractions=Cobalah sumber daya pelajaran berikut untuk membantu mengajarkan bilangan pecahan kepada siswa.	#
+
+library.category.label.art=SENI & DESAIN	#
+library.category.title.art=Seni & Desain	#
+
+library.category.label.commonCore=COMMON CORE, KELAS %1	#
+library.category.title.commonCore=Common Core, Kelas %1	#
+library.category.description.commonCoreMath=Aktivitas yang mendorong partisipasi aktif ini dibuat untuk mendukung instruksi matematika dan diselaraskan dengan setiap standar Matematika Common Core.	#
+
+signin.acceptTerms=Terima Ketentuan	#
+signin.leftPanel.header=MAIN MINECRAFT: EDUCATION EDITION	#
+signin.leftPanel.body=Masuk dengan akun sekolahmu untuk mengakses versi lengkap Minecraft: Education Edition.	#
+signin.rightPanel.header=COBA PELAJARAN DEMO	#
+signin.rightPanel.body=Pelajari penulisan kode di Minecraft: Education Edition dengan pelajaran demo ini, tersedia untuk semua pengguna.	#
+
+structure_block.export.default_name=Blok Struktur Saya	#
+
+joincode.invalid.title=Kode Bergabung Salah 	#
+joincode.invalid.body=Kamu telah memasukkan %1 kode bergabung yang salah. Tanyakan kepada host untuk memastikan kode yang kamu miliki benar atau coba bergabung menggunakan Alamat IP. 	#
+joincode.invalid.button.tryagain=Coba Lagi	#
+joincode.invalid.button.enterip=Masukkan Alamat IP	#
+
+joincode.invalid.abuse.body=Kamu telah memasukkan %1 kode bergabung yang salah. Coba bergabung ke dunia menggunakan Alamat IP	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Penambahan	#	#
+tag.advanced=Tingkat Lanjut	#	#
+tag.adventure=Petualangan	#	#
+tag.all_ages=Semua usia	#	#
+tag.animals=Hewan	#	#
+tag.aquatic=Akuatik	#	#
+tag.architecture=Arsitektur	#	#
+tag.art_and_design=Seni & Desain	#	#
+tag.beginner=Pemula	#	#
+tag.biodiversity=Keanekaragaman Hayati	#	#
+tag.biology=Biologi	#	#
+tag.biome=Bioma	#	#
+tag.biomes_and_worlds=Bioma & Dunia	#	#
+tag.bridges=Jembatan	#referring to the structure	#
+tag.build_challenge=Tantangan Membangun	#	#
+tag.character=Karakter	#	#
+tag.chemistry=Kimia	#	#
+tag.citizenship=Kewarganegaraan	#	#
+tag.city=Kota	#	#
+tag.climate=Iklim	#	#
+tag.code_to_learn_stem=STEM	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Agensi	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Menulis Kode dengan Minecraft	#	#
+tag.coding_in_minecraft=Menulis Kode di Minecraft	#	#
+tag.collaboration=Kolaborasi	#	#
+tag.color=Warna	#	#
+tag.common_core_math_grade_3=Matematika Common Core Kelas 3	#	#
+tag.common_core_math_grade_4=Matematika Common Core Kelas 4	#	#
+tag.common_core_math_grade_5=Matematika Common Core Kelas 5	#	#
+tag.communication=Komunikasi	#	#
+tag.computer_science=Ilmu Komputer	#	#
+tag.computing_in_minecraft=Komputasi di Minecraft	#	#
+tag.creative=Kreatif	#	#
+tag.creative_writing=Menulis Kreatif	#	#
+tag.creativity=Kreativitas	#	#
+tag.critical_thinking=Berpikir Kritis	#	#
+tag.division=Pembagian	#	#
+tag.earth_day=Hari Bumi	#	#
+tag.ecology=Ekologi	#	#
+tag.economy=Ekonomi	#	#
+tag.energy=Energi	#	#
+tag.environment=Lingkungan	#	#
+tag.featured=Unggulan	#	#
+tag.fractions=Bilangan Pecahan	#	#
+tag.game_design=Desain Permainan	#	#
+tag.geography=Geografi	#	#
+tag.geology=Geologi	#	#
+tag.history_and_culture=Sejarah & Budaya	#	#
+tag.hour_of_code=Jam Kode	#	#
+tag.how_to_play=Cara Main	#	#
+tag.intermediate=Menengah	#	#
+tag.kensukes_kingdom=Kerajaan Kensuke	#	#
+tag.language_arts=Seni Bahasa	#	#
+tag.leadership=Kepemimpinan	#	#
+tag.lesson=Pelajaran	#	#
+tag.literature=Literatur	#	#
+tag.math=Matematika	#	#
+tag.multiplayer=Multipemain	#	#
+tag.multiplication=Perkalian	#	#
+tag.museum=Museum	#	#
+tag.music=Musik	#	#
+tag.mythology=Mitologi	#	#
+tag.ocean=Samudra	#	#
+tag.oregon_trail=Jalur Oregon	#	#
+tag.pattern=Pola	#	#
+tag.personal_narrative=Narasi Pribadi	#	#
+tag.physics=Fisika	#	#
+tag.pixel_art=Seni Piksel	#	#
+tag.pop_culture=Budaya Populer	#	#
+tag.probability=Probabilitas	#	#
+tag.project_based_learning=Pembelajaran Berbasis Proyek	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Sains	#	#
+tag.seasonal=Musiman	#	#
+tag.single_player=Satu Pemain	#	#
+tag.social_emotional_learning=Pembelajaran Sosial Emosional	#	#
+tag.special_education=Pendidikan Luar Biasa	#	#
+tag.spelling=Ejaan	#	#
+tag.story=Kisah	#	#
+tag.subtraction=Pengurangan	#	#
+tag.survival=Bertahan Hidup	#	#
+tag.swiss_family_robinson=Keluarga Swiss Robinson	#	#
+tag.technology=Teknologi	#	#
+tag.treasure_island=Pulau Harta Karun	#	#
+tag.tutorial=Tutorial	#	#
+tag.we_are_the_rangers=We are the Rangers	#	#
+tag.world_languages=Bahasa Dunia	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Kewarganegaraan Digital	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Blok	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Buku Catatan Azure	#See for example: https://notebooks.azure.com/	#
+tag.loops=Pengulangan	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Kondisional	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Variabel	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Fungsi	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operator	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Pemecahan Masalah	#	#
+tag.artificial_intelligence=Kecerdasan Buatan	#	#
+tag.coding=Penulisan Kode	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Dasar-Dasar Penulisan Kode 1	#	#
+tag.coding_fundamentals_2=Dasar-Dasar Penulisan Kode 2	#	#
+tag.coding_fundamentals_3=Dasar-Dasar Penulisan Kode 3	#	#
+tag.coding_tutorials=Tutorial Penulisan Kode	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=Lebah	#	#
+tag.space=Luar Angkasa	# refers to outer space	#
+tag.esports=e-Sport	#	#
+tag.toybox=Kotak Mainan	#	#
+tag.featured_coding=Penulisan Kode Unggulan	#	#
+## END TAG LOCALIZATION SECTION ##

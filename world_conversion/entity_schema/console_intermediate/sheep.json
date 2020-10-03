@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Sheared",
+      "dest": "Sheared",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Color",
+      "dest": "Color",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    }
+  ]
+}

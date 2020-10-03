@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Koble telefonen fra hodesettet for å logge på Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Koble telefonen fra hodesettet for å legge til Xbox Live-venner.	#
+xblLogin.LoginMessageRift=Koble fra hodesettet for å logge på Xbox Live.	#
+xblLogin.AddFriendMessageRift=Koble fra hodesettet for å legge til Xbox Live-venner.	#
+xblLogin.ShowGamerCardMessageRift=Koble fra hodesettet for å se spillerkortet.	#
+
+LostFocus.Rift=Musen forsvant! Velg Minecraft på skrivebordet for å bruke den.	#
+
+vr.controls.HandControllerTracked=Berøringssporingen i Oculus er aktivert	#
+vr.controls.HandControllerTrackingLost=Mistet berøringssporingen i Oculus	#
+
+FileBrowser.Rift.Skin=Koble fra hodesettet for å velge et egendefinert skall.	#
+FileBrowser.Rift.TemplateResource=Malressursen kan ikke velges mens hodesettet brukes.	#
+FileBrowser.Rift.Export=Koble fra hodesettet for å eksportere verdenen din.	#
+FileBrowser.Rift.Import=Koble fra hodesettet for å importere verdenen din.	#
+FileBrowser.Rift.ExportBook=Koble fra hodesettet for å eksportere boken din.	#
+FileBrowser.Rift.ExportPortfolio=Koble fra hodesettet for å eksportere porteføljen din.	#
+FileBrowser.Rift.FileChooser=Velg fil	#
+FileBrowser.Rift.FolderChooser=Velg mappe	#
+FileBrowser.Rift.ExportWorld=Eksporter verden	#
+FileBrowser.Rift.ExportResourcesPrompt=Ta av hodesettet for å eksportere disse ressursene.	#
+FileBrowser.Rift.ExportResources=Eksporter ressurser	#
+FileBrowser.Rift.SkinChooser=Velg skall	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=VR-innstillinger	#
+options.vrHideHud=Skjul HUD	#
+options.vrHideHand=Skjul hånd	#
+options.vrHideGUI=Skjul det grafiske brukergrensesnittet i VR	#
+options.vrGamma=VR-lysstyrke	#
+options.vrMsaa=Anti-Aliasing i VR	#
+options.vrRenderDistance=Gjengivelsesavstand i VR	#
+options.vrParticleRenderDistance=Gjengivelsesavstand for partikler i VR	#
+options.vrResetPlayerAlignment=Tilbakestill VR-justering	#
+options.vrHMDdisplacement=Bruk HMD-forflytning til å bevege deg	#
+options.vrHeadSteering=Styr med hodet i VR	#
+options.vrTurningOptions=Rotasjonsalternativer	#
+options.StutterTurn=VR-rotasjon	#
+options.StutterTurnSound=VR-rotasjonslyd	#
+options.StutterConstantAngleOrTime=Tidsbasert VR-rotasjon	#
+options.3DRendering=3D-gjengivelse	#
+options.vrHudAtTop=HUD øverst	#
+options.vrAutojump=Automatisk hopping i VR	#
+options.vrLinearJump=Lineær hopping i VR	#
+options.vrLinearMotion=Lineær bevegelse i VR	#
+options.stickyMining=Fastlåst utvinning	#
+options.stickyMiningHand=Fastlåst utvinning for håndkontrolleren	#
+options.vrMovingBackwardsHardStop=Bråstopp i revers	#
+options.comfortControls=VR-kontroller	#
+options.ShowComfortSelectScreen=Vis skjermen for kontrollvalg	#
+options.vrHudDrifts=Flyttbar HUD	#
+options.vrLivingRoomCursorCentered=Sentrert stuemarkør i VR	#
+options.vrTapTurn=Trykkerotasjon	#
+options.vrTapTurnSensitivity=Følsomhet for trykkerotasjon	#
+options.vrRollTurning=Hjulrotasjon	#
+options.vrRollTurnSensitivity=Følsomhet for hjulrotasjon	#
+options.vrHandControlsItem=Håndkontrolleren styrer gjenstander	#
+options.vrHandControlsHUD=Håndkontrolleren styrer HUD	#
+options.vrHandPointer=Håndkontrollerpekeren vises	#
+options.vrHandsVisible=Hendene vises	#
+options.vr180Turning=Reverser styrespaken 180°	#
+options.vrMirrorTexture=Aktiver speiltekstur	#
+options.vrSensitivity=VR-følsomhet	#
+options.vrUIMouseSensitivity=Følsomheten til VR-brukergrensesnittet	#
+
+## VR control Scheme Strings
+vr.controls.title=VR-kontroller	#
+
+vr.controls.title.classic=Klassiske kontroller – intense	#
+vr.controls.title.experimental=VR-kontroller – moderate	#
+vr.controls.classicDescription=Klassisk hopping og rotasjon som ikke er tilpasset VR. De fleste vil synes disse kontrollene er intense.	#
+vr.controls.experimentalDescription=All rotasjon skjer trinnvis. Markøren og hoppingen har blitt tilpasset VR for at bevegelse skal føles behagelig for de fleste (et arbeid som fremdeles pågår).	#
+vr.controls.sharedDescription=Kontrollene kan også endres i spillet via alternativmenyen.	#
+vr.moreOptions=Flere alternativer …	#
+vr.moreInformation=Mer informasjon…	#
+vr.detailedInformation=En rekke spillfunksjoner har blitt justert for å gi deg en mer behagelig VR-opplevelse. VR-rotasjon er for eksempel en funksjon som deler snubevegelsen inn i trinn for å redusere eventuell desorientering.	#
+vr.detailedInformationLink=Gå til minecraft.net/vr for å få mer informasjon om VR-kontroller og ta en titt bak kulissene	#
+
+vr.pausescreen.recenterDevice=Sentrer enheten på nytt	#
+vr.pausescreen.recenterDeviceKeyboard=Trykk på N for å sentrere enheten på nytt	#
+vr.warning.controllerRequired=Spillkontroller kreves	#
+vr.warning.controllerRecommended=Vi anbefaler å bruke spillkontroller i VR	#
+vr.warning.controllerOrMouseRecommended=Vi anbefaler å bruke spillkontroller eller mus i VR	#
+vr.warning.exitGameWarning=Vil du avslutte Minecraft?	#
+vr.alignscreen.pressButtonX=Trykk på X-knappen på kontrolleren for å fortsette	#
+vr.alignscreen.pressButtonXOrMouse=Klikk med musen eller trykk på en hvilken som helst knapp på kontrolleren for å fortsette	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Trykk på «A» på spillkontrolleren, eller på Velg utløser på Windows Mixed Reality-kontrolleren for å fortsette	#
+vr.alignscreen.pressAnyButton=Hold hodet i en nøytral posisjon, og trykk på en hvilken som helst knapp	#
+vr.alignscreen.info=Merk: Dette er et arbeid som fremdeles pågår. VR kan forårsake ubehag hos enkelte. Husk å ta en pause når du føler du trenger det, og bruk den mindre intense visningen i stuemodusen ved å trykke på styreplaten.	#
+vr.alignscreen.info_viewbutton=Merk: Dette er et arbeid som fremdeles pågår. VR kan forårsake ubehag hos enkelte. Husk å ta en pause når du føler du trenger det, og bruk den mindre intense visningen i stuemodusen ved å trykke opp på D-pad.	#
+
+accessibility.gamepad.button.systemLeft=knapp select	#
+accessibility.gamepad.button.systemRight=knapp start	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Er du sikker på at du vil avslutte?	#
+ori.confirm.update=Oppdatere Minecraft?	#
+ori.pending=Venter på at Windows Update skal bli ferdig.	#
+ori.installing=Installerer …	#
+ori.updating=Oppdaterer …	#
+ori.launching=Starter!	#
+ori.check_for_update=Ser etter oppdateringer …	#
+ori.error.unavailable=Minecraft var ikke tilgjengelig. Kontroller at du er tilkoblet Internett og logget på butikken.	#
+ori.error.unknown=Det oppstod en ukjent feil. Prøv på nytt senere.	#
+ori.error.not_supported=Minecraft støttes ikke av dette systemet.	#
+ori.error.launch_failure=Kunne ikke starte Minecraft.	#
+ori.error.version=Minecraft-versjonen din er utdatert. Du må oppdatere for å spille.	#
+ori.error.win10=Du må ha Windows 10 versjon 1607 eller nyere.	#
+ori.error.install_error=Det har oppstått en feil. Feilkode: 0x	#
+ori.error.low_storage=Kan ikke installere. Ikke nok lagringsplass.	#
+ori.error.no_internet=Kan ikke koble til. Kontroller Internett-tilkoblingen.	#
+ori.error.winUpdateDisabled=Windows Update må være aktivert.	#
+ori.confirm.controls.controller.confirm=Bekreft	#
+ori.confirm.controls.controller.cancel=Avbryt	#
+ori.confirm.controls.keyboard.confirm=Bekreft: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Avbryt: [Esc]	#
+ori.exit.controls.controller=Avslutt	#
+ori.exit.controls.keyboard=Avslutt: [Enter]	#
+ori.cancelling=Avbryter …	#
+

@@ -1,0 +1,36 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "id",
+      "dest": "id",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    },
+    {
+      "src": "x",
+      "dest": "x",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "y",
+      "dest": "y",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "z",
+      "dest": "z",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "CustomName",
+      "dest": "CustomName",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String",
+      "optional": true
+    }
+  ]
+}

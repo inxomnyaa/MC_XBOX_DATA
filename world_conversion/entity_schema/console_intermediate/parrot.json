@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "OwnerUUID",
+      "dest": "OwnerNew",
+      "custom_transformation": "JavaStringIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Sitting",
+      "dest": "Sitting",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Variant",
+      "dest": "Variant",
+      "custom_transformation": "JavaParrotVariantToIntermediate"
+    }
+  ]
+}

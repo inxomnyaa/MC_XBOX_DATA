@@ -1,0 +1,61 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "Leashed",
+      "dest": "Leashed",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue",
+      "optional": true
+    },
+    {
+      "src": "Leash",
+      "dest": "LeashedTo",
+      "custom_transformation": "LeashedToFromJavaTransformation",
+      "optional": true
+    },
+    {
+      "src": "Attributes",
+      "dest": "Attributes",
+      "custom_transformation": "ConsoleAttributeToIntermediate"
+    },
+    {
+      "src": "ActiveEffects",
+      "dest": "ActiveEffects",
+      "custom_transformation": "JavaPotionEffectToIntermediate"
+    },
+    {
+      "src": "DwellingUniqueID",
+      "dest": "DwellingUniqueID",
+      "custom_transformation": "ConsoleDwellingUUIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "DwellingType",
+      "dest": "DwellingType",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "DwellerRole",
+      "dest": "DwellerRole",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "PreferredProfession",
+      "dest": "PreferredProfession",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    }
+  ]
+}

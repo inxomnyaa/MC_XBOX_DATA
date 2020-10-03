@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Type",
+      "dest": "Type",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    }
+  ]
+}

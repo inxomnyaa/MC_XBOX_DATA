@@ -1,0 +1,35 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ArmorItem",
+      "dest": "ChestItems[1]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "custom_slot": 1,
+      "optional": true
+    },
+    {
+      "src": "SaddleItem",
+      "dest": "ChestItems[0]",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "custom_slot": 0,
+      "optional": true
+    },
+    {
+      "src": "ColorVariant",
+      "dest": "Variant",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "MarkVariant",
+      "dest": "MarkVariant",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "custom_transformation": "HorseDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

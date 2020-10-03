@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "ShowBottom",
+      "dest": "ShowBottom",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue",
+      "optional": true
+    },
+    {
+      "custom_transformation": "EnderCrystalBeamToIntermediate",
+      "src": "BeamTarget",
+      "dest": "BeamTarget",
+      "optional": true
+    }
+  ]
+}

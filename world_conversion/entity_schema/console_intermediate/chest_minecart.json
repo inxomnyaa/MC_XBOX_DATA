@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "JavaInventoryToIntermediate",
+      "src": "Items",
+      "dest": "Items"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=플레이해주셔서 고맙습니다! 데모 수업이라 진행 사항은 저장되지 않습니다.	#
+
+edu_demo.tip.1=열대 우림은 지구의 육지 동물 종의 절반 이상이 살고 있습니다.	#
+edu_demo.tip.2=세계 인구의 25% 이상은 숲에 생계를 의존합니다.	#
+edu_demo.tip.3=계속해서 불을 피우려면 연교, 산소, 열원이라는 세 가지 요소가 필요합니다.	#
+edu_demo.tip.4=특히 피트 지대 및 울창한 숲에서 일어난 화재는 막대한 양의 탄소를 배출합니다.	#
+edu_demo.tip.5=컴퓨터는 학생들처럼 배우는 법을 배워야 합니다!	#
+edu_demo.tip.6=인공지능은 손으로 나무를 세는 것보다 빠르게 숲 데이터를 수집하고 분석하는데 사용됩니다!	#
+
+menu.quit.edu=수업 종료	#
+menu.quit.edu.title=데모 수업 나가기	#
+
+start_screen.start_demo=수업 시작	#
+
+upsell.tab.1.title=학교용 Minecraft!	#
+upsell.tab.1.body=무료 수업, 튜토리얼, 평가 도구, 교실 멀티 플레이, 보안 로그인 및 기술 지원을 통해 학생들을 여러 과목에 참여시킬 수 있습니다. 지금 Minecraft: Education Edition 무료 체험판을 시작하세요!	#
+upsell.tab.1.button=자세한 정보	#
+
+upsell.tab.2.title=Minecraft로 코딩 가르치기	#
+upsell.tab.2.body=몰입형 수업과 50시간 이상의 무료 교과 과정으로 학생들이게 Minecraft로 코딩을 가르치세요. 학생들이 블록 기반의 코드 및 JavaScript를 작성하고 게임에서 작성한 코드가 실행되는 것을 볼 수 있습니다!	#
+upsell.tab.2.button=코딩 시작하기	#
+
+upsell.tab.3.title=다양한 무료 수업	#
+upsell.tab.3.body=역사와 화학부터 컴퓨터 과학과 수학까지 수백 가지 Minecraft 월드 및 수업을 탐험하세요. 출발점으로 이 수업을 활용하거나 여러분만의 수업을 만드세요.	#
+upsell.tab.3.button=수업으로 이동	#
+
+upsell.tab.4.title=사회적 정서 기술 구축	#
+upsell.tab.4.body=학생들이 협동, 문제 해결, 공감하며 소통하는 것을 배웁니다. Minecraft: Education Edition에는 교사들이 모든 유형의 학습자들에게 도달할 수 있는 몰입형 리더와 같은 기능이 포함되어 있습니다.	#
+upsell.tab.4.button=자세한 정보	#
+
+upsell.tab.5.title=커뮤니티 참여	#
+upsell.tab.5.body=교사 트레이닝 참여, 소셜 미디어 연결 및 전세계 커뮤니티에 참여하여 다른 교육자들에게 배울 수 있습니다. 115개국 이상의 교육자들이 교실에서 Minecraft를 활용합니다. 여러분도 할 수 있습니다!	#
+upsell.tab.5.button=연결됨	#
+
+lesson.finished=끝났습니다	#
+
+lesson.end.dialog.title=수업 완료!	#
+lesson.end.dialog.body.title=축하합니다	#
+lesson.end.dialog.body.wimages=수료증을 받았습니다. 이 수업의 사진을 확인하고 사본을 저장하세요.	#
+lesson.end.dialog.body.checkport=이 수업의 사진을 확인하고 사본을 저장하세요.	#
+lesson.end.dialog.body.noimages=수료증을 받았습니다.	#
+lesson.end.dialog.button.morecoding=더 많은 코딩	#
+lesson.end.dialog.button.getcert=수료증 받기	#
+lesson.end.dialog.button.exit=수업 종료	#
+lesson.end.dialog.button.export=저장	#
+
+lesson.end.access.imagespreview=수업 사진 %1/%2	#
+lesson.end.access.export=수업 사진 내보내기	#

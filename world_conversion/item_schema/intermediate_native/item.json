@@ -1,0 +1,13 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "src": "tag.display.Name",
+      "dest": "tag.display.Name",
+      "src_members": "stringValue",
+      "dest_members": "TAG_String"
+    }
+
+  ]
+}

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Desconecta tu teléfono del Visor de Realidad Virtual para iniciar sesión en Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Desconecta tu teléfono del Visor de Realidad Virtual para agregar amigos de Xbox Live.	#
+xblLogin.LoginMessageRift=Desconecta el Visor de Realidad Virtual para iniciar sesión en Xbox Live.	#
+xblLogin.AddFriendMessageRift=Desconecta el Visor de Realidad Virtual para agregar amigos de Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Desconecta el Visor de Realidad Virtual para ver la gamercard.	#
+
+LostFocus.Rift=¡Perdiste el mouse! Selecciona Minecraft en el escritorio si quieres usarlo.	#
+
+vr.controls.HandControllerTracked=Se activó el seguimiento de Oculus Touch.	#
+vr.controls.HandControllerTrackingLost=Se perdió el seguimiento de Oculus Touch.	#
+
+FileBrowser.Rift.Skin=Desconecta el Visor de Realidad Virtual para seleccionar un aspecto personalizado.	#
+FileBrowser.Rift.TemplateResource=Desconecta los audífonos para seleccionar el recurso de plantilla.	#
+FileBrowser.Rift.Export=Desconecta el Visor de Realidad Virtual para exportar el mundo.	#
+FileBrowser.Rift.Import=Desconecta el Visor de Realidad Virtual para importar el mundo.	#
+FileBrowser.Rift.ExportBook=Quítate los audífonos para exportar tu libro.	#
+FileBrowser.Rift.ExportPortfolio=Desconecta el Visor de Realidad Virtual para exportar el álbum.	#
+FileBrowser.Rift.FileChooser=Elige un archivo	#
+FileBrowser.Rift.FolderChooser=Elige la carpeta	#
+FileBrowser.Rift.ExportWorld=Exportar mundo	#
+FileBrowser.Rift.ExportResourcesPrompt=Desconecta los audífonos para exportar los recursos.	#
+FileBrowser.Rift.ExportResources=Exportar recursos	#
+FileBrowser.Rift.SkinChooser=Elige un aspecto	#
+
+
+options.group.vr=RV	#
+options.group.vrTitle=Configuración de RV	#
+options.vrHideHud=Ocultar HUD	#
+options.vrHideHand=Ocultar mano	#
+options.vrHideGUI=Ocultar interfaz en RV	#
+options.vrGamma=Brillo de RV	#
+options.vrMsaa=Alisado de RV	#
+options.vrRenderDistance=Distancia del procesador de RV	#
+options.vrParticleRenderDistance=Distancia del procesador de partículas de RV	#
+options.vrResetPlayerAlignment=Restablecer alineación de RV	#
+options.vrHMDdisplacement=Usar desplazamiento del casco para moverse	#
+options.vrHeadSteering=Dirigir con la cabeza en VR	#
+options.vrTurningOptions=Opciones de giro	#
+options.StutterTurn=Giro en RV	#
+options.StutterTurnSound=Activar sonido al girar en RV	#
+options.StutterConstantAngleOrTime=Modo de tiempo constante de giro en RV	#
+options.3DRendering=Representación en 3D	#
+options.vrHudAtTop=HUD arriba	#
+options.vrAutojump=Salto automático en RV	#
+options.vrLinearJump=Salto lineal en RV	#
+options.vrLinearMotion=Movimiento lineal en RV	#
+options.stickyMining=Cursor adhesivo	#
+options.stickyMiningHand=Cursor adhesivo con controlador de mano	#
+options.vrMovingBackwardsHardStop=Freno en reversa	#
+options.comfortControls=Controles de RV	#
+options.ShowComfortSelectScreen=Mostrar pantalla de selección de controles	#
+options.vrHudDrifts=Desfase de HUD	#
+options.vrLivingRoomCursorCentered=Centrado en cursor de la sala de estar de RV	#
+options.vrTapTurn=Tocar para girar	#
+options.vrTapTurnSensitivity=Sensibilidad al tocar para girar	#
+options.vrRollTurning=Giro de rueda	#
+options.vrRollTurnSensitivity=Sensibilidad del giro de rueda	#
+options.vrHandControlsItem=Controlador de mano con control de objetos	#
+options.vrHandControlsHUD=Controlador de mano con control de HUD	#
+options.vrHandPointer=Controlador de mano con foco visible	#
+options.vrHandsVisible=Manos visibles	#
+options.vr180Turning=Giro de 180 reverso	#
+options.vrMirrorTexture=Activar textura Espejo	#
+options.vrSensitivity=Sensibilidad de RV	#
+options.vrUIMouseSensitivity=Sensibilidad de la interfaz en RV	#
+
+## VR control Scheme Strings
+vr.controls.title=Controles de RV	#
+
+vr.controls.title.classic=Controles clásicos - Intenso	#
+vr.controls.title.experimental=Controles de RV - Moderado	#
+vr.controls.classicDescription=El clásico salto y giro, no puesto a punto para VR. Brinda una gran comodidad a la mayoría de los jugadores.	#
+vr.controls.experimentalDescription=Los giros ocurren en segmentos. Los saltos y el cursor se ajustan para RV a fin de que los movimientos sean más cómodos para la mayoría de los jugadores.	#
+vr.controls.sharedDescription=Los controles también se pueden cambiar en el juego desde el menú Opciones.	#
+vr.moreOptions=Más opciones...	#
+vr.moreInformation=Más información...	#
+vr.detailedInformation=Se ajustaron varias funciones para aumentar la comodidad de la RV. Por ejemplo, girar en RV es una función que segmenta el movimiento de giro para reducir la desorientación.	#
+vr.detailedInformationLink=Para obtener más información sobre los controles de RV y echar un vistazo detrás de escena, visita minecraft.net/vr.	#
+
+vr.pausescreen.recenterDevice=Volver a centrar el dispositivo	#
+vr.pausescreen.recenterDeviceKeyboard=Presiona N para volver a centrar el dispositivo.	#
+vr.warning.controllerRequired=Necesitas un controlador de juego.	#
+vr.warning.controllerRecommended=Se recomienda usar un controlador de juego para la RV.	#
+vr.warning.controllerOrMouseRecommended=Se recomienda usar un controlador de juego o mouse para la RV.	#
+vr.warning.exitGameWarning=¿Quieres salir de Minecraft?	#
+vr.alignscreen.pressButtonX=Para continuar, presiona el botón 'X' en tu controlador.	#
+vr.alignscreen.pressButtonXOrMouse=Para continuar, presiona cualquier botón en tu controlador.	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Presiona el botón A en tu control o el gatillo SELECT en tu control de Windows Mixed Reality para continuar	#
+vr.alignscreen.pressAnyButton=Alinea tu cabeza en una posición neutral y presiona cualquier botón.	#
+vr.alignscreen.info=Nota: Ten en cuenta que esto es un trabajo en progreso. La RV puede causarles incomodidad a algunas personas. No olvides descansar con frecuencia y usar el modo Sala de estar. Para esto, toca el panel táctil y cambiarás a una vista menos intensa.	#
+vr.alignscreen.info_viewbutton=Nota: Ten en cuenta que esto es un trabajo en progreso. La RV puede causarles incomodidad a algunas personas. No olvides descansar con frecuencia y usar el modo Sala de estar. Para esto, presiona el pad direccional hacia arriba y cambiarás a una vista menos intensa.	#
+
+accessibility.gamepad.button.systemLeft=botón select	#
+accessibility.gamepad.button.systemRight=botón start	#
+
+## Oculus Rift Installer
+ori.confirm.exit=¿Seguro que quieres salir?	#
+ori.confirm.update=¿Actualizar Minecraft?	#
+ori.pending=Esperando a que se complete la actualización de Windows.	#
+ori.installing=Instalando...	#
+ori.updating=Actualizando...	#
+ori.launching=¡Iniciando!	#
+ori.check_for_update=Buscando actualizaciones...	#
+ori.error.unavailable=Minecraft no está disponible. Asegúrate de estar conectado a Internet y de haber iniciado sesión en la tienda.	#
+ori.error.unknown=Ocurrió un error desconocido. Intenta de nuevo más tarde.	#
+ori.error.not_supported=Este sistema no admite Minecraft.	#
+ori.error.launch_failure=Error al iniciar Minecraft.	#
+ori.error.version=Tu versión de Minecraft está desactualizada. Actualízala para poder jugar.	#
+ori.error.win10=Necesitas Windows 10, versión 1607 o una versión posterior.	#
+ori.error.install_error=Ocurrió un error. Código del error: 0x	#
+ori.error.low_storage=No se pudo realizar la instalación. No hay espacio de almacenamiento disponible.	#
+ori.error.no_internet=No se puede conectar. Comprueba tu conexión a Internet.	#
+ori.error.winUpdateDisabled=Windows Update debe estar habilitado.	#
+ori.confirm.controls.controller.confirm=Confirmar	#
+ori.confirm.controls.controller.cancel=Cancelar	#
+ori.confirm.controls.keyboard.confirm=Confirmar: [Intro]	#
+ori.confirm.controls.keyboard.cancel=Cancelar: [Esc]	#
+ori.exit.controls.controller=Salir	#
+ori.exit.controls.keyboard=Salir: [Intro]	#
+ori.cancelling=Cancelando...	#
+

@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.EntityTag.id",
+      "dest": "tag.EntityTag.id",
+      "item_transformation": "SpawnEggTypeToIntermediate"
+    }
+  ]
+}

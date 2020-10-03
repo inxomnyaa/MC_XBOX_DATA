@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=minknop	#
+accessibility.gamepad.button.systemRight=plusknop	#
+accessibility.gamepad.dpad.down=Knop Omlaag	#
+accessibility.gamepad.dpad.up=Knop Omhoog	#
+accessibility.gamepad.dpad.left=Knop Naar links	#
+accessibility.gamepad.dpad.right=Knop Naar rechts	#
+accessibility.gamepad.trigger.right=ZR-knop	#
+accessibility.gamepad.trigger.left=ZL-knop	#
+accessibility.gamepad.bumper.right=R-knop	#
+accessibility.gamepad.bumper.left=L-knop	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo-accountinstellingen	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft-accountinstellingen	#
+
+patchNotice.title=Welkom bij Minecraft - Mis deze geweldige content niet!	#
+patchNotice.description.onlineFeatures=Maak met je Nintendo Switch verbinding met internet om geheel nieuwe manieren om te spelen te ontdekken!	#
+patchNotice.description.onlineFeatures.item1=* Download de gratis DLC-pakketten die je bij het spel hebt ontvangen.	#
+patchNotice.description.onlineFeatures.item2=* Ontdek creaties van de community in de Marketplace om de manier waarop je speelt te veranderen.	#
+patchNotice.description.onlineFeatures.item3=* Speel online met vrienden (zelfs op andere apparaten)!	#
+patchNotice.description.onlineFeatures.item4=* Werk het spel bij met nieuwe functies, content en verbeteringen zoals...	#
+patchNotice.description.freeUpdates.item1=* Nieuwe blokken!	#
+patchNotice.description.freeUpdates.item2=* Nieuwe voorwerpen!	#
+patchNotice.description.freeUpdates.item3=* Nieuwe mobs!	#
+patchNotice.description.freeUpdates.item4=* Nieuwe gegenereerde bouwwerken!	#
+patchNotice.description.freeUpdates.item5=* Nieuwe bioomvarianten!	#
+patchNotice.description.onlineFeatures.item5=Er is nu een update beschikbaar! Maak met je Nintendo Switch verbinding met internet om deze gratis update te ontvangen!	#
+
+thirdPartyConsole.network.networkName=Nintendo-account	#
+thirdPartyConsole.adhoc.title=Netwerkmodus selecteren	#
+thirdPartyConsole.adhoc.desc=Kies Lokaal netwerk om verbinding te maken met andere Nintendo Switch-systemen in de buurt of Online netwerk om verbinding te maken met vrienden van over de hele wereld!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Verbinden met	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Online netwerk	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Verbinden met	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Lokaal netwerk	#
+thirdPartyConsole.adhoc.onlineNetwork=Online netwerk	#
+thirdPartyConsole.adhoc.localNetwork=Lokaal netwerk	#
+thirdPartyConsole.adhoc.enableOnline=Online netwerk inschakelen	#
+thirdPartyConsole.adhoc.enableLocal=Lokaal netwerk inschakelen	#
+thirdPartyConsole.adhoc.inprogress=We brengen even wat wijzigingen aan. Nog heel even wachten...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Er zijn teveel controllers verbonden.	#
+thirdPartyConsole.adhoc.controllerwarning=De lokale netwerkmodus ondersteunt maximaal 2 draadloos verbonden controllers. (2 Joy-Con- of 2 Pro-controllers) De verbinding met extra controllers is verbroken.	#
+thirdPartyConsole.adhoc.store=Winkelfuncties zijn uitgeschakeld in de lokale netwerkmodus.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Aanmelden bij een Microsoft-account?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Je moet verbinding maken met het onlinenetwerk om je aan te melden bij een Microsoft-account.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Verbinden	#
+thirdPartyConsole.startmenuscreen.xblsignin=Aanmelden met een Microsoft-account	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Aanmelden bij Microsoft-account	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Inloggen met een Nintendo-account	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Inloggen bij Nintendo-account	#
+thirdPartyConsole.notsignedin=Je bent niet bij je Nintendo-account ingelogd.	#
+thirdPartyConsole.notsignedin.achievements=Je bent niet ingelogd en kunt geen achievements verdienen.	#
+thirdPartyConsole.notsignedin.store=Je hebt een Nintendo-account nodig om in de winkel te bladeren.	#
+thirdPartyConsole.notsignedin.serversTab=Ga online om de Minecraft-servers te proberen: gigantische werelden van de community waarin je met of tegen vrienden (en vijanden) kunt spelen, met andere spelers in enorme wachtruimtes kunt rondhangen en uitgestrekte, persoonlijke werelden kunt ontdekken.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Log je in met je Nintendo-account om te spelen met vrienden.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Dit account heeft niet de machtigingen om je bij Nintendo-multiplayerspellen aan te sluiten.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Je moet vrienden zijn met iemand in dit spel om je aan te sluiten.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=De verbinding met Nintendo Switch Online is verbroken. Log je in het hoofdmenu in en start je wereld opnieuw op om deze zichtbaar te maken voor je Nintendo-vrienden.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Je wereld is niet meer zichtbaar op het lokale netwerk. Start de Lokale modus opnieuw op in het hoofdmenu en start vervolgens je wereld opnieuw op om deze zichtbaar te maken voor lokale spelers.	#
+networkWorld.add_friend=Zoeken naar platformoverschrijdende vrienden	#
+networkWorld.find_cross_platform_friends=Zoeken naar platformoverschrijdende vrienden	#
+networkWorld.joinable_nintendo_friends_label=Bij aan te sluiten Nintendo Switch-vrienden	#
+networkWorld.joinable_cross_platform_friends_label=Bij aan te sluiten platformoverschrijdende vrienden	#
+networkWorld.no_xbl_label=Je kunt je zonder Microsoft-account niet bij platformoverschrijdende spellen aansluiten. Meld je aan bij een Microsoft-account om je aan te sluiten bij werelden van je vrienden.	#
+networkWorld.no_thirdParty_label.no_subscription=Je bent niet verbonden met Nintendo Switch Online. Je hebt een abonnement op Nintendo Switch Online nodig om online functies te gebruiken. Dit kun je kopen in de Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Je bent niet verbonden met Nintendo Switch Online-services. Je kunt je niet aansluiten bij multiplayerspellen van je vrienden. Log je in bij Nintendo Switch Online om je aan te sluiten bij werelden van je vrienden.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Je kunt geen onlinemultiplayerspellen spelen vanwege beperkingen van Ouderlijk toezicht. Bekijk en beheer je multiplayerinstellingen met 'Communicatie met anderen' in Ouderlijk toezicht.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Je kunt geen lokale multiplayerspellen spelen vanwege beperkingen van Ouderlijk toezicht. Bekijk en beheer je multiplayerinstellingen met 'Communicatie met anderen' in Ouderlijk toezicht.	#
+permissions.AddFriendsThirdParty=Je kunt geen vrienden toevoegen vanwege beperkingen van Ouderlijk toezicht. Bekijk en beheer je multiplayerinstellingen met 'Communicatie met anderen' in Ouderlijk toezicht.	#
+permissions.MultiplayerSessionsThirdParty=Je kunt niet in Realms spelen vanwege beperkingen van Ouderlijk toezicht. Bekijk en beheer je multiplayerinstellingen met 'Communicatie met anderen' in Ouderlijk toezicht.	#
+options.dev_switch_coin_debug=Foutopsporing inschakelen voor eShop-aankopen bij het toevoegen van munten	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Je bent niet verbonden met Nintendo Switch Online. Je hebt een abonnement op Nintendo Switch Online nodig om online functies te gebruiken. Dit kun je kopen in de Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Je bent niet verbonden met Nintendo Switch Online-services. Je Nintendo-vrienden kunnen zich niet aansluiten bij jouw multiplayerwereld. Log je in bij Nintendo Switch Online om met je vrienden te spelen.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Je apparaat kan niet worden ingesteld op de lokale netwerkmodus. Controleer of de vliegtuigmodus is uitgeschakeld en activeer vervolgens de lokale modus opnieuw om zichtbaar te worden voor lokale spelers.	#
+createWorldScreen.check_internet_connection=Je Nintendo Switch is niet verbonden met internet. Je vrienden kunnen zich niet aansluiten bij jouw multiplayerwerelden. Maak met je Nintendo Switch verbinding met internet om online functies te gebruiken.	#
+invite.notification.description=%s heeft je uitgenodigd om Minecraft te spelen. Druk op - om te reageren.	#
+network.thirdparty.connect.benefit=Inloggen bij je Nintendo-account? Je hebt een Nintendo-account nodig om online services te gebruiken.	#
+networkWorld.check_internet_connection=Je Nintendo Switch is niet verbonden met internet. Je kunt je niet aansluiten bij multiplayerspellen van je vrienden. Maak met je Nintendo Switch verbinding met internet om online functies te gebruiken.	#
+networkWorld.check_internet_connection.no_subscription=Je bent niet verbonden met Nintendo Switch Online. Je hebt een abonnement op Nintendo Switch Online nodig om online functies te gebruiken. Dit kun je kopen in de Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Je bent niet verbonden met Nintendo Switch Online-services. Je kunt je niet aansluiten bij multiplayerspellen van je vrienden. Log je in bij Nintendo Switch Online om je aan te sluiten bij werelden van je vrienden.	#
+disconnectionScreen.realmsDisabled=Realms zijn uitgeschakeld voor de Switch.	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online vereist	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Om zonder Nintendo Switch Online-abonnement multiplayer met gesplitst scherm te kunne spelen, moet je het selectievakje 'Multiplayer' onder Spelinstellingen uitschakelen. Om online multiplayer met gesplitst scherm te spelen, heb je wel een abonnement op Nintendo Switch Online nodig. Dit kun je kopen in de Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Je bent niet verbonden met Nintendo Switch Online. Je hebt een abonnement op Nintendo Switch Online nodig om multiplayerspellen te spelen. Dit kun je kopen in de Nintendo eShop.	#
+options.xboxlivevisible=Zichtbaar voor platformoverschrijdende spelers	#
+options.achievementsDisabled=Er kunnen in deze wereld geen achievements worden verdiend.	#
+permissions.RealmsAddFriends=Je kunt geen nieuwe vrienden toevoegen om in je Realm mee te spelen vanwege de instellingen van je Microsoft-account. Je kunt dit wijzigen in de instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings. Wil je doorgaan?	#
+permissions.CloudSave=Je kunt je werelden niet opslaan naar je Microsoft-account vanwege de instellingen hiervan. Je kunt dit wijzigen in de instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Volgens je Microsoft-accountinstellingen zijn multiplayerspellen niet toegestaan. Bekijk je instellingen voor 'Privacy en onlineveiligheid' op aka.ms/accountsettings om te controleren of multiplayerspellen zijn toegestaan. 	#
+store.purchase.syncInProgress=Nintendo eShop-aankopen synchroniseren...	#
+store.purchase.coinsLeftToBuy=Je hebt nog %s munten nodig om dit pakket te ontgrendelen.	#
+xbox.signin.newaccount.welcome=Welkom!	#
+xbox.signin.legalinfo=Je hebt een Xbox Live-profiel met Minecraft verbonden. Ga naar http://aka.ms/accountsettings om je Xbox Live-instellingen te wijzigen en voor meer informatie. De Microsoft-serviceovereenkomst en privacyverklaring zijn van toepassing. 	#
+xbox.failedsignin.line2=Als je speelt zonder je in te loggen, kun je geen achievements verdienen en niet bij Realms of servers aansluiten.	#
+xbox.failedautosignin.message=Oeps! Automatisch aanmelden is mislukt. Je moet je handmatig opnieuw aanmelden om toegang te krijgen tot je Microsoft-account.	#
+xbox.signInLong=Log je gratis in!	#
+xbox.signOutLong=Uitloggen bij je Microsoft-account	#
+xbox.thirdpartysignin.line2=Je moet je met een Microsoft-account inloggen om verbinding te maken.	#
+xbox.profile.realName=Beheer je privacyinstellingen om je echte naam te delen op http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Vriend verwijderen	#
+autosave.info.xbox=Als je dit pictogram ziet, slaan we je spel op. Schakel je Nintendo Switch-systeem niet uit wanneer dit pictogram op het scherm te zien is.	#
+progressScreen.message.leaveLevel=Je spel wordt opgeslagen. Schakel je Nintendo Switch-systeem niet uit.	#
+feed.report_xbox=Rapporteren aan handhavingsteam	#
+
+howtoplay.multiplayer.text.1=Minecraft is het leukst met vrienden! Je vrienden kunnen zich standaard bij je werelden aansluiten. Op de Nintendo Switch kun je multiplayerspellen met zowel je Nintendo-vrienden als vrienden op andere apparaten spelen. Bekijk hier alle manieren om multiplayerspellen te spelen!	#
+howtoplay.multiplayer.text.2.splitscreen=Tot drie extra vrienden kunnen zich tegelijkertijd bij je spel aansluiten! Open je wereld en laat je vrienden hun controllers inschakelen en op een knop drukken om zich aan te sluiten. Zorg ervoor dat elke speler twee Joy-Con-controllers heeft. Je moet zowel de linker- als rechtercontroller hebben of een andere controller die geschikt is voor de Nintendo Switch.	#
+howtoplay.multiplayer.text.3.no_subscription=Minecraft biedt drie manieren om onlinemultiplayerspellen te spelen. Je kunt in een Realm, op een server of in je eigen wereld spelen. Als je een Nintendo Switch Online-abonnement hebt en met je Microsoft-account bent aangemeld, kunnen je vrienden op andere apparaten zich bij jouw wereld aansluiten! Voor Realms en servers is een Microsoft-account vereist.	#
+howtoplay.multiplayer.text.3.has_subscription=Minecraft biedt drie manieren om onlinemultiplayerspellen te spelen. Je kunt in een Realm, op een server of in je eigen wereld spelen. Als je met je Nintendo- en Microsoft-account bent aangemeld, kunnen je vrienden op andere apparaten zich bij jouw wereld aansluiten! Voor Realms en servers is een Microsoft-account vereist.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Als je een Nintendo Switch Online-abonnement hebt en met je Microsoft-account bent aangemeld, kunnen je vrienden op andere apparaten zich bij jouw wereld aansluiten!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Als je met je Nintendo- en Microsoft-account bent aangemeld, kunnen je vrienden op andere apparaten zich bij jouw wereld aansluiten!	#
+howtoplay.multiplayer.text.4=Om je bij een multiplayerspel aan te sluiten, ga je naar het tabblad Vrienden. Alle werelden en Realms van je vrienden waarbij je je kunt aansluiten, zijn zichtbaar als je je in de onlinemodus bevindt. Alle ad-hocspellen van je vrienden verschijnen ook in deze lijst als zij zich in de ad-hocmodus bevinden.	#
+howtoplay.multiplayer.text.4.norealms=Om je bij een multiplayerspel aan te sluiten, ga je naar het tabblad Vrienden. Alle werelden van je vrienden waarbij je je kunt aansluiten, zijn zichtbaar als je je in de online modus bevindt. Alle ad-hocspellen van je vrienden verschijnen ook in deze lijst als zij zich in de ad-hocmodus bevinden.	#
+howtoplay.multiplayer.text.5=Wanneer je een onlinespel start of je je hierbij aansluit, is dit zichtbaar voor alle vrienden van je Microsoft-account en diens vrienden. Bekijk de instellingen voor platformoverschrijdende multiplayerspellen in je wereld door bij deze wereld op de knop Bewerken en Multiplayer te klikken.	#
+howtoplay.multiplayer.text.7=Geef je vrienden speciale vaardigheden in je wereld of zorg ervoor dat ze niet eens iets kunnen aanraken! Standaard betreden al je vrienden je wereld als lid. Open het pauzemenu om een lijst met vrienden in je wereld te zien en klik rechts van hun naam op het pictogram om hun machtigingen in je wereld te bewerken.	#
+howtoplay.multiplayer.header.adhoc=Ad-hocmodus	#
+howtoplay.multiplayer.text.adhoc=Wil je samen met je vrienden spelen maar niet op hetzelfde apparaat? Schakel in het hoofdmenu de Ad-hocmodus van je Nintendo Switch in door op :_gamepad_face_button_left: te drukken. Ga naar het tabblad Vrienden in het menu Spelen om de spellen van vrienden in de buurt te zien of begin zelf een nieuw spel zodat je vrienden in de buurt zich bij je kunnen aansluiten!	#
+howtoplay.theStore.text.4.norealms=Geef je oude spel een make-over met texturepakketten die op je huidige werelden worden toegepast!	#
+howtoplay.theStore.text.5.norealms=Of probeer ze allemaal met mashup-pakketten: een zorgvuldig samengestelde verzameling met skins, werelden en textures die samen je werelden zullen transformeren!	#
+
+trial.tabbed_upsell.xbl.title=Er is meer!	#
+
+connect_gamepad.pressButtonToContinue=Een Pro Controller of een set Joy-Con (L)/(R)-controllers is vereist om door te gaan.	#
+connect_gamepad.adhocMaxControllers=Tijdens lokale draadloze communicatie mag er slechts één Pro Controller of één set Joy-Con (L)/(R)-controllers worden gebruikt. Schakel alle extra controllers uit.	#
+connect_gamepad.requireControllerReconfiguration=Elke speler moet een Pro Controller of een set Joy-Con (L)/(R)-controllers hebben. Schakel alle extra Joy-Con-controllers uit die niet deel uitmaken van een set.	#
+connect_gamepad.handheldModeNoSplitscreen=Er is een extra controller gedetecteerd, maar multiplayer met gesplitst scherm is niet beschikbaar in handheldstijl. Maak de Joy-Con-controllers los om de handheldstijl uit te schakelen of schakel alle extra controllers uit.	#
+connect_gamepad.promptHandheldMode=Er zijn Joy-Con-controllers aangesloten op de console. Wil je de handheldstijl inschakelen? Hiermee wordt de multiplayermodus met gesplitst scherm afgesloten. Druk op OK om multiplayer met gesplitst scherm te stoppen en de handheldstijl in te schakelen of selecteer Annuleren om de aangesloten Joy-Con-controllers los te koppelen van het spel en op te laden.	#

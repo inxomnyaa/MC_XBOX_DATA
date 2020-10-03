@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Direction",
+      "dest": "direction",
+      "src_members": [ "realValue" ],
+      "dest_members": [ "TAG_Float" ]
+    },
+    {
+      "src": "Power",
+      "dest": "power",
+      "src_members": [ "realValue" ],
+      "dest_members": [ "TAG_Float" ]
+      
+    }
+  ]
+}

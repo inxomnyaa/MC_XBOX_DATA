@@ -1,0 +1,207 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "id",
+      "dest": "id",
+      "src_members": "TAG_String" ,
+      "dest_members": "stringValue"
+    },
+    {
+      "src": "Pos",
+      "dest": "Pos",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "src": "Motion",
+      "dest": "Velocity",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "src": "Rotation",
+      "dest": "Rotation",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "src": "FallDistance",
+      "dest": "FallDistance",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "Fire",
+      "dest": "Fire",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Air",
+      "dest": "Air",
+      "src_members": "TAG_Short",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "OnGround",
+      "dest": "OnGround",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "NoGravity",
+      "dest": "NoGravity",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Dimension",
+      "dest": "Dimension",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Invulnerable",
+      "dest": "Invulnerable",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "PortalCooldown",
+      "dest": "PortalCooldown",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Silent",
+      "dest": "Silent",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Passengers",
+      "dest": "Passengers",
+      "src_members": [ "TAG_String" ],
+      "dest_members": [ "stringValue" ],
+      "optional": true
+    },
+    {
+      "src": "Glowing",
+      "dest": "Glowing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "playerGameType",
+      "dest": "playerGameType",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Score",
+      "dest": "Score",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "SelectedItemSlot",
+      "dest": "SelectedItemSlot",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "SpawnX",
+      "dest": "SpawnX",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "SpawnY",
+      "dest": "SpawnY",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "SpawnZ",
+      "dest": "SpawnZ",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "SpawnForced",
+      "dest": "SpawnForced",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Sleeping",
+      "dest": "Sleeping",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "foodLevel",
+      "dest": "foodLevel",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "foodExhaustionLevel",
+      "dest": "foodExhaustionLevel",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "foodSaturationLevel",
+      "dest": "foodSaturationLevel",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "foodTickTimer",
+      "dest": "foodTickTimer",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "XpLevel",
+      "dest": "XpLevel",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "XpP",
+      "dest": "XpP",
+      "src_members": "TAG_Float",
+      "dest_members": "realValue"
+    },
+    {
+      "src": "XpTotal",
+      "dest": "XpTotal",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "custom_transformation": "JavaInventoryToIntermediate",
+      "src": "Inventory",
+      "dest": "Inventory"
+    },
+    {
+      "custom_transformation": "JavaInventoryToIntermediate",
+      "src": "EnderItems",
+      "dest": "EnderItems"
+    }
+  ]
+}

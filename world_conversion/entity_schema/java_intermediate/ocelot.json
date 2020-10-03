@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Sitting",
+      "dest": "Sitting",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "OwnerUUID",
+      "dest": "OwnerNew",
+      "custom_transformation": "JavaStringIDToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "CatType",
+      "dest": "CatType",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

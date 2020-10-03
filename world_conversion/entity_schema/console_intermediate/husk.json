@@ -1,0 +1,19 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "IsBaby",
+      "dest": "IsBaby",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "CanBreakDoors",
+      "dest": "CanBreakDoors",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    }
+  ]
+}

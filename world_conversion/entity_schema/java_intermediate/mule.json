@@ -1,0 +1,31 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Variant",
+      "custom_transformation": "UnpackHorseVariant"
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "SaddleItem",
+      "dest": "SaddleItem"
+    },
+    {
+      "src": "Tame",
+      "dest": "Tame",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    },
+    {
+      "custom_transformation": "JavaInventoryToIntermediate",
+      "src": "Items",
+      "dest": "Items"
+    },
+    {
+      "src": "ChestedHorse",
+      "dest": "ChestedHorse",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    }
+  ]
+}

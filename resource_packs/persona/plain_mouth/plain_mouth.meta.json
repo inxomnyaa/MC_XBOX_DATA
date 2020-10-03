@@ -1,0 +1,24 @@
+{
+  "piece_id": "83c940ce-d7b8-4603-8d73-c1234e322cce",
+  "piece_name": "plain_mouth",
+  "piece_type": "persona_mouth",
+  "texture_sources": [
+    {
+      "texture": "plain_head.png",
+      "tint_map": "plain_head_tintmap.tga",
+      "use_face_uv": true
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#000000",
+    "g_color": "#000000",
+    "b_color": "#79282A",
+    "a_color": "#000000"
+  },
+  "tint_color": {
+    "r_color": "#000000",
+    "g_color": "#000000",
+    "b_color": "#79282A",
+    "a_color": "#000000"
+  }
+}

@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Hiermee stel je een Code Builder-status voor een speler in.	#
+commands.codebuilder.invalidurl=De URL is ongeldig of verwijst naar een niet-ondersteunde website.	#
+commands.takepicture.description=Hiermee maak je een foto van een speler of vanuit het oogpunt van een speler.	#
+commands.takepicture.cameranotfound=Kan geen camera vinden.	#
+commands.takepicture.cameranotspawned=Kan geen camera spawnen.	#
+
+library.connection.failed.body=We kunnen geen verbinding maken met de Bibliotheek. Dit kan voorkomen als je computer offline is of de toegang tot de bibliotheekcatalogus is geblokkeerd.	#
+library.connection.failed.help=Hulp vragen	#
+library.connection.noWorldFound.title=Geen wereld gevonden	#
+library.connection.noWorldFound.body=Het lijkt erop dat er geen werelden zijn in deze categorie.	#
+library.findMoreWorlds=Meer werelden vinden	#
+library.leaveFeedback=Feedback geven	#
+library.title=Bibliotheek	#
+library.searchResults=Resultaten voor: %1	#
+library.item.createdBy=Door %s	#
+library.item.age=Leeftijd: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Duur: %1	#
+library.item.duration.minute=%1 minuut	#
+library.item.duration.multipleMinutes=%1 minuten	#
+library.item.duration.hour=%1 uur	#
+library.item.duration.multipleHours=%1 uur	#
+
+library.item.difficulty=Spelniveau: %1	#
+library.item.difficulty.beginner=Beginner	#
+library.item.difficulty.intermediate=Gemiddeld	#
+library.item.difficulty.advanced=Geavanceerd	#
+
+library.item.tags=Tags:	#
+library.item.tagsAll=ALLE TAGS:	#
+library.item.tagsAll.tts=Meer tags tonen	#
+library.item.button.create=WERELD MAKEN	#
+library.item.button.share=KOPPELING DELEN	#
+library.item.button.plan=LESPLAN	#
+library.item.button.resources=RESOURCES	#
+library.item.progress.body=Het importeren van een nieuwe wereld wordt voorbereid. Dit kan een paar minuten duren.	#
+library.item.description=BESCHRIJVING	#
+library.item.overview=OVERZICHT	#
+library.item.expandable.readLess=Minder lezen	#
+library.item.expandable.readMore=Lees meer	#
+
+library.item.section.languages=ONDERSTEUNDE TALEN	#
+library.item.section.languages.tip=Als deze les niet in jouw gewenste taal beschikbaar is, kun je de Insluitende lezer gebruiken om tekst in het spel te vertalen, zoals boeken, borden en NPC-dialogen.	#
+library.item.section.questions=ESSENTIËLE VRAGEN	#
+library.item.section.generic_objectives=DOELEN	#
+library.item.section.objectives=LEERDOELEN	#
+library.item.section.prep=VOORBEREIDING EN NOTITIES VAN LERAAR	#
+library.item.section.activities=LEERLINGACTIVITEITEN	#
+library.item.section.assessment=BEOORDELING	#
+library.item.section.extensions=EXTENSIES	#
+
+library.category.label.biomes=BIOMEN EN WERELDEN	#
+library.category.title.biomes=Biomen en werelden	#
+library.category.description.biomes=Gebruik deze verzameling van werelden en biomen om aan de slag te gaan met het maken van lessen in Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=BIOMEN	#
+library.category.title.biomes.biome=Biomen	#
+library.category.description.biomes.biome=Biomen zijn regio's in Minecraft met unieke geografische eigenschappen, planten en dieren.	#
+
+library.category.label.biomes.featured=UITGELICHTE WERELDEN	#
+library.category.title.biomes.featured=Uitgelichte werelden	#
+
+library.category.label.buildChallenges=MAANDELIJKSE BOUWUITDAGINGEN	#
+library.category.title.buildChallenges=Maandelijkse bouwuitdagingen	#
+library.category.description.buildChallenges=Laat je leerlingen hun creativiteit gebruiken en moderne vaardigheden ontwikkelen met activiteiten die eenvoudig in de les zijn te implementeren.	#
+
+library.category.label.howToPlay=SPELUITLEG	#
+library.category.description.howToPlay=Deze werelden en activiteiten zijn gemaakt ter introductie van Minecraft: Education Edition tijdens de les.	#
+
+library.category.label.howToPlay.startHere=START HIER	#
+library.category.title.howToPlay.startHere=Start hier	#
+library.category.description.howToPlay.startHere=Al deze tutorialwerelden zijn ontworpen om verschillende vaardigheden te ontwikkelen tijdens het gebruik van Minecraft: Education Edition tijdens de les.	#
+
+library.category.label.howToPlay.additional=EXTRA TUTORIALS	#
+library.category.title.howToPlay.additional=Extra tutorials	#
+
+library.category.label.SEL=SOCIAAL-EMOTIONEEL	#
+library.category.title.SEL=Sociaal-emotioneel	#
+library.category.description.SEL=Deze werelden en activiteiten ondersteunen sociaal-emotioneel leren, met concepten zoals emotioneel welzijn, empathie en het nemen van verantwoorde beslissingen.	#
+
+library.category.label.digitalCitizen=DIGITAAL BURGERSCHAP	#
+library.category.title.digitalCitizen=Digitaal burgerschap	#
+library.category.description.digitalCitizen=Deze werelden en activiteiten richten zich op digitaal burgerschap en ondersteunen studenten met mediageletterdheid, privacy en deelname aan online communities.	#
+
+library.category.label.lessons=LESSEN	#
+library.category.title.lessons=Lessen	#
+
+library.category.label.lessons.genericAdditional=EXTRA LESSEN	#
+library.category.title.lessons.genericAdditional=Extra lessen	#
+
+library.category.label.languageArts=TAALKUNDE	#
+library.category.title.languageArts=Taalkunde	#
+
+library.category.label.languageArts.litStudies=LITERATUURWETENSCHAPPEN	#
+library.category.title.languageArts.litStudies=Literatuurwetenschappen	#
+
+library.category.label.languageArts.litStudies.treasureIsland=SCHATEILAND	#
+library.category.title.languageArts.litStudies.treasureIsland=Schateiland	#
+library.category.description.languageArts.litStudies.treasureIsland=Deze reeks lessen is ontworpen voor het leren van de Engelse taal door middel van het bestuderen van 'Schateiland' van Robert Louis Stevenson.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KENSUKE'S KINGDOM	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Kensuke's Kingdom	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Deze reeks lessen is ontworpen voor het leren van de Engelse taal door middel van het bestuderen van 'Kensuke's Kingdom' van Kensuke's Kingdom.	#
+
+library.category.label.languageArts.litStudies.swissFamily=DE ZWITSERSE FAMILIE ROBINSON	#
+library.category.title.languageArts.litStudies.swissFamily=De Zwitserse Familie Robinson	#
+library.category.description.languageArts.litStudies.swissFamily=Deze reeks lessen is ontworpen voor het leren van de Engelse taal door middel van het bestuderen van 'Robinson Crusoe' en 'De Zwitserse Familie Robinson'.	#
+
+library.category.label.science=WETENSCHAP	#
+library.category.title.science=Wetenschap	#
+
+library.category.label.science.chemistry=SCHEIKUNDE	#
+library.category.title.science.chemistry=Scheikunde	#
+
+library.category.label.science.biology=BIOLOGIE	#
+library.category.title.science.biology=Biologie	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Deze vijf lessen en unieke Minecraft-werelden bestrijken meerdere vakgebieden en leeftijdsgroepen. Middels het geboden lesprogramma kunnen leerlingen de Afrikaanse vlakten verkennen, een werkende haven, neushoornopvang en rangerstation onderzoeken, en tegelijkertijd problemen oplossen en vaardigheden ontwikkelen.	#
+
+library.category.label.science.extinction=BIODIVERSITEITSCRISIS	#
+library.category.title.science.extinction=Biodiversiteitscrisis	#
+library.category.description.science.extinction=Voor dit contentpakket werken we samen met het World Wildlife Fund voor een immersieve Minecraft-wereld en op standaarden gebaseerde lessen. Verken deze resources om op praktische wijze meer te weten te komen over ecosystemen, natuurbehoud en biodiversiteit.	#
+
+library.category.label.history=GESCHIEDENIS EN CULTUUR	#
+library.category.title.history=Geschiedenis en cultuur	#
+
+library.category.label.history.oregonTrail=OREGON TRAIL	#
+library.category.title.history.oregonTrail=Oregon Trail	#
+library.category.description.history.oregonTrail=In samenwerking met Houghton Mifflin Harcourt biedt Minecraft: Education Edition de The Oregon Trail Experience aan. Gebruik de leeractiviteiten van Oregon Trail gedurende het hele lesprogramma en ga op een geweldig avontuur, waarbij de Oregon Trail over het woeste landschap van Noord-Amerika wordt gevolgd.	#
+
+library.category.label.computerScience=COMPUTERWETENSCHAPPEN	#
+library.category.title.computerScience=Computerwetenschappen	#
+
+library.category.label.computerScience.hourOfCode=EEN UUR CODE	#
+library.category.title.computerScience.hourOfCode=Een Uur Code	#
+library.category.description.computerScience.hourOfCode=Deze les is een introductie van één uur tot computerwetenschappen om kunstmatige intelligentie te ontrafelen, te leren programmeren in Minecraft en betrokkenheid te genereren op het gebied van computerwetenschappen.	#
+
+library.category.label.computerScience.STEM=BÈTAVAKKEN	#
+library.category.title.computerScience.STEM=Bètavakken	#
+library.category.description.computerScience.STEM=Met deze op standaarden gebaseerde lessen en werelden op het gebied van wiskunde, wetenschap en constructie kun je computerwetenschappen gedurende de hele schooldag implementeren.	#
+
+library.category.label.computerScience.agency=AGENT	#
+library.category.title.computerScience.agency=Agent	#
+library.category.description.computerScience.agency=Bouw je eigen stad met deze computerwetenschapslessen op basis van CSTA-standaarden. Leer eenvoudige computerwetenschapsconcepten, zoals lussen, algoritmes, voorwaardelijke expressies, foutoplossing, herhaling en meer.	#
+
+library.category.label.computerScience.codingWithMinecraft=PROGRAMMEREN MET MINECRAFT	#
+library.category.title.computerScience.codingWithMinecraft=Programmeren met Minecraft	#
+library.category.description.computerScience.codingWithMinecraft=Kom meer te weten over voorwaardelijke expressies, functies, coördinaten, kunstmatige intelligentie en meer met deze computerwetenschapslessen op basis van CSTA-standaarden.	#
+
+library.category.label.computerScience.codingFun1=PROGRAMMEERBEGINSELEN: 1	#
+library.category.title.computerScience.codingFun1=Programmeerbeginselen: 1	#
+library.category.description.computerScience.codingFun1=Leer meer over verschillende dieren, uitdagingen waarmee ze worden geconfronteerd en manieren om hen te helpen met programmeren! Gebruik algoritmen, sequentiëring en lussen om leuke programmeerpuzzels op te lossen.	#
+
+library.category.label.computerScience.codingFun2=PROGRAMMEERBEGINSELEN: 2	#
+library.category.title.computerScience.codingFun2=Programmeerbeginselen: 2	#
+library.category.description.computerScience.codingFun2=Bezoek de maan, Mercurius, Venus, Mars, Jupiter en Neptunus! Leer hoe je fouten in je code moet opsporen en voorwaarden, operatoren en lussen gebruikt terwijl je de Agent helpt materialen in het hele zonnestelsel te verzamelen.	#
+
+library.category.label.computerScience.codingFun3=PROGRAMMEERBEGINSELEN: 3	#
+library.category.title.computerScience.codingFun3=Programmeerbeginselen: 3	#
+
+library.category.label.computerScience.blockBased=BLOKGEBASEERD PROGRAMMEREN	#
+library.category.title.computerScience.blockBased=Blokgebaseerd programmeren	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=INLEIDING TOT PYTHON	#
+library.category.title.computerScience.python101=Inleiding tot Python	#
+library.category.description.computerScience.python101=Programmeer met Python in Minecraft! Leer de basisprincipes van Python, inclusief syntaxis, gegevenstypen, variabelen, voorwaarden, 'voor'-lussen, voorwaardelijke lussen, lijsten en functies.	#
+
+library.category.label.computerScience.codingTutorials=ZELFSTUDIES VOOR PROGRAMMEREN	#
+library.category.title.computerScience.codingTutorials=Zelfstudies voor programmeren	#
+library.category.description.computerScience.codingTutorials=Als je nader in wilt gaan op een specifiek programmeerconcept, dan is dit de plek om te beginnen! Kom meer te weten over het gebruik van lussen, sequentiëring, voorwaarden, variabelen en functies. In deze lessen kun je ervoor kiezen om te programmeren in blokken, Python of JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=UITGELICHTE LESSEN	#
+library.category.title.computerScience.featuredLessons=Uitgelichte lessen	#
+library.category.description.computerScience.featuredLessons=Hier zijn enkele van onze favoriete programmeerlessen!	#
+
+library.category.label.math=WISKUNDE	#
+library.category.title.math=Wiskunde	#
+
+library.category.label.math.fractions=BREUKEN	#
+library.category.title.math.fractions=Breuken	#
+library.category.description.math.fractions=Probeer deze lessen om leerlingen breuken te leren.	#
+
+library.category.label.art=KUNST EN DESIGN	#
+library.category.title.art=Kunst en design	#
+
+library.category.label.commonCore=COMMON CORE, GROEP %1	#
+library.category.title.commonCore=Common Core, groep %1	#
+library.category.description.commonCoreMath=Deze boeiende activiteiten zijn ontworpen om te helpen tijdens wiskundelessen en voldoen aan de Common Core-standaarden voor wiskunde.	#
+
+signin.acceptTerms=Voorwaarden accepteren	#
+signin.leftPanel.header=MINECRAFT: EDUCATION EDITION SPELEN	#
+signin.leftPanel.body=Meld je aan met je schoolaccount voor toegang tot de volledige versie van Minecraft: Education Edition.	#
+signin.rightPanel.header=DEMOLES PROBEREN	#
+signin.rightPanel.body=Ontdek programmeren in Minecraft: Education Edition met deze demoles, beschikbaar voor alle gebruikers.	#
+
+structure_block.export.default_name=Mijn constructieblok	#
+
+joincode.invalid.title=Onjuiste aansluitingscode	#
+joincode.invalid.body=Je hebt %1 onjuiste aansluitingscodes ingevoerd. Vraag aan de host of je de juiste code hebt of probeer je aan te sluiten met een IP-adres. 	#
+joincode.invalid.button.tryagain=Opnieuw proberen	#
+joincode.invalid.button.enterip=IP-adres invoeren	#
+
+joincode.invalid.abuse.body=Je hebt %1 onjuiste aansluitingscodes ingevoerd. Probeer je bij de wereld aan te sluiten met een IP-adres.	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Toevoeging	#	#
+tag.advanced=Geavanceerd	#	#
+tag.adventure=Avontuur	#	#
+tag.all_ages=Alle leeftijden	#	#
+tag.animals=Dieren	#	#
+tag.aquatic=Aquatisch	#	#
+tag.architecture=Architectuur	#	#
+tag.art_and_design=Kunst en design	#	#
+tag.beginner=Beginner	#	#
+tag.biodiversity=Biodiversiteit	#	#
+tag.biology=Biologie	#	#
+tag.biome=Bioom	#	#
+tag.biomes_and_worlds=Biomen en werelden	#	#
+tag.bridges=Bruggen	#referring to the structure	#
+tag.build_challenge=Bouwuitdaging	#	#
+tag.character=Personage	#	#
+tag.chemistry=Scheikunde	#	#
+tag.citizenship=Burgerschap	#	#
+tag.city=Stad	#	#
+tag.climate=Klimaat	#	#
+tag.code_to_learn_stem=Bètavakken	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Agent	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Programmeren met Minecraft	#	#
+tag.coding_in_minecraft=Programmeren in Minecraft	#	#
+tag.collaboration=Samenwerking	#	#
+tag.color=Kleur	#	#
+tag.common_core_math_grade_3=Common Core, wiskunde groep 6	#	#
+tag.common_core_math_grade_4=Common Core, wiskunde groep 7	#	#
+tag.common_core_math_grade_5=Common Core, wiskunde groep 8	#	#
+tag.communication=Communicatie	#	#
+tag.computer_science=Computerwetenschappen	#	#
+tag.computing_in_minecraft=Informatica in Minecraft	#	#
+tag.creative=Creative	#	#
+tag.creative_writing=Creatief schrijven	#	#
+tag.creativity=Creativiteit	#	#
+tag.critical_thinking=Kritisch denken	#	#
+tag.division=Delen	#	#
+tag.earth_day=Dag van de Aarde	#	#
+tag.ecology=Ecologie	#	#
+tag.economy=Economie	#	#
+tag.energy=Energie	#	#
+tag.environment=Milieu	#	#
+tag.featured=Uitgelicht	#	#
+tag.fractions=Breuken	#	#
+tag.game_design=Spelontwerp	#	#
+tag.geography=Geografie	#	#
+tag.geology=Geologie	#	#
+tag.history_and_culture=Geschiedenis en cultuur	#	#
+tag.hour_of_code=Een Uur Code	#	#
+tag.how_to_play=Speluitleg	#	#
+tag.intermediate=Gemiddeld	#	#
+tag.kensukes_kingdom=Kensuke's Kingdom	#	#
+tag.language_arts=Taalkunde	#	#
+tag.leadership=Leiderschap	#	#
+tag.lesson=Les	#	#
+tag.literature=Literatuur	#	#
+tag.math=Wiskunde	#	#
+tag.multiplayer=Multiplayer	#	#
+tag.multiplication=Vermenigvuldigen	#	#
+tag.museum=Museum	#	#
+tag.music=Muziek	#	#
+tag.mythology=Mythologie	#	#
+tag.ocean=Oceaan	#	#
+tag.oregon_trail=Oregon Trail	#	#
+tag.pattern=Patroon	#	#
+tag.personal_narrative=Persoonlijk verhaal	#	#
+tag.physics=Natuurkunde	#	#
+tag.pixel_art=Pixelkunst	#	#
+tag.pop_culture=Popcultuur	#	#
+tag.probability=Kansberekening	#	#
+tag.project_based_learning=Projectmatig leren	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Wetenschap	#	#
+tag.seasonal=Uit het seizoen	#	#
+tag.single_player=Singleplayer	#	#
+tag.social_emotional_learning=Sociaal-emotioneel leren	#	#
+tag.special_education=Speciaal onderwijs	#	#
+tag.spelling=Spelling	#	#
+tag.story=Verhaal	#	#
+tag.subtraction=Aftrekken	#	#
+tag.survival=Survival	#	#
+tag.swiss_family_robinson=De Zwitserse Familie Robinson	#	#
+tag.technology=Technologie	#	#
+tag.treasure_island=Schateiland	#	#
+tag.tutorial=Tutorial	#	#
+tag.we_are_the_rangers=We are the Rangers	#	#
+tag.world_languages=Wereldtalen	#	#
+tag.wwf=WNF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Digitaal burgerschap	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Blokken	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure-notebooks	#See for example: https://notebooks.azure.com/	#
+tag.loops=Lussen	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Voorwaarden	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Variabelen	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Functies	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operatoren	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Probleemoplossing	#	#
+tag.artificial_intelligence=Kunstmatige intelligentie	#	#
+tag.coding=Programmeren	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Programmeerbeginselen 1	#	#
+tag.coding_fundamentals_2=Programmeerbeginselen 2	#	#
+tag.coding_fundamentals_3=Programmeerbeginselen 3	#	#
+tag.coding_tutorials=Zelfstudies voor programmeren	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=Bijen	#	#
+tag.space=Ruimte	# refers to outer space	#
+tag.esports=E-sport	#	#
+tag.toybox=Speelgoeddoos	#	#
+tag.featured_coding=Uitgelichte codes	#	#
+## END TAG LOCALIZATION SECTION ##

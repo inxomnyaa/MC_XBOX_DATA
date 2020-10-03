@@ -1,0 +1,62 @@
+{
+    "format_version": 0,
+
+    "data_path": "./data",
+    "logs_path": "./logs",
+
+    "convert_level_data": true,
+    "convert_map_data": true,
+    "dimensions": {
+        "overworld": {
+            "convert_entities": true,
+            "convert_terrain": true,
+            "convert_biomes": true,
+            "convert_block_entities": true,
+            "chunk_offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "logging": {
+                "entities": false,
+                "block_entities": false,
+                "chunks": false,
+                "region_files": false
+            }
+        },
+        "nether": {
+            "convert_entities": true,
+            "convert_terrain": true,
+            "convert_biomes": true,
+            "convert_block_entities": true,
+            "chunk_offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "logging": {
+                "entities": false,
+                "block_entities": false,
+                "chunks": false,
+                "region_files": false
+            }
+        },
+        "end": {
+            "convert_entities": true,
+            "convert_terrain": true,
+            "convert_biomes": true,
+            "convert_block_entities": true,
+            "chunk_offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "logging": {
+                "entities": false,
+                "block_entities": false,
+                "chunks": false,
+                "region_files": false
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.ChargedProjectiles",
+      "dest": "Projectiles",
+      "item_transformation": "ConsoleCrossbowToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "tag.ChargedProjectiles",
+      "dest": "Projectiles[0].tag.Fireworks",
+      "item_transformation": "ConsoleCrossbowFireworkToIntermediate",
+      "optional": true
+    }
+  ]
+}

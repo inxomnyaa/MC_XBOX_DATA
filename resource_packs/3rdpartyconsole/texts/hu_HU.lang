@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=mínusz gomb	#
+accessibility.gamepad.button.systemRight=plusz gomb	#
+accessibility.gamepad.dpad.down=Le gomb	#
+accessibility.gamepad.dpad.up=Fel gomb	#
+accessibility.gamepad.dpad.left=Balra gomb	#
+accessibility.gamepad.dpad.right=Jobbra gomb	#
+accessibility.gamepad.trigger.right=ZR gomb	#
+accessibility.gamepad.trigger.left=ZL gomb	#
+accessibility.gamepad.bumper.right=R gomb	#
+accessibility.gamepad.bumper.left=L gomb	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Nintendo-fiók beállításai	#
+options.xboxliveBroadcastSettingsForCrossplatform=Microsoft-fiók beállításai	#
+
+patchNotice.title=Üdvözöllek a Minecraftnál! – Ne maradj le semmilyen nagyszerű tartalomról!	#
+patchNotice.description.onlineFeatures=Csatlakozz Nintendo Switch konzoloddal az internetre, és a játéklehetőségek új világa vár!	#
+patchNotice.description.onlineFeatures.item1=* Töltsd le az ingyenes DLC-csomagokat, amelyeket a játék megvásárlásával kaptál!	#
+patchNotice.description.onlineFeatures.item2=* Fedezd fel a játékélményt felturbózó közösség alkotta tartalmakat a Piactéren!	#
+patchNotice.description.onlineFeatures.item3=* Játssz barátaiddal online – akár más eszközökön is!	#
+patchNotice.description.onlineFeatures.item4=* Bővítsd a játékot új jellemzőkkel, tartalmakkal és fejlesztésekkel, mint például...	#
+patchNotice.description.freeUpdates.item1=* Új blokkok	#
+patchNotice.description.freeUpdates.item2=* Új tárgyak	#
+patchNotice.description.freeUpdates.item3=* Új mobok	#
+patchNotice.description.freeUpdates.item4=* Új generált szerkezetek	#
+patchNotice.description.freeUpdates.item5=* Új biomvariánsok	#
+patchNotice.description.onlineFeatures.item5=Most rögtön el is érhető egy frissítés! Csatlakozz Nintendo Switch konzoloddal az internetre az ingyenes frissítés letöltéséhez!	#
+
+thirdPartyConsole.network.networkName=Nintendo-fiók	#
+thirdPartyConsole.adhoc.title=Válaszd ki a hálózati módot	#
+thirdPartyConsole.adhoc.desc=Válaszd a Helyi hálózat lehetőséget a közeli Nintendo Switch konzolokhoz való csatlakozáshoz vagy az Online hálózat lehetőséget a világ más tájain lévő barátaidhoz való csatlakozáshoz.	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Csatlakozás ide:	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Online hálózat	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Csatlakozás ide:	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Helyi hálózat	#
+thirdPartyConsole.adhoc.onlineNetwork=Online hálózat	#
+thirdPartyConsole.adhoc.localNetwork=Helyi hálózat	#
+thirdPartyConsole.adhoc.enableOnline=Online hálózat bekapcsolása	#
+thirdPartyConsole.adhoc.enableLocal=Helyi hálózat bekapcsolása	#
+thirdPartyConsole.adhoc.inprogress=Kis türelmet, amíg végrehajtunk néhány gyors módosítást...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Túl sok kontroller van csatlakoztatva.	#
+thirdPartyConsole.adhoc.controllerwarning=A helyi hálózati mód legfeljebb 2 vezeték nélküli kontroller csatlakoztatását támogatja (2 Joy-Con vagy 2 Pro kontroller). Az ezen felüli kontrollerek leválasztásra kerültek.	#
+thirdPartyConsole.adhoc.store=Az áruház szolgáltatások nem állnak rendelkezésre helyi hálózati módban.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Bejelentkeznél egy Microsoft-fiókba?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Online kell lenned ahhoz, hogy be tudj jelentkezni egy Microsoft-fiókba.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Csatlakozás	#
+thirdPartyConsole.startmenuscreen.xblsignin=Bejelentkezés Microsoft-fiókkal	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Bejelentkezés a Microsoft-fiókba	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Bejelentkezés Nintendo-fiókkal	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Bejelentkezés a Nintendo-fiókba	#
+thirdPartyConsole.notsignedin=Nem vagy bejelentkezve Nintendo-fiókodba.	#
+thirdPartyConsole.notsignedin.achievements=Nem jelentkeztél be, ezért nem tudsz mérföldköveket elérni.	#
+thirdPartyConsole.notsignedin.store=Be kell jelentkezned Nintendo-fiókodba az áruház kínálatának megtekintéséhez.	#
+thirdPartyConsole.notsignedin.serversTab=Játssz online a Minecraft szerverek kipróbálásához, ahol közösség-alkotta világokban versenghetsz vagy működhetsz együtt barátaiddal (vagy ellenségeiddel), kényelmes lobbikban ütheted el az időt más játékosokkal, vagy felfedezhetsz gigászi egyedi világokat is.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Jelentkezz be Nintendo-fiókoddal, hogy barátaiddal játszhass.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=Ennek a fióknak nincs engedélye a Nintendo-játékok többjátékos módjához csatlakozni.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=A csatlakozáshoz egy barátodnak kell ebben a játékban játszania.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Megszakadt a kapcsolat a Nintendo Switch Online szolgáltatással. Jelentkezz be a főmenüben, és indítsd újra a világot – így láthatóvá válik Nintendo-barátaid számára.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=A világod már nem látható a helyi hálózaton. Kérjük, indítsd újra a helyi módot a főmenüben, és nyisd meg újra a világot, hogy láthatóvá tedd a helyi játékosok számára.	#
+networkWorld.add_friend=Más platformot használó barátok keresése	#
+networkWorld.find_cross_platform_friends=Más platformot használó barátok keresése	#
+networkWorld.joinable_nintendo_friends_label=A Nintendo Switchet használó elérhető barátok	#
+networkWorld.joinable_cross_platform_friends_label=Más platformot használó elérhető barátok	#
+networkWorld.no_xbl_label=Microsoft-fiók nélkül nem lehet csatlakozni a keresztplatformos játékokhoz. Ha a barátaid világához szeretnél csatlakozni, jelentkezz be a Microsoft-fiókodba.	#
+networkWorld.no_thirdParty_label.no_subscription=Nem kapcsolódsz a Nintendo Switch Online szolgáltatásaihoz. Előfizetésre lesz szükséged a Nintendo Switch Online szolgáltatáshoz az online funkciók használatához. Ez a Nintendo eShop áruházban vásárolható meg.	#
+networkWorld.no_thirdParty_label.has_subscription=Nem csatlakoztál a Nintendo Switch Online szolgáltatásokhoz, ezért nem tudsz csatlakozni a barátaid játékához. Ha a barátaid világához szeretnél csatlakozni, jelentkezz be a Nintendo Switch Online szolgáltatásokba.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Szülői felügyeleti korlátozás miatt nem játszhatsz online többjátékos módban. A többjátékos mód beállításait a Szülői felügyelet beállításainak "Kommunikálás másokkal" részében tekintheted meg és módosíthatod.	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Szülői felügyeleti korlátozás miatt nem játszhatsz helyi többjátékos módban. A többjátékos mód beállításait a Szülői felügyelet beállításainak "Kommunikálás másokkal" részében tekintheted meg és módosíthatod.	#
+permissions.AddFriendsThirdParty=Szülői felügyeleti korlátozás miatt nem vehetsz fel barátokat. A többjátékos mód beállításait a Szülői felügyelet beállításainak "Kommunikálás másokkal" részében tekintheted meg és módosíthatod.	#
+permissions.MultiplayerSessionsThirdParty=Szülői felügyeleti korlátozás miatt nem játszhatsz a Realms szolgáltatással. A többjátékos mód beállításait a Szülői felügyelet beállításainak „Kommunikáció másokkal” részében tekintheted meg és módosíthatod.	#
+options.dev_switch_coin_debug=Az eShopban való vásárlás hibaelhárításának bekapcsolása érmék hozzáadásakor	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Nem kapcsolódsz a Nintendo Switch Online szolgáltatásaihoz. Előfizetésre lesz szükséged a Nintendo Switch Online szolgáltatáshoz az online funkciók használatához. Ez a Nintendo eShop áruházban vásárolható meg.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Nem csatlakoztál a Nintendo Switch Online szolgáltatásokhoz, ezért Nintendo-barátaid nem tudnak csatlakozni többjátékos világodhoz. Ha a barátaiddal szeretnél játszani, jelentkezz be a Nintendo Switch Online rendszerébe.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=Hiba lépett fel eszközöd helyi hálózati módba lépése során. Bizonyosodj meg róla, hogy nem repülőgép üzemmódban vagy, majd indítsd újra a helyi hálózati módot, hogy láthatóvá válj a többi játékos számára.	#
+createWorldScreen.check_internet_connection=Nintendo Switch konzolod nem kapcsolódik az internetre. Így barátaid nem tudnak csatlakozni többjátékos világodhoz. Csatlakoztasd Nintendo Switch konzolod az internetre az online funkciók használatához.	#
+invite.notification.description=%s meghívott a Minecrafba. A válaszoláshoz nyomd meg a - gombot.	#
+network.thirdparty.connect.benefit=Bejelentkezed Nintendo-fiókodba? Az online szolgáltatások használatához Nintendo-fiók szükséges.	#
+networkWorld.check_internet_connection=Nintendo Switch konzolod nem kapcsolódik az internetre. Így nem tudsz csatlakozni barátaid többjátékos játékaihoz. Csatlakoztasd Nintendo Switch konzolod az internetre az online funkciók használatához.	#
+networkWorld.check_internet_connection.no_subscription=Nem kapcsolódsz a Nintendo Switch Online szolgáltatásaihoz. Előfizetésre lesz szükséged a Nintendo Switch Online szolgáltatáshoz az online funkciók használatához. Ez a Nintendo eShop áruházban vásárolható meg.	#
+networkWorld.check_internet_connection.has_subscription=Nem csatlakoztál a Nintendo Switch Online szolgáltatásokhoz, ezért nem tudsz csatlakozni a barátaid játékához. Ha a barátaid világához szeretnél csatlakozni, jelentkezz be a Nintendo Switch Online szolgáltatásokba.	#
+disconnectionScreen.realmsDisabled=A Realms nem működik Switch platformon.	#
+disconnectionScreen.noNSO.title=Nintendo Switch Online-tagság szükséges	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Hogy osztott képernyős többjátékos módban játszhass Nintendo Switch Online előfizetés nélkül, állítsd „Ki” állapotba a „Többjátékos mód” kapcsolót a játékbeállítások között. Ha online szeretnél osztott képernyős többjátékos módban játszani, előfizetésre lesz szükséged a Nintendo Switch Online szolgáltatásokhoz, amelyet a Nintendo eShopban vásárolhatsz meg.	#
+disconnectionScreen.noNSO.joinRealm=Nem kapcsolódsz a Nintendo Switch Online szolgáltatásaihoz. Előfizetésre lesz szükséged a Nintendo Switch Online szolgáltatáshoz a többjátékos játékhoz. Ez a Nintendo eShop áruházban vásárolható meg.	#
+options.xboxlivevisible=Látható a keresztplatformos játékosok számára	#
+options.achievementsDisabled=Ebben a világban nem lehet mérföldköveket elérni.	#
+permissions.RealmsAddFriends=Nem lehet új barátokat hozzáadni a Realmedben való játékhoz a Microsoft-fiókod beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings. Folytatod?	#
+permissions.CloudSave=Nem lehet menteni a világokat a Microsoft-fiókodban ennek beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=A Microsoft-fiókod beállításai nem teszik lehetővé a többjátékos mód használatát. Az adatvédelmi és online biztonsági beállításaidnál, az aka.ms/accountsettings oldalon ellenőrizd, hogy az lehetővé teszi-e a többjátékos mód használatát. 	#
+store.purchase.syncInProgress=Nintendo eShop vásárlások szinkronizálása...	#
+store.purchase.coinsLeftToBuy=Még %s érmére van szükséged ahhoz, hogy hozzájuthass ehhez a csomaghoz.	#
+xbox.signin.newaccount.welcome=Üdvözlünk!	#
+xbox.signin.legalinfo=Már összekapcsoltad a Minecraftot egy Xbox Live-profillal. Az Xbox Live-beállítások megváltoztatásához és bővebb információkért látogass el a http://aka.ms/accountsettings oldalra. A Microsoft szolgáltatási szerződés és az Adatvédelmi nyilatkozat érvényes. 	#
+xbox.failedsignin.line2=Ha bejelentkezés nélkül játszol, nem láthatod a barátaid listáját, nem érhetsz el mérföldköveket, és nem csatlakozhatsz a Realms szolgáltatáshoz és a kiszolgálókhoz.	#
+xbox.failedautosignin.message=Hoppá! Az automatikus bejelentkezés nem sikerült. Manuálisan újra be kell jelentkezned Microsoft-fiókod eléréséhez.	#
+xbox.signInLong=Jelentkezz be ingyen!	#
+xbox.signOutLong=Kijelentkezés a Microsoft-fiókból	#
+xbox.thirdpartysignin.line2=A csatlakozáshoz jelentkezz be Microsoft-fiókkal.	#
+xbox.profile.realName=A valódi neved megosztásával kapcsolatos adatvédelmi beállításokat a http://aka.ms/accountsettings oldalon kezelheted.	#
+xbox.profile.removeFriend=Barát eltávolítása	#
+autosave.info.xbox=Ha ezt az ikont látod, az azt jelenti, hogy folyamatban van a játék mentése. Ne kapcsold ki a Nintendo Switch konzolt, ha ez az ikon jelenik meg a képernyőn.	#
+progressScreen.message.leaveLevel=A játék mentése folyamatban van, ne kapcsold ki a Nintendo Switch konzolt.	#
+feed.report_xbox=Jelentés a felügyeletnek	#
+
+howtoplay.multiplayer.text.1=A Minecraft akkor a legélvezetesebb, ha a barátaiddal együtt barkácsolgatsz. Alapértelmezett módon minden barátod csatlakozni tud az összes világodhoz. A Nintendo Switchen a Nintendo-barátaiddal és a más eszközöket használó barátaiddal is játhatsz. A többjátékos mód lehetőségeit itt ismerheted meg.	#
+howtoplay.multiplayer.text.2.splitscreen=A játékodhoz bármikor csatlakozhat akár másik három játékos is. Indítsd el a világodat, egyeztess a barátaiddal, és a csatlakozáshoz nyomd meg bármelyik gombot. Mindegyik játékosnak két Joy-Con kontrollerrel kell rendelkeznie: meg kell lennie mind a bal, mind pedig a jobb oldali kontrollernek. Használhatók a Nintendo Switch konzolt támogató más teljes kontrollerek is.	#
+howtoplay.multiplayer.text.3.no_subscription=A Minecraftban alapvetően háromféleképpen játszhatsz többjátékos módban: egy Realmen, egy kiszolgálón vagy a saját világodban. Ha rendelkezel Nintendo Switch Online előfizetéssel és bejelentkezel Microsoft-fiókodba, a más eszközt használó barátaid is csatlakozhatnak a világodhoz. A Realmek és kiszolgálók használatához kötelező a Microsoft-fiók.	#
+howtoplay.multiplayer.text.3.has_subscription=A Minecraftban alapvetően háromféleképpen játszhatsz többjátékos módban: egy Realmen, egy kiszolgálón vagy a saját világodban. Ha bejelentkezel mind a Nintendo-, mind a Microsoft-fiókodba, a más eszközt használó barátaid is csatlakozhatnak a világodhoz. A Realmek és kiszolgálók használatához kötelező a Microsoft-fiók.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Ha rendelkezel Nintendo Switch Online előfizetéssel és bejelentkezel Microsoft-fiókodba, a más eszközt használó barátaid is csatlakozhatnak a világodhoz.	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Ha bejelentkezel mind a Nintendo-, mind a Microsoft-fiókodba, a más eszközt használó barátaid is csatlakozhatnak a világodhoz.	#
+howtoplay.multiplayer.text.4=Egy játékhoz való csatlakozáshoz többjátékos módban nyisd meg a Barátok lapot. Itt, ha Online módban vagy, megjelenik az összes elérhető világgal és realmmel rendelkező barátod. Ad-hoc módban megjelennek az ezt a módot használó barátaid is.	#
+howtoplay.multiplayer.text.4.norealms=Egy játékhoz való csatlakozáshoz többjátékos módban nyisd meg a Barátok lapot. Itt, ha Online módban vagy, megjelenik az összes elérhető világgal rendelkező barátod. Ad-hoc módban megjelennek az ezt a módot használó barátaid is.	#
+howtoplay.multiplayer.text.5=Amikor elindítasz egy online játékot, vagy csatlakozol egy ilyenhez, ez megjelenik az összes barátodnak és a Microsoft-fiókodban felvett barátaid barátainak is. Egy világ keresztplatformos többjátékos beállításait úgy ellenőrizheted, hogy megnyomod a világ Szerkesztés gombját, majd a Többjátékos lehetőségre kattintasz.	#
+howtoplay.multiplayer.text.7=Ruházd fel a barátaidat különleges képességekkel a világodban, vagy éppen ellenkezőleg, tiltsd meg, hogy bármihez hozzáérhessenek. Alapértelmezett módon a világodba minden barátod tagként lép be. A világodban lévő barátok listájának megtekintéséhez nyisd meg a szüneteltetési menüt, és a világodhoz való hozzáférési engedélyük módosításához kattints a nevük jobb oldalán megjelenő ikonra.	#
+howtoplay.multiplayer.header.adhoc=Ad-hoc mód	#
+howtoplay.multiplayer.text.adhoc=Szeretnél a barátaiddal játszani, de nem ugyanolyan eszközt használtok? Állítsd a Nintendo Switch konzolt Ad-hoc módba a főmenüben a(z) :_gamepad_face_button_left: gombot megnyomva. Lépj a Play (Játék) menü Friends (Barátok) lapjára, ahol láthatod a közelben lévő barátaid játékait, vagy te is elindíthatsz egy új játékot, amelyhez a közelben lévő barátaid csatlakozhatnak.	#
+howtoplay.theStore.text.4.norealms=Kölcsönözz a régi játékodnak friss kinézetet a textúracsomagokkal, amelyekkel új réteget húzhatsz a meglévő világokra!	#
+howtoplay.theStore.text.5.norealms=Vagy próbálj ki mix csomagokat, amelyek felületek, világok és textúrák gondosan válogatott gyűjteményét jelentik. Ezek biztosan átformálják világaidat!	#
+
+trial.tabbed_upsell.xbl.title=És ez még nem minden!	#
+
+connect_gamepad.pressButtonToContinue=Pro Controller vagy Joy-Con (bal)/(jobb) kontrollerpár szükséges a folytatáshoz.	#
+connect_gamepad.adhocMaxControllers=Helyi vezeték nélküli játék során legfeljebb egy Pro Controller vagy Joy-Con kontrollerpár használható. Kapcsolj ki minden további kontrollert.	#
+connect_gamepad.requireControllerReconfiguration=Minden játékosnak egy Pro Controllerre vagy Joy-Con kontrollerpárra van szüksége. Kapcsolj ki minden további Joy-Con kontrollert, amely nem része valamelyik párnak.	#
+connect_gamepad.handheldModeNoSplitscreen=Egy további kontroller észlelhető, de az osztott képernyős többjátékos mód kézikonzolmódban nem érhető el. Csatlakoztasd le a Joy-Con kontrollereket a kézikonzolmód elhagyásához, vagy kapcsold ki a plusz kontrollereket.	#
+connect_gamepad.promptHandheldMode=Joy-Con kontrollerek kerültek csatlakoztatásra a konzolhoz. Szeretnél belépni kézikonzolmódba? Ezzel elhagyod az osztott képernyős többjátékos módot. Nyomd meg az OK gombot az osztott képernyős többjátékos mód elhagyásához és belépéshez kézikonzolmódba, vagy válaszd a Mégse lehetőséget a csatlakoztatott Joy-Con kontrollerek leválasztásához a játékból – ekkor ezek töltődni fognak.	#

@@ -1,0 +1,25 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "page",
+      "dest": "page",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "hasBook",
+      "dest": "hasBook",
+      "src_members": "booleanValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    },
+    {
+      "src": "book",
+      "dest": "book",
+      "custom_transformation": "IntermediateItemIDToNative",
+      "optional": true
+    }
+  ]
+}

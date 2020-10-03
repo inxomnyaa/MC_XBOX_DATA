@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+
+    {
+      "src": "Items",
+      "dest": "ChestItems",
+      "custom_transformation": "IntermediateInventoryToNative"
+    }
+  ]
+}

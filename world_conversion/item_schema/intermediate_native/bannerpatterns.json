@@ -1,0 +1,24 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "tag.Patterns",
+      "dest": "tag.Patterns",
+      "item_transformation": "IntermediateBannerItemPatternsToNative"
+    },
+    {
+      "src": "tag.Base",
+      "dest": "tag.Base",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    },
+    {
+      "src": "tag.Type",
+      "dest": "tag.Type",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int",
+      "optional": true
+    }
+  ]
+}

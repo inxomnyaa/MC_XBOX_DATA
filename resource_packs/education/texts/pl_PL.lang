@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=Ustawia status Konstruktor kodów u danego gracza.	#
+commands.codebuilder.invalidurl=Adres URL jest nieprawidłowy lub przekierowuje do nieobsługiwanej strony.	#
+commands.takepicture.description=Wykonuje zdjęcie gracza lub zapisuje obraz widoczny z perspektywy gracza.	#
+commands.takepicture.cameranotfound=Nie udało się znaleźć aparatu.	#
+commands.takepicture.cameranotspawned=Nie udało się zespawnować aparatu.	#
+
+library.connection.failed.body=Nie można nawiązać połączenia z Biblioteką. Dzieje się tak, kiedy komputer nie jest połączony z siecią lub dostęp do katalogu Biblioteki jest zablokowany.	#
+library.connection.failed.help=Uzyskaj pomoc	#
+library.connection.noWorldFound.title=Nie znaleziono świata	#
+library.connection.noWorldFound.body=Wygląda na to, że ta kategoria nie zawiera żadnych światów.	#
+library.findMoreWorlds=Znajdź więcej światów	#
+library.leaveFeedback=Prześlij swoją opinię	#
+library.title=Biblioteka	#
+library.searchResults=Wyniki dla: "%1"	#
+library.item.createdBy=Autor: %s	#
+library.item.age=Grupa wiekowa: %1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=Czas trwania: %1	#
+library.item.duration.minute=%1 min	#
+library.item.duration.multipleMinutes=%1 min	#
+library.item.duration.hour=%1 godz.	#
+library.item.duration.multipleHours=%1 godz.	#
+
+library.item.difficulty=Poziom trudności: %1	#
+library.item.difficulty.beginner=Początkujący	#
+library.item.difficulty.intermediate=Średnio zaawansowany	#
+library.item.difficulty.advanced=Zaawansowany	#
+
+library.item.tags=Tagi:	#
+library.item.tagsAll=WSZYSTKIE TAGI:	#
+library.item.tagsAll.tts=Pokaż więcej tagów	#
+library.item.button.create=STWÓRZ ŚWIAT	#
+library.item.button.share=UDOSTĘPNIJ LINK	#
+library.item.button.plan=PLAN LEKCJI	#
+library.item.button.resources=ZASOBY	#
+library.item.progress.body=Przygotowania do zaimportowania nowego świata. Może to potrwać kilka minut.	#
+library.item.description=OPIS	#
+library.item.overview=PRZEGLĄD	#
+library.item.expandable.readLess=Wyświetl mniej	#
+library.item.expandable.readMore=Dowiedz się więcej	#
+
+library.item.section.languages=OBSŁUGIWANE JĘZYKI	#
+library.item.section.languages.tip=Jeśli wybrana lekcja nie jest dostępna w twoim języku, możesz skorzystać z czytnika immersyjnego, aby przetłumaczyć teksty w obrębie gry, w tym książki, znaki, tablice i dialogi BN-ów.	#
+library.item.section.questions=PODSTAWOWE PYTANIA	#
+library.item.section.generic_objectives=CELE	#
+library.item.section.objectives=CELE ZWIĄZANE Z NAUKĄ	#
+library.item.section.prep=MATERIAŁY POMOCNICZE DLA NAUCZYCIELI I NOTATKI	#
+library.item.section.activities=ZAJĘCIA DLA UCZNIÓW	#
+library.item.section.assessment=OCENA	#
+library.item.section.extensions=ROZSZERZENIA	#
+
+library.category.label.biomes=BIOMY I ŚWIATY	#
+library.category.title.biomes=Biomy i światy	#
+library.category.description.biomes=Skorzystaj z tego zestawu światów i biomów – pomoże ci on stworzyć pierwsze lekcje w grze Minecraft: Education Edition.	#
+
+library.category.label.biomes.biome=BIOMY	#
+library.category.title.biomes.biome=Biomy	#
+library.category.description.biomes.biome=Biomy to regiony w Minecrafcie, które różnią się między sobą właściwościami geograficznymi, roślinnością i zwierzętami.	#
+
+library.category.label.biomes.featured=POLECANE ŚWIATY	#
+library.category.title.biomes.featured=Polecane światy	#
+
+library.category.label.buildChallenges=MIESIĘCZNE WYZWANIA BUDOWNICZE	#
+library.category.title.buildChallenges=Miesięczne wyzwania budownicze	#
+library.category.description.buildChallenges=Obudź w swoich uczniach kreatywność i pomóż im rozwijać umiejętności przydatne w XXI wieku dzięki tym łatwym do wdrożenia ćwiczeniom.	#
+
+library.category.label.howToPlay=OBSŁUGA GRY	#
+library.category.description.howToPlay=Te światy i ćwiczenia stanowią wprowadzenie, dzięki któremu nauczysz się, jak korzystać z gry Minecraft: Education Edition na twoich zajęciach.	#
+
+library.category.label.howToPlay.startHere=ZACZNIJ TUTAJ	#
+library.category.title.howToPlay.startHere=Zacznij tutaj	#
+library.category.description.howToPlay.startHere=Każdy z tych światów treningowych został zaprojektowany tak, aby pomóc ci opanować różnego rodzaju umiejętności potrzebne do korzystania z gry Minecraft: Education Edition na twoich zajęciach.	#
+
+library.category.label.howToPlay.additional=DODATKOWE SAMOUCZKI	#
+library.category.title.howToPlay.additional=Dodatkowe samouczki	#
+
+library.category.label.SEL=UMIEJĘTNOŚCI SPOŁECZNO-EMOCJONALNE	#
+library.category.title.SEL=Umiejętności społeczno-emocjonalne	#
+library.category.description.SEL=Te światy i działania wspierają nabywanie umiejętności społecznych i emocjonalnych. Pojęcie to obejmuje samopoczucie emocjonalne, empatię i podejmowanie odpowiedzialnych decyzji.	#
+
+library.category.label.digitalCitizen=OBYWATELSTWO CYFROWE	#
+library.category.title.digitalCitizen=Obywatelstwo cyfrowe	#
+library.category.description.digitalCitizen=Te światy i działania koncentrują się na obywatelstwie cyfrowym, wspierając uczniów w zdobywaniu umiejętności medialnych, zachowaniu prywatności i uczestnictwie w społecznościach internetowych.	#
+
+library.category.label.lessons=LEKCJE	#
+library.category.title.lessons=Lekcje	#
+
+library.category.label.lessons.genericAdditional=DODATKOWE LEKCJE	#
+library.category.title.lessons.genericAdditional=Dodatkowe lekcje	#
+
+library.category.label.languageArts=LEKCJE JĘZYKA	#
+library.category.title.languageArts=Lekcje języka	#
+
+library.category.label.languageArts.litStudies=LEKCJE LITERATURY	#
+library.category.title.languageArts.litStudies=Lekcje literatury	#
+
+library.category.label.languageArts.litStudies.treasureIsland=WYSPA SKARBÓW	#
+library.category.title.languageArts.litStudies.treasureIsland=Wyspa Skarbów	#
+library.category.description.languageArts.litStudies.treasureIsland=Ta seria lekcji zaprojektowana została z myślą o nauce języka angielskiego poprzez lekturę „Wyspy Skarbów” autorstwa Roberta Louisa Stevensona.	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=KRÓLESTWO KENSUKE	#
+library.category.title.languageArts.litStudies.kensukesKingdom=Królestwo Kensuke	#
+library.category.description.languageArts.litStudies.kensukesKingdom=Ta seria lekcji zaprojektowana została z myślą o nauce języka angielskiego poprzez lekturę „Królestwa Kensuke” autorstwa Michaela Morpurgo.	#
+
+library.category.label.languageArts.litStudies.swissFamily=SZWAJCARSKA RODZINA ROBINSONÓW	#
+library.category.title.languageArts.litStudies.swissFamily=Szwajcarska rodzina Robinsonów	#
+library.category.description.languageArts.litStudies.swissFamily=Ta seria lekcji zaprojektowana została z myślą o nauce języka angielskiego poprzez lekturę „Robinsona Crusoe” i „Szwajcarskiej rodziny Robinsonów”.	#
+
+library.category.label.science=NAUKI PRZYRODNICZE	#
+library.category.title.science=Nauki przyrodnicze	#
+
+library.category.label.science.chemistry=CHEMIA	#
+library.category.title.science.chemistry=Chemia	#
+
+library.category.label.science.biology=BIOLOGIA	#
+library.category.title.science.biology=Biologia	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=Pięć lekcji i wyjątkowych światów Minecrafta łączących różne obszary tematyczne i przeznaczonych dla uczniów w różnym wieku. W programie znajdziecie wyprawę na afrykańskie równiny, badanie portu, zwiedzanie sierocińca dla nosorożców i posterunku strażników ochrony przyrody, a po drodze rozwiążecie różnorakie problemy i rozwiniecie swoje umiejętności.	#
+
+library.category.label.science.extinction=KRYZYS RÓŻNORODNOŚCI BIOLOGICZNEJ	#
+library.category.title.science.extinction=Kryzys różnorodności biologicznej	#
+library.category.description.science.extinction=Ten zestaw treści stworzyliśmy we współpracy ze Światowym Funduszem na rzecz Przyrody. Zawiera on pasjonujący świat Minecrafta oraz lekcje zaprojektowane w oparciu o obowiązujące normy. Skorzystaj z tych zasobów, jeśli interesuje cię praktyczne nauczanie o ekosystemie, ochronie przyrody i bioróżnorodności.	#
+
+library.category.label.history=HISTORIA I KULTURA	#
+library.category.title.history=Historia i kultura	#
+
+library.category.label.history.oregonTrail=SZLAK OREGOŃSKI	#
+library.category.title.history.oregonTrail=Szlak oregoński	#
+library.category.description.history.oregonTrail=Dzięki naszej współpracy z wydawnictwem Houghton Mifflin Harcourt w grze Minecraft: Education Edition dostępny jest teraz pakiet zawartości związanych ze szlakiem oregońskim. Wykorzystaj dostępne w nim ćwiczenia w swoim programie nauczania i rozpocznij wspaniałą przygodę, przemierzając wyboiste tereny Ameryki Północnej.	#
+
+library.category.label.computerScience=INFORMATYKA	#
+library.category.title.computerScience=Informatyka	#
+
+library.category.label.computerScience.hourOfCode=GODZINA KODOWANIA	#
+library.category.title.computerScience.hourOfCode=Godzina kodowania	#
+library.category.description.computerScience.hourOfCode=Ta lekcja jest godzinnym wstępem do zajęć z informatyki, który służy poznaniu sztucznej inteligencji, wprowadzeniu programowania do Minecrafta i zagłębieniu się w informatyczny świat.	#
+
+library.category.label.computerScience.STEM=Przedmioty ścisłe	#
+library.category.title.computerScience.STEM=Przedmioty ścisłe	#
+library.category.description.computerScience.STEM=Skorzystaj z zaprojektowanych w oparciu o obowiązujące normy lekcji i światów, aby poprzez wdrażanie matematyki, nauki i inżynierii wprowadzić uczniów w świat informatyki.	#
+
+library.category.label.computerScience.agency=AGENCJA	#
+library.category.title.computerScience.agency=Agencja	#
+library.category.description.computerScience.agency=Zbuduj własne miasto podczas lekcji informatyki zaprojektowanych w oparciu o normy stowarzyszenia CSTA. Poznaj podstawowe pojęcia informatyczne, takie jak pętla, algorytm, instrukcja warunkowa, debugowanie, iteracja i wiele innych.	#
+
+library.category.label.computerScience.codingWithMinecraft=KODOWANIE Z MINECRAFTEM	#
+library.category.title.computerScience.codingWithMinecraft=Kodowanie z Minecraftem	#
+library.category.description.computerScience.codingWithMinecraft=Poznaj instrukcje warunkowe, funkcje, współrzędne, sztuczną inteligencję i wiele innych pojęć dzięki lekcjom informatyki zaprojektowanym w oparciu o normy stowarzyszenia CSTA.	#
+
+library.category.label.computerScience.codingFun1=PODSTAWY KODOWANIA: 1	#
+library.category.title.computerScience.codingFun1=Podstawy kodowania: 1	#
+library.category.description.computerScience.codingFun1=Dowiedz się więcej o różnych zwierzętach, wyzwaniach, przed którymi stoją, i sposobach pomagania im w kodowaniu! Użyj algorytmów, sekwencjonowania i pętli do rozwiązania ciekawych łamigłówek programistycznych.	#
+
+library.category.label.computerScience.codingFun2=PODSTAWY KODOWANIA: 2	#
+library.category.title.computerScience.codingFun2=Podstawy kodowania: 2	#
+library.category.description.computerScience.codingFun2=Odwiedź Księżyc, Merkurego, Wenus, Marsa, Jowisza i Neptuna! Dowiedz się, jak debugować kod i używać warunków, operatorów i pętli, równocześnie pomagając Agentowi zebrać materiały w całym Układzie Słonecznym.	#
+
+library.category.label.computerScience.codingFun3=PODSTAWY KODOWANIA: 3	#
+library.category.title.computerScience.codingFun3=Podstawy kodowania: 3	#
+
+library.category.label.computerScience.blockBased=KODOWANIE OPARTE NA BLOKACH	#
+library.category.title.computerScience.blockBased=Kodowanie oparte na blokach	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=Zacznij kodować w Pythonie w Minecrafcie! Poznaj podstawy języka programowania Python, w tym jego składnię, typy danych, zmienne, warunki, pętle „for”, pętle warunkowe, listy i funkcje.	#
+
+library.category.label.computerScience.codingTutorials=SAMOUCZKI DOTYCZĄCE KODOWANIA	#
+library.category.title.computerScience.codingTutorials=Samouczki dotyczące kodowania	#
+library.category.description.computerScience.codingTutorials=Jeśli chcesz się skupić na konkretnej koncepcji programowania, tu jest najlepsze miejsce na start! Dowiedz się, jak używać pętli, sekwencjonowania, warunków, zmiennych i funkcji. W tych lekcjach można wybrać naukę kodowania blokowego lub w językach Python i JavaScript.	#
+
+library.category.label.computerScience.featuredLessons=POLECANE LEKCJE	#
+library.category.title.computerScience.featuredLessons=Polecane lekcje	#
+library.category.description.computerScience.featuredLessons=Oto niektóre z naszych ulubionych lekcji kodowania!	#
+
+library.category.label.math=MATEMATYKA	#
+library.category.title.math=Matematyka	#
+
+library.category.label.math.fractions=UŁAMKI	#
+library.category.title.math.fractions=Ułamki	#
+library.category.description.math.fractions=Wypróbuj te zasoby lekcyjne, aby pomóc uczniom w nauce ułamków.	#
+
+library.category.label.art=SZTUKA I WZORNICTWO	#
+library.category.title.art=Sztuka i wzornictwo	#
+
+library.category.label.commonCore=PRZEDMIOTY PODSTAWOWE, STOPIEŃ %1	#
+library.category.title.commonCore=Przedmioty podstawowe, stopień %1	#
+library.category.description.commonCoreMath=Te pasjonujące ćwiczenia powstały po to, by pomóc w nauczaniu matematyki. Są one oparte o podstawę programową opracowaną dla przedmiotu matematyka.	#
+
+signin.acceptTerms=Zaakceptuj warunki	#
+signin.leftPanel.header=ZAGRAJ W MINECRAFT: EDUCATION EDITION	#
+signin.leftPanel.body=Zaloguj się za pomocą konta szkolnego, aby uzyskać dostęp do pełnej wersji gry Minecraft: Education Edition.	#
+signin.rightPanel.header=WYPRÓBUJ LEKCJĘ DEMONSTRACYJNĄ	#
+signin.rightPanel.body=Poznaj programowanie dzięki dostępnej dla wszystkich użytkowników lekcji demonstracyjnej Minecraft: Education Edition.	#
+
+structure_block.export.default_name=Mój blok budowli	#
+
+joincode.invalid.title=Niepoprawny kod dołączenia	#
+joincode.invalid.body=%1-krotnie wprowadzono niepoprawny kod. Skontaktuj się z gospodarzem, aby upewnić się, że udostępniono ci właściwy kod, albo spróbuj dołączyć do świata, korzystając z adresu IP.	#
+joincode.invalid.button.tryagain=Spróbuj ponownie	#
+joincode.invalid.button.enterip=Wprowadź adres IP	#
+
+joincode.invalid.abuse.body=%1-krotnie wprowadzono niepoprawny kod. Spróbuj dołączyć do świata, korzystając z adresu IP	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3	#	#
+tag.ages_4_5=4-5	#	#
+tag.ages_6_8=6-8	#	#
+tag.ages_9_12=9-12	#	#
+tag.ages_13_16=13-16	#	#
+tag.ages_16_18=16-18	#	#
+tag.ages_18_plus=18+	#	#
+tag.addition=Dodatek	#	#
+tag.advanced=Zaawansowany	#	#
+tag.adventure=Przygoda	#	#
+tag.all_ages=W każdym wieku	#	#
+tag.animals=Zwierzęta	#	#
+tag.aquatic=Wodny świat	#	#
+tag.architecture=Architektura	#	#
+tag.art_and_design=Sztuka i wzornictwo	#	#
+tag.beginner=Początkujący	#	#
+tag.biodiversity=Różnorodność biologiczna	#	#
+tag.biology=Biologia	#	#
+tag.biome=Biom	#	#
+tag.biomes_and_worlds=Biomy i światy	#	#
+tag.bridges=Mosty	#referring to the structure	#
+tag.build_challenge=Wyzwanie konstruktorskie	#	#
+tag.character=Postacie	#	#
+tag.chemistry=Chemia	#	#
+tag.citizenship=Obywatelstwo	#	#
+tag.city=Miasto	#	#
+tag.climate=Klimat	#	#
+tag.code_to_learn_stem=Przedmioty ścisłe	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=Agencja	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=Kodowanie z Minecraftem	#	#
+tag.coding_in_minecraft=Kodowanie w grze Minecraft	#	#
+tag.collaboration=Tryb współpracy	#	#
+tag.color=Kolor	#	#
+tag.common_core_math_grade_3=Podstawy matematyki, klasa 3	#	#
+tag.common_core_math_grade_4=Podstawy matematyki, klasa 4	#	#
+tag.common_core_math_grade_5=Podstawy matematyki, klasa 5	#	#
+tag.communication=Komunikacja	#	#
+tag.computer_science=Informatyka	#	#
+tag.computing_in_minecraft=Przetwarzanie danych w grze Minecraft	#	#
+tag.creative=Kreatywny	#	#
+tag.creative_writing=Twórcze pisanie	#	#
+tag.creativity=Kreatywność	#	#
+tag.critical_thinking=Krytyczne myślenie	#	#
+tag.division=Dzielenie	#	#
+tag.earth_day=Dzień Ziemi	#	#
+tag.ecology=Ekologia	#	#
+tag.economy=Ekonomia	#	#
+tag.energy=Energia	#	#
+tag.environment=Środowisko	#	#
+tag.featured=Polecane	#	#
+tag.fractions=Ułamki	#	#
+tag.game_design=Projektowanie gier	#	#
+tag.geography=Geografia	#	#
+tag.geology=Geologia	#	#
+tag.history_and_culture=Historia i kultura	#	#
+tag.hour_of_code=Godzina kodowania	#	#
+tag.how_to_play=Obsługa gry	#	#
+tag.intermediate=Średnio zaawansowany	#	#
+tag.kensukes_kingdom=Królestwo Kensuke	#	#
+tag.language_arts=Lekcje języka	#	#
+tag.leadership=Przywództwo	#	#
+tag.lesson=Lekcja	#	#
+tag.literature=Literatura	#	#
+tag.math=Matematyka	#	#
+tag.multiplayer=Tryb wieloosobowy	#	#
+tag.multiplication=Mnożenie	#	#
+tag.museum=Muzeum	#	#
+tag.music=Muzyka	#	#
+tag.mythology=Mitologia	#	#
+tag.ocean=Ocean	#	#
+tag.oregon_trail=Szlak oregoński	#	#
+tag.pattern=Wzór	#	#
+tag.personal_narrative=Osobista narracja	#	#
+tag.physics=Fizyka	#	#
+tag.pixel_art=Grafika pikselowa	#	#
+tag.pop_culture=Popkultura	#	#
+tag.probability=Prawdopodobieństwo	#	#
+tag.project_based_learning=Nauka oparta na projektach	#	#
+tag.robinson_crusoe=Robinson Crusoe	#	#
+tag.science=Nauki przyrodnicze	#	#
+tag.seasonal=Sezonowe	#	#
+tag.single_player=Tryb jednoosobowy	#	#
+tag.social_emotional_learning=Umiejętności społeczno-emocjonalne	#	#
+tag.special_education=Edukacja specjalna	#	#
+tag.spelling=Pisownia	#	#
+tag.story=Fabuła	#	#
+tag.subtraction=Odejmowanie	#	#
+tag.survival=Przetrwanie	#	#
+tag.swiss_family_robinson=Szwajcarska rodzina Robinsonów	#	#
+tag.technology=Technologia	#	#
+tag.treasure_island=Wyspa skarbów	#	#
+tag.tutorial=Samouczek	#	#
+tag.we_are_the_rangers=Strażnicy ochrony przyrody	#	#
+tag.world_languages=Języki świata	#	#
+tag.wwf=WWF	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=Obywatelstwo cyfrowe	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=Bloki	#	#
+tag.makecode=MakeCode	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure Notebooks	#See for example: https://notebooks.azure.com/	#
+tag.loops=Pętle	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=Warunki	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=Zmienne	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=Funkcje	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=Operatory	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=Rozwiązywanie problemów	#	#
+tag.artificial_intelligence=Sztuczna inteligencja	#	#
+tag.coding=Kodowanie	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=Podstawy kodowania 1	#	#
+tag.coding_fundamentals_2=Podstawy kodowania 2	#	#
+tag.coding_fundamentals_3=Podstawy kodowania 3	#	#
+tag.coding_tutorials=Samouczki dotyczące kodowania	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=Pszczoły	#	#
+tag.space=Kosmos	# refers to outer space	#
+tag.esports=E-sport	#	#
+tag.toybox=Pudełko z zabawkami	#	#
+tag.featured_coding=Kodowanie – polecane	#	#
+## END TAG LOCALIZATION SECTION ##

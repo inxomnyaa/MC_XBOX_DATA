@@ -1,0 +1,27 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Variant",
+      "custom_transformation": "UnpackHorseVariant"
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "ArmorItem",
+      "dest": "ArmorItem",
+      "optional": true
+    },
+    {
+      "custom_transformation": "JavaItemIDToIntermediate",
+      "src": "SaddleItem",
+      "dest": "SaddleItem",
+      "optional": true
+    },
+    {
+      "src": "Tame",
+      "dest": "Tame",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue"
+    }
+  ]
+}

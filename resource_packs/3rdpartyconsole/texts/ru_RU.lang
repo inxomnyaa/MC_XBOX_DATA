@@ -1,0 +1,135 @@
+﻿## accessibility audio 
+## These replace existing strings
+## These are audible only strings
+accessibility.gamepad.button.systemLeft=кнопка MINUS	#
+accessibility.gamepad.button.systemRight=кнопка PLUS	#
+accessibility.gamepad.dpad.down=Кнопка Вниз	#
+accessibility.gamepad.dpad.up=Кнопка Вверх	#
+accessibility.gamepad.dpad.left=Кнопка Влево	#
+accessibility.gamepad.dpad.right=Кнопка Вправо	#
+accessibility.gamepad.trigger.right=кнопка ZR	#
+accessibility.gamepad.trigger.left=кнопка ZL	#
+accessibility.gamepad.bumper.right=кнопка R	#
+accessibility.gamepad.bumper.left=кнопка L	#
+
+
+
+## Nintendo Strings
+## New Strings
+options.thirdPartyConsoleVisible=Настройки учетной записи Nintendo	#
+options.xboxliveBroadcastSettingsForCrossplatform=Настройки учетной записи Майкрософт	#
+
+patchNotice.title=Добро пожаловать в Minecraft – не пропустите отличный контент!	#
+patchNotice.description.onlineFeatures=Подключите свою Nintendo Switch к Интернету, чтобы открыть новые возможности игры!	#
+patchNotice.description.onlineFeatures.item1=* Скачайте бесплатные наборы контента, получаемые при покупке игры.	#
+patchNotice.description.onlineFeatures.item2=* Откройте для себя Рынок с творениями сообщества, разнообразящими игру.	#
+patchNotice.description.onlineFeatures.item3=* Играйте по Интернету с друзьями (с самых разных устройств)!	#
+patchNotice.description.onlineFeatures.item4=* Обновите игру, дополнив ее новыми особенностями, контентом и улучшениями, включая...	#
+patchNotice.description.freeUpdates.item1=* Новые блоки!	#
+patchNotice.description.freeUpdates.item2=* Новые предметы!	#
+patchNotice.description.freeUpdates.item3=* Новые мобы!	#
+patchNotice.description.freeUpdates.item4=* Новые генерируемые сооружения!	#
+patchNotice.description.freeUpdates.item5=* Новые разновидности биомов!	#
+patchNotice.description.onlineFeatures.item5=Доступно обновление! Подключите свою Nintendo Switch к Интернету, чтобы получить его бесплатно!	#
+
+thirdPartyConsole.network.networkName=Учетная запись Nintendo	#
+thirdPartyConsole.adhoc.title=Выбрать сетевой режим	#
+thirdPartyConsole.adhoc.desc=Выберите «Локальная сеть», чтобы подключиться к другим консолям Nintendo Switch поблизости, или «Интернет», чтобы подключиться к друзьям со всего мира!	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line1=Подключиться к	#
+thirdPartyConsole.adhoc.prompt.connectTo.online.line2=Интернет	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line1=Подключиться к	#
+thirdPartyConsole.adhoc.prompt.connectTo.local.line2=Локальная сеть	#
+thirdPartyConsole.adhoc.onlineNetwork=Интернет	#
+thirdPartyConsole.adhoc.localNetwork=Локальная сеть	#
+thirdPartyConsole.adhoc.enableOnline=Подключение к локальной сети	#
+thirdPartyConsole.adhoc.enableLocal=Подключение к Интернету	#
+thirdPartyConsole.adhoc.inprogress=Вносим изменения. Подождите еще немного...	#
+thirdPartyConsole.adhoc.controllerwarningtitle=Подключено слишком много контроллеров.	#
+thirdPartyConsole.adhoc.controllerwarning=В режиме игры по локальной сети поддерживается максимум 2 беспроводных контроллера (2 контроллера Joy-Con или 2 контроллера Pro). Все контроллеры, не входящие в указанный лимит, отключены.	#
+thirdPartyConsole.adhoc.store=Функции Магазина отключены в игре по локальной сети.	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork=Войти в учетную запись Microsoft?	#
+thirdPartyConsole.adhoc.xblsignin.onlineNetwork.desc=Чтобы войти в учетную запись Microsoft, необходимо подключиться к Интернету.	#
+thirdPartyConsole.adhoc.xblsignin.continueButton=Подключиться	#
+thirdPartyConsole.startmenuscreen.xblsignin=Войти в учетную запись Майкрософт	#
+thirdPartyConsole.startmenuscreen.xblsigningin=Вход в учетную запись Майкрософт	#
+thirdPartyConsole.startmenuscreen.thirdpartysignin=Войти под учетной записью Nintendo	#
+thirdPartyConsole.startmenuscreen.thirdpartysigningin=Вход под учетной записью Nintendo	#
+thirdPartyConsole.notsignedin=Вы не вошли под учетной записью Nintendo.	#
+thirdPartyConsole.notsignedin.achievements=Вы не вошли в систему и не можете получать достижения.	#
+thirdPartyConsole.notsignedin.store=Чтобы осмотреться в магазине, вам понадобится учетная запись Nintendo.	#
+thirdPartyConsole.notsignedin.serversTab=Играйте онлайн на серверах Minecraft — в гигантских мирах сообщества, где можно соревноваться или объединяться с друзьями (и врагами), зависать в просторных гостиных с другими игроками и исследовать бескрайние просторы, какие только можно вообразить.	#
+thirdPartyConsole.disconnectionscreen.notSignedIn=Чтобы играть с друзьями, войдите под учетной записью Nintendo.	#
+thirdPartyConsole.disconnectionscreen.multiplayerNotAllowed=У этой учетной записи нет разрешений на присоединение к играм по сети Nintendo.	#
+thirdPartyConsole.disconnectionscreen.accessDenied=Чтобы присоединиться к игре, сначала необходимо завести в игре друзей.	#
+thirdPartyConsole.copyright=Nintendo Properties: © Nintendo.	### {Locked}
+pauseScreen.thirdPartyConsoleDisconnect=Вы отключены от Nintendo Switch Online. Выполните вход в главном меню и перезапустите мир, что он был виден вашим друзьям Nintendo.	#
+pauseScreen.thirdPartyConsoleAdhocDisconnect=Ваш мир больше не виден в локальной сети. Повторно запустите локальный режим в главном меню и перезапустите мир, чтобы он был виден локальным игрокам.	#
+networkWorld.add_friend=Найдите кроссплатформенных друзей	#
+networkWorld.find_cross_platform_friends=Найдите кроссплатформенных друзей	#
+networkWorld.joinable_nintendo_friends_label=Друзья Nintendo Switch, к которым можно присоединиться	#
+networkWorld.joinable_cross_platform_friends_label=Кроссплатформенные друзья, к которым можно присоединиться	#
+networkWorld.no_xbl_label=Присоединение к кроссплатформенным играм невозможно без учетной записи Майкрософт. Войдите в учетную запись Майкрософт, чтобы присоединиться к мирам друзей.	#
+networkWorld.no_thirdParty_label.no_subscription=Вы не подключены к службам Nintendo Switch Online. Вам понадобится подписка на них, чтобы воспользоваться онлайн-функциями. Ее можно приобрести в Nintendo eShop.	#
+networkWorld.no_thirdParty_label.has_subscription=Вы не подключены к службам Nintendo Switch Online, поэтому не можете присоединиться к играм по сети друзей. Войдите в Nintendo Switch Online, чтобы присоединиться к мирам друзей.	#
+networkWorld.multiplayerPrivilegesBlockedThirdParty=Вы не можете играть по сети из-за ограничений родительского контроля. Просмотреть и изменить настройки игры по сети можно в секции «Свободное общение» раздела «Родительский контроль».	#
+networkWorld.localMultiplayerPrivilegesBlockedThirdParty=Вы не можете играть по локальной сети из-за ограничений родительского контроля. Просмотреть и изменить настройки игры по сети можно в секции «Свободное общение» раздела «Родительский контроль».	#
+permissions.AddFriendsThirdParty=Вы не можете добавлять друзей из-за ограничений родительского контроля. Просмотреть и изменить настройки игры по сети можно в секции «Свободное общение» раздела «Родительский контроль».	#
+permissions.MultiplayerSessionsThirdParty=Вы не можете играть в Realms из-за ограничений родительского контроля. Просмотреть и изменить настройки игры по сети можно в секции «Свободное общение» раздела «Родительский контроль».	#
+options.dev_switch_coin_debug=Включить отладку покупок eShop при добавлении монет	#
+
+## Stomping Existings Strings
+createWorldScreen.disconnectedThirdParty.no_subscription=Вы не подключены к службам Nintendo Switch Online. Вам понадобится подписка на них, чтобы воспользоваться онлайн-функциями. Ее можно приобрести в Nintendo eShop.	#
+createWorldScreen.disconnectedThirdParty.has_subscription=Вы не подключены к службам Nintendo Switch Online. Ваши друзья Nintendo не смогут присоединиться к вашему миру для игры по сети. Чтобы играть с друзьями, войдите в Nintendo Switch Online.	#
+createWorldScreen.disconnectedThirdParty.Adhoc=При переключении устройства в режим игры по локальной сети возникла проблема. Убедитесь, что выключен режим полета, а затем перезапустите локальный режим, чтобы игра стала видна локальным игрокам.	#
+createWorldScreen.check_internet_connection=Nintendo Switch не подключена к Интернету. Ваши друзья не смогут присоединиться к вашим мирам для игры по сети. Чтобы играть по сети, подключите Nintendo Switch к Интернету.	#
+invite.notification.description=%s приглашает вас сыграть в Minecraft. Нажмите -, чтобы ответить.	#
+network.thirdparty.connect.benefit=Войти под учетной записью Nintendo? Она понадобится, чтобы воспользоваться онлайн-службами.	#
+networkWorld.check_internet_connection=Nintendo Switch не подключена к Интернету. Вы не сможете присоединиться к играм ваших друзей по сети. Чтобы играть по сети, подключите Nintendo Switch к Интернету.	#
+networkWorld.check_internet_connection.no_subscription=Вы не подключены к службам Nintendo Switch Online. Вам понадобится подписка на них, чтобы воспользоваться онлайн-функциями. Ее можно приобрести в Nintendo eShop.	#
+networkWorld.check_internet_connection.has_subscription=Вы не подключены к службам Nintendo Switch Online, поэтому не можете присоединиться к играм по сети друзей. Войдите в Nintendo Switch Online, чтобы присоединиться к мирам друзей.	#
+disconnectionScreen.realmsDisabled=Служба Realms отключена для выпуска бета-версии.	#
+disconnectionScreen.noNSO.title=Требуется Nintendo Switch Online	#
+disconnectionScreen.noNSO.joinMultiplayerGame=Чтобы играть на разделенном экране без подписки на Nintendo Switch Online, снимите флажок «Игра по сети» в настройках игры. Чтобы играть на разделенном экране по сети, необходима подписка на Nintendo Switch Online, которую можно приобрести в Nintendo eShop.	#
+disconnectionScreen.noNSO.joinRealm=Вы не подключены к службам Nintendo Switch Online. Чтобы играть по сети, вам понадобится подписка на эти службы. Ее можно приобрести в Nintendo eShop.	#
+options.xboxlivevisible=Видят кроссплатформенные игроки	#
+options.achievementsDisabled=В этом мире недоступны достижения.	#
+permissions.RealmsAddFriends=Вы не сможете добавлять новых друзей для игры в вашем Realm из-за настроек учетной записи Майкрософт. Изменить настройки конфиденциальности и безопасности в Интернете можно по адресу aka.ms/accountsettings. Вы хотите продолжить?	#
+permissions.CloudSave=Вы не можете сохранять миры в учетной записи Майкрософт из-за ее настроек. Изменить настройки конфиденциальности и безопасности в Интернете можно по адресу aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Настройки учетной записи Майкрософт не разрешают игру по сети. Проверьте настройки конфиденциальности и безопасности в Интернете по адресу aka.ms/accountsettings и убедитесь, что для вашей учетной записи разрешена игра по сети.	#
+store.purchase.syncInProgress=Синхронизация покупок в Nintendo eShop...	#
+store.purchase.coinsLeftToBuy=Вам нужно больше монет (еще %s), чтобы разблокировать этот набор.	#
+xbox.signin.newaccount.welcome=Добро пожаловать!	#
+xbox.signin.legalinfo=Вы подключились к Minecraft с помощью профиля Xbox Live. Изменить настройки Xbox Live и узнать подробности можно по адресу http://aka.ms/accountsettings. Применяются соглашение об использовании служб Майкрософт и заявление о конфиденциальности. 	#
+xbox.failedsignin.line2=Если вы играете без входа в учетную запись, то не сможете получать достижения, а также присоединяться к Realms и серверам.	#
+xbox.failedautosignin.message=Ошибка автоматического входа. Войдите в учетную запись Microsoft вручную.	#
+xbox.signInLong=Бесплатный вход!	#
+xbox.signOutLong=Выход из учетной записи Майкрософт	#
+xbox.thirdpartysignin.line2=Войдите в учетную запись Майкрософт, чтобы подключиться!	#
+xbox.profile.realName=Изменить отображение настоящего имени можно в настройках конфиденциальности по адресу http://aka.ms/accountsettings.	#
+xbox.profile.removeFriend=Удалить друга	#
+autosave.info.xbox=Когда вы видите этот значок, игра сохраняется. Не выключайте консоль Nintendo Switch, пока он не исчезнет.	#
+progressScreen.message.leaveLevel=Игра сохраняется. Не выключайте консоль Nintendo Switch.	#
+feed.report_xbox=Сообщить в отдел по контролю	#
+
+howtoplay.multiplayer.text.1=Получите максимум впечатлений от Minecraft, играя с друзьями! По умолчанию все настройки ваших миров позволяют друзьям присоединяться к вам. Вы можете играть на Nintendo Switch как со своими друзьями Nintendo, так и с друзьями, использующими другие устройства. Узнайте здесь обо всех способах игры по сети!	#
+howtoplay.multiplayer.text.2.splitscreen=К вашей игре в любой момент могут присоединиться до трех игроков! Запустите мир, после чего друзьям необходимо будет включить контроллеры и нажать любую кнопку для присоединения. Убедитесь, что у каждого игрока есть по два контроллера Joy-Con. Необходимы и левый, и правый контроллеры (или любой другой полнофункциональный контроллер, совместимый Nintendo Switch).	#
+howtoplay.multiplayer.text.3.no_subscription=Играть по сети в Minecraft можно тремя способами. Вы можете играть в реалме, на сервере или в собственном мире. Если вы подписаны на Nintendo Switch Online и вошли под учетной записью Майкрософт, друзья смогут присоединиться к вашему миру со своих устройств! Для использования Realms и серверов необходима учетная запись Майкрософт.	#
+howtoplay.multiplayer.text.3.has_subscription=Играть по сети в Minecraft можно тремя способами. Вы можете играть в Realm, на сервере или в своем собственном мире. Если вы войдете в учетные записи Nintendo и Майкрософт, друзья смогут присоединиться к вашему миру со своих устройств! Для использования Realms и серверов необходима учетная запись Майкрософт.	#
+howtoplay.multiplayer.text.3.norealms.no_subscription=Если вы подписаны на Nintendo Switch Online и вошли под учетной записью Майкрософт, друзья смогут присоединиться к вашему миру со своих устройств!	#
+howtoplay.multiplayer.text.3.norealms.has_subscription=Если вы войдете в учетные записи Nintendo и Майкрософт, друзья смогут присоединиться к вашему миру со своих устройств!	#
+howtoplay.multiplayer.text.4=Чтобы присоединиться к игре по сети, откройте вкладку «Друзья»! Миры и Realms ваших друзей, к которым можно присоединиться, будут видны вам, когда вы в режиме игры через Интернет. Если вы находитесь в режиме прямого подключения, в этом списке также будут отображаться игры ваших друзей для прямого подключения.	#
+howtoplay.multiplayer.text.4.norealms=Чтобы присоединиться к игре по сети, откройте вкладку «Друзья»! Миры ваших друзей, к которым можно присоединиться, будут видны вам, когда вы в режиме игры через Интернет. Если вы находитесь в режиме прямого подключения, в этом списке также будут отображаться игры ваших друзей для прямого подключения.	#
+howtoplay.multiplayer.text.5=Когда вы создаете игру по сети или присоединяетесь к ней, она становится видна всем вашим друзьям и друзьям ваших друзей в учетной записи Майкрософт. Чтобы открыть настройки кроссплатформенной игры по сети в своем мире, нажмите кнопку «Изменить» при выборе мира, а затем выберите «Игра по сети».	#
+howtoplay.multiplayer.text.7=Наделяйте своих друзей особыми умениями или запрещайте им что-либо трогать. По умолчанию все ваши друзья входят в мир в ранге участников. Откройте меню паузы, чтобы увидеть список друзей в мире, а затем щелкните значок справа от имени друга, для которого вы хотите изменить разрешения.	#
+howtoplay.multiplayer.header.adhoc=Режим прямого подключения	#
+howtoplay.multiplayer.text.adhoc=Хотите играть с друзьями, но не на одном и том же устройстве? Переключите консоль Nintendo Switch в режим прямого подключения в главном меню, нажав :_gamepad_face_button_left:. Откройте вкладку «Друзья» в меню «Играть», чтобы увидеть игры друзей поблизости или создать новую игру, к которой смогут присоединиться ваши друзья!	#
+howtoplay.theStore.text.4.norealms=Пусть ваша старая игра заиграет новыми красками благодаря наборам текстур, накладываемым на ваши текущие миры!	#
+howtoplay.theStore.text.5.norealms=Или совместите все это в микс-наборах, которые представляют собой специально подобранные коллекции скинов, миров и текстур, преображающих ваши миры.	#
+
+trial.tabbed_upsell.xbl.title=И это еще не всё!	#
+
+connect_gamepad.pressButtonToContinue=Для продолжения требуется Pro Controller или парный контроллер Joy-Con (L)/(R).	#
+connect_gamepad.adhocMaxControllers=В локальном беспроводном режиме можно использовать только один Pro Controller или один парный контроллер Joy-Con (L)/(R). Выключите лишние контроллеры.	#
+connect_gamepad.requireControllerReconfiguration=Игрокам нужно по одному контроллеру Pro Controller или парному контроллеру Joy-Con (L)/(R). Выключите все лишние контроллеры Joy-Con, которые не входят в пару.	#
+connect_gamepad.handheldModeNoSplitscreen=Обнаружен дополнительный контроллер, однако в портативном режиме невозможно играть по сети с разделенным экраном. Либо отсоедините контроллеры Joy-Con, чтобы остаться в портативном режиме, либо выключите лишние контроллеры.	#
+connect_gamepad.promptHandheldMode=К консоли подключены контроллеры Joy-Con. Вы хотите перейти в портативный режим? При этом вы выйдете из режима игры по сети с разделенным экраном. Нажмите кнопку «ОК», чтобы перейти из режима игры по сети с разделенным экраном в портативный режим, или кнопку «Отмена», чтобы отключить контроллеры Joy-Con от игрового режима для зарядки.	#

@@ -1,0 +1,121 @@
+﻿xblLogin.LoginMessageGearVR=Lepaskan ponsel dari headset untuk masuk ke Xbox Live.	#
+xblLogin.AddFriendMessageGearVR=Lepaskan ponsel dari headset untuk menambahkan teman Xbox Live.	#
+xblLogin.LoginMessageRift=Lepaskan headset untuk masuk ke Xbox Live.	#
+xblLogin.AddFriendMessageRift=Lepaskan headset untuk menambahkan teman Xbox Live.	#
+xblLogin.ShowGamerCardMessageRift=Lepaskan headset untuk melihat gamecard.	#
+
+LostFocus.Rift=Kehilangan mouse! Pilih Minecraft di desktop jika kamu ingin menggunakannya.	#
+
+vr.controls.HandControllerTracked=Pelacakan Oculus Touch Diperoleh	#
+vr.controls.HandControllerTrackingLost=Pelacakan Oculus Touch Hilang	#
+
+FileBrowser.Rift.Skin=Lepaskan headset untuk memilih Skin Kustom.	#
+FileBrowser.Rift.TemplateResource=Lepaskan headset untuk memilih sumber daya template.	#
+FileBrowser.Rift.Export=Lepaskan headset untuk mengekspor duniamu.	#
+FileBrowser.Rift.Import=Lepaskan headset untuk mengimpor duniamu.	#
+FileBrowser.Rift.ExportBook=Lepaskan headset untuk mengekspor bukumu.	#
+FileBrowser.Rift.ExportPortfolio=Lepaskan headset untuk mengekspor portofoliomu.	#
+FileBrowser.Rift.FileChooser=Pilih File	#
+FileBrowser.Rift.FolderChooser=Pilih Folder	#
+FileBrowser.Rift.ExportWorld=Ekspor Dunia	#
+FileBrowser.Rift.ExportResourcesPrompt=Lepaskan headset untuk mengekspor sumber daya ini.	#
+FileBrowser.Rift.ExportResources=Ekspor Sumber Daya	#
+FileBrowser.Rift.SkinChooser=Pilih Skin	#
+
+
+options.group.vr=VR	#
+options.group.vrTitle=Pengaturan VR	#
+options.vrHideHud=Sembunyikan HUD	#
+options.vrHideHand=Sembunyikan Tangan	#
+options.vrHideGUI=Sembunyikan GUI dalam VR	#
+options.vrGamma=Kecerahan VR	#
+options.vrMsaa=Anti-Alias VR	#
+options.vrRenderDistance=Jarak Render VR	#
+options.vrParticleRenderDistance=Jarak Render Partikel VR	#
+options.vrResetPlayerAlignment=Atur Ulang Penyejajaran VR	#
+options.vrHMDdisplacement=Gunakan perpindahan HMD untuk Bergerak	#
+options.vrHeadSteering=Pengarahan Kepala VR	#
+options.vrTurningOptions=Opsi Perputaran	#
+options.StutterTurn=Perputaran VR	#
+options.StutterTurnSound=Suara Putaran VR	#
+options.StutterConstantAngleOrTime=Mode Waktu Konstan Putaran VR	#
+options.3DRendering=Perenderan 3D	#
+options.vrHudAtTop=HUD di Atas	#
+options.vrAutojump=Lompat Otomatis VR	#
+options.vrLinearJump=Lompat Linier VR	#
+options.vrLinearMotion=Gerakan Linier VR	#
+options.stickyMining=Penambangan Tetap	#
+options.stickyMiningHand=Penambangan Tetap untuk Pengontrol Genggam	#
+options.vrMovingBackwardsHardStop=Berhenti Keras saat Mundur	#
+options.comfortControls=Kontrol VR	#
+options.ShowComfortSelectScreen=Tampilkan Layar Pilihan Kontrol	#
+options.vrHudDrifts=Pergeseran HUD	#
+options.vrLivingRoomCursorCentered=Kursor Ruang Tamu VR Dipusatkan	#
+options.vrTapTurn=Perputaran Ketuk	#
+options.vrTapTurnSensitivity=Sensitivitas Perputaran Ketuk	#
+options.vrRollTurning=Perputaran Roda	#
+options.vrRollTurnSensitivity=Sensitivitas Perputaran Roda	#
+options.vrHandControlsItem=Kontrol Genggam Pengontrol Item	#
+options.vrHandControlsHUD=Kontrol Genggam Pengontrol HUD	#
+options.vrHandPointer=Penunjuk Pengontrol Genggam Terlihat	#
+options.vrHandsVisible=Tangan Terlihat	#
+options.vr180Turning=Stik Mundur 180	#
+options.vrMirrorTexture=Aktifkan Tekstur Cermin	#
+options.vrSensitivity=Sensitivitas VR	#
+options.vrUIMouseSensitivity=Sensitivitas UI VR	#
+
+## VR control Scheme Strings
+vr.controls.title=Kontrol VR	#
+
+vr.controls.title.classic=Kontrol Klasik - Intens	#
+vr.controls.title.experimental=Kontrol VR - Sedang	#
+vr.controls.classicDescription=Gerakan klasik melompat dan memutar, tidak disesuaikan untuk VR. Ini memiliki tingkat kenyamanan yang intens bagi sebagian besar orang.	#
+vr.controls.experimentalDescription=Perputaran terjadi dalam sejumlah segmen. Kursor dan gerakan melompat telah disesuaikan untuk VR untuk meningkatkan kenyamanan selama pergerakan bagi sebagian besar orang (masih terus disempurnakan).	#
+vr.controls.sharedDescription=Kontrol dapat diubah dalam permainan melalui menu opsi.	#
+vr.moreOptions=Opsi Lainnya...	#
+vr.moreInformation=Info Lainnya...	#
+vr.detailedInformation=Beberapa fitur permainan telah disesuaikan untuk pengalaman VR yang lebih nyaman. Misalnya, perputaran VR adalah fitur yang mensegmentasi gerakan berputar untuk mengurangi disorientasi.	#
+vr.detailedInformationLink=Untuk info lebih lanjut tentang kontrol VR dan melihat di balik layar, buka minecraft.net/vr	#
+
+vr.pausescreen.recenterDevice=Pusatkan Kembali Perangkat	#
+vr.pausescreen.recenterDeviceKeyboard=Tekan N untuk Memusatkan Kembali Perangkat	#
+vr.warning.controllerRequired=Pengontrol permainan diperlukan	#
+vr.warning.controllerRecommended=Pengontrol permainan disarankan untuk VR	#
+vr.warning.controllerOrMouseRecommended=Pengontrol permainan atau mouse disarankan untuk VR	#
+vr.warning.exitGameWarning=Kamu ingin keluar dari Minecraft?	#
+vr.alignscreen.pressButtonX=Tekan tombol 'X' pada pengontrol untuk melanjutkan	#
+vr.alignscreen.pressButtonXOrMouse=Klik atau tekan salah satu tombol pada pengontrol untuk melanjutkan	#
+vr.alignscreen.pressButtonAOrSelectTrigger=Tekan tombol 'A' di pengontrol permainan, atau Pilih pemicu di pengontrol Windows Mixed Reality untuk melanjutkan	#
+vr.alignscreen.pressAnyButton=Sejajarkan kepalamu ke posisi netral dan tekan salah satu tombol	#
+vr.alignscreen.info=Pemberitahuan: Fitur ini masih terus disempurnakan. VR dapat menyebabkan ketidaknyamanan bagi beberapa orang. Jangan lupa untuk istirahat sesering yang dibutuhkan dan jangan lupa manfaatkan mode Ruang Tamu dengan mengetuk bidang sentuh agar dapat menggunakan tampilan yang kurang intens.	#
+vr.alignscreen.info_viewbutton=Pemberitahuan: Fitur ini masih terus disempurnakan. VR dapat menyebabkan ketidaknyamanan bagi beberapa orang. Jangan lupa untuk istirahat sesering yang dibutuhkan dan jangan lupa manfaatkan mode Ruang Tamu dengan menekan D-Pad agar dapat menggunakan tampilan yang kurang intens.	#
+
+accessibility.gamepad.button.systemLeft=tombol pilih	#
+accessibility.gamepad.button.systemRight=tombol mulai	#
+
+## Oculus Rift Installer
+ori.confirm.exit=Kamu yakin ingin keluar?	#
+ori.confirm.update=Perbarui Minecraft?	#
+ori.pending=Menunggu Windows Update selesai.	#
+ori.installing=Menginstal...	#
+ori.updating=Memperbarui...	#
+ori.launching=Meluncurkan!	#
+ori.check_for_update=Memeriksa pembaruan...	#
+ori.error.unavailable=Minecraft tidak tersedia. Pastikan kamu tersambung ke Internet dan telah masuk ke toko.	#
+ori.error.unknown=Terjadi kesalahan yang tidak diketahui. Coba lagi nanti.	#
+ori.error.not_supported=Minecraft tidak didukung di sistem ini.	#
+ori.error.launch_failure=Gagal meluncurkan Minecraft.	#
+ori.error.version=Versi Minecraft kamu sudah usang. Perbarui untuk bermain.	#
+ori.error.win10=Windows 10 versi 1607 atau yang lebih baru diperlukan.	#
+ori.error.install_error=Kami menemui kesalahan. Kode kesalahan: 0x	#
+ori.error.low_storage=Tidak dapat menginstal. Ruang penyimpanan yang tersedia tidak mencukupi.	#
+ori.error.no_internet=Tidak dapat tersambung. Periksa sambungan Internet kamu.	#
+ori.error.winUpdateDisabled=Windows Update harus diaktifkan.	#
+ori.confirm.controls.controller.confirm=Konfirmasi	#
+ori.confirm.controls.controller.cancel=Batal	#
+ori.confirm.controls.keyboard.confirm=Konfirmasi: [Enter]	#
+ori.confirm.controls.keyboard.cancel=Batal: [Esc]	#
+ori.exit.controls.controller=Keluar	#
+ori.exit.controls.keyboard=Keluar: [Enter]	#
+ori.cancelling=Membatalkan...	#
+

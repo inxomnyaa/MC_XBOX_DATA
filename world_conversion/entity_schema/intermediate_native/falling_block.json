@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Time",
+      "dest": "Time",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "custom_transformation": "FallingBlockDefinition",
+      "dest": "definitions"
+    }
+  ]
+}

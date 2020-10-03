@@ -1,0 +1,14 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Pos",
+      "dest": "Pos",
+      "src_members": [ "TAG_Double" ],
+      "dest_members": [ "realValue" ]
+    },
+    {
+      "custom_transformation": "FixMinecarrtPositionIntermediateToNative"
+    }     
+  ]
+}

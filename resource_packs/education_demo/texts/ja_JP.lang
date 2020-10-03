@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=ご利用ありがとうございます。これはデモレッスンですので、進行状況は保存されません。	#
+
+edu_demo.tip.1=熱帯雨林には、地球上の陸生動物の半数以上が生息しています。	#
+edu_demo.tip.2=世界の人口の25％以上が森林に依存して生計を立てています。	#
+edu_demo.tip.3=火を燃やし続けるには、燃料、酸素、熱源の3つが必要です	#
+edu_demo.tip.4=特に泥炭地や密林火災は、大量の炭素排出が放出されます。	#
+edu_demo.tip.5=コンピューターは学んで教わらなければなりません。まるで生徒のように！	#
+edu_demo.tip.6=AIは森林データの収集および分析に使用でき、手作業で木を数えるよりも高速です！	#
+
+menu.quit.edu=レッスンを終了	#
+menu.quit.edu.title=デモレッスンを終了	#
+
+start_screen.start_demo=レッスンを開始	#
+
+upsell.tab.1.title=学校向け Minecraft！	#
+upsell.tab.1.body=無料のレッスンおよびチュートリアル、評価ツール、教室でのマルチプレイヤー、安全なログイン、技術サポートを使用することによって、科目を横断して生徒を引き込みます。教育版 Minecraft: Education Edition の無料チュートリアルで今日から始めましょう！	#
+upsell.tab.1.button=さらに詳しく	#
+
+upsell.tab.2.title=Minecraftでコーディングを教えよう	#
+upsell.tab.2.body=Minecraftでは、没入感のある授業と50時間以上の無料カリキュラムを使用してコーディングを教えることができます。生徒はブロックベースのコーディングとJavaScriptを記述し、自分のコードがゲーム内で生き生きと動くのを確認できます！	#
+upsell.tab.2.button=コーディングの開始	#
+
+upsell.tab.3.title=圧倒的な無料レッスン	#
+upsell.tab.3.body=歴史、化学からコンピューターサイエンス、数学に至るまで、何百ものMinecraftの世界とレッスンを探索してください。	#
+upsell.tab.3.button=レッスンに通う	#
+
+upsell.tab.4.title=社会的感情的スキルを構築しましょう	#
+upsell.tab.4.body=生徒は、共感を通じて共同し、問題解決し、コミュニケーションすることを学びます。Minecraft: Education Edition は、教師があらゆるタイプの学習者を支援できるように、イマーシブ リーダーなどの機能を含んでいます。	#
+upsell.tab.4.button=さらに詳しく	#
+
+upsell.tab.5.title=コミュニティに参加	#
+upsell.tab.5.body=教師向けのトレーニングに参加して、ソーシャルメディアでつながりを作り、グローバルコミュニティに参加して他の教育者から学びましょう。115か国以上で、教育者がMinecraftクラスルームモードを使用しています。	#
+upsell.tab.5.button=つながる	#
+
+lesson.finished=終了	#
+
+lesson.end.dialog.title=レッスン完了!	#
+lesson.end.dialog.body.title=おめでとうございます	#
+lesson.end.dialog.body.wimages=修了証明書が授与されました。このレッスンの写真を確認して、コピーを保存してください。	#
+lesson.end.dialog.body.checkport=このレッスンの写真を確認して、コピーを保存してください。	#
+lesson.end.dialog.body.noimages=修了証明書が授与されました。	#
+lesson.end.dialog.button.morecoding=もっとコーディングする	#
+lesson.end.dialog.button.getcert=証明書の取得	#
+lesson.end.dialog.button.exit=レッスンを終了	#
+lesson.end.dialog.button.export=保存	#
+
+lesson.end.access.imagespreview=レッスンの写真 (%1/%2)	#
+lesson.end.access.export=レッスンの写真をエクスポート	#

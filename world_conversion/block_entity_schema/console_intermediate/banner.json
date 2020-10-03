@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Patterns",
+      "dest": "Patterns",
+      "custom_transformation": "ConsoleBannerPatternsToIntermediate"
+    },
+    {
+      "src": "Base",
+      "dest": "Base",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Type",
+      "dest": "Type",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

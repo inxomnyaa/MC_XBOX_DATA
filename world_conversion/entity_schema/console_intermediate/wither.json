@@ -1,0 +1,11 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Invul",
+      "dest": "Invul",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    }
+  ]
+}

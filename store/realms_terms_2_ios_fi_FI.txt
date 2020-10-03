@@ -1,0 +1,1 @@
+Maksu veloitetaan iTunes-tililtäsi oston vahvistuksen yhteydessä, ja tilaus uusiutuu automaattisesti, jos tilauksen automaattista uusimista ei kytketä pois käytöstä vähintään 24 tuntia ennen tilausjakson päättymistä. Veloitus tehdään tililtäsi 24 tunnin sisällä ennen tilausjakson päättymistä, ja tilaus jatkuu samassa muodossa.

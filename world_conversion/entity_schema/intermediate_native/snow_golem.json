@@ -1,0 +1,9 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "SnowGolemDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

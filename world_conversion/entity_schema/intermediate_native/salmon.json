@@ -1,0 +1,16 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "SalmonScale",
+      "dest": "SalmonScale",
+      "dest_members": "TAG_Int",
+      "src_members": "intValue",
+      "optional": true
+    },
+    {
+      "custom_transformation": "SalmonDefinitions",
+      "dest": "definitions"
+    }
+  ]
+}

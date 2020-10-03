@@ -1,0 +1,221 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Pos",
+      "dest": "Pos",
+      "src_members": [ "realValue" ],
+      "dest_members": [ "TAG_Float" ]
+    },
+    {
+      "custom_transformation": "ShiftPositionIntermediateToNative"
+    },
+    {
+      "src": "Velocity",
+      "dest": "Motion",
+      "src_members": [ "realValue" ],
+      "dest_members": [ "TAG_Float" ]
+    },
+    {
+      "src": "Rotation",
+      "dest": "Rotation",
+      "src_members": [ "realValue" ],
+      "dest_members": [ "TAG_Float" ]
+    },
+    {
+      "src": "FallDistance",
+      "dest": "FallDistance",
+      "src_members": "realValue",
+      "dest_members": "TAG_Float"
+    },
+    {
+      "src": "Fire",
+      "dest": "Fire",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "src": "Air",
+      "dest": "Air",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "src": "Dimension",
+      "dest": "DimensionId",
+      "custom_transformation": "IntermediateDimensionIDToNative"
+    },
+    {
+      "src": "Health",
+      "dest": "Health",
+      "src_members": "realValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "optional": true,
+      "src": "playerGameType",
+      "dest": "playerGameType",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "Score",
+      "dest": "Score",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "SelectedItemSlot",
+      "dest": "SelectedItemSlot",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnX",
+      "dest": "SpawnX",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnY",
+      "dest": "SpawnY",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnZ",
+      "dest": "SpawnZ",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnX",
+      "dest": "BedPositionX",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnY",
+      "dest": "BedPositionY",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "optional": true,
+      "src": "SpawnZ",
+      "dest": "BedPositionZ",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "Sleeping",
+      "dest": "Sleeping",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "SleepTimer",
+      "dest": "SleepTimer",
+      "src_members": "intValue",
+      "dest_members": "TAG_Short"
+    },
+    {
+      "optional": true,
+      "src": "SpawnForced",
+      "dest": "SpawnForced",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "OnGround",
+      "dest": "OnGround",
+      "src_members": "intValue",
+      "dest_members": "TAG_Byte"
+    },
+    {
+      "src": "XpP",
+      "dest": "PlayerLevelProgress",
+      "src_members": "realValue",
+      "dest_members": "TAG_Float"
+    },
+    {
+      "src": "XpLevel",
+      "dest": "PlayerLevel",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "RideID",
+      "dest": "RideID",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int64",
+      "optional": true
+    },
+    {
+      "src": "LeftShoulderRiderID",
+      "dest": "LeftShoulderRiderID",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int64",
+      "optional": true
+    },
+    {
+      "src": "RightShoulderRiderID",
+      "dest": "RightShoulderRiderID",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int64",
+      "optional": true
+    },
+    {
+      "src": "LinksTag",
+      "dest": "LinksTag",
+      "custom_transformation": "IntermediateEntityListToNative",
+      "optional": true
+    },
+    {
+      "custom_transformation": "IntermediateToNativePlayerInventory",
+      "src": "Inventory",
+      "dest": "Inventory"
+    },
+    {
+      "custom_transformation": "IntermediateInventoryToNative",
+      "src": "EnderItems",
+      "dest": "EnderChestInventory"
+    },
+    {
+      "optional": true,
+      "src": "ActiveEffects",
+      "dest": "ActiveEffects",
+      "custom_transformation": "IntermediatePotionEffectToNative"
+    },
+    {
+      "src": "Attributes",
+      "dest": "Attributes",
+      "custom_transformation": "IntermediateAttributeToNative"
+    },
+    {
+      "optional": true,
+      "src": "Abilities",
+      "dest": "abilities",
+      "custom_transformation": "IntermediatePlayerPrivilegesToNative"
+    },
+    {
+      "optional": true,
+      "src": "playerPermissionLevel",
+      "dest": "playerPermissionLevel",
+      "src_members": "intValue",
+      "dest_members": "TAG_Int"
+    },
+    {
+      "src": "IsGliding",
+      "dest": "IsGliding",
+      "src_members": "booleanValue",
+      "dest_members": "TAG_Byte",
+      "optional": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "custom_transformation": "JavaFallingBlockBlockIDToIntermediate",
+      "dest": "Block"
+    },
+    {
+      "src": "Time",
+      "dest": "Time",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "DropItem",
+      "dest": "DropItem",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue"
+    },
+    {
+      "src": "HurtEntities",
+      "dest": "HurtEntities",
+      "src_members": "TAG_Byte",
+      "dest_members": "booleanValue"
+    },
+    {
+      "src": "FallHurtMax",
+      "dest": "FallHurtMax",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "FallHurtAmount",
+      "dest": "FallHurtAmount",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "custom_transformation": "ConsoleIntermediateFallingBlockIDConversion",
+      "dest": "definitions"
+    }
+  ]
+}

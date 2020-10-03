@@ -1,0 +1,17 @@
+{
+  "piece_id": "49f93789-a512-4c47-95cb-0606cdc1c2be",
+  "piece_name": "steve_pants",
+  "piece_type": "persona_bottom",
+  "texture_sources": [
+    {
+      "texture": "steve_pants.png",
+      "tint_map": "steve_pants_tintmap.tga"
+    }
+  ],
+  "tint_base_color": {
+    "r_color": "#463aa5"
+  },
+  "tint_color": {
+    "r_color": "#463aa5"
+  }
+}

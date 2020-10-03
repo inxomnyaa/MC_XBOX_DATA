@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=感謝您玩遊戲！此為示範課程，因此您的進度將不會儲存。	#
+
+edu_demo.tip.1=雨林是我們星球上超過半數物種居住的地方。	#
+edu_demo.tip.2=全世界有超過 25% 的人口都仰賴雨林為生。	#
+edu_demo.tip.3=火焰需要三個要素：燃料、氧氣和熱源。	#
+edu_demo.tip.4=火焰，尤其是在泥炭地和茂密的森林中，會釋放出大量的碳。	#
+edu_demo.tip.5=電腦必須透過學習才能運作，與學生一樣！	#
+edu_demo.tip.6=我們會使用人工智慧來收集和分析森林資料，這比用手數樹的速度還要快！	#
+
+menu.quit.edu=結束課程	#
+menu.quit.edu.title=退出示範課程	#
+
+start_screen.start_demo=開始課程	#
+
+upsell.tab.1.title=學校專用 Minecraft！	#
+upsell.tab.1.body=利用免費的課程與教學、評量工具、課堂多人遊戲、安全的登入方式及技術支援，引導學生學習多種不同的科目。現在就開始免費試用《Minecraft: Education Edition》！	#
+upsell.tab.1.button=瞭解更多	#
+
+upsell.tab.2.title=利用 Minecraft 教授編碼	#
+upsell.tab.2.body=利用 Minecraft 生動的課程與超過 50 小時的免費課表，教導學生學習編碼。學生可以撰寫方塊式的程式碼和 JavaScript，然後在遊戲中查看他們的編碼實際運作狀況！	#
+upsell.tab.2.button=開始編碼	#
+
+upsell.tab.3.title=龐大的免費課程	#
+upsell.tab.3.body=探索數以百計的 Minecraft 世界和課程，從歷史、化學、電腦科學到數學等都有。參考利用這些課程，開始製作您自己的課程！	#
+upsell.tab.3.button=前往「課程」	#
+
+upsell.tab.4.title=提昇社會情緒能力	#
+upsell.tab.4.body=學生要學習如何彼此合作、解決問題，並以同理心與彼此溝通。《Minecraft: Education Edition》包含「沈浸式閱讀程式」等功能，可協助教師教導各種類型的學生。	#
+upsell.tab.4.button=瞭解更多	#
+
+upsell.tab.5.title=加入社群	#
+upsell.tab.5.body=參加教師培訓、利用社交媒體溝通互動，並加入我們的全球社群以向其他教育者學習。超過 115 個國家/地區的教育者都在課堂中使用 Minecraft，您也可以！	#
+upsell.tab.5.button=連接互動	#
+
+lesson.finished=我已經完成了	#
+
+lesson.end.dialog.title=課程完成！	#
+lesson.end.dialog.body.title=恭喜	#
+lesson.end.dialog.body.wimages=您已獲得完成證書。請查看此課程的照片並儲存副本。	#
+lesson.end.dialog.body.checkport=請查看此課程的照片並儲存副本。	#
+lesson.end.dialog.body.noimages=您已獲得完成證書。	#
+lesson.end.dialog.button.morecoding=更多編碼	#
+lesson.end.dialog.button.getcert=獲得證書	#
+lesson.end.dialog.button.exit=結束課程	#
+lesson.end.dialog.button.export=儲存	#
+
+lesson.end.access.imagespreview=課程照片 %1 (共 %2 張)	#
+lesson.end.access.export=匯出課程照片	#

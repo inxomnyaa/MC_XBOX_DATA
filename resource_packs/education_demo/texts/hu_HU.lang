@@ -1,0 +1,48 @@
+﻿deathScreen.quit.secondaryClient.confirmLeaveWarning=Köszönjük, hogy játszol! Ez egy bemutató lecke, ezért az állást nem mentjük.	#
+
+edu_demo.tip.1=A bolygó szárazföldi állatfajainak több mint fele az esőerdőkben honos.	#
+edu_demo.tip.2=Az emberiség több mint egynegyedének megélhetése függ az erdőktől.	#
+edu_demo.tip.3=Ahhoz, hogy a tűz ne aludjon ki, három dologra van szükség: tüzelőanyagra, oxigénre és hőforrásra.	#
+edu_demo.tip.4=A tüzek, különösen a tőzeges területeken és a sűrű erdőkben, hatalmas mennyiségű széndioxidot szabadítanak fel.	#
+edu_demo.tip.5=A számítógépeket is meg kell tanítani tanulni – akárcsak a diákokat!	#
+edu_demo.tip.6=Az erdők adatainak gyűjtését és elemzését mesterséges intelligencia végzi, ami sokkal gyorsabb, mintha kézzel kellene megszámlálni a fákat!	#
+
+menu.quit.edu=KILÉPÉS A LECKÉBŐL	#
+menu.quit.edu.title=Bemutató lecke bezárása	#
+
+start_screen.start_demo=Lecke indítása	#
+
+upsell.tab.1.title=Minecraft az iskolák részére!	#
+upsell.tab.1.body=Vond be a diákokat minden tantárgyban ingyenes leckékkel és bemutatókkal, értékelési eszközökkel, osztálytermi többjátékos játékokkal, biztonságos bejelentkezéssel és technikai támogatással. Kezdd meg a Minecraft: Education Edition próbaverziójának használatát már ma!	#
+upsell.tab.1.button=További részletek	#
+
+upsell.tab.2.title=Programozásoktatás a Minecrafttal	#
+upsell.tab.2.body=A Minecraft segítségével megtaníthatod a diákokat programozni lebilincselő leckékkel és több mint 50 órányi ingyenes tananyaggal. A diákok blokkalapú programokat és JavaScript kódokat írhatnak, és a játékban meg is tekinthetik, hogy működik a program!	#
+upsell.tab.2.button=A programozás alapjai	#
+
+upsell.tab.3.title=Rengeteg ingyenes lecke	#
+upsell.tab.3.body=Ismerd meg Minecraft-világok és leckék százait, a történelemtől és a kémiától a számítástechnikáig és a matematikáig. Használd ezeket a leckéket kiindulópontként, vagy hozz létre saját leckéket!	#
+upsell.tab.3.button=Ugrás a leckékre	#
+
+upsell.tab.4.title=A szociális-érzelmi készségek fejlesztése	#
+upsell.tab.4.body=A diákok elsajátítják az együttműködés, a problémamegoldás és az empatikus kommunikáció alapjait. A Minecraft: Education Edition olyan funkciókat tartalmaz, mint a Modern olvasó, amelyek segítségével a tanár bármilyen típusú tanulót megszólíthat.	#
+upsell.tab.4.button=További részletek	#
+
+upsell.tab.5.title=Csatlakozz a közösséghez	#
+upsell.tab.5.body=Tanárképzéseken vehetsz részt, közösségi oldalakon tarthatod a kapcsolatot, és globális közösségünkhöz csatlakozva más tanároktól tanulhatsz. Több mint 115 ország tanárai használják a Minecraftot az óráikon – és te lehetsz a következő!	#
+upsell.tab.5.button=Kapcsolódás	#
+
+lesson.finished=BEFEJEZTEM	#
+
+lesson.end.dialog.title=Lecke teljesítve!	#
+lesson.end.dialog.body.title=GRATULÁLUNK	#
+lesson.end.dialog.body.wimages=Oklevelet kaptál a sikeres teljesítésről. Nézd meg a lecke során készült képeket és ments el belőlük saját példányt.	#
+lesson.end.dialog.body.checkport=Nézd meg a lecke során készült képeket és ments el belőlük saját példányt.	#
+lesson.end.dialog.body.noimages=Oklevelet kaptál a sikeres teljesítésről.	#
+lesson.end.dialog.button.morecoding=További programozási ismeretek	#
+lesson.end.dialog.button.getcert=Oklevél átvétele	#
+lesson.end.dialog.button.exit=Kilépés a leckéből	#
+lesson.end.dialog.button.export=Mentés	#
+
+lesson.end.access.imagespreview=%1/%2 lecke során készült fotó	#
+lesson.end.access.export=Lecke során készült fotók exportálása	#

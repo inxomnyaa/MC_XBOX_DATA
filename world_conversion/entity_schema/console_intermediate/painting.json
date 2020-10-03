@@ -1,0 +1,49 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "TileX",
+      "dest": "TileX",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileY",
+      "dest": "TileY",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "TileZ",
+      "dest": "TileZ",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue"
+    },
+    {
+      "src": "Dir",
+      "dest": "Facing",
+      "custom_transformation": "DirConsoleHangingEntityDirectionToIntermediate",
+      "optional": true
+    },
+    {
+      "src": "Direction",
+      "dest": "Direction",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Facing",
+      "dest": "Facing",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Motive",
+      "dest": "Motive",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "optional": true,
+      "dest": "Damage",
+      "item_transformation": "ConsoleBucketIDToIntermedate"
+    }
+  ]
+}

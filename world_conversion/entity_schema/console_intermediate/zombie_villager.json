@@ -1,0 +1,45 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "IsBaby",
+      "dest": "IsBaby",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "CanBreakDoors",
+      "dest": "CanBreakDoors",
+      "src_members": "TAG_Byte",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "ConversionTime",
+      "dest": "ConversionTime",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "SkinId",
+      "dest": "SkinId",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Biome",
+      "dest": "BiomeId",
+      "src_members": "TAG_Int",
+      "dest_members": "intValue",
+      "optional": true
+    },
+    {
+      "src": "Profession",
+      "dest": "Profession",
+      "custom_transformation": "JavaProfessionToIntermediate"
+    }
+  ]
+}

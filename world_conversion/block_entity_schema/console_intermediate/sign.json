@@ -1,0 +1,33 @@
+{
+  "version": "0",
+  "schemaArray": [
+    {
+      "src": "Text1",
+      "dest": "Text1",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "Text2",
+      "dest": "Text2",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "Text3",
+      "dest": "Text3",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    },
+    {
+      "src": "Text4",
+      "dest": "Text4",
+      "src_members": "TAG_String",
+      "dest_members": "stringValue",
+      "optional": true
+    }
+  ]
+}

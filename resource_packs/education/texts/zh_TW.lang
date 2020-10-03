@@ -1,0 +1,334 @@
+﻿commands.codebuilder.description=設定玩家的程式碼生成器狀態。	#
+commands.codebuilder.invalidurl=網址無效或指向不支援的網站。	#
+commands.takepicture.description=拍下玩家或玩家視角的照片。	#
+commands.takepicture.cameranotfound=尋找攝影機失敗。	#
+commands.takepicture.cameranotspawned=增生攝影機失敗。	#
+
+library.connection.failed.body=我們無法連接至 [資料庫]。如果您的電腦離線或禁止存取 [資料庫] 目錄，則可能會發生這種情況。	#
+library.connection.failed.help=取得說明	#
+library.connection.noWorldFound.title=找不到世界	#
+library.connection.noWorldFound.body=看起來這個類別沒有世界。	#
+library.findMoreWorlds=尋找更多世界	#
+library.leaveFeedback=離開反饋	#
+library.title=資料庫	#
+library.searchResults=結果：「%1」	#
+library.item.createdBy=作者：%s	#
+library.item.age=年齡：%1	#
+
+## Example for how the duration section will be used:
+## Duration: 10 Minutes (this is a combination of library.item.duration, library.item.duration.multipleMinutes, and the number 10)
+## Duration: 1 Hour (this is a combination of library.item.duration, library.item.duration.hour, and the number 1)
+library.item.duration=時間長度：%1	#
+library.item.duration.minute=%1 分鐘	#
+library.item.duration.multipleMinutes=%1 分鐘	#
+library.item.duration.hour=%1 小時	#
+library.item.duration.multipleHours=%1 小時	#
+
+library.item.difficulty=難易度：%1	#
+library.item.difficulty.beginner=初級	#
+library.item.difficulty.intermediate=中級	#
+library.item.difficulty.advanced=高級	#
+
+library.item.tags=標籤：	#
+library.item.tagsAll=所有標籤：	#
+library.item.tagsAll.tts=顯示更多標籤	#
+library.item.button.create=建立世界	#
+library.item.button.share=分享連結	#
+library.item.button.plan=課程計畫	#
+library.item.button.resources=資源	#
+library.item.progress.body=準備匯入新的世界。此操作可能需要幾分鐘的時間。	#
+library.item.description=說明	#
+library.item.overview=概觀	#
+library.item.expandable.readLess=閱讀較少	#
+library.item.expandable.readMore=閱讀更多	#
+
+library.item.section.languages=支援的語言	#
+library.item.section.languages.tip=如果此課程沒有提供您使用的語言版本，您可以使用沈浸式閱讀程式翻譯遊戲內的文字，包括書本、牌子、板子和 NPC 對話。	#
+library.item.section.questions=基本問題	#
+library.item.section.generic_objectives=目標	#
+library.item.section.objectives=學習目標	#
+library.item.section.prep=教師準備和備註	#
+library.item.section.activities=學生活動	#
+library.item.section.assessment=評量	#
+library.item.section.extensions=擴充功能	#
+
+library.category.label.biomes=生態域和世界	#
+library.category.title.biomes=生態域和世界	#
+library.category.description.biomes=使用此世界和生態域系列，協助您開始在《Minecraft: Education Edition》中建立課程。	#
+
+library.category.label.biomes.biome=生態域	#
+library.category.title.biomes.biome=生態域	#
+library.category.description.biomes.biome=在 Minecraft 中，生態域是有獨特地理特色、植物和動物的不同區域。	#
+
+library.category.label.biomes.featured=精選世界	#
+library.category.title.biomes.featured=精選世界	#
+
+library.category.label.buildChallenges=每月建造挑戰	#
+library.category.title.buildChallenges=每月建造挑戰	#
+library.category.description.buildChallenges=利用專為課堂設計、簡單容易執行的活動，吸引學生參與活動並訓練學習 21 世紀技巧。	#
+
+library.category.label.howToPlay=遊戲說明	#
+library.category.description.howToPlay=這些世界和活動為入門體驗而建立，以供學習如何在課堂中使用《Minecraft: Education Edition》。	#
+
+library.category.label.howToPlay.startHere=由此開始	#
+library.category.title.howToPlay.startHere=由此開始	#
+library.category.description.howToPlay.startHere=這些教學世界每個都是為了協助您學習不同技巧而設計，協助您在課堂中使用《Minecraft: Education Edition》。	#
+
+library.category.label.howToPlay.additional=其他教學	#
+library.category.title.howToPlay.additional=其他教學	#
+
+library.category.label.SEL=社交情感	#
+library.category.title.SEL=社交情感	#
+library.category.description.SEL=這些世界和活動支援社交和情感學習。概念包括情感幸福感、同理心和做出負責任的決定。	#
+
+library.category.label.digitalCitizen=數位公民	#
+library.category.title.digitalCitizen=數位公民	#
+library.category.description.digitalCitizen=這些世界和活動著重於數位公民，在學生認識媒體素養、隱私和參與線上社群時提供支援。	#
+
+library.category.label.lessons=課程	#
+library.category.title.lessons=課程	#
+
+library.category.label.lessons.genericAdditional=其他課程	#
+library.category.title.lessons.genericAdditional=其他課程	#
+
+library.category.label.languageArts=語言藝術	#
+library.category.title.languageArts=語言藝術	#
+
+library.category.label.languageArts.litStudies=文學研究	#
+library.category.title.languageArts.litStudies=文學研究	#
+
+library.category.label.languageArts.litStudies.treasureIsland=金銀島	#
+library.category.title.languageArts.litStudies.treasureIsland=金銀島	#
+library.category.description.languageArts.litStudies.treasureIsland=此系列課程的設計，是為了協助透過 Robert Louis Stevenson 所著《金銀島》的研究，教授英語文學的概念。	#
+
+library.category.label.languageArts.litStudies.kensukesKingdom=島王	#
+library.category.title.languageArts.litStudies.kensukesKingdom=島王	#
+library.category.description.languageArts.litStudies.kensukesKingdom=此系列課程的設計，是為了協助透過 Michael Morpurgo 所著《島王》的研究，教授英語文學的概念。	#
+
+library.category.label.languageArts.litStudies.swissFamily=海角一樂園	#
+library.category.title.languageArts.litStudies.swissFamily=海角一樂園	#
+library.category.description.languageArts.litStudies.swissFamily=此系列課程的設計，是為了協助透過《魯濱遜漂流記》和《海角一樂園》的研究，教授英語文學的概念。	#
+
+library.category.label.science=科學	#
+library.category.title.science=科學	#
+
+library.category.label.science.chemistry=化學	#
+library.category.title.science.chemistry=化學	#
+
+library.category.label.science.biology=生物學	#
+library.category.title.science.biology=生物學	#
+
+library.category.label.science.rangers=WE ARE THE RANGERS	#
+library.category.title.science.rangers=We are the Rangers	#
+library.category.description.science.rangers=這五個課程和獨特的 Minecraft 世界包含不同學科領域及年齡層。透過提供的課程設計，學生可以認識非洲平原、探索商港、犀牛孤兒及保護員工作站，並在課程中學習如何解決問題及訓練技巧。	#
+
+library.category.label.science.extinction=滅絕生物多樣性危機	#
+library.category.title.science.extinction=滅絕生物多樣性危機	#
+library.category.description.science.extinction=我們與世界自然基金會合作，製作出此內容套件，套件中包含逼真的 Minecraft 世界以及標準課程。探索這些資源，親自學習生態系統、保育和生物多樣性。	#
+
+library.category.label.history=歷史與文化	#
+library.category.title.history=歷史與文化	#
+
+library.category.label.history.oregonTrail=俄勒岡之旅	#
+library.category.title.history.oregonTrail=俄勒岡之旅	#
+library.category.description.history.oregonTrail=《Minecraft: Education Edition》與 Houghton Mifflin Harcourt 合作，隆重為您推出「俄勒岡之旅」。在您的課表中加入運用這些「俄勒岡之旅」的學習活動並展開精彩的冒險旅程，沿著俄勒岡步道穿越北美洲崎嶇的地形。	#
+
+library.category.label.computerScience=電腦科學	#
+library.category.title.computerScience=電腦科學	#
+
+library.category.label.computerScience.hourOfCode=一小時程式設計	#
+library.category.title.computerScience.hourOfCode=一小時程式設計	#
+library.category.description.computerScience.hourOfCode=此課程是一小時的電腦科學課程，課程中揭開人工智慧的神秘面紗、說明 Minecraft 中的程式編碼，並更進一步擴大電腦科學領域的參與。	#
+
+library.category.label.computerScience.STEM=STEM	#
+library.category.title.computerScience.STEM=STEM	#
+library.category.description.computerScience.STEM=使用數學、科學和工程相關符合標準的課程和世界，在整個學習過程中加融入電腦科學。	#
+
+library.category.label.computerScience.agency=機構	#
+library.category.title.computerScience.agency=機構	#
+library.category.description.computerScience.agency=利用這些根據 CSTA 標準設計的電腦科學課程，建造您自己的城市。學習基本的 CS 概念，包括迴圈、算法、條件式、除錯、疊代法及更多。	#
+
+library.category.label.computerScience.codingWithMinecraft=利用 Minecraft 進行編碼	#
+library.category.title.computerScience.codingWithMinecraft=利用 Minecraft 進行編碼	#
+library.category.description.computerScience.codingWithMinecraft=利用這些根據 CSTA 標準設計的電腦科學課程，學習條件式、函數、座標、人工智慧及更多。	#
+
+library.category.label.computerScience.codingFun1=編碼基礎知識：1	#
+library.category.title.computerScience.codingFun1=編碼基礎知識：1	#
+library.category.description.computerScience.codingFun1=了解不同的動物、牠們面臨的挑戰，以及利用程式碼幫助牠們的方法！使用演算法、序列和迴圈來解決有趣的編碼難題。	#
+
+library.category.label.computerScience.codingFun2=編碼基礎知識：2	#
+library.category.title.computerScience.codingFun2=編碼基礎知識：2	#
+library.category.description.computerScience.codingFun2=參觀月球、水星、金星、火星、木星和海王星！了解如何為程式碼除錯並使用條件、運算子和迴圈，同時幫助 Agent 收集整個太陽系中的材料。	#
+
+library.category.label.computerScience.codingFun3=編碼基礎知識：3	#
+library.category.title.computerScience.codingFun3=編碼基礎知識：3	#
+
+library.category.label.computerScience.blockBased=區塊式編碼	#
+library.category.title.computerScience.blockBased=區塊式編碼	#
+
+library.category.label.computerScience.python=PYTHON	#
+library.category.title.computerScience.python=Python	#
+
+library.category.label.computerScience.python101=PYTHON 101	#
+library.category.title.computerScience.python101=Python 101	#
+library.category.description.computerScience.python101=開始在 Minecraft 中編寫 Python 程式碼！學習 Python 的基礎知識，包括語法、資料類型、變數、條件、「for」迴圈、條件迴圈、清單和函數。	#
+
+library.category.label.computerScience.codingTutorials=編碼教學課程	#
+library.category.title.computerScience.codingTutorials=編碼教學課程	#
+library.category.description.computerScience.codingTutorials=如果你想了解特定的編碼概念，這裡就是最棒的啟蒙之地！了解如何使用迴圈、序列、條件、變數和函數。在這些課程中，你可以選擇使用 Blocks、Python 或 JavaScript 進行編碼。	#
+
+library.category.label.computerScience.featuredLessons=特色課程	#
+library.category.title.computerScience.featuredLessons=特色課程	#
+library.category.description.computerScience.featuredLessons=以下是我們最喜愛的編碼課程！	#
+
+library.category.label.math=數學	#
+library.category.title.math=數學	#
+
+library.category.label.math.fractions=分數	#
+library.category.title.math.fractions=分數	#
+library.category.description.math.fractions=試試這些可協助您向學生教授分數的課程資源。	#
+
+library.category.label.art=美術和設計	#
+library.category.title.art=美術和設計	#
+
+library.category.label.commonCore=共同核心課程，%1 級	#
+library.category.title.commonCore=共同核心課程，%1 級	#
+library.category.description.commonCoreMath=這些有趣的活動，是為了協助數學的教學而建立，並符合每一個共同核心數學課程的標準。	#
+
+signin.acceptTerms=接受條款	#
+signin.leftPanel.header=玩《MINECRAFT: EDUCATION EDITION》	#
+signin.leftPanel.body=使用您的學校帳戶登入，即可存取完整版本的《Minecraft: Education Edition》。	#
+signin.rightPanel.header=試用示範課程	#
+signin.rightPanel.body=利用此所有使用者皆可使用的示範課程，在《Minecraft: Education Edition》中探索程式編碼。	#
+
+structure_block.export.default_name=我的結構方塊	#
+
+joincode.invalid.title=加入代碼不正確 	#
+joincode.invalid.body=您輸入了 %1 次不正確的加入代碼。請向主持人確認您的代碼是否正確，或嘗試以 IP 位址加入。 	#
+joincode.invalid.button.tryagain=再試一次	#
+joincode.invalid.button.enterip=輸入 IP 位址	#
+
+joincode.invalid.abuse.body=您輸入了 %1 次不正確的加入代碼。請嘗試改用 IP 位址加入世界	#
+
+## TAG LOCALIZATION SECTION ##
+tag.ages_0_3=0-3 歲	#	#
+tag.ages_4_5=4-5 歲	#	#
+tag.ages_6_8=6-8 歲	#	#
+tag.ages_9_12=9-12 歲	#	#
+tag.ages_13_16=13-16 歲	#	#
+tag.ages_16_18=16-18 歲	#	#
+tag.ages_18_plus=18 歲以上	#	#
+tag.addition=其他	#	#
+tag.advanced=高級	#	#
+tag.adventure=冒險	#	#
+tag.all_ages=全年齡	#	#
+tag.animals=動物	#	#
+tag.aquatic=水生	#	#
+tag.architecture=建築	#	#
+tag.art_and_design=美術和設計	#	#
+tag.beginner=初級	#	#
+tag.biodiversity=生物多樣性	#	#
+tag.biology=生物學	#	#
+tag.biome=生態域	#	#
+tag.biomes_and_worlds=生態域和世界	#	#
+tag.bridges=橋樑	#referring to the structure	#
+tag.build_challenge=建造挑戰	#	#
+tag.character=角色	#	#
+tag.chemistry=化學	#	#
+tag.citizenship=公民	#	#
+tag.city=城市	#	#
+tag.climate=氣候	#	#
+tag.code_to_learn_stem=STEM	#abbreviation for Science Technology Engineering and Math	#
+tag.coding_course_1=機構	#Leave this in English ... this is a pun based on the name "Agent" for our coding robot	#
+tag.coding_course_2=利用 Minecraft 進行編碼	#	#
+tag.coding_in_minecraft=在 Minecraft 中進行編碼	#	#
+tag.collaboration=協作	#	#
+tag.color=顏色	#	#
+tag.common_core_math_grade_3=一般核心數學 3 年級	#	#
+tag.common_core_math_grade_4=一般核心數學 4 年級	#	#
+tag.common_core_math_grade_5=一般核心數學 5 年級	#	#
+tag.communication=溝通	#	#
+tag.computer_science=電腦科學	#	#
+tag.computing_in_minecraft=在 Minecraft 中計算	#	#
+tag.creative=創造	#	#
+tag.creative_writing=創意編寫	#	#
+tag.creativity=創造力	#	#
+tag.critical_thinking=批判性思維	#	#
+tag.division=科目	#	#
+tag.earth_day=地球日	#	#
+tag.ecology=生態學	#	#
+tag.economy=經濟	#	#
+tag.energy=能源	#	#
+tag.environment=環境	#	#
+tag.featured=精選	#	#
+tag.fractions=分數	#	#
+tag.game_design=遊戲設計	#	#
+tag.geography=地理	#	#
+tag.geology=地質學	#	#
+tag.history_and_culture=歷史與文化	#	#
+tag.hour_of_code=一小時程式設計	#	#
+tag.how_to_play=遊戲說明	#	#
+tag.intermediate=中級	#	#
+tag.kensukes_kingdom=健介的王國	#	#
+tag.language_arts=語言藝術	#	#
+tag.leadership=領導力	#	#
+tag.lesson=課程	#	#
+tag.literature=文學	#	#
+tag.math=數學	#	#
+tag.multiplayer=多人遊戲	#	#
+tag.multiplication=乘法	#	#
+tag.museum=博物館	#	#
+tag.music=音樂	#	#
+tag.mythology=神話	#	#
+tag.ocean=海洋	#	#
+tag.oregon_trail=奧勒岡之旅	#	#
+tag.pattern=模式	#	#
+tag.personal_narrative=個人敘事	#	#
+tag.physics=物理	#	#
+tag.pixel_art=像素藝術	#	#
+tag.pop_culture=流行文化	#	#
+tag.probability=機率	#	#
+tag.project_based_learning=專案式學習	#	#
+tag.robinson_crusoe=魯濱遜漂流記	#	#
+tag.science=科學	#	#
+tag.seasonal=季節性	#	#
+tag.single_player=單人遊戲	#	#
+tag.social_emotional_learning=社交情感學習	#	#
+tag.special_education=特殊教育	#	#
+tag.spelling=拼字	#	#
+tag.story=故事	#	#
+tag.subtraction=減法	#	#
+tag.survival=生存	#	#
+tag.swiss_family_robinson=海角一樂園	#	#
+tag.technology=科技	#	#
+tag.treasure_island=金銀島	#	#
+tag.tutorial=教學課程	#	#
+tag.we_are_the_rangers=我們是遊騎兵	#	#
+tag.world_languages=世界語言	#	#
+tag.wwf=世界自然基金會	#	#
+####### ----- new entries below this line ---- ######
+tag.digital_citizenship=數位公民	#see for example: https://www.iste.org/learn/digital-citizenship	#
+tag.python=Python	#coding language	#
+tag.javascript=JavaScript	#coding language	#
+tag.blocks=方塊	#	#
+tag.makecode=製作代碼	#This is the name of the coding IDE available at https://minecraft.makecode.com/	#
+tag.azure_notebooks=Azure Notebooks	#See for example: https://notebooks.azure.com/	#
+tag.loops=迴圈	#coding concept in which a block of code is repeated a designated number of times	#
+tag.conditionals=條件	#coding concept of an 'if' or 'if/then' expression	#
+tag.variables=變數	#coding concept of using a name to hold one or more values (e.g. the results of a calculation or query)	#
+tag.functions=功能	#coding concept referring to self-contained modules of code that accomplish a certain task	#
+tag.operators=營運商	#coding concepts like AND and OR and > which behave like functions	#
+tag.problem_solving=解決問題	#	#
+tag.artificial_intelligence=人工智慧	#	#
+tag.coding=編碼	#the process of creating and maintaining code for computer programs	#
+tag.coding_fundamentals_1=編碼基礎知識 1	#	#
+tag.coding_fundamentals_2=編碼基礎知識 2	#	#
+tag.coding_fundamentals_3=編碼基礎知識 3	#	#
+tag.coding_tutorials=編碼教學課程	#	#
+tag.python101=Python 101	#Python coding language	#
+tag.bees=蜜蜂	#	#
+tag.space=太空	# refers to outer space	#
+tag.esports=電競	#	#
+tag.toybox=玩具箱	#	#
+tag.featured_coding=精選編碼	#	#
+## END TAG LOCALIZATION SECTION ##
